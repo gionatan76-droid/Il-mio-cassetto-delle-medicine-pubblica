@@ -1,0 +1,240 @@
+[
+    {
+        "aic": "025915012",
+        "nome": "SKINOREN",
+        "descrizione": "20% CREMA- TUBO 30 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Crema"
+    },
+    {
+        "aic": "045493018",
+        "nome": "SKILARENCE",
+        "descrizione": "30 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 42 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493020",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 40 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493032",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 70 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493044",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 90 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493057",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 100 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493069",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 120 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493071",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 180 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493083",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 200 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493095",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 240 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493107",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 360 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493119",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 400 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493121",
+        "nome": "SKILARENCE",
+        "descrizione": "120 MG - COMPRESSA GASTRORESISTENTE - USO ORALE - BLISTER (PVC/PVDC-ALU) - 300 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493133",
+        "nome": "SKILARENCE",
+        "descrizione": "30 MG - COMPRESSA GASTRO-RESISTENTE - USO ORALE - BLISTER (PVC/PVDC/ALU) - 70 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "045493145",
+        "nome": "SKILARENCE",
+        "descrizione": "30 MG - COMPRESSA GASTRO-RESISTENTE - USO ORALE - BLISTER (PVC/PVDC/ALU) - 210 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "047821018",
+        "nome": "SKYRIZI",
+        "descrizione": "75 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,83 ML  (75 MG/ 0,83 ML) - 2 SIRINGHE PRERIEMPITE + 2 TAMPONCINI IMBEVUTI DI ALCOOL",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047821020",
+        "nome": "SKYRIZI",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) 1 ML (150 MG/ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047821032",
+        "nome": "SKYRIZI",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 1 ML (150 MG/ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047821044",
+        "nome": "SKYRIZI",
+        "descrizione": "600 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 mL (60 mg / mL)  - 1 flaconcino",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "047821057",
+        "nome": "SKYRIZI",
+        "descrizione": "360 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (resina olefinica ciclica) 2.4 mL (150 mg / mL) - 1 cartuccia + 1 iniettore on-body",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile in cartuccia"
+    },
+    {
+        "aic": "047821069",
+        "nome": "SKYRIZI",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (90 mg/mL) - 4 siringhe preriempite",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "047821071",
+        "nome": "SKYRIZI",
+        "descrizione": "180 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (resina olefinica ciclica) 1,2 ml (150 mg/ml) - 1 cartuccia + 1 iniettore on-body",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile in cartuccia"
+    },
+    {
+        "aic": "047821083",
+        "nome": "SKYRIZI",
+        "descrizione": "180 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1,2 mL (150 mg/mL) - 1 siringa preriempita",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "047821095",
+        "nome": "SKYRIZI",
+        "descrizione": "180 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1,2 mL (150 mg/mL) - 2 siringhe preriempite",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "049880014",
+        "nome": "SKYTROFA",
+        "descrizione": "3 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 3 mg, solvente: 0,279 mL, (11 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880026",
+        "nome": "SKYTROFA",
+        "descrizione": "3,6 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 3,6 mg, solvente: 0,329 mL, (11 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880038",
+        "nome": "SKYTROFA",
+        "descrizione": "4,3 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 4,3 mg, solvente: 0,388 mL, (11 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880040",
+        "nome": "SKYTROFA",
+        "descrizione": "5,2 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 5,2 mg, solvente: 0,464 mL, (11 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880053",
+        "nome": "SKYTROFA",
+        "descrizione": "6,3 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 6,3 mg, solvente: 0,285 mL, (22 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880065",
+        "nome": "SKYTROFA",
+        "descrizione": "7,6 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 7,6 mg, solvente: 0,338 mL, (22 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880077",
+        "nome": "SKYTROFA",
+        "descrizione": "9,1 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 9,1 mg, solvente: 0,400 mL, (22 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880089",
+        "nome": "SKYTROFA",
+        "descrizione": "11 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 11 mg, solvente: 0,479 mL, (22 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "049880091",
+        "nome": "SKYTROFA",
+        "descrizione": "13,3 mg - Polvere e solvente per soluzione iniettabile - Uso sottocutaneo - Cartuccia a doppia camera (vetro) - Polvere: 13,3 mg, solvente: 0,574 mL, (22 mg / mL) - 4 cartucce + 6 aghi",
+        "produttore": "ASCENDIS PHARMA ENDOCRINOLOGY DIVISION A/S",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "050973015",
+        "nome": "SKYCLARYS",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - Flacone (HDPE) - 90 capsule",
+        "produttore": "BIOGEN NETHERLANDS BV",
+        "forma": "Capsula rigida"
+    }
+]

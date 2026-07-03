@@ -1,0 +1,520 @@
+[
+    {
+        "aic": "021122066",
+        "nome": "ULTRAPROCT",
+        "descrizione": "SUPPOSTE-12 SUPPOSTE",
+        "produttore": "KARO HEALTHCARE AB",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "021122080",
+        "nome": "ULTRAPROCT",
+        "descrizione": "UNGUENTO RETTALE - TUBO DA 30 G + 1 CANNULA",
+        "produttore": "KARO HEALTHCARE AB",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026965018",
+        "nome": "ULTRAVIST",
+        "descrizione": "240 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 50 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965044",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 50 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965057",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 75 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965069",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 100 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965083",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 50 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965095",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 100 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965107",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE - 1 FLACONE 200 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965121",
+        "nome": "ULTRAVIST",
+        "descrizione": "150 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 200 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965133",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 200 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965145",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 500 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965160",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 500 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965184",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 20 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026965196",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 75 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965208",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 100 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965210",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 125 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965222",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 150 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965234",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 75 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965246",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 100 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965259",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 125 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "026965261",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 150 ML",
+        "produttore": "BAYER AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "033003017",
+        "nome": "ULTIVA",
+        "descrizione": "5 flaconcini da 1 mg",
+        "produttore": "ASPEN PHARMA TRADING LIMITED",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "033003029",
+        "nome": "ULTIVA",
+        "descrizione": "5 flaconcini da 2 mg",
+        "produttore": "ASPEN PHARMA TRADING LIMITED",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "033003031",
+        "nome": "ULTIVA",
+        "descrizione": "5 flaconcini da 5 mg",
+        "produttore": "ASPEN PHARMA TRADING LIMITED",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "037030018",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 1,90 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030020",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 1,90 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030032",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 3,81 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030044",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 3,81 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030057",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 5,71 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030069",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 5,71 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030071",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 7,62 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030083",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 7,62 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030095",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 9,53 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030107",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 9,53 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030119",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 11,43 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030121",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 11,43 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030133",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 15,24 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030145",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 15,24 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030158",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 19,05 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030160",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 19,05 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030172",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 22,86 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030184",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 22,86 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030196",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 26,67 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030208",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 26,67 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030210",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 30,48 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030222",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 30,48 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030234",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10  GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 38,10 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 5 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037030246",
+        "nome": "ULTRATECHNEKOW",
+        "descrizione": "1,90 - 38,10 GBQ GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 38,10 GBQ CON 14 FLACONCINI IN VETRO PER ELUIZIONE DI 11 ML",
+        "produttore": "CURIUM NETHERLANDS B.V.",
+        "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "037270016",
+        "nome": "ULLAX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 6 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037270028",
+        "nome": "ULLAX",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM - 12 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037270030",
+        "nome": "ULLAX",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038239012",
+        "nome": "ULCEZOL",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "038239024",
+        "nome": "ULCEZOL",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER PVC-AL-PA/AL-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "043031018",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) - 6X1 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031020",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 12X1 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031032",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 30X1 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031044",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 90(3 CONFEZIONI DI 30X1) CAPSULE + 3 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031057",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 96(4 CONFEZIONI DI 24X1) CAPSULE + 4 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031069",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 150 (25 CONFEZIONI DI 6X1) CAPSULE + 25 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031071",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG / 43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC - ALU) - 10 X 1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043031083",
+        "nome": "ULTIBRO BREEZHALER",
+        "descrizione": "85 MCG / 43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC - ALU) - 150 (15 X 10 X 1) CAPSULE (DOSE UNITARIA) (CONFEZIONE MULTIPLA) + 15 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "043372010",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 6X1 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372022",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 12X1 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372034",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 30 X 1 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372046",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO- BLISTER (PA/ALU/PVC-ALU) 90 (3 CONFEZ 30X1) CAPSULE+3 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372059",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO -BLISTER (PA/ALU/PVC-ALU) 96 (4 CONF 24X1) CAPSULE+4 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372061",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO- BLISTER (PA/ALU/PVC-AL)  150 (25CONF 6X1) CAPSULE+25 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372073",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC - ALU) - 10 X 1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "043372085",
+        "nome": "ULUNAR BREEZHALER",
+        "descrizione": "85 MCG/43 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC - ALU) - 150 (15 X 10 X 1) CAPSULE (DOSE UNITARIA) (CO",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "046060012",
+        "nome": "ULIPRISTAL ARISTO",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/PVDC/AL",
+        "produttore": "ARISTO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048059012",
+        "nome": "ULTOMIRIS",
+        "descrizione": "300 MG - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 30 ML (10 MG/ML) - 1 FLACONCINO",
+        "produttore": "ALEXION EUROPE S.A.S.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048059024",
+        "nome": "ULTOMIRIS",
+        "descrizione": "300 MG - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 3 ML (100 MG / ML) - 1 FLACONCINO",
+        "produttore": "ALEXION EUROPE S.A.S.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048059036",
+        "nome": "ULTOMIRIS",
+        "descrizione": "1100 MG - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 11 ML (100 MG / ML) - 1 FLACONCINO",
+        "produttore": "ALEXION EUROPE S.A.S.",
+        "forma": "Concentrato per soluzione per infusione"
+    }
+]

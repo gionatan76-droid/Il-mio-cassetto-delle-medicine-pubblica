@@ -1,0 +1,2522 @@
+[
+    {
+        "aic": "023163025",
+        "nome": "HALCIDERM",
+        "descrizione": "0,1% CREMA- TUBO 30 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "023163076",
+        "nome": "HALCIDERM",
+        "descrizione": "0,1% + 2% SOLUZIONE CUTANEA-FLACONE 30 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Soluzione cutanea"
+    },
+    {
+        "aic": "023751023",
+        "nome": "HALCIDERM COMBI",
+        "descrizione": "0,1% + 0,37% CREMA-TUBO  30 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "024713048",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 10 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "024713051",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE - 10 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "024713063",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "024713075",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "025333016",
+        "nome": "HALDOL DECANOAS",
+        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 3 FIALE DA 1 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025333028",
+        "nome": "HALDOL DECANOAS",
+        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FIALA DA 3 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025333055",
+        "nome": "HALDOL DECANOAS",
+        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 1 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025333067",
+        "nome": "HALDOL DECANOAS",
+        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 1 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025333079",
+        "nome": "HALDOL DECANOAS",
+        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 3 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025333081",
+        "nome": "HALDOL DECANOAS",
+        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE- 50 FIALE IN VETRO (5X10 CONFEZIONE MULTIPLA) DA 3 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025373010",
+        "nome": "HALDOL",
+        "descrizione": "1 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "025373034",
+        "nome": "HALDOL",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "025373059",
+        "nome": "HALDOL",
+        "descrizione": "2 MG/ML SOLUZIONE ORALE- FLACONE DA 30 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "025373073",
+        "nome": "HALDOL",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 5 FIALE",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025373085",
+        "nome": "HALDOL",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 1 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025373097",
+        "nome": "HALDOL",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 30 FIALE (3X10 CONFEZIONE MULTIPLA) IN VETRO DA 1 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "025373109",
+        "nome": "HALDOL",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 50 FIALE (10X5 CONFEZIONE MULTIPLA) IN VETRO DA 1 ML",
+        "produttore": "ESSENTIAL PHARMA LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026600078",
+        "nome": "HAEMATE P",
+        "descrizione": "1000 UI/15 ML POLVERE E SOLVENTE PER SOLUZIONE PER INIEZIONE O INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 15 ML + SET INFUSIONALE",
+        "produttore": "CSL BEHRING GMBH",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "026600080",
+        "nome": "HAEMATE P",
+        "descrizione": "500 UI/10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INIEZIONE O INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 10 ML + SET INFUSIONALE",
+        "produttore": "CSL BEHRING GMBH",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "028725101",
+        "nome": "HAVRIX",
+        "descrizione": "BAMBINI SOSPENSIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA DA 0,5 ML (1 DOSE) CON UN AGO SEPARATO",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "028725125",
+        "nome": "HAVRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA DA 1,0 ML (1 DOSE) CON AGO SEPARATO",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "028725137",
+        "nome": "HAVRIX",
+        "descrizione": "BAMBINI SOSPENSIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA DA 0,5 ML  (1 DOSE) SENZA AGO",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "028725149",
+        "nome": "HAVRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA DA 1 ML (1 DOSE) SENZA AGO",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "030758015",
+        "nome": "HARMONET",
+        "descrizione": "0,075 MG + 0,02 MG COMPRESSE RIVESTITE- 21 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038541025",
+        "nome": "HAEMOCTIN",
+        "descrizione": "500 U.I. POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1FLAC.NO IN VETROPOLVERE+1FLAC.NO IN VETRO SOLV DA 5ML+1 SIR MONOUSO+SISTRASFDOPPIOFILTRO+AGO",
+        "produttore": "BIOTEST PHARMA GMBH",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "038541037",
+        "nome": "HAEMOCTIN",
+        "descrizione": "1000U.I. POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1FLAC.NO IN VETROPOLVERE+1FLAC.NO IN VETRO SOLV DA 5ML+1 SIR MONOUSO+SISTRASFDOPPIOFILTRO+AGOF",
+        "produttore": "BIOTEST PHARMA GMBH",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "038541049",
+        "nome": "HAEMOCTIN",
+        "descrizione": "?250 UI POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE? 1 FLACONCINO IN VETRO POLVERE + 1 FLACONCINO IN VETRO SOLVENTE DA 2.5 ML + 1 SIRINGA MONOUSO + SISTEMA DI TRASFERIMENTO CON DOPPIO FILTRO + AGO A FARFALLA?",
+        "produttore": "BIOTEST PHARMA GMBH",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "039434016",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039434028",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041021015",
+        "nome": "HALAVEN",
+        "descrizione": "0,44MG/ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO(VETRO) 2ML- 1 FLACONCINO",
+        "produttore": "EISAI GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "041021027",
+        "nome": "HALAVEN",
+        "descrizione": "0,44MG/ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO(VETRO) 2ML- 6 FLACONCINI",
+        "produttore": "EISAI GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "041021039",
+        "nome": "HALAVEN",
+        "descrizione": "0,44 MG/ML SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 3 ML - 1 FLACONCINO",
+        "produttore": "EISAI GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "041021041",
+        "nome": "HALAVEN",
+        "descrizione": "0,44 MG/ML SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 3 ML - 6 FLACONCINI",
+        "produttore": "EISAI GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "041414018",
+        "nome": "HARMONET",
+        "descrizione": "0,075 MG + 0,02 MG COMPRESSE RIVESTITE- 21 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "041609013",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041609025",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041609049",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041752015",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041752027",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041752039",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "043731013",
+        "nome": "HARVONI",
+        "descrizione": "90 MG/400 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - FLACONE (HDPE) -  28 COMPRESSE RIVESTITE CON FILM",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043731025",
+        "nome": "HARVONI",
+        "descrizione": "90 MG/400 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - FLACONE (HDPE) - 3 FLACONI  3X28 COMPRESSE RIVESTITE CON FILM",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043731037",
+        "nome": "HARVONI",
+        "descrizione": "45 MG / 200 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 28 COMPRESSE",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043731049",
+        "nome": "HARVONI",
+        "descrizione": "33,75 MG / 150 MG - GRANULATO - USO ORALE - BUSTINA (PET/ALU/PE) - 28 BUSTINE",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "043731052",
+        "nome": "HARVONI",
+        "descrizione": "45 MG / 200 MG - GRANULATO - USO ORALE - BUSTINA (PET/ALU/PE) - 28 BUSTINE",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "043992015",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044935017",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045328034",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045344025",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "PRICETAG SPA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045344037",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "PRICETAG SPA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046738011",
+        "nome": "HAMAMELIS",
+        "descrizione": "CREMA 100 MG/G- 1 TUBO IN ALLUMINIO DA 50 G",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH",
+        "forma": "Crema"
+    },
+    {
+        "aic": "046812018",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812020",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812032",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812044",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812057",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812069",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812071",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046812083",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10MK SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046812095",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "50MK SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046874018",
+        "nome": "HAMAMELIS-HOMACCORD",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199017",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199029",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199031",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199043",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199056",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199068",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199070",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199082",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199094",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199106",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199118",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199120",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199132",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199144",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199157",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199169",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199171",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199183",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199195",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199207",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199219",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199221",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199233",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199245",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199258",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199260",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199272",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199284",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199296",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199308",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199310",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199322",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199334",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199346",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199359",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199361",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199373",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199385",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047199397",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199409",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199411",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199423",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199435",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199447",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199450",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199462",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199474",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199486",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199498",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199500",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199512",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199524",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199536",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199548",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199551",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199563",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047199575",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047336019",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336021",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336033",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336045",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336058",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336060",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336072",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336084",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336096",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336108",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336110",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336122",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336134",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336146",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336159",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336161",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336173",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336185",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336197",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336209",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336211",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336223",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336235",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336247",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336250",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336262",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336274",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336286",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336298",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336300",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336312",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336324",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336336",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336348",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336351",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336363",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336375",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336387",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336399",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336401",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336413",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336425",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336437",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336449",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336452",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336464",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336476",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336488",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336490",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336502",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336514",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336526",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336538",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336540",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336553",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336565",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336577",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336589",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336591",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336603",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336615",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336627",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336639",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336641",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336654",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336666",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336678",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336680",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336692",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336704",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336716",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336728",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336730",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336742",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336755",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336767",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336779",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336781",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336793",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336805",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336817",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336829",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336831",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336843",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336856",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336868",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336870",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336882",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336894",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336906",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336918",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336920",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336932",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336944",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336957",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336969",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336971",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336983",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047336995",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338013",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338025",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338037",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338049",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338052",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338064",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047338076",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338088",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338090",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338102",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "8 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338114",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338126",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338138",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338140",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338153",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "18 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338165",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338177",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338189",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338191",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338203",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338215",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338227",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338239",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338241",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338254",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338266",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "06 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338278",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "09 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338280",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "012 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338292",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "015 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338304",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "030 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338316",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "050 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338328",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "060 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338330",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "7K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338342",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "9K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338355",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "15K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338367",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338379",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338381",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "1000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338393",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "10000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338405",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "50000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047338417",
+        "nome": "HAMAMELIS VIRGINIANA",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047350018",
+        "nome": "HALIMED",
+        "descrizione": "100 MG/G CREMA- 1 TUBO IN AL DA 75 G",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "047350020",
+        "nome": "HALIMED",
+        "descrizione": "100 MG/G CREMA- 1 TUBO IN AL DA 150 G",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "047573011",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573023",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573035",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573047",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573050",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573062",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573074",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573086",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573098",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573100",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573112",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573124",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573136",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573148",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573151",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573163",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573175",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573187",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573199",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573201",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573213",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573225",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573237",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573249",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573252",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573264",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573276",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573288",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573290",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573302",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573314",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573326",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573338",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573340",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573353",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573365",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573377",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047573389",
+        "nome": "HARPAGOPHYTHUM PROCUMBENS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754015",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754027",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754039",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754041",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754054",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754066",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754078",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754080",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754092",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754104",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754116",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754128",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754130",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754142",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754155",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754167",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754179",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754181",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754193",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754205",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754217",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754229",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754231",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754243",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754256",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754268",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047754270",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754282",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754294",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754306",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754318",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754320",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754332",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754344",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754357",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754369",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754371",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754383",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754395",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754407",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754419",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754421",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754433",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754445",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754458",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047754460",
+        "nome": "HARPAGOPHYTUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "048858017",
+        "nome": "HAMASYX",
+        "descrizione": "SOLUZIONE ORALE- 10 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "HOMEOSYN ITALIA S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049294010",
+        "nome": "HARMONET",
+        "descrizione": "0,075 MG + 0,02 MG COMPRESSE RIVESTITE- 21 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049588015",
+        "nome": "HARMONET",
+        "descrizione": "0,075 MG + 0,02 MG COMPRESSE RIVESTITE- 21 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049938018",
+        "nome": "HAMAMELIS OTI COMPOSTO",
+        "descrizione": "GOCCE PER MUCOSA ORALE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 50 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Gocce per mucosa orale"
+    },
+    {
+        "aic": "049938020",
+        "nome": "HAMAMELIS OTI COMPOSTO",
+        "descrizione": "SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "051986014",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986026",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986038",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986040",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986053",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986065",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986077",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051986089",
+        "nome": "HATTERAS",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    }
+]

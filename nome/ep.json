@@ -1,0 +1,2137 @@
+[
+    {
+        "aic": "006105011",
+        "nome": "EPTADONE",
+        "descrizione": "10 MG/1ML SOLUZIONE INIETTABILE. 5 FIALE DA 1 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006105023",
+        "nome": "EPTADONE",
+        "descrizione": "20 MG/20 ML SCIROPPO. CONTENITORE MONODOSE DA 20 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105035",
+        "nome": "EPTADONE",
+        "descrizione": "10 MG/20 ML SCIROPPO. CONTENITORE MONODOSE DA 20 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105047",
+        "nome": "EPTADONE",
+        "descrizione": "5 MG/20 ML SCIROPPO. CONTENITORE MONODOSE DA 20 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105050",
+        "nome": "EPTADONE",
+        "descrizione": "1 MG/ML SCIROPPO. FLACONE DA 40 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105062",
+        "nome": "EPTADONE",
+        "descrizione": "1 MG/ML SCIROPPO. FLACONE DA 80 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006275010",
+        "nome": "EPARINA VISTER",
+        "descrizione": "5.000 UI/ML SOLUZIONE INIETTABILE-1 FLACONCINO 10 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "013092010",
+        "nome": "EPARGRISEOVIT",
+        "descrizione": "ADULTI SOLUZIONE INIETTABILE- 6 FIALE I DA 1 ML + 6 FIALE II DA 1,5 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "013092022",
+        "nome": "EPARGRISEOVIT",
+        "descrizione": "BAMBINI SOLUZIONE INIETTABILE- 6 FIALE I DA 1 ML + 6 FIALE II DA 1 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "021076070",
+        "nome": "EPARMEFOLIN",
+        "descrizione": "ADULTI POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 6 FIALE POLVERE + 6 FIALE SOLVENTE 1,5 ML",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "024409118",
+        "nome": "EPALFEN EPS",
+        "descrizione": "6 G GRANULATO PER SOLUZIONE ORALE-30 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "024409120",
+        "nome": "EPALFEN EPS",
+        "descrizione": "12 G GRANULATO PER SOLUZIONE ORALE-15 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "024409132",
+        "nome": "EPALFEN EPS",
+        "descrizione": "65% SCIROPPO- FLACONE200 ML",
+        "produttore": "ZAMBON ITALIA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "024409144",
+        "nome": "EPALFEN EPS",
+        "descrizione": "65% SCIROPPO- FLACONE 400 ML",
+        "produttore": "ZAMBON ITALIA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "027015142",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA TAMP FOSF 1.000 UI/0,5ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015155",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA TAMP FOSF 2.000 UI/0,5ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015167",
+        "nome": "EPREX",
+        "descrizione": "1 SIR TAMP FOSF 3.000 UI/0,3 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015179",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA TAMP FOSF 4.000 UI/0,4ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015181",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA TAMP FOSF 10.000 UI/1ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015231",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA PRERIEMPITA DA 5.000 UI/0.5 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015243",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA PRERIEMPITA DA 6.000 UI/0.6 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015268",
+        "nome": "EPREX",
+        "descrizione": "1 SIRINGA PRERIEMPITA DA 8.000 UI/0.8 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015282",
+        "nome": "EPREX",
+        "descrizione": "40.000 UI SOLUZIONE INIETTABILE- 1 SIRINGA PRERIEMPITA DA 40.000 UI/1ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015294",
+        "nome": "EPREX",
+        "descrizione": "40.000 UI SOLUZIONE INIETTABILE- 4 SIRINGHE PRERIEMPITE DA 40.000 UI/1ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015306",
+        "nome": "EPREX",
+        "descrizione": "40.000 UI SOLUZIONE INIETTABILE- 6 SIRINGHE PRERIEMPITE DA 40.000 UI/1ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015318",
+        "nome": "EPREX",
+        "descrizione": "40.000 UI SOLUZIONE INIETTABILE- 1 SIRINGA PRERIEMPITA DA 20.000 UI/0,5ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015320",
+        "nome": "EPREX",
+        "descrizione": "40.000 UI SOLUZIONE INIETTABILE- 4 SIRINGHE PRERIEMPITE DA 20.000 UI/0,5ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015332",
+        "nome": "EPREX",
+        "descrizione": "40.000 UI SOLUZIONE INIETTABILE- 6 SIRINGHE PRERIEMPITE DA 20.000 UI/0,5ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "027015344",
+        "nome": "EPREX",
+        "descrizione": "30.000 UI/0,75 ML SOLUZIONE INIETTABILE - 1 SIRINGA PRERIEMPITA CON 0,75 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027015357",
+        "nome": "EPREX",
+        "descrizione": "30.000 UI/0,75 ML SOLUZIONE INIETTABILE - 4 SIRINGHE PRERIEMPITE CON 0,75 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027015369",
+        "nome": "EPREX",
+        "descrizione": "30.000 UI/0,75 ML SOLUZIONE INIETTABILE - 6 SIRINGHE PRERIEMPITE CON 0,75 ML",
+        "produttore": "JANSSEN CILAG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029419013",
+        "nome": "EPTAVIS",
+        "descrizione": "1 G GRANULATO PER SOSPENSIONE ORALE- 10 BUSTINE",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Granulato per sospensione orale"
+    },
+    {
+        "aic": "029419025",
+        "nome": "EPTAVIS",
+        "descrizione": "250 MG CAPSULE RIGIDE-  20 CAPSULE",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "029419037",
+        "nome": "EPTAVIS",
+        "descrizione": "250 MG GRANULATO PER SOSPENSIONE ORALE- 10 BUSTINE",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Granulato per sospensione orale"
+    },
+    {
+        "aic": "030705014",
+        "nome": "EPSOCLAR",
+        "descrizione": "5.000 U.I./1 ML SOLUZIONE INIETTABILE- 10 FIALE 1 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "030705026",
+        "nome": "EPSOCLAR",
+        "descrizione": "25.000 U.I./5 ML SOLUZIONE PER INFUSIONE - 10 FIALE 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "030705038",
+        "nome": "EPSOCLAR",
+        "descrizione": "25.000 U.I./5 ML SOLUZIONE PER INFUSIONE - 1 FLACONE 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "030705040",
+        "nome": "EPSOCLAR",
+        "descrizione": "25.000 UI/ 5 ML SOLUZIONE INIETTABILE - 10 FLACONI 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "031984014",
+        "nome": "EPIVIR",
+        "descrizione": "SOLUZIONE ORALE 10 MG/ML FLAC. 240 ML",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "031984026",
+        "nome": "EPIVIR",
+        "descrizione": "60 COMPRESSE 150 MG",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "031984038",
+        "nome": "EPIVIR",
+        "descrizione": "300 MG 1 FLACONE 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "031984040",
+        "nome": "EPIVIR",
+        "descrizione": "150 MG 60 COMPRESSE RIVESTITE CON FILM IN BLISTER (PVC/ALU) USO ORALE",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "031984053",
+        "nome": "EPIVIR",
+        "descrizione": "300 MG 30 COMPRESSE RIVESTITE CON FILM IN BLISTER (PVC/ALU) USO ORALE",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034630018",
+        "nome": "EPSODILAVE",
+        "descrizione": "250 UI/5 ML SOLUZIONE PER PERVIETA' DEI CATETERI-  10 FIALE 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034630020",
+        "nome": "EPSODILAVE",
+        "descrizione": "300 UI/3 ML SOLUZIONE PER PERVIETA' DEI CATETERI- 10 FIALE 3 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034630032",
+        "nome": "EPSODILAVE",
+        "descrizione": "500 UI/2 ML SOLUZIONE PER PERVIETA' DEI CATETERI- 10 FIALE 2 ML",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034860015",
+        "nome": "EPINITRIL",
+        "descrizione": "5- 15 CEROTTI TRANSDERMICI 5 MG/24 H",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "034860027",
+        "nome": "EPINITRIL",
+        "descrizione": "10- 30 CEROTTI TRANSDERMICI 10 MG/24 H",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "034860039",
+        "nome": "EPINITRIL",
+        "descrizione": "10- 15 CEROTTI TRANSDERMICI 10 MG/24 H",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "034860041",
+        "nome": "EPINITRIL",
+        "descrizione": "5- 30  CEROTTI TRANSDERMICI 5 MG/24 H",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "034860054",
+        "nome": "EPINITRIL",
+        "descrizione": "15- 15 CEROTTI TRANSDERMICI 15 MG/24 H",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "034860066",
+        "nome": "EPINITRIL",
+        "descrizione": "15- 30 CEROTTI TRANSDERMICI 15 MG/24 H",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "035112010",
+        "nome": "EPAVITEN",
+        "descrizione": "SOLUZIONE INIETTABILE- 6 FIALE  I DA 1 ML+ 6 FIALE  II DA 1,5 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038261018",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 2 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261020",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 30 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261032",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 45 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261044",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 60 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261057",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 90 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261069",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 15 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261071",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 CONTENITORE MULTIDOSE CON POMPA A TENUTA D'ARIA DA 15 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261083",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 CONTENITORE MULTIDOSE CON POMPA A TENUTA D'ARIA DA 30 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261095",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 CONTENITORE MULTIDOSE CON POMPA A TENUTA D'ARIA DA 45 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261107",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 CONTENITORE MULTIDOSE CON POMPA A TENUTA D'ARIA DA 60 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261119",
+        "nome": "EPIDUO",
+        "descrizione": "0,1%/2,5% GEL- 1 TUBO DI PLASTICA DA 5 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261121",
+        "nome": "EPIDUO",
+        "descrizione": "0,3%/2,5% GEL- 1 TUBO IN HDPE DA 2 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261133",
+        "nome": "EPIDUO",
+        "descrizione": "0,3%/2,5% GEL- 1 TUBO IN HDPE DA 5 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261145",
+        "nome": "EPIDUO",
+        "descrizione": "0,3%/2,5% GEL- 1 CONTENITORE MULTIDOSE IN PP/HDPE DA 15 G CON POMPA A TENUTA D'ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261158",
+        "nome": "EPIDUO",
+        "descrizione": "0,3%/2,5% GEL- 1 CONTENITORE MULTIDOSE IN /PP/HDPE DA 30 G CON POMPA A TENUTA D'ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261160",
+        "nome": "EPIDUO",
+        "descrizione": "0,3%/2,5% GEL- 1 CONTENITORE MULTIDOSE IN PP/HDPE DA 45 G CON POMPA A TENUTA D'ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261172",
+        "nome": "EPIDUO",
+        "descrizione": "0,3%/2,5% GEL- 1 CONTENITORE MULTIDOSE IN PP/HDPE DA 60 G CON POMPA A TENUTA D'ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261184",
+        "nome": "EPIDUO",
+        "descrizione": "0,3% /2,5% GEL, 1 CONTENITORE MULTIDOSE IN PP/HDPE/VLDPE DA 15 G CON POMPA A TENUTA D?ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261196",
+        "nome": "EPIDUO",
+        "descrizione": "0,3% /2,5% GEL, 1 CONTENITORE MULTIDOSE IN PP/HDPE/VLDPE DA 30 G CON POMPA A TENUTA D?ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261208",
+        "nome": "EPIDUO",
+        "descrizione": "0,3% /2,5% GEL, 1 CONTENITORE MULTIDOSE IN PP/HDPE/VLDPE DA 45 G CON POMPA A TENUTA D?ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038261210",
+        "nome": "EPIDUO",
+        "descrizione": "0,3% /2,5% GEL, 1 CONTENITORE MULTIDOSE IN PP/HDPE/VLDPE DA 60 G CON POMPA A TENUTA D?ARIA",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "039000017",
+        "nome": "EPIRUBICINA TEVA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO DA 5 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "039000029",
+        "nome": "EPIRUBICINA TEVA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO DA 10 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "039000031",
+        "nome": "EPIRUBICINA TEVA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO DA 25 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "039000043",
+        "nome": "EPIRUBICINA TEVA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO DA 75 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "039000056",
+        "nome": "EPIRUBICINA TEVA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO DA 100 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "039244013",
+        "nome": "EPIRUBICINA AHCL",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO IN VETRO DA 5 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "039244025",
+        "nome": "EPIRUBICINA AHCL",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "039244037",
+        "nome": "EPIRUBICINA AHCL",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO IN VETRO DA 25 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "039244049",
+        "nome": "EPIRUBICINA AHCL",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO IN VETRO DA 100 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "039244052",
+        "nome": "EPIRUBICINA AHCL",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FLACONCINO IN VETRO DA 50 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "039474010",
+        "nome": "EPORATIO",
+        "descrizione": "1.000 UI /0,5 ML- SOLUZIONE  INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO-SIR PRER (VETRO)SENZA DISPOSITIVO DI SICUREZZA-0,5 ML - 6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474022",
+        "nome": "EPORATIO",
+        "descrizione": "1.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474034",
+        "nome": "EPORATIO",
+        "descrizione": "2.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474046",
+        "nome": "EPORATIO",
+        "descrizione": "2.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474059",
+        "nome": "EPORATIO",
+        "descrizione": "3.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474061",
+        "nome": "EPORATIO",
+        "descrizione": "3.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474073",
+        "nome": "EPORATIO",
+        "descrizione": "4.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474085",
+        "nome": "EPORATIO",
+        "descrizione": "4.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474097",
+        "nome": "EPORATIO",
+        "descrizione": "5.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474109",
+        "nome": "EPORATIO",
+        "descrizione": "5.000 UI/0,5 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -0,5 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474111",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -1 SIRINGA PRERIEMPITA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474123",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -1 SIRINGA PRERIEMPITA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474135",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -4 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474147",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -4 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474150",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474162",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474174",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -1 SIRINGA PRERIEMPITA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474186",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -1 SIRINGA PRERIEMPITA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474198",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -4 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474200",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -4 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474212",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474224",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474236",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -1 SIRINGA PRERIEMPITA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474248",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -1 SIRINGA PRERIEMPITA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474251",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML -4 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474263",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML -4 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474275",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) SENZA DISPOSITIVO DI SICUREZZA -1,0 ML - 6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474287",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO O ENDOVENOSO -SIR PRER (VETRO) CON DISPOSITIVO DI SICUREZZA -1,0 ML - 6 SIRINGHE PRERIEMPITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474299",
+        "nome": "EPORATIO",
+        "descrizione": "1.000 UI/0,5 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 0,5 ML - 6 SIRINGHE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474301",
+        "nome": "EPORATIO",
+        "descrizione": "2.000 UI/0,5 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 0,5 ML - 6 SIRINGHE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474313",
+        "nome": "EPORATIO",
+        "descrizione": "3.000 UI/0,5 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 0,5 ML - 6 SIRINGHE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474325",
+        "nome": "EPORATIO",
+        "descrizione": "4.000 UI/0,5 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 0,5 ML - 6 SIRINGHE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474337",
+        "nome": "EPORATIO",
+        "descrizione": "5.000 UI/0,5 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 0,5 ML - 6 SIRINGHE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474349",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 1 SIRINGA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474352",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 4 SIRINGH",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474364",
+        "nome": "EPORATIO",
+        "descrizione": "10.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 6 SIRINGH",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474376",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 1 SIRINGA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474388",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 4 SIRINGH",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474390",
+        "nome": "EPORATIO",
+        "descrizione": "20.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 6 SIRINGH",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474402",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 1 SIRINGA",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474414",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 4 SIRINGH",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039474426",
+        "nome": "EPORATIO",
+        "descrizione": "30.000 UI/1,0 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO O ENDOVENOSO - SIRINGA PRERIEMPITA (VETRO) CON AGO DI SICUREZZA 1,0 ML - 6 SIRINGH",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "040040014",
+        "nome": "EPIFLOXIN",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040040026",
+        "nome": "EPIFLOXIN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041122019",
+        "nome": "EPITIRAM",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041122021",
+        "nome": "EPITIRAM",
+        "descrizione": "1000 MG  COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041122033",
+        "nome": "EPITIRAM",
+        "descrizione": "250 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 60 BUSTINE IN PE/AL/PAP",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Granulato per soluzione orale in bustina"
+    },
+    {
+        "aic": "041122045",
+        "nome": "EPITIRAM",
+        "descrizione": "500 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 60 BUSTINE IN PE/AL/PAP",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Granulato per soluzione orale in bustina"
+    },
+    {
+        "aic": "041122058",
+        "nome": "EPITIRAM",
+        "descrizione": "750 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE IN PE/AL/PAP",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Granulato per soluzione orale in bustina"
+    },
+    {
+        "aic": "041122060",
+        "nome": "EPITIRAM",
+        "descrizione": "1000 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE IN PE/AL/PAP",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Granulato per soluzione orale in bustina"
+    },
+    {
+        "aic": "041122072",
+        "nome": "EPITIRAM",
+        "descrizione": "1500 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE IN PE/AL/PAP",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Granulato per soluzione orale in bustina"
+    },
+    {
+        "aic": "041122084",
+        "nome": "EPITIRAM",
+        "descrizione": "100 MG/ML SOLUZIONE ORALE- 1 FLACONE IN VETRO DA 300 ML CON SIRINGA GRADUATA DA 10 ML E ADATTATORE",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "041122096",
+        "nome": "EPITIRAM",
+        "descrizione": "100 MG/ML SOLUZIONE ORALE- 1 FLACONE IN VETRO DA 150 ML CON SIRINGA GRADUATA DA 3 ML E ADATTATORE",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "041122108",
+        "nome": "EPITIRAM",
+        "descrizione": "100 MG/ML SOLUZIONE ORALE- 1 FLACONE IN VETRO DA 150 ML CON SIRINGA GRADUATA DA 1 ML E ADATTATORE",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "043626011",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626023",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626035",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626047",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626050",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626062",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626074",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626086",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626098",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626100",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626112",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626124",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626136",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626148",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626151",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626163",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626175",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626187",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626199",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626201",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626213",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626225",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626237",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626249",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626252",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043626264",
+        "nome": "EPLERENONE MYLAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722014",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722026",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722038",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722040",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722053",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722065",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722077",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722089",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722091",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722103",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722115",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722127",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722139",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722141",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722154",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722166",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722178",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722180",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722192",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722204",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 X 1 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722216",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722228",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722230",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043722242",
+        "nome": "EPLERENONE ACCORD",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043802014",
+        "nome": "EPLERENONE TECNIGEN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043802026",
+        "nome": "EPLERENONE TECNIGEN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044029015",
+        "nome": "EPILAX",
+        "descrizione": "ADULTI 6,75 G SOLUZIONE RETTALE- 6 CONTENITORI MONODOSE PE/PEVA",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Soluzione rettale"
+    },
+    {
+        "aic": "044029027",
+        "nome": "EPILAX",
+        "descrizione": "BAMBINI 2,25 G SOLUZIONE RETTALE- 6 CONTENITORI MONODOSE PE/PEVA",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Soluzione rettale"
+    },
+    {
+        "aic": "044029039",
+        "nome": "EPILAX",
+        "descrizione": "adulti 2250 mg supposte> 18  supposte  in  blister AL/PE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "044029041",
+        "nome": "EPILAX",
+        "descrizione": "bambini 1375 mg supposte> 18 supposte  in  blister AL/PE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "044092017",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092029",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092031",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092043",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092056",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092068",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092070",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092082",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092094",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092106",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092118",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092120",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092132",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092144",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092157",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044092169",
+        "nome": "EPLERENONE DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044701011",
+        "nome": "EPTIFIBATIDE ACCORD",
+        "descrizione": "0,75 MG/ML - SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 100 ML - 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "044701023",
+        "nome": "EPTIFIBATIDE ACCORD",
+        "descrizione": "2 MG/ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 10 ML - 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044928012",
+        "nome": "EPCLUSA",
+        "descrizione": "400 MG/100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 28 COMPRESSE",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044928024",
+        "nome": "EPCLUSA",
+        "descrizione": "200 MG / 50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 28 COMPRESSE",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044928036",
+        "nome": "EPCLUSA",
+        "descrizione": "150 mg / 37,5 mg - Granulato rivestito - Uso orale - bustina (PET/alu/PE) - 28 bustine",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Granulato rivestito"
+    },
+    {
+        "aic": "044928048",
+        "nome": "EPCLUSA",
+        "descrizione": "200 mg / 50 mg - Granulato rivestito - Uso orale - bustina (PET/alu/PE) - 28 bustine",
+        "produttore": "GILEAD SCIENCES IRELAND UC",
+        "forma": "Granulato rivestito"
+    },
+    {
+        "aic": "045041011",
+        "nome": "EPACLOB",
+        "descrizione": "<1 mg/ml sospensione orale> 1 flacone in vetro da 100 ml",
+        "produttore": "ETHYPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "045041023",
+        "nome": "EPACLOB",
+        "descrizione": "<1 mg/ml sospensione orale> 1 flacone in vetro da 150 ml",
+        "produttore": "ETHYPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "045041035",
+        "nome": "EPACLOB",
+        "descrizione": "<1 mg/ml sospensione orale> 1 flacone in vetro da 250 ml",
+        "produttore": "ETHYPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "045041047",
+        "nome": "EPACLOB",
+        "descrizione": "<2 mg/ml sospensione orale> 1 flacone in vetro da 100 ml",
+        "produttore": "ETHYPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "045041050",
+        "nome": "EPACLOB",
+        "descrizione": "<2 mg/ml sospensione orale> 1 flacone in vetro da 150 ml",
+        "produttore": "ETHYPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "045041062",
+        "nome": "EPACLOB",
+        "descrizione": "<2 mg/ml sospensione orale> 1 flacone in vetro da 250 ml",
+        "produttore": "ETHYPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "046571016",
+        "nome": "EPSTEIN-BARR VIRUS",
+        "descrizione": "(4 CH, 9 CH, 30 CH) SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046618017",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618029",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618031",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618043",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618056",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618068",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618070",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618082",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618094",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618106",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618118",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618120",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618132",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618144",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618157",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618169",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618171",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618183",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618195",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618207",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618219",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618221",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618233",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618245",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618258",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618260",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618272",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046618284",
+        "nome": "EPLERENONE KRKA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047717018",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717020",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717032",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717044",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717057",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717069",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717071",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717083",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717095",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717107",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717119",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717121",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717133",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717145",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717158",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717160",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717172",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717184",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717196",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717208",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717210",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047717222",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717234",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717246",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717259",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717261",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717273",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717285",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717297",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717309",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717311",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717323",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717335",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717347",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717350",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717362",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717374",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717386",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717398",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047717400",
+        "nome": "EPHEDRA VULGARIS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "048251019",
+        "nome": "EPIDYOLEX",
+        "descrizione": "100 MG/ML - SOLUZIONE ORALE - USO ORALE - FLACONE (VETRO) - 100 ML - 1 FLACONE + 2 SIRINGHE DA 1 ML + 2 SIRINGHE DA 5 ML + 2 ADATTATORI PER FLACONE",
+        "produttore": "JAZZ PHARMACEUTICALS IRELAND LIMITED",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "048425019",
+        "nome": "EPIRUBICINA HIKMA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 10 MG/5 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "048425021",
+        "nome": "EPIRUBICINA HIKMA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 20 MG/10 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "048425033",
+        "nome": "EPIRUBICINA HIKMA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 50 MG/25 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "048425045",
+        "nome": "EPIRUBICINA HIKMA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 200 MG/100 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "048808012",
+        "nome": "EPISTATUS",
+        "descrizione": "10 MG SOLUZIONE PER MUCOSA ORALE- 1 SIRINGA ORALE PRERIEMPITA IN COP DA 1 ML",
+        "produttore": "SERB S.A.",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "048808024",
+        "nome": "EPISTATUS",
+        "descrizione": "2,5 MG SOLUZIONE PER MUCOSA ORALE- 1 SIRINGA ORALE PRERIEMPITA IN COP DA 2,5 MG/0,25 ML",
+        "produttore": "SERB S.A.",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "048808036",
+        "nome": "EPISTATUS",
+        "descrizione": "5 MG SOLUZIONE PER MUCOSA ORALE- 1 SIRINGA ORALE PRERIEMPITA IN COP DA 5 MG/0,5 ML",
+        "produttore": "SERB S.A.",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "048808048",
+        "nome": "EPISTATUS",
+        "descrizione": "7,5 MG SOLUZIONE PER MUCOSA ORALE- 1 SIRINGA ORALE PRERIEMPITA IN COP DA 7,5 MG/0,75 ML",
+        "produttore": "SERB S.A.",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "050699014",
+        "nome": "EPYSQLI",
+        "descrizione": "300 mg - Concentrato per soluzione per infusione - Uso endovenoso - 1 flaconcino (vetro) 30 ml (10 mg / ml) - 1 flaconcino",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051552014",
+        "nome": "EPRUVY",
+        "descrizione": "10 mg/ml - Soluzione iniettabile - Uso intravitreo - Flaconcino (vetro) 0,23 ml - 1 flaconcino",
+        "produttore": "MIDAS PHARMA GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052032012",
+        "nome": "EPTIFIBATIDE ALIDA",
+        "descrizione": "?0,75 MG/ML SOLUZIONE PER INFUSIONE? 1 FLACONCINO IN VETRO DA 100 ML",
+        "produttore": "ALIDA PHARMACEUTICALS SL",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "052032024",
+        "nome": "EPTIFIBATIDE ALIDA",
+        "descrizione": "?2 MG/ML SOLUZIONE INIETTABILE? 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "ALIDA PHARMACEUTICALS SL",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "053058018",
+        "nome": "EPACLOB",
+        "descrizione": "<1 MG/ML SOSPENSIONE ORALE> 1 FLACONE IN VETRO DA 250 ML",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Sospensione orale"
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "aic": "005125012",
+        "nome": "OPTALIDON",
+        "descrizione": "COMPRESSE RIVESTITE- 25 COMPRESSE",
+        "produttore": "PERRIGO ITALIA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "005125024",
+        "nome": "OPTALIDON",
+        "descrizione": "SUPPOSTE- 6 SUPPOSTE",
+        "produttore": "PERRIGO ITALIA S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "005170016",
+        "nome": "TRAVELGUM",
+        "descrizione": "20 MG GOMME DA MASTICARE MEDICATE- 6 GOMME",
+        "produttore": "COOPER CONSUMER HEALTH B.V.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "005170028",
+        "nome": "TRAVELGUM",
+        "descrizione": "20 MG GOMME DA MASTICARE MEDICATE- 10 GOMME",
+        "produttore": "COOPER CONSUMER HEALTH B.V.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "005239049",
+        "nome": "PRONTOGEST",
+        "descrizione": "50  MG/ML SOLUZIONE INIETTABILE- 3 FIALE 1 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "005239052",
+        "nome": "PRONTOGEST",
+        "descrizione": "100 MG/ML SOLUZIONE INIETTABILE- 3 FIALE  1 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "005239076",
+        "nome": "PRONTOGEST",
+        "descrizione": "100 MG/ML SOLUZIONE INIETTABILE - 7 FIALE 1 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "005259015",
+        "nome": "CALCIUM SANDOZ",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "005259039",
+        "nome": "CALCIUM SANDOZ",
+        "descrizione": "1000 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "005259041",
+        "nome": "CALCIUM SANDOZ",
+        "descrizione": "1000 MG GRANULATO EFFERVESCENTE- 30 BUSTINE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "005268038",
+        "nome": "PYRALVEX",
+        "descrizione": "<50 mg/ml + 10 mg/ml soluzione gengivale> 1 flacone in vetro da 10 ml",
+        "produttore": "COOPER CONSUMER HEALTH B.V.",
+        "forma": "GOCCIA"
+    },
+    {
+        "aic": "005268040",
+        "nome": "PYRALVEX",
+        "descrizione": "<50 mg/ml + 10 mg/ml soluzione gengivale> 1 flacone in vetro da 30 ml",
+        "produttore": "COOPER CONSUMER HEALTH B.V.",
+        "forma": "GOCCIA"
+    },
+    {
+        "aic": "005408012",
+        "nome": "BRUNIZINA",
+        "descrizione": "0,1% COLLIRIO, SOLUZIONE- 1 FLACONE DA 10 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "005408024",
+        "nome": "BRUNIZINA",
+        "descrizione": "0,2% GOCCE NASALI, SOLUZIONE- 1 FLACONE DA 10 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Gocce nasali, soluzione"
+    },
+    {
+        "aic": "005408036",
+        "nome": "BRUNIZINA",
+        "descrizione": "0,2% SPRAY NASALE, SOLUZIONE- FLACONE DA 10 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Gocce nasali, soluzione"
+    },
+    {
+        "aic": "005472028",
+        "nome": "TAPAZOLE",
+        "descrizione": "5 MG COMPRESSE- BLISTER IN PVC/AL DA 100 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "005494024",
+        "nome": "IDROCHINIDINA LIRCA",
+        "descrizione": "150 MG COMPRESSE-40 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "005556016",
+        "nome": "ORTODERMINA",
+        "descrizione": "CREMA AL 5%- TUBO DA 50 G",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "005556028",
+        "nome": "ORTODERMINA",
+        "descrizione": "5% CREMA- TUBO DA 10 G",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "005556030",
+        "nome": "ORTODERMINA",
+        "descrizione": "5% CREMA- TUBO DA 3 G",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "005556042",
+        "nome": "ORTODERMINA",
+        "descrizione": "5% CREMA- 10 TUBI DA 3 G",
+        "produttore": "ALFASIGMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "005638010",
+        "nome": "LUAN",
+        "descrizione": "2,5 % GEL- TUBO DA 15 G",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "005638022",
+        "nome": "LUAN",
+        "descrizione": "1% GEL- TUBO 100 G",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "005647033",
+        "nome": "BECOZYM",
+        "descrizione": "COMPRESSE GASTRORESISTENTI- 20 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "005781036",
+        "nome": "MAGNESIA BISURATA AROMATIC",
+        "descrizione": "COMPRESSE- 40 COMPRESSE",
+        "produttore": "HALEON ITALY S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "005781048",
+        "nome": "MAGNESIA BISURATA AROMATIC",
+        "descrizione": "COMPRESSE- 80 COMPRESSE",
+        "produttore": "HALEON ITALY S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "005781063",
+        "nome": "MAGNESIA BISURATA AROMATIC",
+        "descrizione": "COMPRESSE- 10 COMPRESSE",
+        "produttore": "HALEON ITALY S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "005982020",
+        "nome": "TOCALFA",
+        "descrizione": "<50.000 UI + 50 MG  CAPSULE  MOLLI>  20 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DIFA COOPER S.P.A.",
+        "forma": "Capsula molle"
+    }
+]

@@ -1,0 +1,4048 @@
+[
+    {
+        "aic": "004763025",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG COMPRESSE-4 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "004763037",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "004763049",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG COMPRESSE-24 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "004763114",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE IN STRIP AL/PE/CARTA-PE/AL/SURLYN",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "004763126",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 12 COMPRESSE IN STRIP AL/PE/CARTA-PE/AL/SURLYN",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "004763153",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG GRANULATO EFFERVESCENTE CON VITAMINA C- 10 BUSTINE 10 G",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "004763165",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG GRANULATO EFFERVESCENTE CON VITAMINA C- 20 BUSTINE 10 G",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "004763330",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 20 COMPRESSE IN STRIP AL/PE/CARTA-PE/AL/SURLYN",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "004763367",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "004763379",
+        "nome": "ASPIRINA",
+        "descrizione": "RAPIDA 500 MG COMPRESSE MASTICABILI- 10 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "004763393",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG GRANULATO- 4 BUSTINE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "004763405",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG GRANULATO- 10 BUSTINE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "004763417",
+        "nome": "ASPIRINA",
+        "descrizione": "RAPIDA 500 MG COMPRESSE MASTICABILI- 2 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "004763544",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG GRANULATO - 20 BUSTINE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "004763595",
+        "nome": "ASPIRINA",
+        "descrizione": "500 MG GRANULATO- 2 BUSTINE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "004763619",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 40 COMPRESSE IN STRIP AL/PE/CARTA-PE/AL/SURLYN",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "004763621",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG GRANULATO EFFERVESCENTE CON VITAMINA C- 10 BUSTINE IN CARTA/AL/PE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "004763633",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG GRANULATO EFFERVESCENTE CON VITAMINA C- 20 BUSTINE IN CARTA/AL/PE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "014137020",
+        "nome": "ASCOTODIN",
+        "descrizione": "FLACONE COLLIRIO 10 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "023075029",
+        "nome": "ASCRIPTIN",
+        "descrizione": "COMPRESSE-  20  COMPRESSE DIVISIBILI",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "023075043",
+        "nome": "ASCRIPTIN",
+        "descrizione": "100 MG + 26,67 MG + 23,3 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026416014",
+        "nome": "ASACOL",
+        "descrizione": "400 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "026416091",
+        "nome": "ASACOL",
+        "descrizione": "2 G GRANULATO PER SOSPENSIONE RETTALE- 10 BUSTINE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Granulato per sospensione rettale"
+    },
+    {
+        "aic": "026416127",
+        "nome": "ASACOL",
+        "descrizione": "500 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026416139",
+        "nome": "ASACOL",
+        "descrizione": "500 MG SUPPOSTE- 20 SUPPOSTE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026416141",
+        "nome": "ASACOL",
+        "descrizione": "2 G/50 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE 50 ML",
+        "produttore": "GIULIANI SPA",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "026416154",
+        "nome": "ASACOL",
+        "descrizione": "4 G/100 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE 100 ML",
+        "produttore": "GIULIANI SPA",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "026416166",
+        "nome": "ASACOL",
+        "descrizione": "4 G/50 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE 50 ML",
+        "produttore": "GIULIANI SPA",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "026416216",
+        "nome": "ASACOL",
+        "descrizione": "2 G SCHIUMA RETTALE- 7 CONTENITORI MONODOSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Schiuma rettale"
+    },
+    {
+        "aic": "026416230",
+        "nome": "ASACOL",
+        "descrizione": "4 G SCHIUMA RETTALE- CONTENITORE MONODOSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Schiuma rettale"
+    },
+    {
+        "aic": "026416242",
+        "nome": "ASACOL",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI- 24 COMPRESSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "026416255",
+        "nome": "ASACOL",
+        "descrizione": "400 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 50 CAPSULE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "026416267",
+        "nome": "ASACOL",
+        "descrizione": "1 G SCHIUMA RETTALE- 1 CONTENITORE DA 14 DOSI",
+        "produttore": "GIULIANI SPA",
+        "forma": "Schiuma rettale"
+    },
+    {
+        "aic": "026416279",
+        "nome": "ASACOL",
+        "descrizione": "1 G SCHIUMA RETTALE- 2 CONTENITORI DA 14 DOSI",
+        "produttore": "GIULIANI SPA",
+        "forma": "Schiuma rettale"
+    },
+    {
+        "aic": "026416293",
+        "nome": "ASACOL",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI- 96 COMPRESSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "026416305",
+        "nome": "ASACOL",
+        "descrizione": "1 G SUPPOSTE- 28 SUPPOSTE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026416317",
+        "nome": "ASACOL",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI - 60 COMPRESSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "026416329",
+        "nome": "ASACOL",
+        "descrizione": "400 MG COMPRESSE GASTRORESISTENTE - 60 COMPRESSE",
+        "produttore": "GIULIANI SPA",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "026721035",
+        "nome": "ASPIRINETTA",
+        "descrizione": "100 MG COMPRESSE- 24 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026721100",
+        "nome": "ASPIRINETTA",
+        "descrizione": "100 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026919011",
+        "nome": "ASSORAL",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM-12 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "026919047",
+        "nome": "ASSORAL",
+        "descrizione": "300 MG COMPRESSE RIVESTITE CON FILM-6 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "027122062",
+        "nome": "ASALEX",
+        "descrizione": "2 G SOSP RETTALE 7 FLAC+7 CANNULE RETTALI",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "027122098",
+        "nome": "ASALEX",
+        "descrizione": "4 G SOSP RETTALE 7 FLAC+7 CANNULE RETTALI",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "027122100",
+        "nome": "ASALEX",
+        "descrizione": "400 MG COMPRESSE GASTRORESISTENTI A RILASCIO MODIFICATO- 60 COMPRESSE",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "027122112",
+        "nome": "ASALEX",
+        "descrizione": "1,5 G GRANULATO PER SOSPENSIONE RETTALE- 20 BUSTE + FLACONE + 20 CANNULE RETTALI + 1 FLACONE +  IMBUTINO",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "027122124",
+        "nome": "ASALEX",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI A RILASCIO MODIFICATO- 60 COMPRESSE",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "034298012",
+        "nome": "ASAMAX",
+        "descrizione": "400 MG COMPRESSE GASTRORESISTENTI- 50 COMPRESSE",
+        "produttore": "CA.DI. GROUP S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "034298024",
+        "nome": "ASAMAX",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI- 24 COMPRESSE",
+        "produttore": "CA.DI. GROUP S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "034298036",
+        "nome": "ASAMAX",
+        "descrizione": "2 G/50 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE DA 50 ML",
+        "produttore": "CA.DI. GROUP S.P.A.",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "034298048",
+        "nome": "ASAMAX",
+        "descrizione": "4 G/100 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE DA 100 ML",
+        "produttore": "CA.DI. GROUP S.P.A.",
+        "forma": "Sospensione rettale"
+    },
+    {
+        "aic": "034298051",
+        "nome": "ASAMAX",
+        "descrizione": "500 MG SUPPOSTE- 20 SUPPOSTE",
+        "produttore": "CA.DI. GROUP S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "034298063",
+        "nome": "ASAMAX",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "CA.DI. GROUP S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "034494017",
+        "nome": "ASMAFLU",
+        "descrizione": "0,1% SOLUZIONE DA NEBULIZZARE- FLACONE 30 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034494029",
+        "nome": "ASMAFLU",
+        "descrizione": "BAMBINI SOLUZIONE DA NEBULIZZARE - 15 CONTENITORI MONODOSE 2 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034494031",
+        "nome": "ASMAFLU",
+        "descrizione": "ADULTI SOLUZIONE DA NEBULIZZARE - 15 CONTENITORI MONODOSE 2 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034988028",
+        "nome": "ASSOLID",
+        "descrizione": "0,1% SOLUZIONE DA NEBULIZZARE - FLACONE 30 ML",
+        "produttore": "KONPHARMA S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "035356017",
+        "nome": "ASAVIXIN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 50 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "036371021",
+        "nome": "ASTIAN",
+        "descrizione": "2 MG/2 ML SOLUZIONE DA NEBULIZZARE - 15 CONTENITORI MONODOSE 2 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "036371033",
+        "nome": "ASTIAN",
+        "descrizione": "1 MG/ 1 ML SOLUZIONE DA NEBULIZZARE - 30 CONTENITORI MONODOSE 1 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "036371045",
+        "nome": "ASTIAN",
+        "descrizione": "0,5 MG/1 ML SOLUZIONE DA NEBULIZZARE - 30 CONTENITORI MONODOSE 1 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "036685016",
+        "nome": "ASMANEX",
+        "descrizione": "200 MICROGRAMMI POLVERE PER INALAZIONE- 30 EROGAZIONI",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036685028",
+        "nome": "ASMANEX",
+        "descrizione": "200 MICROGRAMMI POLVERE PER INALAZIONE- 60 EROGAZIONI",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036685030",
+        "nome": "ASMANEX",
+        "descrizione": "400 MICROGRAMMI POLVERE PER INALAZIONE- 14 EROGAZIONI",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036685042",
+        "nome": "ASMANEX",
+        "descrizione": "400 MICROGRAMMI POLVERE PER INALAZIONE- 30 EROGAZIONI",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036685055",
+        "nome": "ASMANEX",
+        "descrizione": "400 MICROGRAMMI POLVERE PER INALAZIONE- 60 EROGAZIONI",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "037444015",
+        "nome": "ASTON",
+        "descrizione": "70 MG COMPRESSE RIVESTITE CON FILM - 4 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037444027",
+        "nome": "ASTON",
+        "descrizione": "70 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC-PVDC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038193037",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "038410015",
+        "nome": "ASTERID",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038410027",
+        "nome": "ASTERID",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE  IN BLISTER PVC-PE-PVDC/AL",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041513019",
+        "nome": "ASPI GOLA",
+        "descrizione": "0,25 % COLLUTORIO- FLACONE DA 160 ML",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "041513021",
+        "nome": "ASPI GOLA",
+        "descrizione": "0,25 % SPRAY PER MUCOSA ORALE- FLACONE DA 15 ML",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "041513033",
+        "nome": "ASPI GOLA",
+        "descrizione": "8,75 MG PASTIGLIA GUSTO LIMONE E MIELE- 16 PASTIGLIE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041513045",
+        "nome": "ASPI GOLA",
+        "descrizione": "8,75 MG PASTIGLIA GUSTO LIMONE E MIELE- 24 PASTIGLIE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041962010",
+        "nome": "ASPIRINA DOLORE E INFIAMMAZIONE",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 8 COMPRESSE IN BLISTER AL/PE/CARTA",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "041962022",
+        "nome": "ASPIRINA DOLORE E INFIAMMAZIONE",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 12 COMPRESSE IN BLISTER AL/PE/CARTA",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "041962034",
+        "nome": "ASPIRINA DOLORE E INFIAMMAZIONE",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 20 COMPRESSE IN BLISTER AL/PE/CARTA",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "041962046",
+        "nome": "ASPIRINA DOLORE E INFIAMMAZIONE",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 24 COMPRESSE IN BLISTER AL/PE/CARTA",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "043742016",
+        "nome": "ASENSIL",
+        "descrizione": "40 MG/G CREMA 1 TUBO IN AL DA 5 G",
+        "produttore": "LOGOFARMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043742028",
+        "nome": "ASENSIL",
+        "descrizione": "<40 MG/G CREMA>5 TUBI IN AL DA 5 G",
+        "produttore": "LOGOFARMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043742030",
+        "nome": "ASENSIL",
+        "descrizione": "40 MG/G CREMA- 1 TUBO IN AL DA 5 G CON 2 BENDE OCCLUSIVE",
+        "produttore": "LOGOFARMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043742042",
+        "nome": "ASENSIL",
+        "descrizione": "40 MG/G CREMA- 5 TUBI IN AL DA 5 G CON 10 BENDE OCCLUSIVE",
+        "produttore": "LOGOFARMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043742055",
+        "nome": "ASENSIL",
+        "descrizione": "40 MG/G CREMA- 1 TUBO IN AL DA 30 G",
+        "produttore": "LOGOFARMA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "044095014",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 4 COMPRESSE IN STRIP PAP/PE/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095026",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 8 COMPRESSE IN STRIP PAP/PE/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095038",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 12 COMPRESSE IN STRIP PAP/PE/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095040",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 24 COMPRESSE IN STRIP PAP/PE/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095053",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 4 COMPRESSE IN STRIP PET/EEA/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095065",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 8 COMPRESSE IN STRIP PET/EEA/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095077",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 12 COMPRESSE IN STRIP PET/EEA/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044095089",
+        "nome": "ASPIRINAACT DOLORE E INFIAMMAZIONE",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE- 24 COMPRESSE IN STRIP PET/EEA/AL/COPOLIMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044196018",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196020",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196032",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196044",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196057",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196069",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196071",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/80 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196083",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196095",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196107",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196119",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196121",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196133",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196145",
+        "nome": "ASBIMA",
+        "descrizione": "5 MG/160 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196158",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196160",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196172",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196184",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196196",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196208",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044196210",
+        "nome": "ASBIMA",
+        "descrizione": "10 MG/160 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045844014",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844026",
+        "nome": "ASA FOETIDA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844038",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844040",
+        "nome": "ASA FOETIDA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844053",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844065",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844077",
+        "nome": "ASA FOETIDA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844089",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844091",
+        "nome": "ASA FOETIDA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844103",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844115",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844127",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844139",
+        "nome": "ASA FOETIDA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844141",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844154",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844166",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844178",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844180",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844192",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844204",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844216",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844228",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844230",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844242",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844255",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844267",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844279",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844281",
+        "nome": "ASA FOETIDA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844293",
+        "nome": "ASA FOETIDA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844305",
+        "nome": "ASA FOETIDA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844317",
+        "nome": "ASA FOETIDA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844329",
+        "nome": "ASA FOETIDA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844331",
+        "nome": "ASA FOETIDA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844343",
+        "nome": "ASA FOETIDA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844356",
+        "nome": "ASA FOETIDA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844368",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844370",
+        "nome": "ASA FOETIDA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844382",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844394",
+        "nome": "ASA FOETIDA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844406",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844418",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844420",
+        "nome": "ASA FOETIDA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844432",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844444",
+        "nome": "ASA FOETIDA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844457",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844469",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844471",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844483",
+        "nome": "ASA FOETIDA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844495",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844507",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844519",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844521",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844533",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844545",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844558",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844560",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844572",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844584",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844596",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844608",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844610",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844622",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844634",
+        "nome": "ASA FOETIDA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844646",
+        "nome": "ASA FOETIDA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844659",
+        "nome": "ASA FOETIDA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844661",
+        "nome": "ASA FOETIDA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844673",
+        "nome": "ASA FOETIDA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844685",
+        "nome": "ASA FOETIDA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844697",
+        "nome": "ASA FOETIDA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844709",
+        "nome": "ASA FOETIDA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844711",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844723",
+        "nome": "ASA FOETIDA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844735",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844747",
+        "nome": "ASA FOETIDA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844750",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844762",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844774",
+        "nome": "ASA FOETIDA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844786",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844798",
+        "nome": "ASA FOETIDA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844800",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844812",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844824",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844836",
+        "nome": "ASA FOETIDA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844848",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844851",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844863",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844875",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844887",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844899",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844901",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844913",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844925",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844937",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844949",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844952",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844964",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844976",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844988",
+        "nome": "ASA FOETIDA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045844990",
+        "nome": "ASA FOETIDA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045848013",
+        "nome": "ASA FOETIDA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045848025",
+        "nome": "ASA FOETIDA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045848037",
+        "nome": "ASA FOETIDA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045848049",
+        "nome": "ASA FOETIDA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045848052",
+        "nome": "ASA FOETIDA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "045848064",
+        "nome": "ASA FOETIDA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375010",
+        "nome": "ASA FOETIDA",
+        "descrizione": "2 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375022",
+        "nome": "ASA FOETIDA",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375034",
+        "nome": "ASA FOETIDA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375046",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375059",
+        "nome": "ASA FOETIDA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375061",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375073",
+        "nome": "ASA FOETIDA",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375085",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375097",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375109",
+        "nome": "ASA FOETIDA",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375111",
+        "nome": "ASA FOETIDA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375123",
+        "nome": "ASA FOETIDA",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375135",
+        "nome": "ASA FOETIDA",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375147",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375150",
+        "nome": "ASA FOETIDA",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375162",
+        "nome": "ASA FOETIDA",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375174",
+        "nome": "ASA FOETIDA",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375186",
+        "nome": "ASA FOETIDA",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375198",
+        "nome": "ASA FOETIDA",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375200",
+        "nome": "ASA FOETIDA",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375212",
+        "nome": "ASA FOETIDA",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375224",
+        "nome": "ASA FOETIDA",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375236",
+        "nome": "ASA FOETIDA",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375248",
+        "nome": "ASA FOETIDA",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375251",
+        "nome": "ASA FOETIDA",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375263",
+        "nome": "ASA FOETIDA",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375275",
+        "nome": "ASA FOETIDA",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375287",
+        "nome": "ASA FOETIDA",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375299",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375301",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375313",
+        "nome": "ASA FOETIDA",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375325",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375337",
+        "nome": "ASA FOETIDA",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375349",
+        "nome": "ASA FOETIDA",
+        "descrizione": "18K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375352",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375364",
+        "nome": "ASA FOETIDA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375376",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375388",
+        "nome": "ASA FOETIDA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375390",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375402",
+        "nome": "ASA FOETIDA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375414",
+        "nome": "ASA FOETIDA",
+        "descrizione": "100000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375426",
+        "nome": "ASA FOETIDA",
+        "descrizione": "2 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375438",
+        "nome": "ASA FOETIDA",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375440",
+        "nome": "ASA FOETIDA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375453",
+        "nome": "ASA FOETIDA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375465",
+        "nome": "ASA FOETIDA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375477",
+        "nome": "ASA FOETIDA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375489",
+        "nome": "ASA FOETIDA",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375491",
+        "nome": "ASA FOETIDA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375503",
+        "nome": "ASA FOETIDA",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375515",
+        "nome": "ASA FOETIDA",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375527",
+        "nome": "ASA FOETIDA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375539",
+        "nome": "ASA FOETIDA",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375541",
+        "nome": "ASA FOETIDA",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375554",
+        "nome": "ASA FOETIDA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375566",
+        "nome": "ASA FOETIDA",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375578",
+        "nome": "ASA FOETIDA",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375580",
+        "nome": "ASA FOETIDA",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375592",
+        "nome": "ASA FOETIDA",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375604",
+        "nome": "ASA FOETIDA",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375616",
+        "nome": "ASA FOETIDA",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375628",
+        "nome": "ASA FOETIDA",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375630",
+        "nome": "ASA FOETIDA",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375642",
+        "nome": "ASA FOETIDA",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375655",
+        "nome": "ASA FOETIDA",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375667",
+        "nome": "ASA FOETIDA",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375679",
+        "nome": "ASA FOETIDA",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375681",
+        "nome": "ASA FOETIDA",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375693",
+        "nome": "ASA FOETIDA",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375705",
+        "nome": "ASA FOETIDA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046375717",
+        "nome": "ASA FOETIDA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1G",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046444016",
+        "nome": "ASPIGOLADOLACT",
+        "descrizione": "8,75 MG/DOSE SPRAY PER MUCOSA ORALE- 1 FLACONE HDPE DA 15 ML",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "046712016",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712028",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712030",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712042",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712055",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712067",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712079",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046712081",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "06 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046712093",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "018 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046712105",
+        "nome": "ASARUM EUROPAEUM",
+        "descrizione": "030 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046967016",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500 MG/30 MG GRANULATO PER SOSPENSIONE ORALE- 10 BUSTINE IN PAP/AL/PE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "046967028",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500 MG/30 MG GRANULATO PER SOSPENSIONE ORALE- 20 BUSTINE IN PAP/AL/PE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "046967030",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500MG/30MG GRANULATO- 4 BUSTINE IN PETP/AL/LDPE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "046967042",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500MG/30MG GRANULATO- 6 BUSTINE IN PETP/AL/LDPE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "046967055",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500MG/30MG GRANULATO- 10 BUSTINE IN PETP/AL/LDPE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "046967067",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500MG/30MG GRANULATO- 12 BUSTINE IN PETP/AL/LDPE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "046967079",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500MG/30MG GRANULATO- 20 BUSTINE IN PETP/AL/LDPE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "046967081",
+        "nome": "ASPIRINA INFLUENZA E NASO CHIUSO",
+        "descrizione": "500MG/30MG GRANULATO- 24 BUSTINE IN PETP/AL/LDPE",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "047580016",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580028",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580030",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580042",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580055",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580067",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580079",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580081",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580093",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580105",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580117",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580129",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580131",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580143",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580156",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580168",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580170",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580182",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580194",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047580206",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580218",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580220",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580232",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580244",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580257",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580269",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580271",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580283",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580295",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580307",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580319",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580321",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580333",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580345",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580358",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580360",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580372",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047580384",
+        "nome": "ASPERULA ODORATA DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "048277014",
+        "nome": "ASPIRINAACT",
+        "descrizione": "800 MG/480 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE IN STRIP PAP/PE/AL/IONOMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "048277026",
+        "nome": "ASPIRINAACT",
+        "descrizione": "800 MG/480 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 20 COMPRESSE IN STRIP PAP/PE/AL/IONOMERO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "048495016",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/5 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495028",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/5 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495030",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/5 MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495042",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/5 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495055",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/5 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495067",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/5 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495079",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/5 MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495081",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/5 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495093",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/10 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495105",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/10 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495117",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/10 MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495129",
+        "nome": "ASURAMI",
+        "descrizione": "10 MG/10 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495131",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/10 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495143",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/10 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495156",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/10 MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048495168",
+        "nome": "ASURAMI",
+        "descrizione": "20 MG/10 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829016",
+        "nome": "ASADROX",
+        "descrizione": "5MG/100MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829028",
+        "nome": "ASADROX",
+        "descrizione": "5MG/100MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829030",
+        "nome": "ASADROX",
+        "descrizione": "5MG/100MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829042",
+        "nome": "ASADROX",
+        "descrizione": "5MG/100MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829055",
+        "nome": "ASADROX",
+        "descrizione": "5MG/100MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829067",
+        "nome": "ASADROX",
+        "descrizione": "5MG/100MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829079",
+        "nome": "ASADROX",
+        "descrizione": "10MG/100MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829081",
+        "nome": "ASADROX",
+        "descrizione": "10MG/100MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829093",
+        "nome": "ASADROX",
+        "descrizione": "10MG/100MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829105",
+        "nome": "ASADROX",
+        "descrizione": "10MG/100MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829117",
+        "nome": "ASADROX",
+        "descrizione": "10MG/100MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829129",
+        "nome": "ASADROX",
+        "descrizione": "10MG/100MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829131",
+        "nome": "ASADROX",
+        "descrizione": "20MG/100MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829143",
+        "nome": "ASADROX",
+        "descrizione": "20MG/100MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829156",
+        "nome": "ASADROX",
+        "descrizione": "20MG/100MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829168",
+        "nome": "ASADROX",
+        "descrizione": "20MG/100MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829170",
+        "nome": "ASADROX",
+        "descrizione": "20MG/100MG CAPSULE RIGIDE- 90 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829182",
+        "nome": "ASADROX",
+        "descrizione": "20MG/100MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER PA/AL-PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829194",
+        "nome": "ASADROX",
+        "descrizione": "5 MG/100 MG CAPSULE RIGIDE-  10 CPSULE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829206",
+        "nome": "ASADROX",
+        "descrizione": "10 MG/100 MG CAPSULE RIGIDE-  10 CPSULE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048829218",
+        "nome": "ASADROX",
+        "descrizione": "20 MG/100 MG CAPSULE RIGIDE-  10 CPSULE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048871014",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "049213010",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213022",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213034",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213046",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213059",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213061",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213073",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213085",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213097",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213109",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213111",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213123",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213135",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213147",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213150",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213162",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213174",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213186",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213198",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213200",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213212",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213224",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213236",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213248",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213251",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213263",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213275",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213287",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213299",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213301",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213313",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213325",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213337",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213349",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "60 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213352",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "100 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213364",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213376",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "300 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213388",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "400 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213390",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "500 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213402",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213414",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213426",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213438",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213440",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213453",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213465",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213477",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CCCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213489",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CDMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213491",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "DMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213503",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "1 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213515",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "2 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213527",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "3 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213539",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213541",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213554",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213566",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213578",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "8 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213580",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213592",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "10 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213604",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "11 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213616",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213628",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "13 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213630",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "14 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213642",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213655",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "16 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213667",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "17 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213679",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "18 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213681",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "19 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213693",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "20 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213705",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "21 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213717",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "22 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213729",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "23 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213731",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "24 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213743",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "25 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213756",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "26 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213768",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "27 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213770",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "28 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213782",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "29 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213794",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213806",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "45 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213818",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "60 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213820",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "90 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213832",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "120 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213844",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213857",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213869",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213871",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213883",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213895",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213907",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213919",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213921",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213933",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "60 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213945",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "100 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213958",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213960",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213972",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213984",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049213996",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214012",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214024",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214036",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214048",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214051",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214063",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214075",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214087",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214099",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214101",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214113",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214125",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214137",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214149",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214152",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214164",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214176",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CCCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214188",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "CDMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214190",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "DMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214202",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214214",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214226",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214238",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214240",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214253",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214265",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214277",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214289",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214291",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214303",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214315",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214327",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "13 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214339",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "14 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214341",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214354",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "16 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214366",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "17 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214378",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214380",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "19 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214392",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "20 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214404",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "21 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214416",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "22 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214428",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "23 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214430",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "24 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214442",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "25 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214455",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "26 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214467",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "27 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214479",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "28 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214481",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "29 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214493",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214505",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214517",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214529",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "90 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214531",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "120 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214543",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214556",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214568",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214570",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214582",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214594",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214606",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214618",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214620",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214632",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214644",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214657",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214669",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214671",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214683",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214695",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214707",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214719",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214721",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214733",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214745",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214758",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214760",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214772",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214784",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214796",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214808",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6K, 2 CAPSULE 12K, 2 CAPSULE 30K, 22 CAPSULE 35K, 1 CAPSULA 200K, 1 CAPSULA MK - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214810",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6 LM, 1 CAPSULA 18 LM, 1 CAPSULA 30 LM, 26 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214822",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 1 LM, 9 CAPSULE 2 LM, 9 CAPSULE 3 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214834",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 4 LM, 9 CAPSULE 5 LM, 9 CAPSULE 6 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049214846",
+        "nome": "ASA FOETIDA DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 7 LM, 9 CAPSULE 8 LM, 9 CAPSULE 9 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049418015",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "049750019",
+        "nome": "ASPAVELI",
+        "descrizione": "1080 mg - soluzione per infusione - uso sottocutaneo - flaconcino (vetro) 20 ml (54 mg/ml) - 1 flaconcino",
+        "produttore": "SWEDISH ORPHAN BIOVITRUM  AB  (PUBL)",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "049750021",
+        "nome": "ASPAVELI",
+        "descrizione": "1080 mg - soluzione per infusione - uso sottocutaneo - flaconcino (vetro) 20 ml (54 mg/ml) - 8 flaconcini",
+        "produttore": "SWEDISH ORPHAN BIOVITRUM  AB  (PUBL)",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "050316013",
+        "nome": "ASPIGOLADOL",
+        "descrizione": "8.75 mg PASTIGLIE GUSTO ARANCIA- 8 PASTIGLIE IN BLISTER PVC-PVDC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "050316025",
+        "nome": "ASPIGOLADOL",
+        "descrizione": "8.75 mg PASTIGLIE GUSTO ARANCIA- 12 PASTIGLIE IN BLISTER PVC-PVDC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "050316037",
+        "nome": "ASPIGOLADOL",
+        "descrizione": "8.75 mg PASTIGLIE GUSTO ARANCIA- 16 PASTIGLIE IN BLISTER PVC-PVDC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "050316049",
+        "nome": "ASPIGOLADOL",
+        "descrizione": "8.75 mg PASTIGLIE GUSTO ARANCIA- 24 PASTIGLIE IN BLISTER PVC-PVDC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "052182019",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE IN STRIP AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "052183011",
+        "nome": "ASPIRINA",
+        "descrizione": "400 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 10 COMPRESSE IN STRIP AL",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Compressa effervescente"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "aic": "013108030",
+        "nome": "OFTALMIL",
+        "descrizione": "?0,020% + 0,016% COLLIRIO SOLUZIONE? FLACONE DA 10 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "028476012",
+        "nome": "OFTACILOX",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE- FLACONE  5 ML",
+        "produttore": "NTC S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "028476024",
+        "nome": "OFTACILOX",
+        "descrizione": "0,3% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "NTC S.R.L.",
+        "forma": "Unguento oftalmico"
+    },
+    {
+        "aic": "034735047",
+        "nome": "OFTASTERIL",
+        "descrizione": "50 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE PP DA 3,5 ML",
+        "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "035728017",
+        "nome": "OFTAQUIX",
+        "descrizione": "1 FLACONE DI COLLIRO 0,5% DA 5 ML",
+        "produttore": "SANTEN OY",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "035728029",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE, CONTENITORE MONODOSE- 10 CONTENITORI LDPE DA 0,3 ML",
+        "produttore": "SANTEN OY",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "035728031",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE, CONTENITORE MONODOSE- 20 CONTENITORI LDPE DA 0,3 ML",
+        "produttore": "SANTEN OY",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "035728043",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE, CONTENITORE MONODOSE- 30 CONTENITORI LDPE DA 0,3 ML",
+        "produttore": "SANTEN OY",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "035728056",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE, CONTENITORE MONODOSE- 60 CONTENITORI LDPE DA 0,3 ML",
+        "produttore": "SANTEN OY",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041657014",
+        "nome": "OFUXAL",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "LAMPUGNANI FARMACEUTICI SPA",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042016016",
+        "nome": "OFTACORTAL",
+        "descrizione": "0,15% COLLIRIO, SOLUZIONE- 20 CONTENITORI MONODOSE DA 0,3 ML",
+        "produttore": "FARMIGEA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "043827017",
+        "nome": "OFEV",
+        "descrizione": "100  MG - CAPSULE MOLLI - USO ORALE -  BLISTER (ALU/ALU) - 1X30 CAPSULE MOLLI",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827029",
+        "nome": "OFEV",
+        "descrizione": "100  MG - CAPSULE MOLLI - USO ORALE -  BLISTER (ALU/ALU) - 1X60 CAPSULE MOLLI",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827031",
+        "nome": "OFEV",
+        "descrizione": "150  MG - CAPSULE MOLLI - USO ORALE -  BLISTER (ALU/ALU) - 1X30 CAPSULE MOLLI",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827043",
+        "nome": "OFEV",
+        "descrizione": "150  MG - CAPSULE MOLLI - USO ORALE -  BLISTER (ALU/ALU) - 1X60 CAPSULE MOLLI",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827056",
+        "nome": "OFEV",
+        "descrizione": "25 mg - Capsula molle - Uso orale - blister (alluminio/alluminio) - 60 x 1 capsule (dose unitaria)",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827068",
+        "nome": "OFEV",
+        "descrizione": "25 mg - Capsula molle - Uso orale - flacone (HDPE) - 60 capsule",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827070",
+        "nome": "OFEV",
+        "descrizione": "25 mg - Capsula molle - Uso orale - flacone (HDPE) - 120 capsule",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "043827082",
+        "nome": "OFEV",
+        "descrizione": "25 mg - Capsula molle - Uso orale - flacone (HDPE) - 180 capsule",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "044949016",
+        "nome": "OFLATON",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE- FLACONE IN LDPE DA 10 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "044949028",
+        "nome": "OFLATON",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE- 20 CONTENITORI MONODOSE IN LDPE DA 0,5 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047383017",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- UN FLACONE DA 5 ML",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "050131010",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- UN FLACONE DA 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052307016",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE, CONTENITORE MONODOSE- 20 CONTENITORI LDPE DA 0,3 ML",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052784016",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052872013",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 mg/ml collirio, soluzione- 1 flacone da 5 ml",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Collirio, soluzione"
+    }
+]

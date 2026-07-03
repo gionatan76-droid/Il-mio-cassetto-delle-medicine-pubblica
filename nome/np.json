@@ -1,0 +1,72 @@
+[
+    {
+        "aic": "039002011",
+        "nome": "NPLATE",
+        "descrizione": "250 MCG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO)- 1 FLACONCINO",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "039002023",
+        "nome": "NPLATE",
+        "descrizione": "500 MCG - PLOVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO)- 1 FLACONCINO",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "039002035",
+        "nome": "NPLATE",
+        "descrizione": "250 MCG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO(VETRO)- 4 FLACONCINI",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "039002047",
+        "nome": "NPLATE",
+        "descrizione": "500 MCG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO(VETRO)- 4 FLACONCINI",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "039002050",
+        "nome": "NPLATE",
+        "descrizione": "250MCG-POLV.250MCG(500/ML)E SOLV. 0,72 ML IN SIRINGA PRERIEMPITA PER SOL. INIET.-USO SC- 1FLACONC+1SIR PRER+1ADATTATORE+1AGO+1SIRINGA+4TAMPONI ALC00L",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039002062",
+        "nome": "NPLATE",
+        "descrizione": "250MCG-POLV.250MCG(500/ML)E SOLV. 0,72 ML IN SIRINGA PRERIEMPITA PER SOL. INIET.-USO SC-4X(1FLAC.+1SIR PRER+1ADATTATORE+1AGO+1SIRINGA+4TAMP. ALC00L)",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039002074",
+        "nome": "NPLATE",
+        "descrizione": "500MCG-POLV.500MCG(500/ML)E SOLV. 1,2 ML IN SIRINGA PRERIEMPITA PER SOL. INIET.-USO SC- 1FLACONC.+1SIR PRER+1ADATTATORE+1AGO+1SIRINGA+4TAMP. ALC00L",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039002086",
+        "nome": "NPLATE",
+        "descrizione": "500MCG-POLV.500MCG(500/ML)E SOLV. 1,2 ML IN SIRINGA PRERIEMPITA PER SOL. INIET.-USO SC- 4X(1FLAC.+1SIR PRER+1ADATTATORE+1AGO+1SIRINGA+4TAMP. ALC00L)",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "039002098",
+        "nome": "NPLATE",
+        "descrizione": "125 MCG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - POLVERE 125 MCG (500 MCG/ML) - 1 FLACONCINO",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "039002100",
+        "nome": "NPLATE",
+        "descrizione": "125 MCG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - POLVERE 125 MCG (500 MCG/ML) - 4 FLACONCINI",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "Polvere per soluzione iniettabile"
+    }
+]

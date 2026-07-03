@@ -1,0 +1,359 @@
+[
+    {
+        "aic": "033014010",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE 1 SIRINGA PRERIEMPITA 1 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014022",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE 10 SIRINGHE PRERIEMPITE 1 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014034",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE 25 SIRINGHE PRERIEMPITE 1 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014046",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE 1 FIALA 1 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014059",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE 10 FIALE 1 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014061",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI SOSPENSIONE INIETTABILE 25 FIALE 1 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014073",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 1 FLACONCINO 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014085",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 3 FLACONCINI 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014097",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 10 FLACONCINI 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014109",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 1 SIRINGA PRERIEMPITA 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014111",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 10 SIRINGHE PRERIEMPITE 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014123",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 1 SIRINGA PRERIEMPITA CON AGO SEPARATO 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014135",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 10 SIRINGHE PRERIEMPITE CON AGO SEPARATO 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014147",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 1 SIRINGA PRERIEMPITA + 2 AGHI SEPARATI 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014150",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO SOSPENSIONE INIETTABILE 10 SIRINGHE PRERIEMPITE + 20 AGHI SEPARATI 0,5 ML USO INTRAMUSCOLARE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014162",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI 20 MCG/ML - SOSPENSIONE INIETTABILE - USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA CON AGO SEPARATO",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014174",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI 20 MCG/ML - SOSPENSIONE INIETTABILE - USO INTRAMUSCOLARE- 10 SIRINGHE PRERIEMPITA CON AGHI SEPARATI",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014186",
+        "nome": "TWINRIX",
+        "descrizione": "ADULTI 20 MCG/ML - SOSPENSIONE INIETTABILE - USO INTRAMUSCOLARE- 25 SIRINGHE PRERIEMPITE CON AGHI SEPARATI",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033014198",
+        "nome": "TWINRIX",
+        "descrizione": "PEDIATRICO 10 MCG/0.5 ML - SOSPENSIONE INIETTABILE - USO INTRAMUSCOLRE - SIRINGA PRERIEMPITA (VETRO) - 0.5 ML- 50 SIRINGHE PRERIEMPITE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "033484015",
+        "nome": "TWICE",
+        "descrizione": "10 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 16 CAPSULE",
+        "produttore": "ETHYPHARM",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "033484027",
+        "nome": "TWICE",
+        "descrizione": "30 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 16 CAPSULE",
+        "produttore": "ETHYPHARM",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "033484039",
+        "nome": "TWICE",
+        "descrizione": "60 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 16 CAPSULE",
+        "produttore": "ETHYPHARM",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "033484041",
+        "nome": "TWICE",
+        "descrizione": "100 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 16 CAPSULE",
+        "produttore": "ETHYPHARM",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "040332013",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-14 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332025",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-28 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332037",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-30 X 1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332049",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-56 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332052",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-90 X1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332064",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-98 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332076",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-360(4X90X1) COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332088",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-14 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332090",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-28 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332102",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-30 X1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332114",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-56 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332126",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-90 X1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332138",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-98 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332140",
+        "nome": "TWYNSTA",
+        "descrizione": "40MG/10MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-360 (4X 90X1) COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332153",
+        "nome": "TWYNSTA",
+        "descrizione": "80MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-14  COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332165",
+        "nome": "TWYNSTA",
+        "descrizione": "80MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-28  COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332177",
+        "nome": "TWYNSTA",
+        "descrizione": "80MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-30 X1  COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332189",
+        "nome": "TWYNSTA",
+        "descrizione": "80MG/5MG-COMPRESSA-USO ORALE-BLISTER(PA/ALU/PVC/ALU)-56  COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332191",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/5 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-90 X 1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332203",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/5 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-98 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332215",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/5 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-360(4X90X1) COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332227",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-14  COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332239",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-28  COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332241",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-30 X1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332254",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-56 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332266",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-90 X1 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332278",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-98 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040332280",
+        "nome": "TWYNSTA",
+        "descrizione": "80 MG/10 MG-COMPRESSA -USO ORALE-BLISTER (PA/ALU/PVC/ALU)-360 (4X90X1) COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
+        "forma": "Compressa"
+    }
+]

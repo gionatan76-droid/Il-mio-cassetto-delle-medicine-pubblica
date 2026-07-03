@@ -1,0 +1,793 @@
+[
+    {
+        "aic": "022395026",
+        "nome": "BLEOPRIM",
+        "descrizione": "15 MG POLVERE PER SOLUZIONE INIETTABILE - 1 FLACONCINO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "024222034",
+        "nome": "BLOCADREN",
+        "descrizione": "40 COMPRESSE 10 MG",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451042",
+        "nome": "BLOPRESS",
+        "descrizione": "14 COMPRESSE 4 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451067",
+        "nome": "BLOPRESS",
+        "descrizione": "28 COMPRESSE 4 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451093",
+        "nome": "BLOPRESS",
+        "descrizione": "98 COMPRESSE 4 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451131",
+        "nome": "BLOPRESS",
+        "descrizione": "7 COMPRESSE 8 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451168",
+        "nome": "BLOPRESS",
+        "descrizione": "28 COMPRESSE 8 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451194",
+        "nome": "BLOPRESS",
+        "descrizione": "98 COMPRESSE 8 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451269",
+        "nome": "BLOPRESS",
+        "descrizione": "28 COMPRESSE 16 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451283",
+        "nome": "BLOPRESS",
+        "descrizione": "56 COMPRESSE 16 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451295",
+        "nome": "BLOPRESS",
+        "descrizione": "98 COMPRESSE 16 MG",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451360",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 28 COMPRESSE IN BLISTER PPE/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451384",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 56 COMPRESSE IN BLISTER PPE/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451396",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 98 COMPRESSE IN BLISTER PPE/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451434",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451446",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451459",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451461",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451473",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 84 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451485",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451497",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 91 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451509",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451511",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 140 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451523",
+        "nome": "BLOPRESS",
+        "descrizione": "4 MG COMPRESSE- 280 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451535",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451547",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451550",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451562",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451574",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 84 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451586",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451598",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 91 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451600",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451612",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 140 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451624",
+        "nome": "BLOPRESS",
+        "descrizione": "8 MG COMPRESSE- 280 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451636",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451648",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451651",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451663",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451675",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 84 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451687",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451699",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 91 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451701",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451713",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 140 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451725",
+        "nome": "BLOPRESS",
+        "descrizione": "16 MG COMPRESSE- 280 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451737",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451749",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451752",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451764",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451776",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451788",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451790",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451802",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 84 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451814",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451826",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 91 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451838",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451840",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451853",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 140 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451865",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 280 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033451877",
+        "nome": "BLOPRESS",
+        "descrizione": "32 MG COMPRESSE- 300 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187017",
+        "nome": "BLOPRESID",
+        "descrizione": "7 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187029",
+        "nome": "BLOPRESID",
+        "descrizione": "14 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187031",
+        "nome": "BLOPRESID",
+        "descrizione": "20 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187043",
+        "nome": "BLOPRESID",
+        "descrizione": "28 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187056",
+        "nome": "BLOPRESID",
+        "descrizione": "50 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187068",
+        "nome": "BLOPRESID",
+        "descrizione": "56 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187070",
+        "nome": "BLOPRESID",
+        "descrizione": "98 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187082",
+        "nome": "BLOPRESID",
+        "descrizione": "98X1 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187094",
+        "nome": "BLOPRESID",
+        "descrizione": "100 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187106",
+        "nome": "BLOPRESID",
+        "descrizione": "300 COMPRESSE IN BLISTER",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187118",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  7 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187120",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  14 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187132",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  20 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187144",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  28 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187157",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  50 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187169",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  56 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187171",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  98 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187183",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  100 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187195",
+        "nome": "BLOPRESID",
+        "descrizione": "16/12.5 MG  300 COMPRESSE IN BLISTER (AL)",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187207",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG /12,5 MG COMPRESSE- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187219",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187221",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187233",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187245",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187258",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187260",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187272",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187284",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/12,5 MG COMPRESSE- 300 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187296",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187308",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187310",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187322",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187334",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187346",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187359",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187361",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034187373",
+        "nome": "BLOPRESID",
+        "descrizione": "32 MG/25 MG COMPRESSE- 300 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "043017019",
+        "nome": "BLIXIE",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043017021",
+        "nome": "BLIXIE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044550010",
+        "nome": "BLINCYTO",
+        "descrizione": "38,5 MICROGRAMMI - POLVERE PER CONCENTRATO E SOLUZIONE PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - POLVERE:FLACONCINO (VETRO) 38,5MCG - SOLUZIONE: 10 ML FLACONCINO (VETRO) -  1 FLACONCINO + 1 FLACONCINO",
+        "produttore": "AMGEN EUROPE B.V.",
+        "forma": "POLVERE PER CONCENTRATO E SOLUZIONE PER SOLUZIONE PER INFUSIONE"
+    },
+    {
+        "aic": "046868016",
+        "nome": "BLUESYX",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HOMEOSYN ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046868028",
+        "nome": "BLUESYX",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 50 ML",
+        "produttore": "HOMEOSYN ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "048491017",
+        "nome": "BLUMEG",
+        "descrizione": "1000 MG CAPSULE MOLLI- 20 CAPSULE IN BLISTER PVC-PVDC/AL",
+        "produttore": "IPSO PHARMA S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "048491029",
+        "nome": "BLUMEG",
+        "descrizione": "1000 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC-PVDC/AL",
+        "produttore": "IPSO PHARMA S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "049977010",
+        "nome": "BLAMONEHEL",
+        "descrizione": "267 MG COMPRESSE RIVESTITE CON FILM- 63 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049977022",
+        "nome": "BLAMONEHEL",
+        "descrizione": "267 MG COMPRESSE RIVESTITE CON FILM- 252 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049977034",
+        "nome": "BLAMONEHEL",
+        "descrizione": "801 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050860016",
+        "nome": "BLIZOMIT",
+        "descrizione": "?10 MG/ML + 5 MG/ML COLLIRIO, SOSPENSIONE? 1 FLACONE CON CONTAGOCCE  IN LDPE",
+        "produttore": "PHARMATHEN S.A.",
+        "forma": "Collirio, sospensione"
+    },
+    {
+        "aic": "050860028",
+        "nome": "BLIZOMIT",
+        "descrizione": "?10 MG/ML + 5 MG/ML COLLIRIO, SOSPENSIONE? 3 FLACONI CON CONTAGOCCE IN LDPE",
+        "produttore": "PHARMATHEN S.A.",
+        "forma": "Collirio, sospensione"
+    },
+    {
+        "aic": "050895010",
+        "nome": "BLORMAT",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMA GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050895022",
+        "nome": "BLORMAT",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMA GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050895034",
+        "nome": "BLORMAT",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMA GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052353012",
+        "nome": "BLENREP",
+        "descrizione": "70 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052353024",
+        "nome": "BLENREP",
+        "descrizione": "100 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    }
+]

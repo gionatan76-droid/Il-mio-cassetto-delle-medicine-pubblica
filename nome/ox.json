@@ -1,0 +1,1360 @@
+[
+    {
+        "aic": "033312012",
+        "nome": "OXIS",
+        "descrizione": "TURBOHALER 4,5 MICROGRAMMI/DOSE- 1 INALATORE",
+        "produttore": "ASTRAZENECA S.P.A.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "033312024",
+        "nome": "OXIS",
+        "descrizione": "TURBOHALER 9 MICROGRAMMI/DOSE- 1 INALATORE",
+        "produttore": "ASTRAZENECA S.P.A.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "033312036",
+        "nome": "OXIS",
+        "descrizione": "TURBOHALER 4,5 MICROGRAMMI/DOSE- 3 INALATORI",
+        "produttore": "ASTRAZENECA S.P.A.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "033312048",
+        "nome": "OXIS",
+        "descrizione": "TURBOHALER 9 MICROGRAMMI/DOSE- 3 INALATORI",
+        "produttore": "ASTRAZENECA S.P.A.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "034435014",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 10 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435026",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 10 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435038",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 10 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435040",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 10 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435053",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 10 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435065",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 10 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435077",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 20 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435089",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 20 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435091",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 20 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435103",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 20 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435115",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 20 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435127",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 20 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435139",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 40 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435141",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 40 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435154",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 40 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435166",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 40 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435178",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 40 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435180",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 40 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435192",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 80 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435204",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 80 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435216",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 80 MG IN BLISTER",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435228",
+        "nome": "OXYCONTIN",
+        "descrizione": "28 COMPRESSE A RILASCIO PROLUNGATO 80 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435230",
+        "nome": "OXYCONTIN",
+        "descrizione": "56 COMPRESSE A RILASCIO PROLUNGATO 80 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435242",
+        "nome": "OXYCONTIN",
+        "descrizione": "112 COMPRESSE A RILASCIO PROLUNGATO 80 MG IN FLACONE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435255",
+        "nome": "OXYCONTIN",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435267",
+        "nome": "OXYCONTIN",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435279",
+        "nome": "OXYCONTIN",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435281",
+        "nome": "OXYCONTIN",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "034435293",
+        "nome": "OXYCONTIN",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 112 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "035733017",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "10 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733029",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "20 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733031",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "28 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733043",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "30 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733056",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "50 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733068",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "56 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733070",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "60 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733082",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "90 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733094",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "100 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733106",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "250 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733118",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "300 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035733120",
+        "nome": "OXIBUTININA EG",
+        "descrizione": "500 COMPRESSE DA 5 MG",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038107013",
+        "nome": "OXALIPLATINO TEVA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 4 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "038107025",
+        "nome": "OXALIPLATINO TEVA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 10 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "038107037",
+        "nome": "OXALIPLATINO TEVA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 20 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "038107076",
+        "nome": "OXALIPLATINO TEVA",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 40 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "038960011",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO DA 40 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960050",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - PACCO BOMBOLA DA 16 BOMBOLE DA 40 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960062",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - PACCO BOMBOLA DA 20 BOMBOLE DA 50 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960074",
+        "nome": "OXO",
+        "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO MOBILE, 31 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale criogenico"
+    },
+    {
+        "aic": "038960086",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO- BOMBOLA CON VALVOLA RIDUTTRICE INTEGRATA DA 14 LT",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960098",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO- BOMBOLA CON VALVOLA RIDUTTRICE INTEGRATA DA 27 LT",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960100",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO- BOMBOLA CON VALVOLA RIDUTTRICE INTEGRATA DA 7 LT",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960112",
+        "nome": "OXO",
+        "descrizione": "200 BAR GAS MEDICINALE COMPRESSO- BOMBOLA IN ACCIAIO DA LITRI 5",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960124",
+        "nome": "OXO",
+        "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 1500 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale criogenico"
+    },
+    {
+        "aic": "038960136",
+        "nome": "OXO",
+        "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 3000 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale criogenico"
+    },
+    {
+        "aic": "038960148",
+        "nome": "OXO",
+        "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 5000 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale criogenico"
+    },
+    {
+        "aic": "038960151",
+        "nome": "OXO",
+        "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 10000 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale criogenico"
+    },
+    {
+        "aic": "038960163",
+        "nome": "OXO",
+        "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 20000 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale criogenico"
+    },
+    {
+        "aic": "038960175",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO DA 7 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960187",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO DA 10 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960199",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO DA 14 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960201",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO DA 27 LITRI",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960213",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO- BOMBOLA CON VALVOLA RIDUTTRICE INTEGRATA DA 3 LT",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "038960225",
+        "nome": "OXO",
+        "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO- BOMBOLA CON VALVOLA RIDUTTRICE INTEGRATA DA 5 LT",
+        "produttore": "EURO OSSIGENO S.R.L.",
+        "forma": "Gas medicinale compresso"
+    },
+    {
+        "aic": "039170016",
+        "nome": "OXALIPLATINO KABI",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 10 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "039170028",
+        "nome": "OXALIPLATINO KABI",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 20 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "039170030",
+        "nome": "OXALIPLATINO KABI",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 40 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654016",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 50 MG/10 ML 1 FLACONCINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654028",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 50 MG/10 ML 5 FLACONCINI",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654030",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 50 MG/10 ML 10 FLACONCINI",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654042",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 100 MG/20 ML 1 FLACONCINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654055",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 200 MG/40 ML 1 FLACONCINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654067",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 150 MG/30 ML 1 FLACONCINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040654079",
+        "nome": "OXALIPLATINO SANDOZ",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 250 MG/50 ML 1 FLACONCINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041274010",
+        "nome": "OXALIPLATINO ACCORD",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041274022",
+        "nome": "OXALIPLATINO ACCORD",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041274034",
+        "nome": "OXALIPLATINO ACCORD",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 40 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041761014",
+        "nome": "OXALIPLATINO SUN",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 50MG/10ML  IN VETRO",
+        "produttore": "SUN PHARMA FRANCE",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041761026",
+        "nome": "OXALIPLATINO SUN",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI DA 50MG/10ML  IN VETRO",
+        "produttore": "SUN PHARMA FRANCE",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041761038",
+        "nome": "OXALIPLATINO SUN",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 100MG/20ML  IN VETRO",
+        "produttore": "SUN PHARMA FRANCE",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041761040",
+        "nome": "OXALIPLATINO SUN",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI DA 100MG/20ML  IN VETRO",
+        "produttore": "SUN PHARMA FRANCE",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041761053",
+        "nome": "OXALIPLATINO SUN",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 200MG/40ML  IN VETRO",
+        "produttore": "SUN PHARMA FRANCE",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "041761065",
+        "nome": "OXALIPLATINO SUN",
+        "descrizione": "5MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI DA 200MG/40ML  IN VETRO",
+        "produttore": "SUN PHARMA FRANCE",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042060018",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060020",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060032",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060044",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060057",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060069",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060071",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060083",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060095",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060107",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060119",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060121",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060133",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060145",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060158",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060160",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060172",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060184",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060196",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060208",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060210",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060222",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060234",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060246",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060259",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060261",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060273",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060285",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060297",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060309",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060311",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060323",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060335",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060347",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060350",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060362",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060374",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060386",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060398",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060400",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060412",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060424",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060436",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060448",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060451",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060463",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060475",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060487",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060499",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060501",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060513",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060525",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060537",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060549",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060552",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060564",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060576",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060588",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060590",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060602",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060614",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060626",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060638",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060640",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060653",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060665",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060677",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060689",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060691",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060703",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060715",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060727",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060739",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060741",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060754",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060766",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "5 MG COMPRESSE A RILASCIO PROLUNGATO- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060778",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060780",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "20 MG COMPRESSE A RILASCIO PROLUNGATO- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060792",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "40 MG COMPRESSE A RILASCIO PROLUNGATO- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042060804",
+        "nome": "OXICODONE ACCORD",
+        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "042353019",
+        "nome": "OXCARBAZEPINA TECNIGEN",
+        "descrizione": "300 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "042353021",
+        "nome": "OXCARBAZEPINA TECNIGEN",
+        "descrizione": "600 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045272010",
+        "nome": "OXA",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE CONTAGOCCE LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "045383015",
+        "nome": "OXERVATE",
+        "descrizione": "20 MCG/ML -  COLLIRIO, SOLUZIONE - USO OCULARE - FLACONCINO (VETRO) 1 ML - 7 FLACONCINI MULTIDOSE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "049014018",
+        "nome": "OXYPRONAL",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014020",
+        "nome": "OXYPRONAL",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014032",
+        "nome": "OXYPRONAL",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014044",
+        "nome": "OXYPRONAL",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014057",
+        "nome": "OXYPRONAL",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014069",
+        "nome": "OXYPRONAL",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014071",
+        "nome": "OXYPRONAL",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014083",
+        "nome": "OXYPRONAL",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049014095",
+        "nome": "OXYPRONAL",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049146018",
+        "nome": "OXALIPLATINO HIKMA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "049146020",
+        "nome": "OXALIPLATINO HIKMA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "049146032",
+        "nome": "OXALIPLATINO HIKMA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 40 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "049177013",
+        "nome": "OXLUMO",
+        "descrizione": "94,5 MG / 0,5 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) 0,5 ML - 1 FLACONCINO",
+        "produttore": "ALNYLAM NETHERLANDS BV",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "049359019",
+        "nome": "OXALIPLATINO FOSUN PHARMA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "FOSUN PHARMA SP ZOO",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "049359021",
+        "nome": "OXALIPLATINO FOSUN PHARMA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "FOSUN PHARMA SP ZOO",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "049971017",
+        "nome": "OXBRYTA",
+        "descrizione": "500 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 90 compresse",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050405012",
+        "nome": "OXALIPLATINO AUROBINDO ITALIA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "050405024",
+        "nome": "OXALIPLATINO AUROBINDO ITALIA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "050405036",
+        "nome": "OXALIPLATINO AUROBINDO ITALIA",
+        "descrizione": "5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 40 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051052013",
+        "nome": "OXCIVA",
+        "descrizione": "1000 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "AVAS PHARMACEUTICALS SRL",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051052025",
+        "nome": "OXCIVA",
+        "descrizione": "1000 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "AVAS PHARMACEUTICALS SRL",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051052037",
+        "nome": "OXCIVA",
+        "descrizione": "1000 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 25 FLACONCINI IN VETRO",
+        "produttore": "AVAS PHARMACEUTICALS SRL",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051052049",
+        "nome": "OXCIVA",
+        "descrizione": "1000 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 50 FLACONCINI IN VETRO",
+        "produttore": "AVAS PHARMACEUTICALS SRL",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    }
+]

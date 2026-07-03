@@ -1,0 +1,1808 @@
+[
+    {
+        "aic": "020423048",
+        "nome": "ECOVAL",
+        "descrizione": "1 MG/G UNGUENTO- TUBO DA 30 G",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "020423087",
+        "nome": "ECOVAL",
+        "descrizione": "1 MG/G EMULSIONE CUTANEA- FLACONE DA 30 G",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Emulsione cutanea"
+    },
+    {
+        "aic": "020423137",
+        "nome": "ECOVAL",
+        "descrizione": "1 MG/G CREMA- TUBO DA 30 G",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "020423265",
+        "nome": "ECOVAL",
+        "descrizione": "0,5 MG/G SOLUZIONE CUTANEA- FLACONE DA 30 G",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Soluzione cutanea"
+    },
+    {
+        "aic": "025041017",
+        "nome": "ECOSTERIL",
+        "descrizione": "CREMA DERMATOLOGICA 1% 30 G",
+        "produttore": "COGITO CONSULTING SRL",
+        "forma": "Crema"
+    },
+    {
+        "aic": "025041068",
+        "nome": "ECOSTERIL",
+        "descrizione": "15 OVULI VAGINALI 50 MG",
+        "produttore": "COGITO CONSULTING SRL",
+        "forma": "Ovulo"
+    },
+    {
+        "aic": "025041094",
+        "nome": "ECOSTERIL",
+        "descrizione": "6 OVULI VAGINALI 150 MG",
+        "produttore": "COGITO CONSULTING SRL",
+        "forma": "Ovulo"
+    },
+    {
+        "aic": "025950027",
+        "nome": "ECOREX",
+        "descrizione": "1% CREMA -TUBO 30 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "025950041",
+        "nome": "ECOREX",
+        "descrizione": "1% CREMA VAGINALE- TUBO 78 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Crema vaginale"
+    },
+    {
+        "aic": "025950054",
+        "nome": "ECOREX",
+        "descrizione": "1% EMULSIONE CUTANEA- FLACONE 30 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Emulsione cutanea"
+    },
+    {
+        "aic": "025950080",
+        "nome": "ECOREX",
+        "descrizione": "150 MG OVULI-6  OVULI",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula molle vaginale"
+    },
+    {
+        "aic": "025950092",
+        "nome": "ECOREX",
+        "descrizione": "0,1% LAVANDA VAGINALE- 5 FLACONI DA 150 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Liquido per lavanda gastrica"
+    },
+    {
+        "aic": "027388014",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE- 10 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388026",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE- 50 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388038",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE CON ADRENALINA 1:100.000- 10 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388040",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE CON ADRENALINA 1:100.000- 50 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388053",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE CON ADRENALINA 1:80.000- 10 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388065",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE CON ADRENALINA 1:80.000- 50 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388077",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE CON ADRENALINA 1:50.000- 10 CARTUCCE 1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388089",
+        "nome": "ECOCAIN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE CON ADRENALINA 1:50.000- 50 CARTUCCE1,8 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "027388091",
+        "nome": "ECOCAIN",
+        "descrizione": "10 G/100 ML SPRAY PER MUCOSA ORALE-FLACONE NEBULIZZATORE 60 ML",
+        "produttore": "MOLTENI DENTAL S.R.L.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "035598010",
+        "nome": "ECOCILLIN",
+        "descrizione": "100.000.000 UFC CAPSULE MOLLI VAGINALI - 3 CAPSULE",
+        "produttore": "PROGE MEDICA S.R.L.",
+        "forma": "Capsula molle vaginale"
+    },
+    {
+        "aic": "035598022",
+        "nome": "ECOCILLIN",
+        "descrizione": "100.000.000 UFC CAPSULE MOLLI VAGINALI - 6 CAPSULE",
+        "produttore": "PROGE MEDICA S.R.L.",
+        "forma": "Capsula molle vaginale"
+    },
+    {
+        "aic": "035598034",
+        "nome": "ECOCILLIN",
+        "descrizione": "100.000.000 UFC CAPSULE RIGIDE VAGINALI- 6 CAPSULE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "PROGE MEDICA S.R.L.",
+        "forma": "Capsula rigida vaginale"
+    },
+    {
+        "aic": "038271019",
+        "nome": "ECLIPSE",
+        "descrizione": "2,5 MG COMPRESSE - 28 COMPRESSE DIVISIBILI",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038271021",
+        "nome": "ECLIPSE",
+        "descrizione": "5 MG COMPRESSE - 14 COMPRESSE DIVISIBILI",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038271033",
+        "nome": "ECLIPSE",
+        "descrizione": "10 MG COMPRESSE - 28 COMPRESSE DIVISIBILI",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038382014",
+        "nome": "ECALTA",
+        "descrizione": "100 MG POLVERE E SOLVENTE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE-USO ENDOVENOSO- FLACONCINO (VETRO) POLV: 100 MG, SOLV:30 ML 1FLACONC + 1 FLACON",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Polvere e solvente per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "038382026",
+        "nome": "ECALTA",
+        "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE  - USO ENDOVENOSO-FLACONCINO (VETRO) DA 30 ML - 1 FLACONCINO",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "042183018",
+        "nome": "ECANSYA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183020",
+        "nome": "ECANSYA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183032",
+        "nome": "ECANSYA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183044",
+        "nome": "ECANSYA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183057",
+        "nome": "ECANSYA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183069",
+        "nome": "ECANSYA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 120 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183071",
+        "nome": "ECANSYA",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183083",
+        "nome": "ECANSYA",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183095",
+        "nome": "ECANSYA",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183107",
+        "nome": "ECANSYA",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183119",
+        "nome": "ECANSYA",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183121",
+        "nome": "ECANSYA",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 120 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183133",
+        "nome": "ECANSYA",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183145",
+        "nome": "ECANSYA",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183158",
+        "nome": "ECANSYA",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183160",
+        "nome": "ECANSYA",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183172",
+        "nome": "ECANSYA",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042183184",
+        "nome": "ECANSYA",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 120 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043677018",
+        "nome": "ECUBALIN",
+        "descrizione": "25 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "043677020",
+        "nome": "ECUBALIN",
+        "descrizione": "75 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "043677032",
+        "nome": "ECUBALIN",
+        "descrizione": "75 MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "043677044",
+        "nome": "ECUBALIN",
+        "descrizione": "150 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "043677057",
+        "nome": "ECUBALIN",
+        "descrizione": "150 MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "043677069",
+        "nome": "ECUBALIN",
+        "descrizione": "300 MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044497016",
+        "nome": "ECUMENS",
+        "descrizione": "1200 MG POLVERE PER SOLUZIONE ORALE- 40 BUSTINE ICARTA/PE/AL/PE CON BICCHIERINO DOSATORE IN PP",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044497028",
+        "nome": "ECUMENS",
+        "descrizione": "3 G POLVERE PER SOLUZIONE ORALE- 12 BUSTINE CARTA/PE/AL/PE CON BICCHIERINO DOSATORE IN PP",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "046650014",
+        "nome": "ECHINACEA COSMOPLEX",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047020019",
+        "nome": "ECBIRIO",
+        "descrizione": "0.3 MG/ML + 5 MG/ML COLLIRIO SOLUZIONE- 1 FLACONE IN LDPE",
+        "produttore": "SIFI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047020021",
+        "nome": "ECBIRIO",
+        "descrizione": "0.3 MG/ML + 5 MG/ML COLLIRIO SOLUZIONE- 3 FLACONI IN LDPE",
+        "produttore": "SIFI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047171018",
+        "nome": "ECUTIN",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 60 ML CON CONTAGOCCE",
+        "produttore": "ECUPHARMA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220013",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220025",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220037",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220049",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220052",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220064",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220076",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220088",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220090",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220102",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220114",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220126",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220138",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220140",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220153",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220165",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220177",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220189",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220191",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220203",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220215",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220227",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220239",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220241",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220254",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220266",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220278",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220280",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220292",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220304",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220316",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220328",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220330",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220342",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220355",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220367",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220379",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220381",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220393",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047220405",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220417",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220429",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220431",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220443",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220456",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220468",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220470",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220482",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220494",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220506",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220518",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220520",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220532",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220544",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220557",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220569",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047220571",
+        "nome": "ECHINACEA ANGUSTIFOLIA",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050088018",
+        "nome": "ECHINACEAPLUS (SYNERGIPLUS N.107)",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050491012",
+        "nome": "ECHINACEA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491024",
+        "nome": "ECHINACEA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491036",
+        "nome": "ECHINACEA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491048",
+        "nome": "ECHINACEA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491051",
+        "nome": "ECHINACEA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491063",
+        "nome": "ECHINACEA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491075",
+        "nome": "ECHINACEA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491087",
+        "nome": "ECHINACEA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491099",
+        "nome": "ECHINACEA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491101",
+        "nome": "ECHINACEA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491113",
+        "nome": "ECHINACEA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491125",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491137",
+        "nome": "ECHINACEA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491149",
+        "nome": "ECHINACEA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491152",
+        "nome": "ECHINACEA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491164",
+        "nome": "ECHINACEA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491176",
+        "nome": "ECHINACEA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491188",
+        "nome": "ECHINACEA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491190",
+        "nome": "ECHINACEA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491202",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491214",
+        "nome": "ECHINACEA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491226",
+        "nome": "ECHINACEA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491238",
+        "nome": "ECHINACEA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491240",
+        "nome": "ECHINACEA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491253",
+        "nome": "ECHINACEA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491265",
+        "nome": "ECHINACEA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491277",
+        "nome": "ECHINACEA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491289",
+        "nome": "ECHINACEA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491291",
+        "nome": "ECHINACEA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491303",
+        "nome": "ECHINACEA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491315",
+        "nome": "ECHINACEA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491327",
+        "nome": "ECHINACEA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491339",
+        "nome": "ECHINACEA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491341",
+        "nome": "ECHINACEA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491354",
+        "nome": "ECHINACEA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491366",
+        "nome": "ECHINACEA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491378",
+        "nome": "ECHINACEA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491380",
+        "nome": "ECHINACEA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491392",
+        "nome": "ECHINACEA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491404",
+        "nome": "ECHINACEA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491416",
+        "nome": "ECHINACEA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491428",
+        "nome": "ECHINACEA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491430",
+        "nome": "ECHINACEA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491442",
+        "nome": "ECHINACEA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491455",
+        "nome": "ECHINACEA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491467",
+        "nome": "ECHINACEA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491479",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491481",
+        "nome": "ECHINACEA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491493",
+        "nome": "ECHINACEA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491505",
+        "nome": "ECHINACEA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491517",
+        "nome": "ECHINACEA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491529",
+        "nome": "ECHINACEA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491531",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491543",
+        "nome": "ECHINACEA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491556",
+        "nome": "ECHINACEA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491568",
+        "nome": "ECHINACEA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491570",
+        "nome": "ECHINACEA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491582",
+        "nome": "ECHINACEA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491594",
+        "nome": "ECHINACEA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491606",
+        "nome": "ECHINACEA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491618",
+        "nome": "ECHINACEA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491620",
+        "nome": "ECHINACEA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491632",
+        "nome": "ECHINACEA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491644",
+        "nome": "ECHINACEA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491657",
+        "nome": "ECHINACEA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491669",
+        "nome": "ECHINACEA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491671",
+        "nome": "ECHINACEA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491683",
+        "nome": "ECHINACEA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050491695",
+        "nome": "ECHINACEA",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491707",
+        "nome": "ECHINACEA",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491719",
+        "nome": "ECHINACEA",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491721",
+        "nome": "ECHINACEA",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491733",
+        "nome": "ECHINACEA",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491745",
+        "nome": "ECHINACEA",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491758",
+        "nome": "ECHINACEA",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491760",
+        "nome": "ECHINACEA",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491772",
+        "nome": "ECHINACEA",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491784",
+        "nome": "ECHINACEA",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491796",
+        "nome": "ECHINACEA",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491808",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491810",
+        "nome": "ECHINACEA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491822",
+        "nome": "ECHINACEA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491834",
+        "nome": "ECHINACEA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491846",
+        "nome": "ECHINACEA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491859",
+        "nome": "ECHINACEA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491861",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491873",
+        "nome": "ECHINACEA",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491885",
+        "nome": "ECHINACEA",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491897",
+        "nome": "ECHINACEA",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491909",
+        "nome": "ECHINACEA",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491911",
+        "nome": "ECHINACEA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491923",
+        "nome": "ECHINACEA",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491935",
+        "nome": "ECHINACEA",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491947",
+        "nome": "ECHINACEA",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491950",
+        "nome": "ECHINACEA",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491962",
+        "nome": "ECHINACEA",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491974",
+        "nome": "ECHINACEA",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491986",
+        "nome": "ECHINACEA",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050491998",
+        "nome": "ECHINACEA",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050492014",
+        "nome": "ECHINACEA",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050492026",
+        "nome": "ECHINACEA",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050492038",
+        "nome": "ECHINACEA",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492040",
+        "nome": "ECHINACEA",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492053",
+        "nome": "ECHINACEA",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492065",
+        "nome": "ECHINACEA",
+        "descrizione": "8 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492077",
+        "nome": "ECHINACEA",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492089",
+        "nome": "ECHINACEA",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492091",
+        "nome": "ECHINACEA",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492103",
+        "nome": "ECHINACEA",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492115",
+        "nome": "ECHINACEA",
+        "descrizione": "18 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492127",
+        "nome": "ECHINACEA",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492139",
+        "nome": "ECHINACEA",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492141",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492154",
+        "nome": "ECHINACEA",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492166",
+        "nome": "ECHINACEA",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492178",
+        "nome": "ECHINACEA",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492180",
+        "nome": "ECHINACEA",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492192",
+        "nome": "ECHINACEA",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492204",
+        "nome": "ECHINACEA",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492216",
+        "nome": "ECHINACEA",
+        "descrizione": "7K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492228",
+        "nome": "ECHINACEA",
+        "descrizione": "9K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492230",
+        "nome": "ECHINACEA",
+        "descrizione": "15K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492242",
+        "nome": "ECHINACEA",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492255",
+        "nome": "ECHINACEA",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492267",
+        "nome": "ECHINACEA",
+        "descrizione": "1000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492279",
+        "nome": "ECHINACEA",
+        "descrizione": "10000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492281",
+        "nome": "ECHINACEA",
+        "descrizione": "50000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492293",
+        "nome": "ECHINACEA",
+        "descrizione": "06 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492305",
+        "nome": "ECHINACEA",
+        "descrizione": "09 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492317",
+        "nome": "ECHINACEA",
+        "descrizione": "012 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492329",
+        "nome": "ECHINACEA",
+        "descrizione": "015 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492331",
+        "nome": "ECHINACEA",
+        "descrizione": "030 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492343",
+        "nome": "ECHINACEA",
+        "descrizione": "050 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492356",
+        "nome": "ECHINACEA",
+        "descrizione": "060 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492368",
+        "nome": "ECHINACEA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050492370",
+        "nome": "ECHINACEA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050492382",
+        "nome": "ECHINACEA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050492394",
+        "nome": "ECHINACEA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050492406",
+        "nome": "ECHINACEA",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050492418",
+        "nome": "ECHINACEA",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052661016",
+        "nome": "ECBIRIO",
+        "descrizione": "0.3 MG/ML + 5 MG/ML COLLIRIO SOLUZIONE- 1 FLACONE IN LDPE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    }
+]

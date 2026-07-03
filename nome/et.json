@@ -1,0 +1,1577 @@
+[
+    {
+        "aic": "010681029",
+        "nome": "ETILTOX",
+        "descrizione": "200 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "018805022",
+        "nome": "ETACORTILEN",
+        "descrizione": "1,5 MG/ML COLLIRIO, SOLUZIONE- 20 CONTENITORI MONODOSE DA 0,3 ML",
+        "produttore": "SIFI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "018805034",
+        "nome": "ETACORTILEN",
+        "descrizione": "1,5 MG/ML COLLIRIO, SOLUZIONE- 10 CONTENITORI MONODOSE DA 0,3 ML",
+        "produttore": "SIFI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "018805046",
+        "nome": "ETACORTILEN",
+        "descrizione": "1,5MG/ML GEL OFTALMICO - 20 CONTENITORI MONODOSE 0,4 ML",
+        "produttore": "SIFI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "021257023",
+        "nome": "ETAPIAM",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "021257062",
+        "nome": "ETAPIAM",
+        "descrizione": "500 MG/3 ML SOLUZIONE INIETTABILE-10 FIALE",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034410011",
+        "nome": "ETOPOSIDE TEVA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 5 ML",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "034410023",
+        "nome": "ETOPOSIDE TEVA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 10 ML",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "034410035",
+        "nome": "ETOPOSIDE TEVA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 20 ML",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "034410047",
+        "nome": "ETOPOSIDE TEVA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 25 ML",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "034410050",
+        "nome": "ETOPOSIDE TEVA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 50 ML",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "036490023",
+        "nome": "ETAZIM",
+        "descrizione": "1 G/3 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - 1 FLACONCINO + 1 FIALA SOLVENTE 3 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "036490035",
+        "nome": "ETAZIM",
+        "descrizione": "1 G/10 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO ENDOVENOSO - 1 FLACONCINO + 1 FIALA SOLVENTE 10 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "036622013",
+        "nome": "ETOPOSIDE SANDOZ",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACOCINO IN VETRO  DA 5 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "036622025",
+        "nome": "ETOPOSIDE SANDOZ",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACOCINO IN VETRO  DA 10 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "036622037",
+        "nome": "ETOPOSIDE SANDOZ",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACOCINO IN VETRO  DA 20 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "036622049",
+        "nome": "ETOPOSIDE SANDOZ",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACOCINO IN VETRO  DA 50 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "036622052",
+        "nome": "ETOPOSIDE SANDOZ",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACOCINO IN VETRO  DA 2,5 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "037769015",
+        "nome": "ETRIVEX",
+        "descrizione": "500 MCG/G SHAMPOO- 1 FLACONE HDPE DA 30 ML",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Shampoo"
+    },
+    {
+        "aic": "037769027",
+        "nome": "ETRIVEX",
+        "descrizione": "500 MCG/G SHAMPOO- 1 FLACONE HDPE DA 60 ML",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Shampoo"
+    },
+    {
+        "aic": "037769039",
+        "nome": "ETRIVEX",
+        "descrizione": "500 MCG/G SHAMPOO- 1 FLACONE HDPE DA 125 ML",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Shampoo"
+    },
+    {
+        "aic": "041317013",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC GENERICI",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 1 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041317025",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC GENERICI",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041317037",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC GENERICI",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041317049",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC GENERICI",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041449012",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 1X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041449024",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 2X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041449036",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041449048",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041449051",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOC",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041450014",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOCGEN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 1X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041450026",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOCGEN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 2X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041450038",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOCGEN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041450040",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOCGEN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041450053",
+        "nome": "ETINILESTRADIOLO E DROSPIRENONE DOCGEN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042673018",
+        "nome": "ETOPOSIDE ACCORD",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO IN VETRO DA 100 MG/5 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042673020",
+        "nome": "ETOPOSIDE ACCORD",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO IN VETRO DA 250 MG/12,5ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042673032",
+        "nome": "ETOPOSIDE ACCORD",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO VETRO DA 10 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042673044",
+        "nome": "ETOPOSIDE ACCORD",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO VETRO DA 20 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042673057",
+        "nome": "ETOPOSIDE ACCORD",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO VETRO DA 25 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042673069",
+        "nome": "ETOPOSIDE ACCORD",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO VETRO DA 50 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042821013",
+        "nome": "ETASON",
+        "descrizione": "0,5 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "042821025",
+        "nome": "ETASON",
+        "descrizione": "1 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "042821037",
+        "nome": "ETASON",
+        "descrizione": "0,5 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "042821052",
+        "nome": "ETASON",
+        "descrizione": "1 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "043004011",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004023",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004035",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004047",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004050",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004062",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004074",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 49 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004086",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004098",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004100",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004112",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004124",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004136",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004148",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004151",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004163",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004175",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 49 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004187",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004199",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004201",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004213",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004225",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004237",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004249",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004252",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004264",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004276",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 49 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004288",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004290",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004302",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004314",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004326",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004338",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004340",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004353",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004365",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004377",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 49 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004389",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004391",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043004403",
+        "nome": "ETORICOXIB SANDOZ",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546011",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546023",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546035",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546047",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546050",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546062",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546074",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546086",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546098",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546100",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546112",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043546124",
+        "nome": "ETORICOXIB MYLAN",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684012",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684024",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684036",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684048",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684051",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684063",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684075",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684087",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684099",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684101",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684113",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684125",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684137",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684149",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684152",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684164",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684176",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684188",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684190",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684202",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684214",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684226",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684238",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684240",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684253",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 16 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684265",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684277",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684289",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684291",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684303",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684315",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 7 X 1 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684327",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684339",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7 X 1 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684341",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043684354",
+        "nome": "ETORICOXIB TEVA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043688011",
+        "nome": "ETORICOXIB DOC GENERICI",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043688023",
+        "nome": "ETORICOXIB DOC GENERICI",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043688035",
+        "nome": "ETORICOXIB DOC GENERICI",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747043",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747056",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747068",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747070",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747082",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747094",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747106",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747118",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747120",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747132",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747144",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043747157",
+        "nome": "ETORICOXIB ZENTIVA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451019",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451021",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451033",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451045",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451058",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451060",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451072",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451084",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451096",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451108",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451110",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451122",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451134",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451146",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451159",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451161",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451173",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451185",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451197",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451209",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451211",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451223",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451235",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451247",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451250",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451262",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451274",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451286",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451298",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451300",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451312",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044451324",
+        "nome": "ETORICOXIB EG",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632014",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632026",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632038",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632040",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632053",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632065",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044632077",
+        "nome": "ETORICOXIB KRKA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821015",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM - 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821027",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821039",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821041",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821054",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821066",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821078",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821080",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821092",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM - 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821104",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044821116",
+        "nome": "ETORICOXIB AUROBINDO",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044969018",
+        "nome": "ETORICOXIB TECNIGEN",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044969020",
+        "nome": "ETORICOXIB TECNIGEN",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044969032",
+        "nome": "ETORICOXIB TECNIGEN",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220011",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 7X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220023",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220035",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220047",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 7X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220050",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220062",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220074",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220086",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045220098",
+        "nome": "ETORICOXIB PENSA",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221013",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221025",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221037",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221049",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221052",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "90 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221064",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221076",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045221088",
+        "nome": "ETORICOXIB ALTER",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048368017",
+        "nome": "ETOPOSIDE HIKMA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 5 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048368029",
+        "nome": "ETOPOSIDE HIKMA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048368031",
+        "nome": "ETOPOSIDE HIKMA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048368043",
+        "nome": "ETOPOSIDE HIKMA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 25 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048368056",
+        "nome": "ETOPOSIDE HIKMA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 50 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051966012",
+        "nome": "ETOSUCCIMIDE GLENMARK",
+        "descrizione": "50 MG/ML SOLUZIONE ORALE- 1 FLACONE IN PET DA 250 ML CON TAPPO A PROVA DI BAMBINO E 1 SIRINGA PER SOMMINISTRAZIONE ORALE",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "052620010",
+        "nome": "ETOFENAMATO GREENCANGO",
+        "descrizione": "100 MG/G GEL- 1 TUBO IN AL DA 50 G",
+        "produttore": "GREENCANGO KFT",
+        "forma": "Gel"
+    },
+    {
+        "aic": "052620022",
+        "nome": "ETOFENAMATO GREENCANGO",
+        "descrizione": "100 MG/G GEL- 1 TUBO IN AL DA 100 G",
+        "produttore": "GREENCANGO KFT",
+        "forma": "Gel"
+    }
+]

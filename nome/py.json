@@ -1,0 +1,149 @@
+[
+    {
+        "aic": "005268038",
+        "nome": "PYRALVEX",
+        "descrizione": "<50 mg/ml + 10 mg/ml soluzione gengivale> 1 flacone in vetro da 10 ml",
+        "produttore": "COOPER CONSUMER HEALTH B.V.",
+        "forma": "GOCCIA"
+    },
+    {
+        "aic": "005268040",
+        "nome": "PYRALVEX",
+        "descrizione": "<50 mg/ml + 10 mg/ml soluzione gengivale> 1 flacone in vetro da 30 ml",
+        "produttore": "COOPER CONSUMER HEALTH B.V.",
+        "forma": "GOCCIA"
+    },
+    {
+        "aic": "033100013",
+        "nome": "PYLOBACTELL",
+        "descrizione": "100 MG COMPRESSA SOLUBILE SACCHETTO CONTENENTE 1 COMPRESSA SOLUBILE IN KIT PER ANALISI A PIU' COMPONENTI USO ORALE",
+        "produttore": "RICHEN EUROPE S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041527019",
+        "nome": "PYLERA",
+        "descrizione": "140MG/125MG/125MG CAPSULE   120 CAPSULE IN FLACONE HDPE",
+        "produttore": "LABORATOIRES JUVISE PHARMACEUTICALS",
+        "forma": "CAPSULA"
+    },
+    {
+        "aic": "044022010",
+        "nome": "PYRALVEX",
+        "descrizione": "0,5%+0,1% SOLUZIONE GENGIVALE- 1 FLACONE DA 10 ML",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Soluzione gengivale"
+    },
+    {
+        "aic": "050445016",
+        "nome": "PYRUKYND",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alluminio) - Confezione per la riduzione graduale della dose: 7 compresse",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050445028",
+        "nome": "PYRUKYND",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alluminio) - 56 compresse",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050445030",
+        "nome": "PYRUKYND",
+        "descrizione": "5 mg + 20 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alluminio) - Confezione per la riduzione graduale della dose: 14 compresse (7 ? 5 mg + 7 x 20 mg)",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050445042",
+        "nome": "PYRUKYND",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale - Blister - (PVC/PCTFE/alluminio) - 56 compresse",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050445055",
+        "nome": "PYRUKYND",
+        "descrizione": "20 mg + 50 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alluminio) - Confezione per la riduzione graduale della dose: 14 compresse (7 ? 20 mg + 7 ? 50 mg)",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050445067",
+        "nome": "PYRUKYND",
+        "descrizione": "50 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alluminio) - 56 compresse",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050776018",
+        "nome": "PYLCLARI",
+        "descrizione": "1000 MBq / ml - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 0,5-10 ml - 1 flaconcino",
+        "produttore": "CURIUM PET FRANCE",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "050776020",
+        "nome": "PYLCLARI",
+        "descrizione": "1500 MBq / ml - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 0,5-10 ml - 1 flaconcino",
+        "produttore": "CURIUM PET FRANCE",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051202012",
+        "nome": "PYZCHIVA",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 mL (90 mg/mL) - 1 siringa preriempita",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051202024",
+        "nome": "PYZCHIVA",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1,0 mL (90 mg/mL) - 1 siringa preriempita",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051202036",
+        "nome": "PYZCHIVA",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 mL (5 mg/mL) - 1 flaconcino",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051202048",
+        "nome": "PYZCHIVA",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,5 mL (90 mg/mL) - 1 penna preriempita",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "051202051",
+        "nome": "PYZCHIVA",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita - 1,0 mL (90 mg/mL) - 1 penna preriempita",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "051202063",
+        "nome": "PYZCHIVA",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 mL (5 mg/mL) - 3 (3 x 1) flaconcini (confezione multipla)",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051202075",
+        "nome": "PYZCHIVA",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 0,5 mL (90 mg/mL) - 1 flaconcino",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051202087",
+        "nome": "PYZCHIVA",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 mL (5 mg/mL) - 3 flaconcini",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    }
+]

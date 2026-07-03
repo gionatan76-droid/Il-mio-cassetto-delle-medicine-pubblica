@@ -1,0 +1,1885 @@
+[
+    {
+        "aic": "006774018",
+        "nome": "EFFORTIL",
+        "descrizione": "10 MG/1 ML SOLUZIONE INIETTABILE- 6 FIALE 1 ML",
+        "produttore": "SERB S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006774032",
+        "nome": "EFFORTIL",
+        "descrizione": "7,5 MG/ML GOCCE ORALI, SOLUZIONE-FLACONE 15 G",
+        "produttore": "SERB S.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "026608036",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026608075",
+        "nome": "EFFERALGAN",
+        "descrizione": "330 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 20 COMPRESSE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026608087",
+        "nome": "EFFERALGAN",
+        "descrizione": "LATTANTI 80 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "UPSA SAS",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026608099",
+        "nome": "EFFERALGAN",
+        "descrizione": "PRIMA INFANZIA 150 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "UPSA SAS",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026608101",
+        "nome": "EFFERALGAN",
+        "descrizione": "BAMBINI 300 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "UPSA SAS",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "026608125",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE- 16 COMPRESSE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026608214",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE RIVESTITE CON FILM - 16 COMPRESSE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "026608240",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FILM TERMOSALDATO AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026608253",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI AROMA FRUTTI DI BOSCO- 16 COMPRESSE IN TUBO PP",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026608265",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE AROMA POMPELMO E ARANCIA IN STRIP AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026608277",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE IN STRIP AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026608289",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028831055",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831067",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831093",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831105",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831117",
+        "nome": "EFEXOR",
+        "descrizione": "37,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 14 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831129",
+        "nome": "EFEXOR",
+        "descrizione": "37,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 28 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831131",
+        "nome": "EFEXOR",
+        "descrizione": "37,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 7 CAPSULE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831143",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 7 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831156",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 10 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831168",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 14 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831170",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 15 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831182",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831194",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831206",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831218",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 50 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831220",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 56 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831232",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 60 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831244",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 98 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831257",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 100 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831269",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 500 CAPSULE IN BLISTER PVC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831271",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 1000 CAPSULE IN BLISTER PVC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831283",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 14 CAPSULE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831295",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831307",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 84 CAPSULE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "028831319",
+        "nome": "EFEXOR",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 100 CAPSULE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "029835016",
+        "nome": "EFEDRINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE- 1 FIALA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029835028",
+        "nome": "EFEDRINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE- 1 FIALA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029835030",
+        "nome": "EFEDRINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029835042",
+        "nome": "EFEDRINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029835055",
+        "nome": "EFEDRINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029835067",
+        "nome": "EFEDRINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "030665018",
+        "nome": "EFEDRINA CLORIDRATO S.A.L.F.",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "030665032",
+        "nome": "EFEDRINA CLORIDRATO S.A.L.F.",
+        "descrizione": "25 MG/1 ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "030791014",
+        "nome": "EFEDRINA CLORIDRATO MONICO",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "032932016",
+        "nome": "EFRIDOL",
+        "descrizione": "100 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "032932030",
+        "nome": "EFRIDOL",
+        "descrizione": "100 MG GRANULATO  PER SOSPENSIONE ORALE-30 BUSTINE",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "036102010",
+        "nome": "EFTRY",
+        "descrizione": "1 G/3,5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - FLACONE+FIALA SOLVENTE DA 3,5 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "036751016",
+        "nome": "EFDEGE",
+        "descrizione": "1GBQ/ML SOLUZIONE INIETTABILE- 1 FLACONCINO MULTI-DOSE DA 11 ML",
+        "produttore": "CURIUM AUSTRIA GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "036751028",
+        "nome": "EFDEGE",
+        "descrizione": "1 GBQ/ML SOLUZIONE INIETTABILE- 1 FLACONCINO MULTI-DOSE CONTENENTE DA 0,2 ML A 20 ML DI SOLUZIONE",
+        "produttore": "CURIUM AUSTRIA GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037113115",
+        "nome": "EFFERALGAN   .",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE IN STRIP AL/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "038150102",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE RIVESTITE CON FILM - 16 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "038660015",
+        "nome": "EFFENTORA",
+        "descrizione": "100 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC)  4 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660027",
+        "nome": "EFFENTORA",
+        "descrizione": "100 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 28 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660039",
+        "nome": "EFFENTORA",
+        "descrizione": "200 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 4 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660041",
+        "nome": "EFFENTORA",
+        "descrizione": "200 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 28 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660054",
+        "nome": "EFFENTORA",
+        "descrizione": "400 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 4 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660066",
+        "nome": "EFFENTORA",
+        "descrizione": "400 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 28 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660078",
+        "nome": "EFFENTORA",
+        "descrizione": "600 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 4 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660080",
+        "nome": "EFFENTORA",
+        "descrizione": "600 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 28 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660092",
+        "nome": "EFFENTORA",
+        "descrizione": "800 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 4 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038660104",
+        "nome": "EFFENTORA",
+        "descrizione": "800 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 28 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "038773014",
+        "nome": "EFFICIB",
+        "descrizione": "50 MG/850 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE -BLISTER (PVC/PE/PVDC/ALL)- 14 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773026",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/850MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 28 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773038",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/850MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 56 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773040",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/850MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 112 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773053",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/850MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 168 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773065",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/850MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 196 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773077",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/850MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 50X1 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773089",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 14 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773091",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 28 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773103",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 56 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773115",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 112 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773127",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 168 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773139",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)- 196 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773141",
+        "nome": "EFFICIB",
+        "descrizione": "50MG/1000MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALL)-  50 X 1 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773178",
+        "nome": "EFFICIB",
+        "descrizione": "50 MG/850 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALLUMINIO) 168 (2 X 84) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773180",
+        "nome": "EFFICIB",
+        "descrizione": "50  MG/1000 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALLUMINIO) 168 (2 X 84) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773192",
+        "nome": "EFFICIB",
+        "descrizione": "50  MG/850 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) 60 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773204",
+        "nome": "EFFICIB",
+        "descrizione": "50  MG/850 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) 180 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773216",
+        "nome": "EFFICIB",
+        "descrizione": "50  MG/1000 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALUO) 60 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038773228",
+        "nome": "EFFICIB",
+        "descrizione": "50  MG/1000 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) 180 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038942025",
+        "nome": "EFRIVIRALLABIALE",
+        "descrizione": "5% MATITA CUTANEA- APPLICATORE DA 3 G",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL",
+        "forma": "Matita cutanea"
+    },
+    {
+        "aic": "038942037",
+        "nome": "EFRIVIRALLABIALE",
+        "descrizione": "5% CREMA- TUBO IN AL DA 3 G",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL",
+        "forma": "Crema"
+    },
+    {
+        "aic": "039055013",
+        "nome": "EFIENT",
+        "descrizione": "5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALL)- 14 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055025",
+        "nome": "EFIENT",
+        "descrizione": "5MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)- 28 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055037",
+        "nome": "EFIENT",
+        "descrizione": "5MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)- 30X1 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055049",
+        "nome": "EFIENT",
+        "descrizione": "5MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  56 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055052",
+        "nome": "EFIENT",
+        "descrizione": "5MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  84 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055064",
+        "nome": "EFIENT",
+        "descrizione": "5MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  90X1 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055076",
+        "nome": "EFIENT",
+        "descrizione": "5MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  98 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055088",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  14 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055090",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  28 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055102",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  30X1 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055114",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  56 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055126",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  84 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055138",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  90X1 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039055140",
+        "nome": "EFIENT",
+        "descrizione": "10MG - COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (ALL)-  98 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039130012",
+        "nome": "EFRACEA",
+        "descrizione": "40 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 56 (4X14) CAPSULE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "039130024",
+        "nome": "EFRACEA",
+        "descrizione": "40 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 (2X14) CAPSULE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "039130036",
+        "nome": "EFRACEA",
+        "descrizione": "40 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 14 CAPSULE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "040855013",
+        "nome": "EFESTAD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040855025",
+        "nome": "EFESTAD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040855037",
+        "nome": "EFESTAD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040855049",
+        "nome": "EFESTAD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042101016",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EFFIK ITALIA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042101028",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 3 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EFFIK ITALIA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042101030",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 6 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EFFIK ITALIA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042101042",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 13 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EFFIK ITALIA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042847044",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "042847057",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA IN FILM TERMOSALDATO AL/PE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "042903043",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "043172016",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL) - 30 X 1 COMPRESSA (DOSE UNITARIA)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172028",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL) - 30  COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172030",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL) - 90  COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172042",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL) - 90 ( 3 X 30 X 1)  COMPRESSE (DOSE UNITARIA) (CONFEZIONI MULTIPLE: PACCHETTO)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172055",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL) - 90 ( 3 X 30 X 1)  COMPRESSE (DOSE UNITARIA) (CONFEZIONI MULTIPLE: ASTUCCIO)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172067",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (AL/AL) - 30 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172079",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (AL/AL) - 30 COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172081",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (AL/AL) - 90 COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172093",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (AL/AL) - 90 (3 X 30 X 1) COMPRESSE (DOSE UNITARIA) (CONFEZIONI MULTIPLE: PACCHETTO)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172105",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (AL/AL) - 90 (3 X 30 X 1) COMPRESSE (DOSE UNITARIA) (CONFEZIONI MULTIPLE: ASTUCCIO)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043172117",
+        "nome": "EFAVIRENZ TEVA",
+        "descrizione": "600 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL) - 90 X 1 COMPRESSA (DOSE UNITARIA)",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043379015",
+        "nome": "EFAVIRENZ AUROBINDO",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043379027",
+        "nome": "EFAVIRENZ AUROBINDO",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043379039",
+        "nome": "EFAVIRENZ AUROBINDO",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043379041",
+        "nome": "EFAVIRENZ AUROBINDO",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043379054",
+        "nome": "EFAVIRENZ AUROBINDO",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043463013",
+        "nome": "EFACTI",
+        "descrizione": "10 MG/G CREMA- 1 TUBO IN PE/AL/PE DA 15 G CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043463025",
+        "nome": "EFACTI",
+        "descrizione": "10 MG/G CREMA- 1 TUBO IN PE/AL/PE DA 30 G CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043463037",
+        "nome": "EFACTI",
+        "descrizione": "10 MG/G CREMA- 1 TUBO IN PE/AL/PE DA 45 G CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043463049",
+        "nome": "EFACTI",
+        "descrizione": "10 MG/G CREMA- 1 TUBO IN PE/AL/PE DA 60 G CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043463052",
+        "nome": "EFACTI",
+        "descrizione": "10 MG/G CREMA- 1 TUBO IN PE/AL/PE DA 2 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "043506017",
+        "nome": "EFFERALGAN FEBBRE E CONGESTIONE NASALE",
+        "descrizione": "<500  mg  +  60  mg  compresse  effervescenti>   8 compresse in 1 tubo PP",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "043506029",
+        "nome": "EFFERALGAN FEBBRE E CONGESTIONE NASALE",
+        "descrizione": "<500  mg  +  60  mg  compresse  effervescenti>  16 compresse in 2 tubi PP",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "043506031",
+        "nome": "EFFERALGAN FEBBRE E CONGESTIONE NASALE",
+        "descrizione": "500 MG + 60 MG GRANULATO PER SOLUZIONE ORALE- 10 BUSTINE DA 1,5 G",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "043738018",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 10 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043738020",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE DA 10 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043738032",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 10 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043738044",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE DA 10 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043738057",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 20 SIRINGHE DA 10 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043738069",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN PP DA 10 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043738071",
+        "nome": "EFEDRINA  AGUETTANT",
+        "descrizione": "30 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN VETRO DA 1 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044482014",
+        "nome": "EFFERAMOL",
+        "descrizione": "1000 MG COMPRESSA EFFERVESCENTE- 12 COMPRESSE IN TUBO PP",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044482026",
+        "nome": "EFFERAMOL",
+        "descrizione": "1000 MG COMPRESSA EFFERVESCENTE- 12 COMPRESSE IN BLISTER PO/AL/PVC",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044683011",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "PRICETAG SPA",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044684013",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044684025",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044685016",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044685028",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044687010",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044687022",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044695017",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044755015",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044755027",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044755039",
+        "nome": "EFFERALGANMED",
+        "descrizione": "BAMBINI 300 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "044913010",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "044913022",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "045064019",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "045064021",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "045495013",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL ZENTIVA",
+        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
+        "produttore": "ZENTIVA K.S.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045495025",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL ZENTIVA",
+        "descrizione": "600 MG - 200 MG - 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 (3 X 30) COMPRESSE",
+        "produttore": "ZENTIVA K.S.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670015",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670027",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 (3 X 30) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670039",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 COMPRESSE",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670041",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 mg / 200 mg / 245 mg - Compressa rivestita con film - Uso orale - blister (OPA/alu/PE/HDPE/alu) - 30 compresse",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670054",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 mg / 200 mg / 245 mg - Compressa rivestita con film - Uso orale - blister (OPA/alu/PE/HDPE/alu) - 90 compresse",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670066",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 mg / 200 mg / 245 mg - Compressa rivestita con film - Uso orale - blister (OPA/alu/PE/HDPE/alu) - 30 x 1 compresse (dose unitaria)",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045670078",
+        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
+        "descrizione": "600 mg / 200 mg / 245 mg - Compressa rivestita con film - Uso orale - blister (OPA/alu/PE/HDPE/alu) - 90 x 1 compresse (dose unitaria)",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046104016",
+        "nome": "EFAVIRENZ/EMTRICITABINA/TENOFOVIR DISOPROXIL KRKA",
+        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046104028",
+        "nome": "EFAVIRENZ/EMTRICITABINA/TENOFOVIR DISOPROXIL KRKA",
+        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 (30 X 3) COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046112013",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046112025",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837011",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg  compresse  rivestite  con  film>  4 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837023",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg  compresse  rivestite  con  film>  8 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837035",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg compresse  rivestite  con  film>  12 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837047",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg compresse  rivestite  con  film>  16 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837050",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg compresse  rivestite  con  film>  20 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837062",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg compresse  rivestite  con  film>  24 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837074",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg compresse  rivestite  con  film>  28 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046837086",
+        "nome": "EFFERALGAN INFLUENZA E RAFFREDDORE",
+        "descrizione": "500 mg + 4 mg compresse  rivestite  con  film>  32 compresse in blister PVC/AL",
+        "produttore": "UPSA SAS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047274016",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047387016",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "047387028",
+        "nome": "EFEXOR",
+        "descrizione": "150 mg CAPSULA RIGIDA A RILASCIO PROLUNGATO- 10 CAPSULE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "047387030",
+        "nome": "EFEXOR",
+        "descrizione": "37,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 28 CAPSULE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "047387042",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "047517014",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047880012",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880024",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 63 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880036",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 126 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880048",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 273 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880051",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 1 x (21+7) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880063",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 3 x (21+7) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880075",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 6 x (21+7) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047880087",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 13 x (21+7) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "047936012",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047978010",
+        "nome": "EFAVIRENZ E EMTRICITABINA E TENOFOVIR DISOPROXIL AUROBINDO",
+        "descrizione": "600 MG / 200 MG / 245 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047978022",
+        "nome": "EFAVIRENZ E EMTRICITABINA E TENOFOVIR DISOPROXIL AUROBINDO",
+        "descrizione": "600 MG / 200 MG / 245 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047978034",
+        "nome": "EFAVIRENZ E EMTRICITABINA E TENOFOVIR DISOPROXIL AUROBINDO",
+        "descrizione": "600 MG / 200 MG / 245 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047978046",
+        "nome": "EFAVIRENZ E EMTRICITABINA E TENOFOVIR DISOPROXIL AUROBINDO",
+        "descrizione": "600 MG / 200 MG / 245 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047978059",
+        "nome": "EFAVIRENZ E EMTRICITABINA E TENOFOVIR DISOPROXIL AUROBINDO",
+        "descrizione": "600 MG / 200 MG / 245 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047978061",
+        "nome": "EFAVIRENZ E EMTRICITABINA E TENOFOVIR DISOPROXIL AUROBINDO",
+        "descrizione": "600 MG / 200 MG / 245 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048303010",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048371013",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "048371025",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 CAPSULE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "048644013",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita- 1 Siringa Da 0,7 Ml In Vetro Senza Ago Con Sistema Luer Lock",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644025",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita- 5 Siringhe Da 0,7 Ml In Vetro Senza Ago Con Sistema Luer Lock",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644037",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita- 10 Siringhe Da 0,7 Ml In Vetro Senza Ago Con Sistema Luer Lock",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644049",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "<60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita> 1 Siringa Da 0,7 Ml In Vetro Con Ago Separato Con Sistema Luer Lock",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644052",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "<60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita> 5 Siringhe Da 0,7 Ml In Vetro Con Ago Separato Con Sistema Luer Lock",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644064",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "<60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita> 10 Siringhe Da 0,7 Ml In Vetro Con Ago Separato Con Sistema Luer Lock",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644138",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita- 1 Siringa Da 0,7 Ml In Vetro Con Sistema Luer Lock Con 1 Ago Di Sicurezza",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048644140",
+        "nome": "EFLUELDA TETRA",
+        "descrizione": "60 Microgrammi/Ha Sospensione Iniettabile In Siringa Preriempita- 10 Siringhe Da 0,7 Ml In Vetro Con Sistema Luer Lock Con 10 Aghi Di Sicurezza",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "049005010",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049345010",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049351012",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049351024",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049545015",
+        "nome": "EFMODY",
+        "descrizione": "5 MG - CAPSULA RIGIDA A RILASCIO MODIFICATO - USO ORALE - FLACONE (HDPE) - 50 CAPSULE",
+        "produttore": "IMMEDICA PHARMA AB",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "049545027",
+        "nome": "EFMODY",
+        "descrizione": "10 MG - CAPSULA RIGIDA A RILASCIO MODIFICATO - USO ORALE - FLACONE (HDPE) - 50 CAPSULE",
+        "produttore": "IMMEDICA PHARMA AB",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "049545041",
+        "nome": "EFMODY",
+        "descrizione": "5 mg - Capsula rigida a rilascio modificato - Uso orale - Flacone (HDPE) - 100 (2 x 50) capsule",
+        "produttore": "IMMEDICA PHARMA AB",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "049545054",
+        "nome": "EFMODY",
+        "descrizione": "10 mg - Capsula rigida a rilascio modificato - Uso orale - Flacone (HDPE) - 100 (2 x 50) capsule",
+        "produttore": "IMMEDICA PHARMA AB",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "049548011",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "049548023",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 CAPSULE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "049839018",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050027010",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050027022",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 CAPSULE RIGIDE A RILASCIO PROLUNGATO",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050071012",
+        "nome": "EFFERALGANMED",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FLACONE PP",
+        "produttore": "SM PHARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "050071024",
+        "nome": "EFFERALGANMED",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "SM PHARMA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "050264011",
+        "nome": "EFFIPREV",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SM PHARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050275015",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050275027",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 CAPSULE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050275039",
+        "nome": "EFEXOR",
+        "descrizione": "150 mg capsule rigide a rilascio prolungato-, 10 capsule rigide a rilascio prolungato",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050275041",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 CAPSULE rigide a rilascio prolungato",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050275054",
+        "nome": "EFEXOR",
+        "descrizione": "37,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 28 CAPSULE rigide a rilascio prolungato",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "050424011",
+        "nome": "EFFENTORA",
+        "descrizione": "100 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC)  4 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "050424023",
+        "nome": "EFFENTORA",
+        "descrizione": "200 MCG COMPRESSA OROSOLUBILE - USO OROMUCOSALE- BLISTER (PVC/ALL/POLIAMMIDE/PVC) 4 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "051118014",
+        "nome": "EFFERALCAPS",
+        "descrizione": "1000 MG CAPSULE RIGIDE- 8 CAPSULE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051118026",
+        "nome": "EFFERALCAPS",
+        "descrizione": "1000 MG CAPSULE RIGIDE- 16 CAPSULE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051118038",
+        "nome": "EFFERALCAPS",
+        "descrizione": "1000 MG CAPSULE RIGIDE- 24 CAPSULE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051118040",
+        "nome": "EFFERALCAPS",
+        "descrizione": "1000 MG CAPSULE RIGIDE- 32 CAPSULE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051118053",
+        "nome": "EFFERALCAPS",
+        "descrizione": "1000 MG CAPSULE RIGIDE- 40 CAPSULE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051548016",
+        "nome": "EFFERALGO",
+        "descrizione": "500 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 8 BUSTINE IN PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548028",
+        "nome": "EFFERALGO",
+        "descrizione": "500 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 10 BUSTINE IN PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548030",
+        "nome": "EFFERALGO",
+        "descrizione": "500 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 16 BUSTINE IN  PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548042",
+        "nome": "EFFERALGO",
+        "descrizione": "500 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 20 BUSTINE IN  PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548055",
+        "nome": "EFFERALGO",
+        "descrizione": "1000 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 8 BUSTINE IN PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548067",
+        "nome": "EFFERALGO",
+        "descrizione": "1000 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 10 BUSTINE IN PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548079",
+        "nome": "EFFERALGO",
+        "descrizione": "1000 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 16 BUSTINE IN PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051548081",
+        "nome": "EFFERALGO",
+        "descrizione": "1000 MG GRANULATO IN BUSTINA- GUSTO FRUTTI ROSSI, 20 BUSTINE IN PES/AL/PE",
+        "produttore": "UPSA SAS",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "051634018",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 0,5 ML IN VETRO SENZA AGO CON SISTEMA LUER LOCK",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634020",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE DA 0,5 ML IN VETRO SENZA AGO CON SISTEMA LUER LOCK",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634032",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,5 ML IN VETRO SENZA AGO CON SISTEMA LUER LOCK",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634044",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 0,5 ML IN VETRO CON AGO SEPARATO CON SISTEMA LUER LOCK",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634057",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE DA 0,5 ML IN VETRO CON AGO SEPARATO CON SISTEMA LUER LOCK",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634069",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,5 ML IN VETRO CON AGO SEPARATO CON SISTEMA LUER LOCK",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634071",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 0,5 ML IN VETRO CON SISTEMA LUER LOCK CON 1 AGO DI SICUREZZA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051634083",
+        "nome": "EFLUELDA",
+        "descrizione": "60 MICROGRAMMI/HA SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,5 ML IN VETRO CON SISTEMA LUER LOCK CON 10 AGHI DI SICUREZZA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051758011",
+        "nome": "EFAVIRENZ/EMTRICITABINA/TENOFOVIR DISOPROXIL ZENTIVA K.S.",
+        "descrizione": "600 MG/ 200 MG/245 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "ZENTIVA K.S.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051758023",
+        "nome": "EFAVIRENZ/EMTRICITABINA/TENOFOVIR DISOPROXIL ZENTIVA K.S.",
+        "descrizione": "600 MG/ 200 MG/245 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "ZENTIVA K.S.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051758035",
+        "nome": "EFAVIRENZ/EMTRICITABINA/TENOFOVIR DISOPROXIL ZENTIVA K.S.",
+        "descrizione": "600 MG/ 200 MG/245 MG COMPRESSE RIVESTITE CON FILM- 90 (3X30) COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "ZENTIVA K.S.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051892014",
+        "nome": "EFEXOR",
+        "descrizione": "150 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 10 capsule rigide a rilascio prolungato",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051892026",
+        "nome": "EFEXOR",
+        "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "052396013",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052662018",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE IN STRIP AL/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "052662020",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE AROMA POMPELMO E ARANCIA IN STRIP AL/PE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "053009015",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa"
+    }
+]

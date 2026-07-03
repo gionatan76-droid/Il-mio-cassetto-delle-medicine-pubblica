@@ -1,0 +1,940 @@
+[
+    {
+        "aic": "035023011",
+        "nome": "YASMIN",
+        "descrizione": "21 COMPRESSE RIVESTITE CON FILM IN BLISTER POLIVINILECLORURO/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035023023",
+        "nome": "YASMIN",
+        "descrizione": "3X21 COMPRESSE RIVESTITE CON FILM IN BLISTER POLIVINILECLORURO/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035023035",
+        "nome": "YASMIN",
+        "descrizione": "6X21 COMPRESSE RIVESTITE CON FILM IN BLISTER",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035023047",
+        "nome": "YASMIN",
+        "descrizione": "13X21 COMPRESSE RIVESTITE CON FILM IN BLISTER",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037199015",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037199027",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21X3 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037199039",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21X6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037199041",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21X13 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037796012",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037796036",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037796051",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038300012",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038301040",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038301053",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038301065",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE RIVESTITE CON FILM IN BLISTER PVC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038542015",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038542027",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038542039",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6X28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038950034",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038950059",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038950061",
+        "nome": "YASMIN",
+        "descrizione": "0,03 mg/ 3 mg compresse rivestite con film- 21 compresse rivestite con film in blister PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039454018",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039454020",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040020036",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040689022",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896019",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896021",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896033",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896045",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896058",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896060",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896072",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896084",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896096",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896108",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896110",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896122",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896134",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896146",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896159",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896161",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896173",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896185",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896197",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896209",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896211",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896223",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896235",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896247",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896250",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896262",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896274",
+        "nome": "YASNAL",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040896286",
+        "nome": "YASNAL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041796018",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 10 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796020",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 28 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796032",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796044",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 50 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796057",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796069",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 60 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796071",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 84 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796083",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 90 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796095",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796107",
+        "nome": "YASNORO",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 100 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796119",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 10 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796121",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 28 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796133",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796145",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 50 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796158",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796160",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 60 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796172",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 84 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796184",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 90 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796196",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041796208",
+        "nome": "YASNORO",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 100 COMPRESSE IN BLISTER OPA/AL/PVC/PET/AL",
+        "produttore": "KRKA D.D. NOVO MESTO",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041866029",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041904020",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041904032",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041904044",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042905012",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042905024",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042905036",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042937019",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042937021",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043013010",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043013022",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043013034",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043013046",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG / 3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER POLIVINILECLORURO/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043013059",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG / 3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER POLIVINILECLORURO/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043169010",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043169022",
+        "nome": "YASMIN",
+        "descrizione": "0,03 mg / 3 mg compresse rivestite con film- 21 compresse rivestite con film in blister PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043480019",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043480021",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG +0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043632049",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043952011",
+        "nome": "YASMIN",
+        "descrizione": "3X21 COMPRESSE RIVESTITE CON FILM IN BLISTER POLIVINILECLORURO/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043952023",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043952035",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043963026",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043963038",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043963040",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043963053",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044093019",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044093021",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044093033",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044426029",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044426031",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044426043",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044845016",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GLOBAL PHARMACIES PARTNER HEALTH S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044914012",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044914024",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044914036",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044943013",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044943025",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045082017",
+        "nome": "YASMIN",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PRICETAG SPA",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "045103013",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045318019",
+        "nome": "YARGESA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 84 X 1 CAPSULE (DOSE UNITARIA)",
+        "produttore": "PIRAMAL CRITICAL CARE B.V.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "047120011",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047120035",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047121013",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047121025",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047121037",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048513016",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048513028",
+        "nome": "YASMINELLE",
+        "descrizione": "3 MG + 0,02 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049562010",
+        "nome": "YAYOI",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO-  30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049562022",
+        "nome": "YAYOI",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO-  30 COMPRESSE IN BLISTER PVC/PE/PVDC/PE/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "049698018",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051401014",
+        "nome": "YADINA",
+        "descrizione": "25 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 60 ML CON CHIUSURA A PROVA DI BAMBINO CON SIRINGA PER SOMMINISTRAZIONE ORALE E BICCHIERE DOSATORE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "051401026",
+        "nome": "YADINA",
+        "descrizione": "25 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 120 ML CON CHIUSURA A PROVA DI BAMBINO CON SIRINGA PER SOMMINISTRAZIONE ORALE E BICCHIERE DOSATORE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "051401038",
+        "nome": "YADINA",
+        "descrizione": "25 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN PET DA 60 ML CON CHIUSURA A PROVA DI BAMBINO CON SIRINGA PER SOMMINISTRAZIONE ORALE E BICCHIERE DOSATORE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "051401040",
+        "nome": "YADINA",
+        "descrizione": "25 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN PET DA 120 ML CON CHIUSURA A PROVA DI BAMBINO CON SIRINGA PER SOMMINISTRAZIONE ORALE E BICCHIERE DOSATORE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "051789016",
+        "nome": "YAMUNA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ERREKAPPA EUROTERAPICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051789028",
+        "nome": "YAMUNA",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ERREKAPPA EUROTERAPICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051789030",
+        "nome": "YAMUNA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ERREKAPPA EUROTERAPICI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052283013",
+        "nome": "YAXWER",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1.7 ml (70 mg/ml) - 1 flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052283025",
+        "nome": "YAXWER",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1.7 ml (70 mg/ml) - 3 flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052283037",
+        "nome": "YAXWER",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1.7 ml (70 mg/ml) - 4 flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile"
+    }
+]

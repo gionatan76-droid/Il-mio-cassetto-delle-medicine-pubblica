@@ -1,0 +1,4097 @@
+[
+    {
+        "aic": "029033014",
+        "nome": "AERRANE",
+        "descrizione": "100  ML LIQUIDO PER INALAZIONE-FLACONE 100 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Liquido per suffumigi"
+    },
+    {
+        "aic": "029033026",
+        "nome": "AERRANE",
+        "descrizione": "250 ML LIQUIDO PER INALAZIONE-FLACONE 250 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Liquido per suffumigi"
+    },
+    {
+        "aic": "029033038",
+        "nome": "AERRANE",
+        "descrizione": "100 ML LIQUIDO PER INALAZIONE- 6 FLACONI DA 100 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Liquido per suffumigi"
+    },
+    {
+        "aic": "029033040",
+        "nome": "AERRANE",
+        "descrizione": "250 ML LIQUIDO PER INALAZIONE- 6 FLACONI DA 250 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Liquido per suffumigi"
+    },
+    {
+        "aic": "034493015",
+        "nome": "AERFLU",
+        "descrizione": "0,1% SOLUZIONE DA NEBULIZZARE- FLACONE 30 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034493027",
+        "nome": "AERFLU",
+        "descrizione": "ADULTI SOLUZIONE DA NEBULIZZARE - 15 CONTENITORI DA 2 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034493039",
+        "nome": "AERFLU",
+        "descrizione": "BAMBINI SOLUZIONE DA NEBULIZZARE- 15 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034869014",
+        "nome": "AEROLID",
+        "descrizione": "0,1% SOLUZIONE DA NEBULIZZARE- FLACONE 30 ML",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034869040",
+        "nome": "AEROLID",
+        "descrizione": "1 MG/1 ML SOLUZIONE DA NEBULIZZARE - 30 CONTENITORI MONODOSE DA 1 ML",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "035201019",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 1 COMPRESSA RIVESTITA CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201021",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 2 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201033",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 3 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201045",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 5 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201058",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 7 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201060",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 10 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201072",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 14 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201084",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 15 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201096",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201108",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 21 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201110",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201122",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 50 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201134",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 100 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035201146",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 30 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201159",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 50 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201161",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 60 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201173",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 100 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201185",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 120 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201197",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 150 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201209",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 225 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201211",
+        "nome": "AERIUS",
+        "descrizione": "0,5 MG/ML SCIROPPO 1 FLACONE 300 ML USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035201223",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 1 DOSE IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201235",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 2 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201247",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 3 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201250",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 5 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201262",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 7 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201274",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 10 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201286",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 14 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201298",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 15 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201300",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 20 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201312",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 21 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201324",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 30 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201336",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 50 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201348",
+        "nome": "AERIUS",
+        "descrizione": "5 MG LIOFILIZZATO ORALE 100 DOSI IN BLISTER USO ORALE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035201351",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 5 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201363",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 6 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201375",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 10 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201387",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 12 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201399",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 15 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201401",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 18 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201413",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 20 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201425",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 30 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201437",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 50 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201449",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 60 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201452",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 90 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201464",
+        "nome": "AERIUS",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 100 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201476",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 5 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201488",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 6 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201490",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 10 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201502",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 12 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201514",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 15 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201526",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 18 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201538",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 20 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201540",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 30 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201553",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 50 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201565",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 60 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201577",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 90 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201589",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER PVC/OPA/ALU) 100 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "035201591",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  30 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201603",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  50 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201615",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  60 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201627",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  100 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201639",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  120 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201641",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  150 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201654",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  225 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201666",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + CUCCHIAIO (PLASTICA)-  300 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035201678",
+        "nome": "AERIUS",
+        "descrizione": "0,5 NG/ML SOLUZIONE ORALE - USO ORALE- FLACONE (VETRO) + SIRINGA (PLASTICA)-  150 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "043766017",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "PRICETAG SPA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043911041",
+        "nome": "AERINAZE",
+        "descrizione": "2,5 MG DESLORATADINA / 120 MG PREUDOEFEDRINA SOLFATO - COMPRESSA A RILASCIO MODIFICATO - USO ORALE - BLISTER (PCTFE/PVC/ALU) - 10 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "043911054",
+        "nome": "AERINAZE",
+        "descrizione": "2,5 MG DESLORATADINA / 120 MG PREUDOEFEDRINA SOLFATO - COMPRESSA A RILASCIO MODIFICATO - USO ORALE - BLISTER (PCTFE/PVC/ALU) - 14 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "043911066",
+        "nome": "AERINAZE",
+        "descrizione": "2,5 MG DESLORATADINA / 120 MG PREUDOEFEDRINA SOLFATO - COMPRESSA A RILASCIO MODIFICATO - USO ORALE - BLISTER (PCTFE/PVC/ALU) - 20 COMPRESSE",
+        "produttore": "N.V. ORGANON",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "046522013",
+        "nome": "AESCULUS HEEL",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046701013",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701025",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701037",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701049",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701052",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701064",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701076",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046701088",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10MK SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046929016",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929028",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929030",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929042",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929055",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929067",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929079",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929081",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929093",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929105",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929117",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929129",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929131",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929143",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929156",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929168",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929170",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929182",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929194",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929206",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929218",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929220",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929232",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929244",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929257",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929269",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929271",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929283",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929295",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929307",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929319",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929321",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929333",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929345",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929358",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929360",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929372",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929384",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046929396",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929408",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929410",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929422",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929434",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929446",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929459",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929461",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929473",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929485",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929497",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929509",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929511",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929523",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929535",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929547",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929550",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929562",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "046929574",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047018015",
+        "nome": "AESCULUSPLUS (SYNERGIPLUS N.309)",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047018027",
+        "nome": "AESCULUSPLUS (SYNERGIPLUS N.309)",
+        "descrizione": "COMPRESSE ORODISPERSIBILI- 1 FLACONE IN VETRO DA 50 COMPRESSE",
+        "produttore": "HERING S.R.L",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "047018039",
+        "nome": "AESCULUSPLUS (SYNERGIPLUS N.309)",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 450 MG",
+        "produttore": "HERING S.R.L",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "047074012",
+        "nome": "AEROMEX",
+        "descrizione": "50 MICROGRAMMI/500 MICROGRAMMI/DOSE DI POLVERE PER INALAZIONE IN CONTENITORE MONODOSE- 1 INALATORE DA 60 INALAZIONI IN BLISTER OPA/AL/PVC/AL/PET/CART",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "047074024",
+        "nome": "AEROMEX",
+        "descrizione": "50 MICROGRAMMI/500 MICROGRAMMI/DOSE DI POLVERE PER INALAZIONE IN CONTENITORE MONODOSE- 2 INALATORI DA 60 INALAZIONI IN BLISTER OPA/AL/PVC/AL/PET/CART",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "047074036",
+        "nome": "AEROMEX",
+        "descrizione": "50 MICROGRAMMI/500 MICROGRAMMI/DOSE DI POLVERE PER INALAZIONE IN CONTENITORE MONODOSE- 3 INALATORI DA 60 INALAZIONI IN BLISTER OPA/AL/PVC/AL/PET/CART",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "047074048",
+        "nome": "AEROMEX",
+        "descrizione": "50 MICROGRAMMI/500 MICROGRAMMI/DOSE DI POLVERE PER INALAZIONE IN CONTENITORE MONODOSE- 10 INALATORI DA 60 INALAZIONI IN BLISTER OPA/AL/PVC/AL/PET/CAR",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "047299019",
+        "nome": "AESCULUS HEEL COMPLEX",
+        "descrizione": "SOLUZIONE INIETTABILE- 10 FIALE IN VETRO DA 1,1 ML",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047614019",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614021",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614033",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614045",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614058",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614060",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614072",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614084",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614096",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614108",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614110",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614122",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614134",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614146",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614159",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614161",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614173",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614185",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614197",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614209",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614211",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614223",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614235",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614247",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614250",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614262",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614274",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614286",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614298",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614300",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614312",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614324",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614336",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614348",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614351",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614363",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614375",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614387",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614399",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "60 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614401",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "100 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614413",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "300 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614425",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "400 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614437",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "500 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614449",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614452",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614464",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614476",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614488",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614490",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614502",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614514",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614526",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614538",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614540",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CCCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614553",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CDMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614565",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "DMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614577",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "1 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614589",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "2 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614591",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "3 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614603",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614615",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614627",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614639",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614641",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "8 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614654",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614666",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "10 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614678",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "11 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614680",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614692",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "13 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614704",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "14 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614716",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614728",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "16 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614730",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "17 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614742",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "18 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614755",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "19 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614767",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "20 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614779",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "21 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614781",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "22 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614793",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "23 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614805",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "24 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614817",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "25 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614829",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "26 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614831",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "27 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614843",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "28 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614856",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "29 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614868",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614870",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "45 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614882",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "60 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614894",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "90 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614906",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "120 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047614918",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614920",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614932",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614944",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614957",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614969",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614971",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614983",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047614995",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615012",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615024",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615036",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615048",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615051",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615063",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615075",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615087",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615099",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615101",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615113",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "60 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615125",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "100 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615137",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615149",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615152",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615164",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615176",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615188",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615190",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615202",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615214",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615226",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615238",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615240",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CCCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615253",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "CDMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615265",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "DMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615277",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615289",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615291",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615303",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615315",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615327",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615339",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615341",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615354",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615366",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615378",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615380",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615392",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "13 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615404",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "14 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615416",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615428",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "16 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615430",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "17 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615442",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615455",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "19 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615467",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "20 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615479",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "21 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615481",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "22 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615493",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "23 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615505",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "24 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615517",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "25 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615529",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "26 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615531",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "27 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615543",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "28 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615556",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "29 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615568",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615570",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615582",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615594",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "90 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615606",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "120 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615618",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615620",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615632",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615644",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615657",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615669",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615671",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615683",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615695",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615707",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615719",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615721",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615733",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615745",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615758",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615760",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615772",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615784",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615796",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615808",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615810",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615822",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615834",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615846",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615859",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615861",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047615873",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 1 LM, 9 CAPSULE 2 LM, 9 CAPSULE 3 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "047615885",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 4 LM, 9 CAPSULE 5 LM, 9 CAPSULE 6 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "047615897",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 7 LM, 9 CAPSULE 8 LM, 9 CAPSULE 9 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "047615909",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6K, 2 CAPSULE 12K, 2 CAPSULE 30K, 22 CAPSULE 35K, 1 CAPSULA 200K, 1 CAPSULA MK - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "047615911",
+        "nome": "AETHUSA CYNAPIUM DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6 LM, 1 CAPSULA 18 LM, 1 CAPSULA 30 LM, 26 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "047800014",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800026",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800038",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800040",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800053",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800065",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800077",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800089",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800091",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800103",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800115",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800127",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800139",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800141",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800154",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800166",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800178",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800180",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800192",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800204",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800216",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800228",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800230",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800242",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800255",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800267",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800279",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800281",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800293",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800305",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800317",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800329",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800331",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800343",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800356",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800368",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800370",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800382",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800394",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800406",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800418",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800420",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800432",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800444",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800457",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800469",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800471",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800483",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800495",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800507",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800519",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800521",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800533",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800545",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800558",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800560",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800572",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800584",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800596",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800608",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800610",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800622",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800634",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800646",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800659",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800661",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800673",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800685",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800697",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800709",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800711",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800723",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800735",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800747",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800750",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800762",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800774",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800786",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800798",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800800",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800812",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800824",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800836",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800848",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800851",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800863",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800875",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800887",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800899",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800901",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800913",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800925",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800937",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800949",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800952",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800964",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800976",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800988",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047800990",
+        "nome": "AETHUSA CYNAPIUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048981017",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981029",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981031",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981043",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981056",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981068",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981070",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981082",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981094",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981106",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981118",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981120",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981132",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981144",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981157",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981169",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981171",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981183",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981195",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981207",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981219",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981221",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981233",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981245",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981258",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981260",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981272",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981284",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981296",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981308",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981310",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981322",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981334",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981346",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981359",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981361",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981373",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981385",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981397",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981409",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981411",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981423",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981435",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981447",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981450",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981462",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981474",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981486",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981498",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981500",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981512",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981524",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981536",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981548",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981551",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981563",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981575",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981587",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981599",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981601",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981613",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981625",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981637",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981649",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981652",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981664",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981676",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981688",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981690",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981702",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981714",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981726",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981738",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981740",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981753",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981765",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981777",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981789",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981791",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981803",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981815",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981827",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981839",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981841",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981854",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981866",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981878",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981880",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981892",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981904",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981916",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981928",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981930",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981942",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981955",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981967",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981979",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981981",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048981993",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982019",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982021",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982033",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982045",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982058",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982060",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982072",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982084",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982096",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982108",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "8 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982110",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982122",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982134",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982146",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982159",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "18 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982161",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982173",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982185",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982197",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982209",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982211",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982223",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982235",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982247",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982250",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982262",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982274",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "7K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982286",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "9K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982298",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "15K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982300",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982312",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982324",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "1000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982336",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "10000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982348",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "50000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982351",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "06 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982363",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "09 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982375",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "012 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982387",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "015 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982399",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "030 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982401",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "050 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048982413",
+        "nome": "AESCULUS HIPPOCASTANUM",
+        "descrizione": "060 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "049800016",
+        "nome": "AERIUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM USO ORALE- 20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051189013",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Compressa rivestita con film"
+    }
+]

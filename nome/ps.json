@@ -1,0 +1,457 @@
+[
+    {
+        "aic": "036437010",
+        "nome": "PSEURIN",
+        "descrizione": "0,1 MG COMPRESSE. 30 COMPRESSE",
+        "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036437022",
+        "nome": "PSEURIN",
+        "descrizione": "0,2 MG COMPRESSE. 30 COMPRESSE",
+        "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037023013",
+        "nome": "PSEUDONEB",
+        "descrizione": "1.000.000 UI POLVERE PER SOLUZIONE INIETTABILE,  PER INFUSIONE O PER INALAZIONE- 10 FLACONCINI DI VETRO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "037023025",
+        "nome": "PSEUDONEB",
+        "descrizione": "2.000.000 UI POLVERE PER SOLUZIONE INIETTABILE,  PER INFUSIONE O PER INALAZIONE- 10 FLACONCINI DI VETRO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "037023049",
+        "nome": "PSEUDONEB",
+        "descrizione": "1.000.000 UI POLVERE PER SOLUZIONE INIETTABILE, PER INFUSIONE O PER INALAZIONE- 56 FLACONCINI DI VETRO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "037023052",
+        "nome": "PSEUDONEB",
+        "descrizione": "1.000.000 UI POLVERE PER SOLUZIONE INIETTABILE, PER INFUSIONE O PER INALAZIONE- 60 FLACONCINI DI VETRO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "037023064",
+        "nome": "PSEUDONEB",
+        "descrizione": "2.000.000 UI POLVERE PER SOLUZIONE INIETTABILE, PER INFUSIONE O PER INALAZIONE- 56 FLACONCINI DI VETRO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "037023076",
+        "nome": "PSEUDONEB",
+        "descrizione": "2.000.000 UI POLVERE PER SOLUZIONE INIETTABILE, PER INFUSIONE O PER INALAZIONE- 60 FLACONCINI DI VETRO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "046861011",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 15 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "046861023",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 30 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "046861035",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 35 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "046861047",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 50 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "046861050",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 60 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "046861086",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 100 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "046861098",
+        "nome": "PSOTRIOL",
+        "descrizione": "50 MICROGRAMMI/G + 0,5 MG/G GEL- 1 FLACONE IN HDPE DA 120 G CON UGELLO",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "047221015",
+        "nome": "PSORINUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221027",
+        "nome": "PSORINUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221039",
+        "nome": "PSORINUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221041",
+        "nome": "PSORINUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221054",
+        "nome": "PSORINUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221066",
+        "nome": "PSORINUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221078",
+        "nome": "PSORINUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221080",
+        "nome": "PSORINUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221092",
+        "nome": "PSORINUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221104",
+        "nome": "PSORINUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221116",
+        "nome": "PSORINUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221128",
+        "nome": "PSORINUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221130",
+        "nome": "PSORINUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221142",
+        "nome": "PSORINUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221155",
+        "nome": "PSORINUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221167",
+        "nome": "PSORINUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221179",
+        "nome": "PSORINUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221181",
+        "nome": "PSORINUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221193",
+        "nome": "PSORINUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221205",
+        "nome": "PSORINUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221217",
+        "nome": "PSORINUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221229",
+        "nome": "PSORINUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221231",
+        "nome": "PSORINUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221243",
+        "nome": "PSORINUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221256",
+        "nome": "PSORINUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221268",
+        "nome": "PSORINUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221270",
+        "nome": "PSORINUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221282",
+        "nome": "PSORINUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221294",
+        "nome": "PSORINUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221306",
+        "nome": "PSORINUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221318",
+        "nome": "PSORINUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221320",
+        "nome": "PSORINUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221332",
+        "nome": "PSORINUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221344",
+        "nome": "PSORINUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221357",
+        "nome": "PSORINUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221369",
+        "nome": "PSORINUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221371",
+        "nome": "PSORINUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221383",
+        "nome": "PSORINUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221395",
+        "nome": "PSORINUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221407",
+        "nome": "PSORINUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221419",
+        "nome": "PSORINUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221421",
+        "nome": "PSORINUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221433",
+        "nome": "PSORINUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221445",
+        "nome": "PSORINUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221458",
+        "nome": "PSORINUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221460",
+        "nome": "PSORINUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221472",
+        "nome": "PSORINUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221484",
+        "nome": "PSORINUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221496",
+        "nome": "PSORINUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047221508",
+        "nome": "PSORINUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    }
+]

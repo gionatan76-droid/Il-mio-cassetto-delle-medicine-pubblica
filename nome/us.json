@@ -1,0 +1,1192 @@
+[
+    {
+        "aic": "021247085",
+        "nome": "USTIOSAN",
+        "descrizione": "CREMA-TUBO 30 G",
+        "produttore": "KELEMATA S.R.L.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "042541019",
+        "nome": "USOLDEC",
+        "descrizione": "0,15% COLLIRIO,SOLUZIONE- 20 CONTENITORI MONODOSE DA 0,30 ML",
+        "produttore": "BIONATIVA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "042541021",
+        "nome": "USOLDEC",
+        "descrizione": "0,15% COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "BIONATIVA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "046473017",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473029",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473031",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473043",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473056",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473068",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473070",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473082",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473094",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473106",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473118",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473120",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473132",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473144",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473157",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473169",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473171",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473183",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473195",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473207",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473219",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473221",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473233",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473245",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473258",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473260",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473272",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473284",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046473296",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097012",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097024",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097036",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097048",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097051",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097063",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097075",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097087",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097099",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097101",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097113",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097125",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097137",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097149",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097152",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097164",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097176",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097188",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097190",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097202",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097214",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097226",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097238",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097240",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097253",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097265",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097277",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097289",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097291",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097303",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097315",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097327",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097339",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097341",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097354",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097366",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097378",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097380",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097392",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097404",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097416",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097428",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097430",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097442",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097455",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097467",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097479",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097481",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097493",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097505",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097517",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097529",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097531",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097543",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097556",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097568",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097570",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097582",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097594",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097606",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097618",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097620",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097632",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097644",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097657",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097669",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097671",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048097683",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "048847014",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847026",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847038",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847040",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847053",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847065",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847077",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847089",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847091",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847103",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847115",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847127",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847139",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847141",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847154",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847166",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847178",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847180",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847192",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847204",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847216",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847228",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847230",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847242",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847255",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847267",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847279",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847281",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847293",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847305",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847317",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847329",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847331",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847343",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847356",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847368",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847370",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847382",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847394",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847406",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847418",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847420",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847432",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847444",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847457",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847469",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847471",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847483",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847495",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847507",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847519",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847521",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847533",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847545",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847558",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847560",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "048847572",
+        "nome": "USTILAGO MAIDIS",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Non nota"
+    },
+    {
+        "aic": "052471012",
+        "nome": "USYMRO",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 0,5 ml (90 mg/ml) - 1 flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052471024",
+        "nome": "USYMRO",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (90 mg/ml) - 1 siringa preriempita",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052471036",
+        "nome": "USYMRO",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1,0 ml (90 mg/ml) - 1 siringa preriempita",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052471048",
+        "nome": "USYMRO",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 ml (5 mg/ml) - 1 flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052553017",
+        "nome": "USRENTY",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 0,5 ml (90 mg/ml) - 1 Flaconcino",
+        "produttore": "BIOSIMILAR COLLABORATIONS IRELAND LIMITED",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052553029",
+        "nome": "USRENTY",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (90 mg/ml) - 1 siringa preriempita",
+        "produttore": "BIOSIMILAR COLLABORATIONS IRELAND LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052553031",
+        "nome": "USRENTY",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1,0 ml (90 mg/ml) - 1 siringa preriempita",
+        "produttore": "BIOSIMILAR COLLABORATIONS IRELAND LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052553043",
+        "nome": "USRENTY",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 ml (5 mg/ml) - 1 Flaconcino",
+        "produttore": "BIOSIMILAR COLLABORATIONS IRELAND LIMITED",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052673011",
+        "nome": "USGENA",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 0,5 ml (90 mg/ml) - 1 flaconcino",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052673023",
+        "nome": "USGENA",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa pre-riempita (vetro) 0,5 ml (90 mg/ml) - 1 siringa pre-riempita",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052673035",
+        "nome": "USGENA",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa pre-riempita (vetro) 1,0 ml (90 mg/ml) - 1 siringa pre-riempita",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052673047",
+        "nome": "USGENA",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa pre-riempita (vetro) 1,0 ml (90 mg/ml) - 2 siringhe pre-riempite",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052673050",
+        "nome": "USGENA",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 ml (5 mg/ml) - 1 flaconcino",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Concentrato per soluzione per infusione"
+    }
+]

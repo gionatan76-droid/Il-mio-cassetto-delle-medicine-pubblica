@@ -1,0 +1,254 @@
+[
+    {
+        "aic": "026360053",
+        "nome": "UNASYN",
+        "descrizione": "375 MG COMPRESSE RIVESTITE- 12 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "026360077",
+        "nome": "UNASYN",
+        "descrizione": "750 MG COMPRESSE RIVESTITE- 8 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "026360089",
+        "nome": "UNASYN",
+        "descrizione": "1  G+2  G  POLVERE   PER   SOLUZIONE INIETTABILE PER USO ENDOVENOSO> 1 FLACONE POLVERE DA 3 G",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "026360091",
+        "nome": "UNASYN",
+        "descrizione": "500 MG + 1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO DI POLVERE IN VETRO",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "026360103",
+        "nome": "UNASYN",
+        "descrizione": "250 MG + 500 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO DI POLVERE IN VETRO",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "027152038",
+        "nome": "UNIXIME",
+        "descrizione": "400 MG COMPRESSE RIVESTITE- 5 COMPRESSE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "027152065",
+        "nome": "UNIXIME",
+        "descrizione": "400 MG COMPRESSE DISPERSIBILI- 7 COMPRESSE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "027152077",
+        "nome": "UNIXIME",
+        "descrizione": "400 MG COMPRESSE DISPERSIBILI- 5 COMPRESSE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "027152091",
+        "nome": "UNIXIME",
+        "descrizione": "100 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- FLACONE 100 ML + MISURINO DOSATORE + SIRINGA DOSATRICE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Granulato per sospensione orale"
+    },
+    {
+        "aic": "027166053",
+        "nome": "UNIPRIL",
+        "descrizione": "2,5 MG COMPRESSE- 28 COMPRESSE",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027166065",
+        "nome": "UNIPRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027166077",
+        "nome": "UNIPRIL",
+        "descrizione": "10 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027166089",
+        "nome": "UNIPRIL",
+        "descrizione": "5 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028532012",
+        "nome": "UNIPRILDIUR",
+        "descrizione": "2,5MG+12,5MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028532024",
+        "nome": "UNIPRILDIUR",
+        "descrizione": "5MG+25MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028532036",
+        "nome": "UNIPRILDIUR",
+        "descrizione": "2,5MG+12,5MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028532048",
+        "nome": "UNIPRILDIUR",
+        "descrizione": "5MG+25MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "GLOBAL PHARMACIES PARTNER SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028652016",
+        "nome": "UNOPROST",
+        "descrizione": "2 MG COMPRESSE- 10 COMPRESSE DIVISIBILI",
+        "produttore": "LABORATORI GUIDOTTI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028652028",
+        "nome": "UNOPROST",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE DIVISIBILI",
+        "produttore": "LABORATORI GUIDOTTI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035678010",
+        "nome": "UNIDROX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 2 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035678022",
+        "nome": "UNIDROX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035678034",
+        "nome": "UNIDROX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 1 COMPRESSA",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035678046",
+        "nome": "UNIDROX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039184015",
+        "nome": "UNIFOL",
+        "descrizione": "<10  mg/ml  emulsione  iniettabile/per infusione> 1 flaconcino in vetro da 10 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "039184027",
+        "nome": "UNIFOL",
+        "descrizione": "<10  mg/ml  emulsione  iniettabile/per infusione> 1 flaconcino in vetro da 20 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "039184039",
+        "nome": "UNIFOL",
+        "descrizione": "<10  mg/ml  emulsione  iniettabile/per infusione> 1 flaconcino in vetro da 50 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "039184041",
+        "nome": "UNIFOL",
+        "descrizione": "<10  mg/ml  emulsione  iniettabile/per infusione> 1 flaconcino in vetro da 100 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "039184054",
+        "nome": "UNIFOL",
+        "descrizione": "<20  mg/ml  emulsione  iniettabile/per infusione> 1 flaconcino in vetro da 50 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "039184066",
+        "nome": "UNIFOL",
+        "descrizione": "<10  mg/ml,  emulsione  iniettabile/per infusione> 5 flaconcini in vetro da 20 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "039184078",
+        "nome": "UNIFOL",
+        "descrizione": "<10  mg/ml  emulsione  iniettabile/per infusione> 10 flaconcini in vetro da 20 ml",
+        "produttore": "BAXTER HOLDING BV",
+        "forma": "Emulsione per preparazione iniettabile/infusione"
+    },
+    {
+        "aic": "040648014",
+        "nome": "UNICEXAL",
+        "descrizione": "2MG/ML GOCCE AURICOLARI SOLUZIONE- 15 FIALE IN LDPE",
+        "produttore": "INFECTOPHARM ARZNEIMITTEL UND CONSILIUM GMBH",
+        "forma": "Gocce auricolari, soluzione"
+    },
+    {
+        "aic": "045993019",
+        "nome": "UNIPITIRAM",
+        "descrizione": "1500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049781014",
+        "nome": "UNOXIR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049781026",
+        "nome": "UNOXIR",
+        "descrizione": "15 MILLIGRAMMI COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049781038",
+        "nome": "UNOXIR",
+        "descrizione": "15 MILLIGRAMMI COMPRESSE RIVESTITE CON FILM- 42 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049781040",
+        "nome": "UNOXIR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa rivestita con film"
+    }
+]

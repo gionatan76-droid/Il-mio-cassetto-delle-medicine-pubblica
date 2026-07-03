@@ -1,0 +1,1941 @@
+[
+    {
+        "aic": "013972056",
+        "nome": "KENACORT",
+        "descrizione": "40 MG/ ML SOSPENSIONE INIETTABILE- 3 FLACONCINI DA 1 ML",
+        "produttore": "BRISTOL MYERS SQUIBB S.R.L.",
+        "forma": "Sospensione iniettabile"
+    },
+    {
+        "aic": "022085056",
+        "nome": "KEFORAL",
+        "descrizione": "500 MG COMPRESSE-8  COMPRESSE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "022085068",
+        "nome": "KEFORAL",
+        "descrizione": "250 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- FLACONE 100 ML",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Granulato per sospensione orale"
+    },
+    {
+        "aic": "022085082",
+        "nome": "KEFORAL",
+        "descrizione": "1 G COMPRESSE-8 COMPRESSE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "025317013",
+        "nome": "KERLON",
+        "descrizione": "20 MG COMPRESSE RIVESTITE- 28 COMPRESSE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027433022",
+        "nome": "KESSAR",
+        "descrizione": "20 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "ORION CORPORATION",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028561037",
+        "nome": "KETODOL",
+        "descrizione": "25 MG + 200 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028561049",
+        "nome": "KETODOL",
+        "descrizione": "25 MG + 200 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "029278013",
+        "nome": "KETOFTIL",
+        "descrizione": "0,5 MG/ML COLLIRIO, SOLUZIONE- FLACONE DA 10 ML",
+        "produttore": "POLIFARMA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "029278025",
+        "nome": "KETOFTIL",
+        "descrizione": "0,5 MG/ML COLLIRIO, SOLUZIONE-  25 CONTENITORI MONODOSE DA 0,5 ML",
+        "produttore": "POLIFARMA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "029278037",
+        "nome": "KETOFTIL",
+        "descrizione": "0,5 MG/G GEL OFTALMICO- TUBO DA 10 G",
+        "produttore": "POLIFARMA S.P.A.",
+        "forma": "Gel oftalmico"
+    },
+    {
+        "aic": "032784011",
+        "nome": "KERITRINA",
+        "descrizione": "5 MG/24 ORE CEROTTI TRANSDERMICI-15 CEROTTI",
+        "produttore": "LAVIPHARM PHARMACEUTICAL PRODUCTS COMMERCIAL AND INDUSTRIAL SOCIETE ANONYME",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "032784023",
+        "nome": "KERITRINA",
+        "descrizione": "10 MG/24 ORE CEROTTI TRANSDERMICI-15 CEROTTI",
+        "produttore": "LAVIPHARM PHARMACEUTICAL PRODUCTS COMMERCIAL AND INDUSTRIAL SOCIETE ANONYME",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "032784035",
+        "nome": "KERITRINA",
+        "descrizione": "15 MG /24 ORE CEROTTI TRANSDERMICI -15 CEROTTI",
+        "produttore": "LAVIPHARM PHARMACEUTICAL PRODUCTS COMMERCIAL AND INDUSTRIAL SOCIETE ANONYME",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "032901047",
+        "nome": "KETOPLUS",
+        "descrizione": "200 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "033519036",
+        "nome": "KETOPROFENE EG",
+        "descrizione": "50 MG CAPSULE RIGIDE- 30 CAPSULE RIGIDE",
+        "produttore": "EG S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "033519099",
+        "nome": "KETOPROFENE EG",
+        "descrizione": "200 MG CAPSULE RIGIDE RILASCIO PROLUNGATO- 28 CAPSULE",
+        "produttore": "EG S.P.A.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "033635032",
+        "nome": "KETESSE",
+        "descrizione": "20 COMPRESSE RIVESTITE CON FILM DA 25 MG",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635044",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE- 6 FIALE DA 2ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635057",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE-  100 FIALE DA 2ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635069",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE-  1 FIALA DA 2 ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635071",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE-  5 FIALE DA 2 ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635083",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE-  10 FIALE DA 2 ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635095",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE-  20 FIALE DA 2 ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635107",
+        "nome": "KETESSE",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE O PER INFUSIONE-  50 FIALE DA 2 ML",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "033635196",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 2 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635208",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 4 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635210",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 10 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635222",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 20 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635234",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 30 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635246",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 40 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635259",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 50 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635261",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 100 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635273",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 500 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635323",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635335",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635347",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635350",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635362",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635374",
+        "nome": "KETESSE",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 20 BUSTINE MONODOSE IN PES/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635386",
+        "nome": "KETESSE",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 2 BUSTINE MONODOSE IN PES/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635398",
+        "nome": "KETESSE",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 4 BUSTINE MONODOSE IN PES/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635400",
+        "nome": "KETESSE",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 10 BUSTINE MONODOSE IN PES/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "033635412",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635424",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635436",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635448",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635451",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635463",
+        "nome": "KETESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635475",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 2 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635487",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 4 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635499",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 10 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635501",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 20 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635513",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 30 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635525",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 50 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635537",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 100 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635549",
+        "nome": "KETESSE",
+        "descrizione": "25 MG GRANULATO IN BUSTINA- 5X100 BUSTINE MONODOSE IN PET/AL/PE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Granulato in bustina"
+    },
+    {
+        "aic": "033635552",
+        "nome": "KETESSE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635564",
+        "nome": "KETESSE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635576",
+        "nome": "KETESSE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635588",
+        "nome": "KETESSE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635590",
+        "nome": "KETESSE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033635602",
+        "nome": "KETESSE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930014",
+        "nome": "KESTINE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930026",
+        "nome": "KESTINE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930038",
+        "nome": "KESTINE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930040",
+        "nome": "KESTINE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930053",
+        "nome": "KESTINE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930065",
+        "nome": "KESTINE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930077",
+        "nome": "KESTINE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930089",
+        "nome": "KESTINE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930091",
+        "nome": "KESTINE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930103",
+        "nome": "KESTINE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034930115",
+        "nome": "KESTINE",
+        "descrizione": "5 MG/5 ML SCIROPPO- FLACONE 120 ML",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "034930127",
+        "nome": "KESTINE",
+        "descrizione": "10 MG  LIOFILIZZATO ORALE - 10 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930139",
+        "nome": "KESTINE",
+        "descrizione": "10 MG LIOFILIZZATO ORALE - 20 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930141",
+        "nome": "KESTINE",
+        "descrizione": "10 MG LIOFILIZZATO ORALE - 30 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930154",
+        "nome": "KESTINE",
+        "descrizione": "10 MG LIOFILIZZATO ORALE - 50 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930166",
+        "nome": "KESTINE",
+        "descrizione": "10 MG LIOFILIZZATO ORALE - 100 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930178",
+        "nome": "KESTINE",
+        "descrizione": "20 MG LIOFILIZZATO ORALE - 10 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930180",
+        "nome": "KESTINE",
+        "descrizione": "20 MG LIOFILIZZATO ORALE - 20 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930192",
+        "nome": "KESTINE",
+        "descrizione": "20 MG LIOFILIZZATO ORALE - 30 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930204",
+        "nome": "KESTINE",
+        "descrizione": "20 MG LIOFILIZZATO ORALE - 50 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "034930216",
+        "nome": "KESTINE",
+        "descrizione": "20 MG LIOFILIZZATO ORALE - 100 DOSI",
+        "produttore": "ALMIRALL S.A.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "035039015",
+        "nome": "KEPPRA",
+        "descrizione": "250 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039027",
+        "nome": "KEPPRA",
+        "descrizione": "250 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039039",
+        "nome": "KEPPRA",
+        "descrizione": "250 MG 50 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039041",
+        "nome": "KEPPRA",
+        "descrizione": "250 MG 60 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039054",
+        "nome": "KEPPRA",
+        "descrizione": "250 MG 100 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039066",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 10 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039078",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039080",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039092",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 50 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039104",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 60 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039116",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 100 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039128",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 120 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039130",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 200 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039142",
+        "nome": "KEPPRA",
+        "descrizione": "750 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039155",
+        "nome": "KEPPRA",
+        "descrizione": "750 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039167",
+        "nome": "KEPPRA",
+        "descrizione": "750 MG 50 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039179",
+        "nome": "KEPPRA",
+        "descrizione": "750 MG 60 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039181",
+        "nome": "KEPPRA",
+        "descrizione": "750 MG 80 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039193",
+        "nome": "KEPPRA",
+        "descrizione": "750 MG 100 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039205",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 10 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039217",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039229",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039231",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 50 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039243",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 60 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039256",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 100 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039268",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 200 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039270",
+        "nome": "KEPPRA",
+        "descrizione": "100 MG/ML SOLUZIONE ORALE FLACONE 300 ML 1 FLACONE + 1 SIRINGA PER SOMMINISTRAZIONE ORALE",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035039282",
+        "nome": "KEPPRA",
+        "descrizione": "100 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- USO ENDOVENOSO 10 FLACONCINI  DA 500 MG/5 ML",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "035039294",
+        "nome": "KEPPRA",
+        "descrizione": "100 mg/ml - Soluzione orale - Uso orale - Flacone (vetro) 150 ml - 1 flacone + 1 siringa per la somministrazione orale da 5 ml",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035039306",
+        "nome": "KEPPRA",
+        "descrizione": "100 MG/ML - SOLUZIONE ORALE - USO ORALE - FLACONE(VETRO)-150 ML- 1 FLACONE + 1 SIRINGA PER SOMMINISTRAZIONE ORALE DA 1ML",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "035039318",
+        "nome": "KEPPRA",
+        "descrizione": "100 MG/ML-CONCENTRATO PER SOLUZIONE PER INFUSIONE-USO ENDOVENOSO-FLACONCINO (VETRO) CHIUSO CON UN TAPPO GRIGIO IN GOMMA BROMOBUTILICA NON RIVESTITO 5 ML-10 FLACONCINI",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "035039320",
+        "nome": "KEPPRA",
+        "descrizione": "250MG-COMPRESSA RIVESTITA CON FILM-USO ORALE BLISTER DIVISIBILE (ALLUMINIO/PVC)-100X1 (DOSE UNITARIA)",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039332",
+        "nome": "KEPPRA",
+        "descrizione": "500MG-COMPRESSA RIVESTITA CON FILM-USO ORALE BLISTER DIVISIBILE (ALLUMINIO/PVC)-100X1 (DOSE UNITARIA)",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039344",
+        "nome": "KEPPRA",
+        "descrizione": "750MG-COMPRESSA RIVESTITA CON FILM-USO ORALE BLISTER DIVISIBILE (ALLUMINIO/PVC)-100X1 (DOSE UNITARIA)",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035039357",
+        "nome": "KEPPRA",
+        "descrizione": "1000MG-COMPRESSA RIVESTITA CON FILM-USO ORALE BLISTER DIVISIBILE (ALLUMINIO/PVC)-100X1 (DOSE UNITARIA)",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035310010",
+        "nome": "KESOL",
+        "descrizione": "50 MICROGRAMMI SPRAY NASALE, SOSPENSIONE- 1 FLACONE DA 10 ML/200 DOSI CON POMPA SPRAY DOSATRICE",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Spray nasale, sospensione"
+    },
+    {
+        "aic": "035310022",
+        "nome": "KESOL",
+        "descrizione": "100 MICROGRAMMI/DOSE SPRAY NASALE, SOSPENSIONE- 1 FLACONE DA 200 DOSI/10 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Spray nasale, sospensione"
+    },
+    {
+        "aic": "035641012",
+        "nome": "KEPLAT",
+        "descrizione": "20 MG CEROTTO MEDICATO- 7 CEROTTI",
+        "produttore": "HISAMITSU ITALIA SRL",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "035641024",
+        "nome": "KEPLAT",
+        "descrizione": "20 MG CEROTTO MEDICATO - 2 CEROTTI",
+        "produttore": "HISAMITSU ITALIA SRL",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "035680014",
+        "nome": "KERAFLOX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 1 COMPRESSA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035680026",
+        "nome": "KERAFLOX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 2 COMPRESSE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035680038",
+        "nome": "KERAFLOX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035680040",
+        "nome": "KERAFLOX",
+        "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "036468015",
+        "nome": "KETOPROFENE EG STADA",
+        "descrizione": "100 MG/2,5 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 6 FIALE 2,5 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "036468027",
+        "nome": "KETOPROFENE EG STADA",
+        "descrizione": "5% GEL- TUBO DA 50 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "037466012",
+        "nome": "KETONOVA",
+        "descrizione": "2% SHAMPOO- 1 FLACONE HDPE DA 60 ML",
+        "produttore": "SIFARMA S.P.A.",
+        "forma": "Shampoo"
+    },
+    {
+        "aic": "037466024",
+        "nome": "KETONOVA",
+        "descrizione": "2% SHAMPOO- 1 FLACONE HDPE DA 120 ML",
+        "produttore": "SIFARMA S.P.A.",
+        "forma": "Shampoo"
+    },
+    {
+        "aic": "037466036",
+        "nome": "KETONOVA",
+        "descrizione": "2% SHAMPOO- 1 FLACONE HDPE DA 100 ML",
+        "produttore": "SIFARMA S.P.A.",
+        "forma": "Shampoo"
+    },
+    {
+        "aic": "037746017",
+        "nome": "KEVINDOL",
+        "descrizione": "30 MG/ ML SOLUZIONE INIETTABILE- 3 FIALE DA 1 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037746029",
+        "nome": "KEVINDOL",
+        "descrizione": "20 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 10 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "037848013",
+        "nome": "KETOROLAC ACCORD",
+        "descrizione": "30 MG/ ML SOLUZIONE INIETTABILE- 3 FIALE DA 1 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037848025",
+        "nome": "KETOROLAC ACCORD",
+        "descrizione": "20 MG / ML GOCCE ORALI, SOLUZIONE - FLACONE 10 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037849015",
+        "nome": "KETOROLAC EG",
+        "descrizione": "30 MG/ ML SOLUZIONE INIETTABILE - 3 FIALE",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037849027",
+        "nome": "KETOROLAC EG",
+        "descrizione": "20 MG/ ML GOCCE ORALI, SOLUZIONE - FLACONE DA 10 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037850017",
+        "nome": "KETOROLAC DOC GENERICI",
+        "descrizione": "30 MG/ ML SOLUZIONE INIETTABILE - 3 FIALE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037850029",
+        "nome": "KETOROLAC DOC GENERICI",
+        "descrizione": "20 MG / ML GOCCE ORALI, SOLUZIONE - FLACONE DA 10 ML",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038061014",
+        "nome": "KENDO",
+        "descrizione": "200 MG/ML GOCCE ORALI, SOLUZIONE - FLACONE DA 12,5 ML",
+        "produttore": "ICE S.P.A",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "038061026",
+        "nome": "KENDO",
+        "descrizione": "200 MG /ML GOCCE ORALI, SOLUZIONE - FLACONE DA 20 ML",
+        "produttore": "ICE S.P.A",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "038205023",
+        "nome": "KETOROLAC AUROBINDO",
+        "descrizione": "30 MG/ML SOLUZIONE INIETTABILE - 3 FIALE",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "038358014",
+        "nome": "KETOROLAC ABC",
+        "descrizione": "20 MG/ML GOCCE ORALI, SOLUZIONE - FLACONE DA 10 ML",
+        "produttore": "ICE S.P.A",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "038358026",
+        "nome": "KETOROLAC ABC",
+        "descrizione": "30 MG/ML SOLUZIONE INIETTABILE - 3 FIALE",
+        "produttore": "ICE S.P.A",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "038554010",
+        "nome": "KETOROLAC MYLAN",
+        "descrizione": "30 MG/ ML SOLUZIONE INIETTABILE - 3 FIALE DA 1 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038554022",
+        "nome": "KETOROLAC MYLAN",
+        "descrizione": "20 MG/ ML GOCCE ORALI, SOLUZIONE - FLACONE DA 10 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038722029",
+        "nome": "KETOPROFENE SALE DI LISINA MYLAN GENERICS",
+        "descrizione": "80 MG POLVERE PER SOLUZIONE ORALE- 30 BUSTINE MONOPARTITE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "038723019",
+        "nome": "KELIS",
+        "descrizione": "80 MG POLVERE PER SOLUZIONE ORALE - 30 BUSTINE BIPARTITE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "038725014",
+        "nome": "KETOPROFENE SALE DI LISINA PHARMEG",
+        "descrizione": "80 MG POLVERE PER SOLUZIONE ORALE - 30 BUSTINE BIPARTITE",
+        "produttore": "PHARMEG S.R.L.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "038760017",
+        "nome": "KETOPROFENE SALE DI LISINA EG",
+        "descrizione": "80 MG POLVERE PER SOLUZIONE ORALE - 30 BUSTINE BIPARTITE",
+        "produttore": "EG S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "038812018",
+        "nome": "KENTERA",
+        "descrizione": "3,9 MG/24 H - CEROTTO TRANSDERMICO - USO TRANSDERMICO- BUSTINA (LDPE/LAMINATO DI CARTA)- 8 CEROTTI TRANSDERMICI",
+        "produttore": "TEVA B.V.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "038812020",
+        "nome": "KENTERA",
+        "descrizione": "3,9 MG/24 H -CEROTTO TRANSDERMICO- USO TRANSDERMICO- BUSTINA /LDPE/LAMINATO DI CARTA) - 24 CEROTTI TRANSDERMICI",
+        "produttore": "TEVA B.V.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "038812032",
+        "nome": "KENTERA",
+        "descrizione": "3,9 MG/24 H -CEROTTO TRANSDERMICO- USO TRANSDERMICO- BUSTINA /LDPE/LAMINATO DI CARTA) - 2 CEROTTI TRANSDERMICI",
+        "produttore": "TEVA B.V.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "038812044",
+        "nome": "KENTERA",
+        "descrizione": "90,7 MG/G (4 MG/24 H) - GEL - USO TRANSDERMICO - BUSTINA (LAMINATO DI LDPE/DI CARTA) - 1 G - 30 BUSTINE",
+        "produttore": "TEVA B.V.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038812057",
+        "nome": "KENTERA",
+        "descrizione": "90,7 MG/G (4 MG/24 H) - GEL - USO TRANSDERMICO - POMPA DOSATRICE (PP/LDPE) - 30 G - 1 POMPA DOSATRICE",
+        "produttore": "TEVA B.V.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "038890012",
+        "nome": "KETAMINA MOLTENI",
+        "descrizione": "50 MG/ ML SOLUZIONE INIETTABILE - 5 FIALE DA 2 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "039411018",
+        "nome": "KETOPROFENE SALE DI LISINA PENSA",
+        "descrizione": "80 MG ADULTI POLVERE PER SOLUZIONE ORALE - 30 BUSTINE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "039412010",
+        "nome": "KETOPROFENE SALE DI LISINA DOC",
+        "descrizione": "80 MG ADULTI POLVERE PER SOLUZIONE ORALE - 30 BUSTINE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "039414014",
+        "nome": "KETOPROFENE SALE DI LISINA RATIOPHARM",
+        "descrizione": "80 MG GRANULATO PER SOLUZIONE ORALE - 30 BUSTINE BIPARTITE",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "041850013",
+        "nome": "KEDCOM",
+        "descrizione": "500 UI/20 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLAC.NO POLVERE+1 FLAC.NO SOLVENTE 20 ML+SET INFUSIONALE PER LA RICOSTITUZIONE/SOMM.NE",
+        "produttore": "KEDRION S.P.A.",
+        "forma": "Polvere e solvente per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "042002016",
+        "nome": "KEDHBS",
+        "descrizione": "180 UI/1 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO DA 1 ML",
+        "produttore": "KEDRION S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "042002028",
+        "nome": "KEDHBS",
+        "descrizione": "540 UI/3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO DA 3 ML",
+        "produttore": "KEDRION S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "042002030",
+        "nome": "KEDHBS",
+        "descrizione": "1000 UI/3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA DA 3 ML",
+        "produttore": "KEDRION S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "042964015",
+        "nome": "KESTRELLE",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 1 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042964027",
+        "nome": "KESTRELLE",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 3 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042964039",
+        "nome": "KESTRELLE",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 6 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247016",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/10MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247028",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/10MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247030",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247042",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/10MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247055",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/20MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247067",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/20MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247079",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/20MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247081",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/40MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247093",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/40MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247105",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/40MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247117",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/80MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247129",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/80MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247131",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/80MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247143",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/20MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247156",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/40MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247168",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/80MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247170",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/10MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247182",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/20MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247194",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/40MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247206",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/80MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247218",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/10MG COMPRESSE RIVESTITE CON FILM- 45X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247220",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/20MG COMPRESSE RIVESTITE CON FILM- 45X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247232",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/40MG COMPRESSE RIVESTITE CON FILM- 45X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043247244",
+        "nome": "KEXROLT",
+        "descrizione": "10MG/80MG COMPRESSE RIVESTITE CON FILM- 45X1 COMPRESSE IN BLISTER AL/AL MONODOSE",
+        "produttore": "ORGANON ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043398015",
+        "nome": "KEYCUTE",
+        "descrizione": "160 MG/ML SOLUZIONE PER INFUSIONE SOTTOCUTANEA- FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "KEDRION S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "043398027",
+        "nome": "KEYCUTE",
+        "descrizione": "160 MG/ML SOLUZIONE PER INFUSIONE SOTTOCUTANEA- FLACONCINO IN VETRO DA 25 ML",
+        "produttore": "KEDRION S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "043781018",
+        "nome": "KETOCONAZOLE ESTEVE",
+        "descrizione": "200 MG COMPRESSE - USO ORALE - BLISTER PVC/ALLUMINIO -  60 COMPRESSE",
+        "produttore": "ESTEVE PHARMACEUTICALS SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044016018",
+        "nome": "KENGREXAL",
+        "descrizione": "50 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INIEZIONE/INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 10 FLACONCINI",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per concentrato per soluzione iniettabile/infusione"
+    },
+    {
+        "aic": "044360016",
+        "nome": "KETOPROFENE SALE DI LISINA COOP",
+        "descrizione": "40 MG GRANULATO- 12 BUSTINE IN CARTA/AL/PE",
+        "produttore": "IPSO PHARMA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044360028",
+        "nome": "KETOPROFENE SALE DI LISINA COOP",
+        "descrizione": "40 MG GRANULATO- 24 BUSTINE IN CARTA/AL/PE",
+        "produttore": "IPSO PHARMA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044360030",
+        "nome": "KETOPROFENE SALE DI LISINA COOP",
+        "descrizione": "40 MG GRANULATO- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "IPSO PHARMA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044362010",
+        "nome": "KETOPROFENE SALE DI LISINA ZENTIVA ITALIA",
+        "descrizione": "40 MG GRANULATO- 12 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044362022",
+        "nome": "KETOPROFENE SALE DI LISINA ZENTIVA ITALIA",
+        "descrizione": "40 MG GRANULATO- 24 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044362034",
+        "nome": "KETOPROFENE SALE DI LISINA ZENTIVA ITALIA",
+        "descrizione": "40 MG GRANULATO- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044365017",
+        "nome": "KETODOTASK",
+        "descrizione": "40 MG GRANULATO- 12 BUSTINE IN CARTA/AL/PE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044365029",
+        "nome": "KETODOTASK",
+        "descrizione": "40 MG GRANULATO- 24 BUSTINE IN CARTA/AL/PE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044365031",
+        "nome": "KETODOTASK",
+        "descrizione": "40 MG GRANULATO- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "044386023",
+        "nome": "KEYTRUDA",
+        "descrizione": "25 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 4 ML - 1 FLACONCINO",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044386035",
+        "nome": "KEYTRUDA",
+        "descrizione": "25 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 mL - 2 flaconcini",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044386047",
+        "nome": "KEYTRUDA",
+        "descrizione": "395 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 2,4 mL (165 mg/mL) - 1 flaconcino",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044386050",
+        "nome": "KEYTRUDA",
+        "descrizione": "790 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 4,8mL (165 mg/mL) - 1 flaconcino",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "045225036",
+        "nome": "KELIS DOLORE E INFIAMMAZIONE",
+        "descrizione": "40 MG SOLUZIONE ORALE- 10 STICK PET/AL/PE DA 7 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "045225048",
+        "nome": "KELIS DOLORE E INFIAMMAZIONE",
+        "descrizione": "40 MG SOLUZIONE ORALE- 20 STICK PET/AL/PE DA 7 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "045239011",
+        "nome": "KETOROLAC S.A.L.F.",
+        "descrizione": "30 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 1 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "045357011",
+        "nome": "KEYMET",
+        "descrizione": "500 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045357023",
+        "nome": "KEYMET",
+        "descrizione": "500 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045357035",
+        "nome": "KEYMET",
+        "descrizione": "750 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045357047",
+        "nome": "KEYMET",
+        "descrizione": "750 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045357050",
+        "nome": "KEYMET",
+        "descrizione": "1000 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045357062",
+        "nome": "KEYMET",
+        "descrizione": "1000 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045491014",
+        "nome": "KEVZARA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,14 ML (131,6 MG/ML) - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "045491026",
+        "nome": "KEVZARA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,14 ML (131,6 MG/ML) - 6 (3 X 2) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "045491038",
+        "nome": "KEVZARA",
+        "descrizione": "200 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,14 ML (175 MG/ML) - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "045491040",
+        "nome": "KEVZARA",
+        "descrizione": "200 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,14 ML (175 MG/ML) - 6 (3 X 2) SIRINGHE PRERIEMPITE (CONFEZIONA MULTIPLA)",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "045491053",
+        "nome": "KEVZARA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,14 ML (131,6 MG/ML) - 2 PENNE PRERIEMPITE",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "045491065",
+        "nome": "KEVZARA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,14 ML (131,6 MG/ML) - 6 (3 X 2) PENNE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "045491077",
+        "nome": "KEVZARA",
+        "descrizione": "200 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,14 ML (175 MG/ML) - 2 PENNE PRERIEMPITE",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "045491089",
+        "nome": "KEVZARA",
+        "descrizione": "200 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,14 ML (175 MG/ML) - 6 (3 X 2) PENNE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "045491091",
+        "nome": "KEVZARA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,14 ML (131,6 MG/ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "045491103",
+        "nome": "KEVZARA",
+        "descrizione": "200 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,14 ML (175 MG/ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "045491115",
+        "nome": "KEVZARA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,14 ML (131,6 MG/ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "045491127",
+        "nome": "KEVZARA",
+        "descrizione": "200 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,14 ML (175 MG/ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "047370010",
+        "nome": "KETOPROFENE SALE DI LISINA DOMPE'",
+        "descrizione": "40 MG COMPRESSE ORODISPERSIBILI- 10 COMPRESSE IN IN BLISTER  PA/AL/PVC/AL",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "047370022",
+        "nome": "KETOPROFENE SALE DI LISINA DOMPE'",
+        "descrizione": "40 MG COMPRESSE ORODISPERSIBILI- 20 COMPRESSE IN BLISTER  PA/AL/PVC/AL",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "047370034",
+        "nome": "KETOPROFENE SALE DI LISINA DOMPE'",
+        "descrizione": "40 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "048199018",
+        "nome": "KETIRIX",
+        "descrizione": "0,25 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE LDPE DA 5 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "048199020",
+        "nome": "KETIRIX",
+        "descrizione": "0,25 MG/ML COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 25 CONTENITORI IN LDPE DA 0,5 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "049052018",
+        "nome": "KEMIC",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 10 BUSTINE MONODOSE PET/AL/PE/PET/PE DA 10 ML",
+        "produttore": "SPECIAL PRODUCT'S LINE S.P.A.",
+        "forma": "Soluzione orale in bustina"
+    },
+    {
+        "aic": "049052020",
+        "nome": "KEMIC",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 20 BUSTINE MONODOSE PET/AL/PE/PET/PE DA 10 ML",
+        "produttore": "SPECIAL PRODUCT'S LINE S.P.A.",
+        "forma": "Soluzione orale in bustina"
+    },
+    {
+        "aic": "049277015",
+        "nome": "KETOSTERIL",
+        "descrizione": "COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/PVC-PVDC",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049277027",
+        "nome": "KETOSTERIL",
+        "descrizione": "COMPRESSE RIVESTITE CON FILM- 300 COMPRESSE IN BLISTER AL/PVC-PVDC",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049429018",
+        "nome": "KESIMPTA",
+        "descrizione": "20 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0.4 ML (50 MG / ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "049429020",
+        "nome": "KESIMPTA",
+        "descrizione": "20 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0.4 ML (50 MG / ML) - 3 (3 X 1) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "049429032",
+        "nome": "KESIMPTA",
+        "descrizione": "20 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA (VETRO) IN PENNA PRERIEMPITA - 0.4 ML (50 MG / ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "049429044",
+        "nome": "KESIMPTA",
+        "descrizione": "20 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA (VETRO) IN PENNA PRERIEMPITA - 0.4 ML (50 MG / ML) - 3 (3 X 1) PENNE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "049893011",
+        "nome": "KEPLAT",
+        "descrizione": "20 MG CEROTTO MEDICATO- 7 CEROTTI",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "049904016",
+        "nome": "KESTINLYO",
+        "descrizione": "10 MG LIOFILIZZATO ORALE - 30 DOSI",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "049927015",
+        "nome": "KERENDIA",
+        "descrizione": "10 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 14 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927027",
+        "nome": "KERENDIA",
+        "descrizione": "10 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 28 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927039",
+        "nome": "KERENDIA",
+        "descrizione": "10 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 98 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927041",
+        "nome": "KERENDIA",
+        "descrizione": "10 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 100 x 1 compresse (dose unitaria)",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927054",
+        "nome": "KERENDIA",
+        "descrizione": "10 mg - Compressa rivestita con film - Uso orale -\tflacone (HDPE) - 100 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927066",
+        "nome": "KERENDIA",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 14 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927078",
+        "nome": "KERENDIA",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 28 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927080",
+        "nome": "KERENDIA",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 98 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927092",
+        "nome": "KERENDIA",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tblister (PVC/PVDC/alu) - 100 x 1 compresse (dose unitaria)",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927104",
+        "nome": "KERENDIA",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tflacone (HDPE) - 100 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050039015",
+        "nome": "KETAZED",
+        "descrizione": "0,25 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN HDPE DA 10 ML CON CONTAGOCCE",
+        "produttore": "HORUS PHARMA",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "050069018",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050069020",
+        "nome": "KEPPRA",
+        "descrizione": "500 MG 60 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050364013",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364025",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364037",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364049",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364052",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364064",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364076",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050364088",
+        "nome": "KETODIPIL",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "050864014",
+        "nome": "KEYTRUDA",
+        "descrizione": "25 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 4 ML - 1 FLACONCINO",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Polvere e solvente per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "050930015",
+        "nome": "KETOTIFENE FARMIGEA",
+        "descrizione": "0,25 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE CONTAGOCCE IN LDPE DA 10 ML CON EROGATORE NOVELIA",
+        "produttore": "FARMIGEA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "050930027",
+        "nome": "KETOTIFENE FARMIGEA",
+        "descrizione": "0,25 MG/ML COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE? 20 CONTENITORI IN LDPE DA 0,4 ML",
+        "produttore": "FARMIGEA S.P.A.",
+        "forma": "Collirio, soluzione in contenitore monodose"
+    },
+    {
+        "aic": "050932019",
+        "nome": "KETOTIFENE POLIFARMA",
+        "descrizione": "0.25 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE CONTAGOCCE IN LDPE DA 10 ML CON EROGATORE NOVELIA",
+        "produttore": "POLIFARMA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "050932021",
+        "nome": "KETOTIFENE POLIFARMA",
+        "descrizione": "0,25 MG/ML COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 20 CONTENITORI IN LDPE DA 0,4 ML",
+        "produttore": "POLIFARMA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "051107011",
+        "nome": "KELSEE",
+        "descrizione": "2 MG/0.02 MG COMPRESSE A RILASCIO PROLUNGATO- 1X28 COMPRESSE IN BLISTER PVC-PE-PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "051107023",
+        "nome": "KELSEE",
+        "descrizione": "2 MG/0.02 MG COMPRESSE A RILASCIO PROLUNGATO- 3X28 COMPRESSE IN BLISTER PVC-PE-PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "051107035",
+        "nome": "KELSEE",
+        "descrizione": "2 MG/0.02 MG COMPRESSE A RILASCIO PROLUNGATO- 6X28 COMPRESSE IN BLISTER PVC-PE-PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "051107047",
+        "nome": "KELSEE",
+        "descrizione": "2 MG/0.02 MG COMPRESSE A RILASCIO PROLUNGATO- 13X28 COMPRESSE IN BLISTER PVC-PE-PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "051131011",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051821015",
+        "nome": "KEYTRUDA",
+        "descrizione": "25 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 4 ML - 1 FLACONCINO",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Polvere e solvente per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "051827018",
+        "nome": "KEPPRA",
+        "descrizione": "1000 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    }
+]

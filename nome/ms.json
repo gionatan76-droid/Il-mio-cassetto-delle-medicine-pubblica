@@ -1,0 +1,37 @@
+[
+    {
+        "aic": "025624014",
+        "nome": "MS CONTIN",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 16 COMPRESSE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "025624026",
+        "nome": "MS CONTIN",
+        "descrizione": "30 MG COMPRESSE A RILASCIO PROLUNGATO- 16 COMPRESSE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "025624038",
+        "nome": "MS CONTIN",
+        "descrizione": "60 MG COMPRESSE A RILASCIO PROLUNGATO- 16 COMPRESSE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "025624040",
+        "nome": "MS CONTIN",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 16 COMPRESSE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "025624053",
+        "nome": "MS CONTIN",
+        "descrizione": "200 MG COMPRESSE A RILASCIO PROLUNGATO- 16 COMPRESSE",
+        "produttore": "MUNDIPHARMA PHARMACEUTICALS S.R.L.",
+        "forma": "Compressa a rilascio prolungato"
+    }
+]
