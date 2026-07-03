@@ -1,0 +1,177 @@
+[
+    {
+        "aic": "006035024",
+        "nome": "TRINITRINA",
+        "descrizione": "5 MG/1,5 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE-  10 FIALE 1,5 ML",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "006035051",
+        "nome": "TRINITRINA",
+        "descrizione": "50 MG/50 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONI 50 ML",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "006035075",
+        "nome": "TRINITRINA",
+        "descrizione": "0,3 MG COMPRESSE RIVESTITE- 35 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "006105011",
+        "nome": "EPTADONE",
+        "descrizione": "10 MG/1ML SOLUZIONE INIETTABILE. 5 FIALE DA 1 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006105023",
+        "nome": "EPTADONE",
+        "descrizione": "20 MG/20 ML SCIROPPO. CONTENITORE MONODOSE DA 20 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105035",
+        "nome": "EPTADONE",
+        "descrizione": "10 MG/20 ML SCIROPPO. CONTENITORE MONODOSE DA 20 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105047",
+        "nome": "EPTADONE",
+        "descrizione": "5 MG/20 ML SCIROPPO. CONTENITORE MONODOSE DA 20 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105050",
+        "nome": "EPTADONE",
+        "descrizione": "1 MG/ML SCIROPPO. FLACONE DA 40 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006105062",
+        "nome": "EPTADONE",
+        "descrizione": "1 MG/ML SCIROPPO. FLACONE DA 80 ML",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "006152021",
+        "nome": "TRIMETON",
+        "descrizione": "10 MG/1 ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006228062",
+        "nome": "FOILLE SCOTTATURE",
+        "descrizione": "CREMA- TUBO DA 29,5 G",
+        "produttore": "VEMEDIA MANUFACTURING B.V.",
+        "forma": "CREMA"
+    },
+    {
+        "aic": "006275010",
+        "nome": "EPARINA VISTER",
+        "descrizione": "5.000 UI/ML SOLUZIONE INIETTABILE-1 FLACONCINO 10 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006455036",
+        "nome": "NICOZID",
+        "descrizione": "50 COMPRESSE 200 MG",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "006455048",
+        "nome": "NICOZID",
+        "descrizione": "6 FIALE 100 MG",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006455051",
+        "nome": "NICOZID",
+        "descrizione": "5 FIALE 5 ML 500 MG IM IV",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006570028",
+        "nome": "MAGNESIA S. PELLEGRINO",
+        "descrizione": "90% POLVERE PER SOSPENSIONE ORALE- S/AROMA FLACONE 100 G",
+        "produttore": "VEMEDIA MANUFACTURING B.V.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "006570257",
+        "nome": "MAGNESIA S. PELLEGRINO",
+        "descrizione": "45% POLVERE EFFERVESCENTE- GUSTO LIMONE FLACONE 100 G",
+        "produttore": "VEMEDIA MANUFACTURING B.V.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "006769020",
+        "nome": "NEO-SYNEPHRINE",
+        "descrizione": "2,5 MG/ML GOCCE NASALI, SOLUZIONE- FLACONE 15 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Gocce nasali, soluzione"
+    },
+    {
+        "aic": "006774018",
+        "nome": "EFFORTIL",
+        "descrizione": "10 MG/1 ML SOLUZIONE INIETTABILE- 6 FIALE 1 ML",
+        "produttore": "SERB S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006774032",
+        "nome": "EFFORTIL",
+        "descrizione": "7,5 MG/ML GOCCE ORALI, SOLUZIONE-FLACONE 15 G",
+        "produttore": "SERB S.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "006979013",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 20 COMPRESSE RIVESTITE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "006979025",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "006979037",
+        "nome": "BUSCOPAN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE- 6 FIALE 1 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006979049",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG SUPPOSTE- 6 SUPPOSTE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "006979088",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    }
+]

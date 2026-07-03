@@ -1,0 +1,23 @@
+[
+    {
+        "aic": "045427010",
+        "nome": "QARZIBA",
+        "descrizione": "4,5 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 20 MG - 1 FLACONCINO",
+        "produttore": "RECORDATI NETHERLANDS B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "050700018",
+        "nome": "QAIALDO",
+        "descrizione": "10 mg / ml - Sospensione orale - Uso orale - Flacone (vetro) 150 ml - 1 flacone + 1 siringa orale da 1 ml + 1 siringa orale da 5 ml + 1 adattatore per flacone",
+        "produttore": "LIPOMED GMBH",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "051237016",
+        "nome": "QALSODY",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso intratecale - Flaconcino (vetro) 15 mL (6,7 mg/mL) - 1 flaconcino",
+        "produttore": "BIOGEN NETHERLANDS BV",
+        "forma": "Soluzione iniettabile"
+    }
+]

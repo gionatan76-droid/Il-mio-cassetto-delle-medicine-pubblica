@@ -1,0 +1,1731 @@
+[
+    {
+        "aic": "021510019",
+        "nome": "ONCO CARBIDE",
+        "descrizione": "500 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "027946033",
+        "nome": "ONAKA",
+        "descrizione": "<<800 MG GRANULATO PER SOLUZIONE ORALE> 10 BUSTINE",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "027946045",
+        "nome": "ONAKA",
+        "descrizione": "<400 MG SOLUZIONE ORALE> 10 FLACONCINI MONODOSE",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "SOLUZIONE"
+    },
+    {
+        "aic": "028122012",
+        "nome": "ONILAQARE",
+        "descrizione": "0,25% CREMA- 1 TUBO 20 G",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "028122036",
+        "nome": "ONILAQARE",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE-  1 FLACONE  2,5 ML + 10 SPATOLE",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "LIQUIDO"
+    },
+    {
+        "aic": "028122048",
+        "nome": "ONILAQARE",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE DA 1,25 ML CON 10 SPATOLE",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "LIQUIDO"
+    },
+    {
+        "aic": "028122051",
+        "nome": "ONILAQARE",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE DA 1,25 ML CON TAPPO APPLICATORE",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "LIQUIDO"
+    },
+    {
+        "aic": "028122063",
+        "nome": "ONILAQARE",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE DA 2,5 ML CON TAPPO APPLICATORE",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "LIQUIDO"
+    },
+    {
+        "aic": "028346029",
+        "nome": "ONCOTICE",
+        "descrizione": "POLVERE PER SOSPENSIONE ENDOVESCICALE- 3 FLACONCINI DA 2 ML",
+        "produttore": "MSD ITALIA S.R.L.",
+        "forma": "Polvere per sospensione iniettabile"
+    },
+    {
+        "aic": "028346031",
+        "nome": "ONCOTICE",
+        "descrizione": "?POLVERE PER SOSPENSIONE ENDOVESCICALE? 1 FLACONCINO IN VETRO DA 2 ML",
+        "produttore": "MSD ITALIA S.R.L.",
+        "forma": "Polvere per sospensione iniettabile"
+    },
+    {
+        "aic": "033834019",
+        "nome": "ONKOTRONE",
+        "descrizione": "10 MG CONCENTRATO PER SOLUZIONE PER INFUSIONE- FLACONCINO DA 5 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "033834021",
+        "nome": "ONKOTRONE",
+        "descrizione": "20 MG CONCENTRATO PER SOLUZIONE PER INFUSIONE- FLACONCINO DA 10 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "033834033",
+        "nome": "ONKOTRONE",
+        "descrizione": "25 MG CONCENTRATO PER SOLUZIONE PER INFUSIONE- FLACONCINO DA 12,5 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "033834045",
+        "nome": "ONKOTRONE",
+        "descrizione": "30 MG CONCENTRATO PER SOLUZIONE PER INFUSIONE- FLACONCINO DA 15 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "037389018",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FIALA DA 2 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037389020",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 2 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037389032",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 2 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037389044",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FIALA DA 4 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037389057",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 4 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037389069",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 4 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037389071",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 1 FLACONE IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389083",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 10 FLACONI IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389095",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 20 FLACONI IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389107",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 40 FLACONI IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389119",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 1 FLACONE IN LDPE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389121",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 10 FLACONI IN LDPE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389133",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 20 FLACONI IN LDPE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389145",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE- 40 FLACONI IN LDPE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389158",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,16 MG/ML SOLUZIONE PER INFUSIONE- 1 FLACONE IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389160",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,16 MG/ML SOLUZIONE PER INFUSIONE- 10 FLACONI IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389172",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,16 MG/ML SOLUZIONE PER INFUSIONE- 20 FLACONI IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037389184",
+        "nome": "ONDANSETRON KABI",
+        "descrizione": "0,16 MG/ML SOLUZIONE PER INFUSIONE- 40 FLACONI IN LDPE DA 50 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "037533015",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DI VETRO DA 2 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037533027",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 25 FIALE DI VETRO DA 2 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037533039",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FIALA DI VETRO DA 2 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037533041",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DI VETRO DA 4 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037533054",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 25 FIALE DI VETRO DA 4 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037533066",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FIALA DI VETRO DA 4 ML",
+        "produttore": "EG S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037533078",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533080",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533092",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533104",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533116",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533128",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533130",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533142",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533155",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533167",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533179",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533181",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533193",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 9 COMPRESSE IN BISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037533205",
+        "nome": "ONDANSETRON EG",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 9 COMPRESSE IN BISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548017",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548029",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548031",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548043",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548056",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548068",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548070",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548082",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 40 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548094",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548106",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548118",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548120",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548132",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548144",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 300 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548157",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548169",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548171",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548183",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548195",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548207",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548219",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548221",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548233",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 40 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548245",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548258",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548260",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548272",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548284",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548296",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 300 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548308",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548310",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 9 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037548322",
+        "nome": "ONDANSETRONE MYLAN GENERICS",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 9 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "037549019",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 2 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549021",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 2 FIALE IN VETRO DA 2 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549033",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 2 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549045",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN VETRO DA 2 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549058",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 4 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549060",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 2 FIALE IN VETRO DA 4 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549072",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037549084",
+        "nome": "ONDANSETRONE MYLAN GENERICS ITALIA",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN VETRO DA 4 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038128017",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE DI VETRO DA 2 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038128029",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 10 FIALE DI VETRO DA 2 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038128031",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE DI VETRO DA 4 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038128043",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 10 FIALE DI VETRO DA 4 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038128056",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 20 FIALE IN LDPE DA 4 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038128068",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "0,08 MG/ML SOLUZIONE PER INFUSIONE - 10 FLACONI IN LPDE DA 100 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "038128070",
+        "nome": "ONDANSETRON B. BRAUN",
+        "descrizione": "0,16 MG/ML SOLUZIONE PER INFUSIONE - 10 FLACONI IN LPDE DA 50 ML",
+        "produttore": "B. BRAUN MELSUNGEN AG",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "038344014",
+        "nome": "ONDANSETRONE HIKMA",
+        "descrizione": "4 MG/2 ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038344026",
+        "nome": "ONDANSETRONE HIKMA",
+        "descrizione": "8 MG/4 ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "038434015",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434027",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434039",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434041",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434054",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434066",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434078",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434080",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434092",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434104",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434116",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434128",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434130",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434142",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434155",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 9 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434167",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434179",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434181",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 18 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434193",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434205",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434217",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434229",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434231",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434243",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038434256",
+        "nome": "ONDANSETRONE TEVA",
+        "descrizione": "8 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453016",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO(ALU/ALU)- 14 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453028",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO(ALU/ALU)- 28 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453030",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO(ALU/ALU)- 56 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453042",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO(ALU/ALU)- 98 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453055",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 14 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453067",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453079",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453081",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 98 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453093",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER  PERFORATO  (ALU/ALU)- 30X1 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453105",
+        "nome": "ONGLYZA",
+        "descrizione": "5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER  PERFORATO  (ALU/ALU)- 90X1 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453117",
+        "nome": "ONGLYZA",
+        "descrizione": "2,5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 14 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453129",
+        "nome": "ONGLYZA",
+        "descrizione": "2,5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453131",
+        "nome": "ONGLYZA",
+        "descrizione": "2,5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER NON PERFORATO CALENDARIZZATO (ALU/ALU)- 98 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453143",
+        "nome": "ONGLYZA",
+        "descrizione": "2,5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER PERFORATO MONODOSE (ALU/ALU)- 30X1 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039453156",
+        "nome": "ONGLYZA",
+        "descrizione": "2,5 MG-COMPRESSE RIVESTITE CON FILM -USO ORALE-BLISTER PERFORATO MONODOSE (ALU/ALU)- 90X1 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039664014",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "150 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)-  10 CAPSULE+ 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664026",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "150 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 30 CAPSULE+1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664038",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "150 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 2X (30 CAPSULE+1 INALATORE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664040",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "150 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 3 X (30 CAPSULE+1 INALATORE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664053",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "150 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 30 X (10 CAPSULE+1 INALATORE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664065",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "300 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 10 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664077",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "300 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 30 CAPSULE + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664089",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "300 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 2 X ( 30 CAPSULE + 1 INALATORE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664091",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "300 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 3 X ( 30 CAPSULE + 1 INALATORE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "039664103",
+        "nome": "ONBREZ BREEZHALER",
+        "descrizione": "300 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)- 30 X ( 10 CAPSULE + 1 INALATORE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "040469013",
+        "nome": "ONDANSETRONE ACCORD HEALTHCARE",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 2 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "040469025",
+        "nome": "ONDANSETRONE ACCORD HEALTHCARE",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 10 FIALE IN VETRO DA 2 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "040469037",
+        "nome": "ONDANSETRONE ACCORD HEALTHCARE",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "040469049",
+        "nome": "ONDANSETRONE ACCORD HEALTHCARE",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 10 FIALE IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "041906013",
+        "nome": "ONILAQ",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE IN VETRO DA 2,5 ML CON ACCESSORI (30 LIMETTE PER UNGHIE, 30 TAMPONI DETERGENTI, 30 APPLICATORI)",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "041906025",
+        "nome": "ONILAQ",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE IN VETRO DA 1,25 ML CON ACCESSORI (30 LIMETTE PER UNGHIE, 30 TAMPONI DETERGENTI, 10 APPLICATORI)",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "041906037",
+        "nome": "ONILAQ",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE IN VETRO DA 2,5 ML CON TAPPO APPLICATORE E CON ACCESSORI (30 LIMETTE PER UNGHIE, 30 TAMPONI DETERGENTI)",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "041906049",
+        "nome": "ONILAQ",
+        "descrizione": "5% SMALTO MEDICATO PER UNGHIE- 1 FLACONE IN VETRO DA 1,25 ML CON TAPPO APPLICATORE E CON ACCESSORI (30 LIMETTE PER UNGHIE, 30 TAMPONI DETERGENTI)",
+        "produttore": "GALDERMA ITALIA S.P.A.",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "044484018",
+        "nome": "ONDANSETRONE AUROBINDO",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FIALA IN VETRO DA 2 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "044484020",
+        "nome": "ONDANSETRONE AUROBINDO",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 2 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "044484032",
+        "nome": "ONDANSETRONE AUROBINDO",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 10 FIALE IN VETRO DA 2 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "044484044",
+        "nome": "ONDANSETRONE AUROBINDO",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 1 FIALA IN VETRO DA 4 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "044484057",
+        "nome": "ONDANSETRONE AUROBINDO",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "044484069",
+        "nome": "ONDANSETRONE AUROBINDO",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 10 FIALE IN VETRO DA 4 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "044702025",
+        "nome": "ONCASPAR",
+        "descrizione": "750 U/ML - POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE - USO INTRAMUSCOLARE, USO ENDOVENOSO - FLACONCINO (VETRO) - 3750 U - 1 FLACONCINO",
+        "produttore": "LES LABORATOIRES SERVIER",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "044854014",
+        "nome": "ONISID",
+        "descrizione": "28% SMALTO MEDICATO PER UNGHIE- 1 FLACONCINO IN VETRO DA 12 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "044932010",
+        "nome": "ONGENTYS",
+        "descrizione": "25 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 10 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932022",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 10 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932034",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932046",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932059",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 10 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932061",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 30 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932073",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 90 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932085",
+        "nome": "ONGENTYS",
+        "descrizione": "25 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932097",
+        "nome": "ONGENTYS",
+        "descrizione": "25 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 10 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044932109",
+        "nome": "ONGENTYS",
+        "descrizione": "25 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 30 CAPSULE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "045168010",
+        "nome": "ONIVYDE PEGYLATED LIPOSOMAL",
+        "descrizione": "4,3  MG/ML CONCENTRATO PER DISPERSIONE PER INFUSIONE - 1 FLACONCINO 10 ML",
+        "produttore": "LES LABORATOIRES SERVIER",
+        "forma": "Concentrato per dispersione per infusione"
+    },
+    {
+        "aic": "045778014",
+        "nome": "ONTRUZANT",
+        "descrizione": "150 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "045778026",
+        "nome": "ONTRUZANT",
+        "descrizione": "420 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "SAMSUNG BIOEPIS NL B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046993010",
+        "nome": "ONPATTRO",
+        "descrizione": "2 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO 5 ML - 1 FLACONCINO",
+        "produttore": "ALNYLAM NETHERLANDS BV",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "047736018",
+        "nome": "ONOPRIM",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 50 ML CON CONTAGOCCE",
+        "produttore": "WELEDA ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047822010",
+        "nome": "ONDEXXYA",
+        "descrizione": "200 MG - POLVERE PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 4 FLACONCINI",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "047822022",
+        "nome": "ONDEXXYA",
+        "descrizione": "200 mg - Polvere per soluzione per infusione - Uso endovenoso - Flaconcini (di vetro) - 5 flaconcini",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "048015010",
+        "nome": "ONDANSETRON ACCORD",
+        "descrizione": "4 MG SOLUZIONE INIETTABILE/PER INFUSIONE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO DA 2 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "048015022",
+        "nome": "ONDANSETRON ACCORD",
+        "descrizione": "4 MG SOLUZIONE INIETTABILE/PER INFUSIONE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO DA 2 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "048015034",
+        "nome": "ONDANSETRON ACCORD",
+        "descrizione": "4 MG SOLUZIONE INIETTABILE/PER INFUSIONE IN SIRINGA PRERIEMPITA- 10 SIRINGHE IN VETRO DA 2 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "048015046",
+        "nome": "ONDANSETRON ACCORD",
+        "descrizione": "8 MG SOLUZIONE INIETTABILE/PER INFUSIONE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "048015059",
+        "nome": "ONDANSETRON ACCORD",
+        "descrizione": "8 MG SOLUZIONE INIETTABILE/PER INFUSIONE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "048015061",
+        "nome": "ONDANSETRON ACCORD",
+        "descrizione": "8 MG SOLUZIONE INIETTABILE/PER INFUSIONE IN SIRINGA PRERIEMPITA- 10 SIRINGHE IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "048131015",
+        "nome": "ONICOTER",
+        "descrizione": "78,22 MG/ML SMALTO MEDICATO PER UNGHIE- 1 FLACONE IN VETRO DA 3,3 ML CON APPLICATORE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "048131027",
+        "nome": "ONICOTER",
+        "descrizione": "78,22 MG/ML SMALTO MEDICATO PER UNGHIE- 1 FLACONE IN VETRO DA 6,6 ML CON APPLICATORE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Smalto medicato per unghie"
+    },
+    {
+        "aic": "049442015",
+        "nome": "ONTOZRY",
+        "descrizione": "25 MG + 12,5 MG - COMPRESSA RIVESTITA CON FILM + COMPRESSA - USO ORALE - BLISTER (PVC/ALU) - CONFEZIONE DI INIZIO TRATTAMENTO: 28 COMPRESSE (14 X 25 MG + 14 X 12,5 MG)",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442027",
+        "nome": "ONTOZRY",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 14 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442039",
+        "nome": "ONTOZRY",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 28 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442041",
+        "nome": "ONTOZRY",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 84 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442054",
+        "nome": "ONTOZRY",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 14 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442066",
+        "nome": "ONTOZRY",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 28 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442078",
+        "nome": "ONTOZRY",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 84 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442080",
+        "nome": "ONTOZRY",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 14 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442092",
+        "nome": "ONTOZRY",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 28 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442104",
+        "nome": "ONTOZRY",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 84 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442116",
+        "nome": "ONTOZRY",
+        "descrizione": "200 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 14 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442128",
+        "nome": "ONTOZRY",
+        "descrizione": "200 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 28 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049442130",
+        "nome": "ONTOZRY",
+        "descrizione": "200 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 84 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049598016",
+        "nome": "ONDANSETRON KALCEKS",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 5 FIALE IN VETRO DA 2 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "049598028",
+        "nome": "ONDANSETRON KALCEKS",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FIALE IN VETRO DA 2 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "049598030",
+        "nome": "ONDANSETRON KALCEKS",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 25 FIALE IN VETRO DA 2 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "049598042",
+        "nome": "ONDANSETRON KALCEKS",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "049598055",
+        "nome": "ONDANSETRON KALCEKS",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FIALE IN VETRO DA 4 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "049598067",
+        "nome": "ONDANSETRON KALCEKS",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 25 FIALE IN VETRO DA 4 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "049620014",
+        "nome": "ONUREG",
+        "descrizione": "200 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/PVC/ALU) - 7 COMPRESSE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049620026",
+        "nome": "ONUREG",
+        "descrizione": "200 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/PVC/ALU) - 14 COMPRESSE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049620038",
+        "nome": "ONUREG",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/PVC/ALU) - 7 COMPRESSE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049620040",
+        "nome": "ONUREG",
+        "descrizione": "300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/PVC/ALU) - 14 COMPRESSE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049963010",
+        "nome": "ONTILYV",
+        "descrizione": "25 mg - Capsula rigida - Uso orale - blister (OPA/Al/PVC//Al) - 10 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963022",
+        "nome": "ONTILYV",
+        "descrizione": "25 mg - Capsula rigida - Uso orale - blister (OPA/Al/PVC//Al) - 30 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963034",
+        "nome": "ONTILYV",
+        "descrizione": "25 mg - Capsula rigida - Uso orale - flacone (HDPE) - 10 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963046",
+        "nome": "ONTILYV",
+        "descrizione": "25 mg - Capsula rigida - Uso orale - flacone (HDPE) - 30 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963059",
+        "nome": "ONTILYV",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - blister (OPA/Al/PVC//Al) - 10 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963061",
+        "nome": "ONTILYV",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - blister (OPA/Al/PVC//Al) - 30 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963073",
+        "nome": "ONTILYV",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - blister (OPA/Al/PVC//Al) - 90 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963085",
+        "nome": "ONTILYV",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - flacone (HDPE) - 10 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963097",
+        "nome": "ONTILYV",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - flacone (HDPE) - 30 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049963109",
+        "nome": "ONTILYV",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - flacone (HDPE) - 90 capsule",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "050656014",
+        "nome": "ONAVUO",
+        "descrizione": "120 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656026",
+        "nome": "ONAVUO",
+        "descrizione": "120 MG CAPSULE RIGIDE GASTRORESISTENTI- 14x1 CAPSULE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656038",
+        "nome": "ONAVUO",
+        "descrizione": "120 MG CAPSULE RIGIDE GASTRORESISTENTI- 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656040",
+        "nome": "ONAVUO",
+        "descrizione": "240 MG CAPSULE RIGIDE GASTRORESISTENTI- 56 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656053",
+        "nome": "ONAVUO",
+        "descrizione": "240 MG CAPSULE RIGIDE GASTRORESISTENTI- 168 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656065",
+        "nome": "ONAVUO",
+        "descrizione": "240 MG CAPSULE RIGIDE GASTRORESISTENTI- 196 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656077",
+        "nome": "ONAVUO",
+        "descrizione": "240 MG CAPSULE RIGIDE GASTRORESISTENTI- 56x1 CAPSULE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656089",
+        "nome": "ONAVUO",
+        "descrizione": "240 MG CAPSULE RIGIDE GASTRORESISTENTI- 168x1 CAPSULE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050656091",
+        "nome": "ONAVUO",
+        "descrizione": "240 MG CAPSULE RIGIDE GASTRORESISTENTI- 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050805011",
+        "nome": "ONDANSETRON DOC",
+        "descrizione": "?4 MG COMPRESSE ORODISPERSIBILI? 6 COMPRESSE IN BLISTER PA/AL/PVC-PET/AL/PVC",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "050805023",
+        "nome": "ONDANSETRON DOC",
+        "descrizione": "?8 MG COMPRESSE ORODISPERSIBILI? 6 COMPRESSE IN BLISTER PA/AL/PVC-PET/AL/PVC",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "051265015",
+        "nome": "ONGENTYS",
+        "descrizione": "50 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 CAPSULE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051512010",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN PP DA 2 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512022",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN PP DA 2 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512034",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 50 FIALE IN PP DA 2 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512046",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN PP DA 4 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512059",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN PP DA 4 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512061",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 50 FIALE IN PP DA 4 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512073",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 2 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051512085",
+        "nome": "ONDANSETRON NORIDEM",
+        "descrizione": "2 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052804010",
+        "nome": "ONDIBTA",
+        "descrizione": "100 unita/ml - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna pre-riempita (VitaClick) 3 ml - 1 penna pre-riempita",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052804022",
+        "nome": "ONDIBTA",
+        "descrizione": "100 unita/ml - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna pre-riempita (VitaClick) 3 ml - 5 penne pre-riempite",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    }
+]

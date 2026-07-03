@@ -1,0 +1,282 @@
+[
+    {
+        "aic": "003136025",
+        "nome": "VICKS INALANTE",
+        "descrizione": "Vicks Inalante> <415,4 mg/1g + 415,4 mg/1g bastoncino nasale, contenitore da 1 g",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Bastoncino nasale"
+    },
+    {
+        "aic": "003235049",
+        "nome": "COLLIRIO ALFA DECONGESTIONANTE",
+        "descrizione": "0,8 MG/ML COLLIRIO, SOLUZIONE-FLACONE 10 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "003235076",
+        "nome": "COLLIRIO ALFA DECONGESTIONANTE",
+        "descrizione": "0,8 MG/ML COLLIRIO, SOLUZIONE - 10 CONTENITORI MONODOSE 0,3 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "003311038",
+        "nome": "FENAZIL",
+        "descrizione": "USO ESTERNO STICK 2%",
+        "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
+        "forma": "Matita cutanea"
+    },
+    {
+        "aic": "003311053",
+        "nome": "FENAZIL",
+        "descrizione": "2% POMATA - TUBO 15 G",
+        "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "003366073",
+        "nome": "CEBION",
+        "descrizione": "100 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 10 ML",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "003366111",
+        "nome": "CEBION",
+        "descrizione": "1 G GRANULATO- 10 BUSTINE GUSTO ARANCIA",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "003366147",
+        "nome": "CEBION",
+        "descrizione": "500 MG COMPRESSE MASTICABILI- 20 COMPRESSE MASTICABILI AL LIMONE",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "003366150",
+        "nome": "CEBION",
+        "descrizione": "500 MG COMPRESSE MASTICABILI- 20 COMPRESSE MASTICABILI ALL'ARANCIA",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "003366162",
+        "nome": "CEBION",
+        "descrizione": "1 G COMPRESSE EFFERVESCENTI- 10 COMPRESSE EFFERVESCENTI ALL'ARANCIA",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "003366174",
+        "nome": "CEBION",
+        "descrizione": "1 G COMPRESSE EFFERVESCENTI- 10 COMPRESSE EFFERVESCENTI AL LIMONE",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "003366186",
+        "nome": "CEBION",
+        "descrizione": "500 MG COMPRESSE MASTICABILI- 20 COMPRESSE MASTICABILI AL MIRTILLO",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "003366198",
+        "nome": "CEBION",
+        "descrizione": "500 MG COMPRESSE MASTICABILI- 20 COMPRESSE MASTICABILI SENZA ZUCCHERO",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "003366200",
+        "nome": "CEBION",
+        "descrizione": "1 G COMPRESSE EFFERVESCENTI- 10 COMPRESSE EFFERVESCENTI SENZA ZUCCHERO",
+        "produttore": "PROCTER & GAMBLE S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "003410026",
+        "nome": "IMIDAZYL",
+        "descrizione": "1 MG/ML COLLIRIO SOLUZIONE- 1 FLACONE 10 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "003410065",
+        "nome": "IMIDAZYL",
+        "descrizione": "1MG/ML COLLIRIO SOLUZIONE- 10 CONTENITORI MONODOSE 0,5 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "003452012",
+        "nome": "VALONTAN",
+        "descrizione": "ADULTI 100 MG COMPRESSE RIVESTITE- 4 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "003452024",
+        "nome": "VALONTAN",
+        "descrizione": "ADULTI 100 MG COMPRESSE RIVESTITE- 10 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "003488057",
+        "nome": "ARTANE",
+        "descrizione": "2 MG COMPRESSE - 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "003559059",
+        "nome": "TESTOVIS",
+        "descrizione": "100 MG/2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 2 FIALE DA 2 ML",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003671070",
+        "nome": "DIFTETALL",
+        "descrizione": "<SOSPENSIONE  INIETTABILE  IN  SIRINGA  PRE-RIEMPITA> 1 SIRINGA DA 0,5 ML CON AGO",
+        "produttore": "ASTRO-PHARMA VERTRIEB UND HANDEL VON PHARMAZEUTISCHEN PRODUKTEN GMBH",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "003671106",
+        "nome": "DIFTETALL",
+        "descrizione": "SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 0,5 ML SENZA AGO",
+        "produttore": "ASTRO-PHARMA VERTRIEB UND HANDEL VON PHARMAZEUTISCHEN PRODUKTEN GMBH",
+        "forma": "Sospensione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "003763240",
+        "nome": "GONASI HP",
+        "descrizione": "250 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 3 FLACONCINI POLVERE + 3 SIRINGHE PRERIEMPITE DI SOLVENTE CON 2 AGHI CIASCUNA",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763253",
+        "nome": "GONASI HP",
+        "descrizione": "1000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 3 FLACONCINI POLVERE + 3 SIRINGHE PRERIEMPITE DI SOLVENTE CON 2 AGHI CIASCUNA",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763265",
+        "nome": "GONASI HP",
+        "descrizione": "2000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 3 FLACONCINI POLVERE + 3 SIRINGHE PRERIEMPITE DI SOLVENTE CON 2 AGHI CIASCUNA",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763277",
+        "nome": "GONASI HP",
+        "descrizione": "5000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE + 1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763289",
+        "nome": "GONASI HP",
+        "descrizione": "250 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763291",
+        "nome": "GONASI HP",
+        "descrizione": "1000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763303",
+        "nome": "GONASI HP",
+        "descrizione": "2000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003785019",
+        "nome": "DOBETIN",
+        "descrizione": "500 MICROGRAMMI/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003785033",
+        "nome": "DOBETIN",
+        "descrizione": "1000 MICROGRAMMI/ML SOLUZIONE INIETTABILE- 5 FIALE DA  1 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003785045",
+        "nome": "DOBETIN",
+        "descrizione": "5000 MICROGRAMMI/2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 5 FIALE DA 2 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003785058",
+        "nome": "DOBETIN",
+        "descrizione": "20 MICROGRAMMI/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 15 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "003803095",
+        "nome": "GLICERO VALEROVIT",
+        "descrizione": "20 MG/2 ML + 100 MG/2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE-10 FIALE  2 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003803107",
+        "nome": "GLICERO VALEROVIT",
+        "descrizione": "100 MG COMPRESSA RIVESTITA- BLISTER 50 COMPRESSE RIVESTITE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "003803119",
+        "nome": "GLICERO VALEROVIT",
+        "descrizione": "10 MG/1 ML + 20 MG/1 ML SCIROPPO-1 FLACONE 150 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "003946011",
+        "nome": "DIIDERGOT",
+        "descrizione": "2 MG/ML SOLUZIONE ORALE- 1 FLACONE DA 15 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "003946047",
+        "nome": "DIIDERGOT",
+        "descrizione": "3 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "003950019",
+        "nome": "ARGOTONE",
+        "descrizione": "1% + 0,9% GOCCE NASALI, SOLUZIONE- 1 FLACONE DA 20 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Gocce nasali, soluzione"
+    },
+    {
+        "aic": "003960046",
+        "nome": "BALSAMO ITALSTADIUM",
+        "descrizione": "<UNGUENTO> TUBO IN ALLUMINIO DA 50 G",
+        "produttore": "FALQUI PRODOTTI FARMACEUTICI S.R.L",
+        "forma": "Unguento"
+    }
+]

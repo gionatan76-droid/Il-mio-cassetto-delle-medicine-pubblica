@@ -1,0 +1,1129 @@
+[
+    {
+        "aic": "003763240",
+        "nome": "GONASI HP",
+        "descrizione": "250 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 3 FLACONCINI POLVERE + 3 SIRINGHE PRERIEMPITE DI SOLVENTE CON 2 AGHI CIASCUNA",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763253",
+        "nome": "GONASI HP",
+        "descrizione": "1000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 3 FLACONCINI POLVERE + 3 SIRINGHE PRERIEMPITE DI SOLVENTE CON 2 AGHI CIASCUNA",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763265",
+        "nome": "GONASI HP",
+        "descrizione": "2000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 3 FLACONCINI POLVERE + 3 SIRINGHE PRERIEMPITE DI SOLVENTE CON 2 AGHI CIASCUNA",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763277",
+        "nome": "GONASI HP",
+        "descrizione": "5000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE + 1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763289",
+        "nome": "GONASI HP",
+        "descrizione": "250 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763291",
+        "nome": "GONASI HP",
+        "descrizione": "1000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "003763303",
+        "nome": "GONASI HP",
+        "descrizione": "2000 UI/1 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMPITA DI SOLVENTE CON 2 AGHI",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "016703035",
+        "nome": "GOLAMIXIN",
+        "descrizione": "SPRAY PER MUCOSA ORALE- FLACONE 10 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "022015022",
+        "nome": "GOCCE LASSATIVE AICARDI",
+        "descrizione": "FLACONE 15 ML",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "028267019",
+        "nome": "GOPTEN",
+        "descrizione": "2 MG CAPSULE RIGIDE- 14 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "028267021",
+        "nome": "GOPTEN",
+        "descrizione": "0,5 MG CAPSULE RIGIDE- 28 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "028267033",
+        "nome": "GOPTEN",
+        "descrizione": "2 MG CAPSULE RIGIDE- 28 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "028267045",
+        "nome": "GOPTEN",
+        "descrizione": "0,5 MG CAPSULE RIGIDE- 56 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "029152028",
+        "nome": "GOLASEPT TOSSE GRASSA",
+        "descrizione": "7,5 MG/ML SOLUZIONE DA NEBULIZZARE- 10 FIALE DA 2 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "029152030",
+        "nome": "GOLASEPT TOSSE GRASSA",
+        "descrizione": "3 MG/ML SCIROPPO- 1 FLACONE DA 200 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "031317011",
+        "nome": "GOLASEPT SEDATIVO TOSSE",
+        "descrizione": "15 MG GOCCE ORALI, SOLUZIONE- 1 FLACONE DA 20 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "031317023",
+        "nome": "GOLASEPT SEDATIVO TOSSE",
+        "descrizione": "30 MG/10 ML SCIROPPO- 1 FLACONE DA 150 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "031317035",
+        "nome": "GOLASEPT SEDATIVO TOSSE",
+        "descrizione": "?15 MG GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 18 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "031317047",
+        "nome": "GOLASEPT SEDATIVO TOSSE",
+        "descrizione": "?30 MG/10 ML SCIROPPO? 1 FLACONE IN VETRO DA 98 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "032204012",
+        "nome": "GOLASEPT ANTISETTICO OROFARINGEO",
+        "descrizione": "1,3 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "032392019",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FIALA POLVERE+1 FIALA SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392021",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 3 FIALE POLVERE+3 FIALE SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392033",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FIALE POLVERE+5 FIALE SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392045",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FIALE POLVERE+10 FIALE SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392058",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE+1 FLACONCINO SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392060",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 3 FLACONCIN POLVEREI+3 FLACONCINI SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392072",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI POLVERE+5 FLACONCINI SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392084",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FLACONCINI POLVERE+10 FLACONCINI SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392096",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FIALA POLVERE+1 FIALA SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392108",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 3 FIALE POLVERE+3 FIALE SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392110",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FIALE POLVERE+5 FIALE SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392122",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FIALE POLVERE+10 FIALE SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392134",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE+1 FLACONCINO SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392146",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 3 FLACONCINI POLVERE+3 FLACONCINI SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392159",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI POLVERE+5 FLACONCINI SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392161",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FLACONCINI POLVERE+10 FLACONCINI SOLVENTE 1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392173",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE+ 1 FLACONCINO SOLVENTE USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392185",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 3 FLACONCINI POLVERE+3 FLACONCINI SOLVENTE USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392197",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI POLVERE+5 FLACONCINI SOLVENTE USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392209",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FLACONCINI POLVERE+10 FLACONCINI SOLVENTE USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392211",
+        "nome": "GONAL-F",
+        "descrizione": "1050 IU/1,75ML (77 MCG/1,75 ML) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMP. SOLVENTE 2 ML+15 SIRINGHE USO SC",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392223",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE + 1 SIRINGA PRERIEMPITA SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392235",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI POLVERE + 5 SIRINGHE PRERIEMPITE SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392247",
+        "nome": "GONAL-F",
+        "descrizione": "37,5 IU (2,8 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FLACONCINI POLVERE +10 SIRINGHE PRERIEMPITE SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392250",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE + 1 SIRINGA PRERIEMPITA SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392262",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI POLVERE + 5 SIRINGHE PRERIEMPITE SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392274",
+        "nome": "GONAL-F",
+        "descrizione": "75 IU (5,5 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FLACONCINI POLVERE + 10 SIRINGHE PRERIEMPITE SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392286",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE + 1 SIRINGA PRERIEMPITA SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392298",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI POLVERE + 5 SIRINGHE PRERIEMPITE SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392300",
+        "nome": "GONAL-F",
+        "descrizione": "150 IU (11 MCG) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 10 FLACONCINI POLVERE + 10 SIRINGHE PRERIEMPITE SOLVENTE  1 ML USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392312",
+        "nome": "GONAL-F",
+        "descrizione": "450 IU/0,75 ML (33 MCG/0,75 ML) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE+1 SIRINGA PRERIEMP.1 ML+6 SIRINGHE USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392324",
+        "nome": "GONAL-F",
+        "descrizione": "300 IU/0,5 ML (22 MCG/0,5 ML) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO POLVERE + 1 SIRINGA PRERIEMPITA + 4 SIRINGHE USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "032392336",
+        "nome": "GONAL-F",
+        "descrizione": "300 IU/0,48 ML (22 MCG/0,5 ML) SOLUZIONE INIETTABILE 1 CARTUCCIA IN 1 PENNA PRERIEMPITA + 8 AGHI USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "032392348",
+        "nome": "GONAL-F",
+        "descrizione": "450 IU/0,72 ML (33 MCG/0,75 ML) SOLUZIONE INIETTABILE 1 CARTUCCIA IN 1 PENNA PRERIEMPITA + 12 AGHI USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "032392351",
+        "nome": "GONAL-F",
+        "descrizione": "900 IU/1,44 ML (66 MCG/1,5 ML) SOLUZIONE INIETTABILE 1 CARTUCCIA IN 1 PENNA PRERIEMPITA + 16 AGHI USO SOTTOCUTANEO",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "032392363",
+        "nome": "GONAL-F",
+        "descrizione": "150 UI / 0,25 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN UNA PENNA PRERIEMPITA 0,25 ML - 1 PENNA PRERIEMPITA + 4 AGHI",
+        "produttore": "MERCK EUROPE B.V.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "033501014",
+        "nome": "GOLA ACTION",
+        "descrizione": "3MG+1MG COMPRESSE OROSOLUBILI SENZA ZUCCHERO- 20 COMPRESSE",
+        "produttore": "IODOSAN S.P.A.",
+        "forma": "Compressa orosolubile"
+    },
+    {
+        "aic": "033501026",
+        "nome": "GOLA ACTION",
+        "descrizione": "1,5 MG/ML + 5 MG/ML SPRAY PER MUCOSA ORALE, SOLUZIONE- 1 FLACONE 10 ML",
+        "produttore": "IODOSAN S.P.A.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "033501038",
+        "nome": "GOLA ACTION",
+        "descrizione": "1,5 MG/ML + 5 MG/ML COLLUTORIO- 1 FLACONE 150 ML",
+        "produttore": "IODOSAN S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "035562014",
+        "nome": "GONAPEPTYL DEPOT",
+        "descrizione": "1 SIRINGA PRERIEMPITA DI POLVERE  + 1 SIRINGA PRERIEMPITA DI 1 ML DI SOLVENTE DA 3,75 MG",
+        "produttore": "FERRING S.P.A.",
+        "forma": "Polvere e solvente per sospensione iniettabile"
+    },
+    {
+        "aic": "035562026",
+        "nome": "GONAPEPTYL DEPOT",
+        "descrizione": "3 SIRINGHE PRERIEMPITE DI POLVERE + 3 SIRINGHE PRERIEMPITE DI 1 ML DI SOLVENTE DA 3,75 MG",
+        "produttore": "FERRING S.P.A.",
+        "forma": "Polvere e solvente per sospensione iniettabile"
+    },
+    {
+        "aic": "036678011",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  100 COMPRESSE IN FLACONE HDPE BIANCO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678023",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  7 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678035",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  10 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678047",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  14 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678050",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  28 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678062",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  50 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678074",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  56 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678086",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  98 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678098",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  100 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678100",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-   30 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678112",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  300 COMPRESSE IN  BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678124",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  30 COMPRESSE IN  BLISTER PVC/AL/PA UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678136",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  50 COMPRESSE IN  BLISTER PVC/AL/PA UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678148",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  100 COMPRESSE IN  BLISTER PVC/AL/PA UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678151",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  100 COMPRESSE IN FLACONE HDPE BIANCO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678163",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE-  300 COMPRESSE IN  BLISTER PVC/AL/PA UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678175",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  7 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678187",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  10 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678199",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  14 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678201",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  28 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678213",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  30 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678225",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  50 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678237",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  56 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678249",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE- 98 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678252",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  100 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678264",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  300 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678276",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  30 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO  UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678288",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  50 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO  UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678290",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  100 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO  UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678302",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/20MG COMPRESSE-  300 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO  UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678314",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE-  100 COMPRESSE IN FLACONE HDPE BIANCO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678326",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 7  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678338",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 10  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678340",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 14  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678353",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 28  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678365",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 30  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678377",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 50  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678389",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 56  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678391",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 2X49  COMPRESSE IN BLISTER PCTFE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678403",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 100  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678415",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 300  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678427",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 30  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO  UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678439",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 50  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678441",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 100  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678454",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/40MG COMPRESSE- 300  COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO  UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678466",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 7 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678478",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 10 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678480",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 14 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678492",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 28 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678504",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 30 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678516",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 50 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678528",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 56 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678530",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 2X49 COMPRESSE IN BLISTER PCTFE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678542",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 100 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678555",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 300 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678567",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 30 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678579",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 50 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678581",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 100 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678593",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/8OMG COMPRESSE- 300 COMPRESSE IN BLISTER POLICLOROTRIFLUOROETILENE/PVC OPACO UNIT DOSE",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678605",
+        "nome": "GOLTOR",
+        "descrizione": "10 MG/10 MG COMPRESSE- 84 COMPRESSE IN BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678617",
+        "nome": "GOLTOR",
+        "descrizione": "10 MG/20 MG COMPRESSE- 84 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678629",
+        "nome": "GOLTOR",
+        "descrizione": "10 MG/40 MG COMPRESSE- 84 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678631",
+        "nome": "GOLTOR",
+        "descrizione": "10 MG/80 MG COMPRESSE- 84 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678643",
+        "nome": "GOLTOR",
+        "descrizione": "10MG/10MG COMPRESSE- 2 X 49 COMPRESSE IN BLISTER PVC/AL/PA",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678656",
+        "nome": "GOLTOR",
+        "descrizione": "10 MG/40 MG COMPRESSE- 98 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036678668",
+        "nome": "GOLTOR",
+        "descrizione": "10 MG/80 MG COMPRESSE- 98 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "ADDENDA PHARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041843018",
+        "nome": "GOLASEPT INFIAMMAZIONE E DOLORE",
+        "descrizione": "1,6% COLLUTORIO- FLACONE DA 150 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "041843020",
+        "nome": "GOLASEPT INFIAMMAZIONE E DOLORE",
+        "descrizione": "0,16% SPRAY PER MUCOSA ORALE- FLACONE DA 15 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "043311012",
+        "nome": "GOSURAN",
+        "descrizione": "2,5 MG COMPRESSA RIVESTITA CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044007019",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 20 BUSTINE IN CA/EMA/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007021",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 30 BUSTINE IN CA/EMA/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007033",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 50 BUSTINE IN CA/EMA/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007045",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 100 BUSTINE IN CA/EMA/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007058",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 100 (2 X 50 ) BUSTINE IN CA/EMA/AL, CONFEZIONE MULTIPLA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007060",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 g polvere per soluzione orale>  100  (2x50) bustine in CA/AL/PE, confezione multipla",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007072",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 20 BUSTINE IN CA/AL/PE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007084",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 30 BUSTINE IN CA/AL/PE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007096",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 50 BUSTINE IN CA/AL/PE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044007108",
+        "nome": "GOGANZA",
+        "descrizione": "13,8 G POLVERE PER SOLUZIONE ORALE - 100 BUSTINE IN CA/AL/PE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "044396012",
+        "nome": "GOMEISA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044396024",
+        "nome": "GOMEISA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044396036",
+        "nome": "GOMEISA",
+        "descrizione": "20 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONEIN VETRO DA 15 ML",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "045559010",
+        "nome": "GOTTART",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045559022",
+        "nome": "GOTTART",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048725016",
+        "nome": "GORESP DIGIHALER",
+        "descrizione": "160 MCG / 4,5 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE - 1 INALATORE (120 DOSI)",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "048725028",
+        "nome": "GORESP DIGIHALER",
+        "descrizione": "160 MCG / 4,5 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE - 2 INALATORI (2 X 120 DOSI)",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "048725030",
+        "nome": "GORESP DIGIHALER",
+        "descrizione": "160 MCG / 4,5 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE - 3 INALATORI (3 X 120 DOSI)",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "048725042",
+        "nome": "GORESP DIGIHALER",
+        "descrizione": "320 MCG / 9 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE - 1 INALATORE (60 DOSI)",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "048725055",
+        "nome": "GORESP DIGIHALER",
+        "descrizione": "320 MCG / 9 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE - 2 INALATORI (2 X 60 DOSI)",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "048725067",
+        "nome": "GORESP DIGIHALER",
+        "descrizione": "320 MCG / 9 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE - 3 INALATORI (3 X 60 DOSI)",
+        "produttore": "TEVA PHARMA B.V.",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "049278017",
+        "nome": "GOLPIMEC",
+        "descrizione": "0,5 CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "NEURAXPHARM ITALY S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051915015",
+        "nome": "GOHIBIC",
+        "descrizione": "200 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (in vetro) 20ml (10 mg/ml) - 4 flaconcini",
+        "produttore": "INFLARX GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052645013",
+        "nome": "GOBIVAZ",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.5 ml (100 mg/ml) - 1 penna preriempita",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052645025",
+        "nome": "GOBIVAZ",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.5 ml (100 mg/ml) - 3 (3 x 1) penne preriempite (confezione multipla)",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052645037",
+        "nome": "GOBIVAZ",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0.5 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052645049",
+        "nome": "GOBIVAZ",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0.5 ml (100 mg/ml) - 3 (3 x 1) siringhe preriempite (confezione multipla)",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052645052",
+        "nome": "GOBIVAZ",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 1 ml (100 mg/ml) - 1 penna preriempita",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052645064",
+        "nome": "GOBIVAZ",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 1 ml (100 mg/ml) - 3 (3 x 1) penne preriempite (confezione multipla)",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052645076",
+        "nome": "GOBIVAZ",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052645088",
+        "nome": "GOBIVAZ",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 3 (3 x 1) siringhe preriempite (confezione multipla)",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    }
+]

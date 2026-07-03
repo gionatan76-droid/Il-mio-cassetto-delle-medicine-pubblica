@@ -1,0 +1,205 @@
+[
+    {
+        "aic": "010519078",
+        "nome": "TUSCALMAN",
+        "descrizione": "2 G+0,1 G SCIROPPO- 1 FLACONE 180 G",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "019911015",
+        "nome": "TUSSIBRON",
+        "descrizione": "SCIROPPO 190 ML 1%",
+        "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "019911027",
+        "nome": "TUSSIBRON",
+        "descrizione": "20 CPR 100 MG",
+        "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026707036",
+        "nome": "TUDCABIL",
+        "descrizione": "250 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034275014",
+        "nome": "TUSSEVAL SEDATIVO TOSSE",
+        "descrizione": "4 MG/ML SOSPENSIONE ORALE- FLACONE DA  200 ML",
+        "produttore": "MARCO VITI FARMACEUTICI S.P.A.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "035005014",
+        "nome": "TUCLOR",
+        "descrizione": "800 MG COMPRESSE- 35 COMPRESSE",
+        "produttore": "LANOVA FARMACEUTICI S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035128014",
+        "nome": "TUXIFLUD",
+        "descrizione": "3 MG/ML SCIROPPO- - FLACONE DA 150 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "035128026",
+        "nome": "TUXIFLUD",
+        "descrizione": "15 MG/2 ML SOLUZIONE DA NEBULIZZARE- 15 CONTENITORI MONODOSE",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "035128038",
+        "nome": "TUXIFLUD",
+        "descrizione": "0,75% SOLUZIONE DA NEBULIZZARE- 1 FLACONE DA 40 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "035128040",
+        "nome": "TUXIFLUD",
+        "descrizione": "15 MG/2 ML SOLUZIONE DA NEBULIZZARE- 6 FIALE 2 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "037946011",
+        "nome": "TUSSELIM FLUIDIFICANTE  TOSSE",
+        "descrizione": "2,7 G GRANULATO PER SOLUZIONE ORALE - 30 BUSTINE",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "037946023",
+        "nome": "TUSSELIM FLUIDIFICANTE  TOSSE",
+        "descrizione": "2,7 G/10 ML SCIROPPO - 6 CONTENITORI MONODOSE",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "037946035",
+        "nome": "TUSSELIM FLUIDIFICANTE  TOSSE",
+        "descrizione": "90 MG/ ML SCIROPPO - 1 FLACONE DA 200 ML",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "037946047",
+        "nome": "TUSSELIM FLUIDIFICANTE  TOSSE",
+        "descrizione": "2,7 G GRANULATO PER SOLUZIONE ORALE - 10 BUSTINE IN CARTA/AL/PE",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "038868016",
+        "nome": "TUSSEVAL MUCOLITICO",
+        "descrizione": "4 MG/5 ML SCIROPPO - FLACONE DA 250 ML",
+        "produttore": "MARCO VITI FARMACEUTICI S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "049361013",
+        "nome": "TUKYSA",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/PVC/AL) - 88 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049361025",
+        "nome": "TUKYSA",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/PVC/AL) - 84 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051620019",
+        "nome": "TUZNUE",
+        "descrizione": "150 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Fiala (vetro) - 1 fiala",
+        "produttore": "PRESTIGE BIOPHARMA BELGIUM BVBA",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051620021",
+        "nome": "TUZNUE",
+        "descrizione": "420 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Fiala (vetro) - 1 fiala",
+        "produttore": "PRESTIGE BIOPHARMA BELGIUM BVBA",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051724019",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE? 56 CAPSULE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051724021",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE?60 CAPSULE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051724033",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE? 200 (4X50) CAPSULE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051724045",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE?28X1 CAPSULE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051724058",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE?56X1 CAPSULE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051724060",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE? 168X1 (3X56X1) CAPSULE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051724072",
+        "nome": "TURCER",
+        "descrizione": "?90 MG/50 MG CAPSULE RIGIDE? 180 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051973016",
+        "nome": "TUZULBY",
+        "descrizione": "20 mg - Compressa masticabile a rilascio prolungato - Uso orale - Flacone (HDPE) - 30 compresse",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Compressa masticabile a rilascio prolungato"
+    },
+    {
+        "aic": "051973028",
+        "nome": "TUZULBY",
+        "descrizione": "30 mg - Compressa masticabile a rilascio prolungato - Uso orale - Flacone (HDPE) - 30 compresse",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Compressa masticabile a rilascio prolungato"
+    },
+    {
+        "aic": "051973030",
+        "nome": "TUZULBY",
+        "descrizione": "40 mg - Compressa masticabile a rilascio prolungato - Uso orale - Flacone (HDPE) - 30 compresse",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Compressa masticabile a rilascio prolungato"
+    }
+]

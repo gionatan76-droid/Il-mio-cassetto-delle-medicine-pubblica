@@ -1,0 +1,149 @@
+[
+    {
+        "aic": "010058030",
+        "nome": "MYCOSTATIN",
+        "descrizione": "100000 UI/ML SOSPENSIONE ORALE-FLACONE 100 ML",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "010089011",
+        "nome": "DELTACORTENE",
+        "descrizione": "5 MG COMPRESSE-10 COMPRESSE",
+        "produttore": "BRUNO FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010089035",
+        "nome": "DELTACORTENE",
+        "descrizione": "25 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "BRUNO FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010089047",
+        "nome": "DELTACORTENE",
+        "descrizione": "5 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "BRUNO FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010130021",
+        "nome": "BIODERMATIN",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "ALLIANCE PHARMA(IRELAND)LTD",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010130060",
+        "nome": "BIODERMATIN",
+        "descrizione": "20 MG GRANULATO EFFERVESCENTE- 30 BUSTINE",
+        "produttore": "ALLIANCE PHARMA(IRELAND)LTD",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "010318032",
+        "nome": "CORTIDRO",
+        "descrizione": "0,5% CREMA- TUBO 20 G",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Crema"
+    },
+    {
+        "aic": "010344012",
+        "nome": "PURINETHOL",
+        "descrizione": "50 MG COMPRESSE-25 COMPRESSE",
+        "produttore": "ASPEN PHARMA TRADING LIMITED",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010386011",
+        "nome": "HIRUDOID",
+        "descrizione": "25.000 U.I. CREMA- TUBO 40 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "010386023",
+        "nome": "HIRUDOID",
+        "descrizione": "25.000 U.I. GEL- TUBO 40 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "010386062",
+        "nome": "HIRUDOID",
+        "descrizione": "40.000 U.I. CREMA- TUBO 50 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "010386074",
+        "nome": "HIRUDOID",
+        "descrizione": "40.000 U.I. GEL- TUBO 50 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "010386098",
+        "nome": "HIRUDOID",
+        "descrizione": "40.000 U.I. CREMA- 1 TUBO IN AL DA 100 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "010386100",
+        "nome": "HIRUDOID",
+        "descrizione": "40.000 U.I. GEL- 1 TUBO IN AL DA 100 G",
+        "produttore": "EG S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "010495048",
+        "nome": "CORTISON CHEMICETINA",
+        "descrizione": "0,5% + 1% UNGUENTO OFTALMICO- TUBO DA 3 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Unguento oftalmico"
+    },
+    {
+        "aic": "010495051",
+        "nome": "CORTISON CHEMICETINA",
+        "descrizione": "2,5% + 2% UNGUENTO- TUBO DA 20 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "010519078",
+        "nome": "TUSCALMAN",
+        "descrizione": "2 G+0,1 G SCIROPPO- 1 FLACONE 180 G",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "010681029",
+        "nome": "ETILTOX",
+        "descrizione": "200 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010772022",
+        "nome": "ABIOSTIL",
+        "descrizione": "UNGUENTO NASALE- TUBO 10 G",
+        "produttore": "LABORATORIO CHIMICO DECA DR.CAPUANI S.R.L.",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "010834012",
+        "nome": "ATARAX",
+        "descrizione": "20 MG/10 ML SCIROPPO- FLACONE DA 150 ML",
+        "produttore": "UCB PHARMA S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "010834024",
+        "nome": "ATARAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE DIVISIBILI",
+        "produttore": "UCB PHARMA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    }
+]

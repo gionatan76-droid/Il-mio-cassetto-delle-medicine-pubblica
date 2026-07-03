@@ -1,0 +1,772 @@
+[
+    {
+        "aic": "009340011",
+        "nome": "MYSOLINE",
+        "descrizione": "30 COMPRESSE 250 MG",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "010058030",
+        "nome": "MYCOSTATIN",
+        "descrizione": "100000 UI/ML SOSPENSIONE ORALE-FLACONE 100 ML",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "020708069",
+        "nome": "MYLICON",
+        "descrizione": "<bambini 66,6 mg gocce orali,  soluzione> flacone 30 ml",
+        "produttore": "KENVUE ITALIA S.P.A.",
+        "forma": "Gocce orali, emulsione"
+    },
+    {
+        "aic": "024787018",
+        "nome": "MYLERAN",
+        "descrizione": "2 MG COMPRESSE RIVESTITE CON FILM-100 COMPRESSE",
+        "produttore": "ASPEN PHARMA TRADING LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "028426017",
+        "nome": "MYCOBUTIN",
+        "descrizione": "150 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "035189012",
+        "nome": "MYOCET LIPOSOMAL",
+        "descrizione": "50 MG POLVERE E ADDITIVI PER CONCENTRATO PER DISPERSIONE LIPOSOMIALE PER INFUSIONE- SCATOLA CON  2 SET DI TRE FLACONCINI USO ENDOVENOSO",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+        "forma": "Dispersione, polvere e solvente per concentrato per dispersione per infusione"
+    },
+    {
+        "aic": "035849013",
+        "nome": "MYOVIEW",
+        "descrizione": "2 FLACONI DI POLVERE SOLUZIONE INIETTABILE DA 0,23 MG",
+        "produttore": "GE HEALTHCARE S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "035849025",
+        "nome": "MYOVIEW",
+        "descrizione": "5 FLACONI DI POLVERE SOLUZIONE INIETTABILE DA 0,23 MG",
+        "produttore": "GE HEALTHCARE S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "036511018",
+        "nome": "MYFORTIC",
+        "descrizione": "180 MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511020",
+        "nome": "MYFORTIC",
+        "descrizione": "180 MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511032",
+        "nome": "MYFORTIC",
+        "descrizione": "180 MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511044",
+        "nome": "MYFORTIC",
+        "descrizione": "180 MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511057",
+        "nome": "MYFORTIC",
+        "descrizione": "180 MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 250 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511069",
+        "nome": "MYFORTIC",
+        "descrizione": "360  MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511071",
+        "nome": "MYFORTIC",
+        "descrizione": "360  MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511083",
+        "nome": "MYFORTIC",
+        "descrizione": "360  MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "036511095",
+        "nome": "MYFORTIC",
+        "descrizione": "360  MG COMPRESSE GASTRORESISTENTI RIVESTITE CON FILM- 250 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "NOVARTIS FARMA S.P.A.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "037174012",
+        "nome": "MYOZYME",
+        "descrizione": "50 MG FIALA (VETRO) 20 ML 1 FIALA",
+        "produttore": "SANOFI B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "037174024",
+        "nome": "MYOZYME",
+        "descrizione": "50 MG FIALA (VETRO) 20 ML 10 FIALE",
+        "produttore": "SANOFI B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "037174036",
+        "nome": "MYOZYME",
+        "descrizione": "50 MG FIALA (VETRO) 20 ML 25 FIALE",
+        "produttore": "SANOFI B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "037716014",
+        "nome": "MYDRIASERT",
+        "descrizione": "0.28 MG/5.4 MG INSERTO OFTALMICO- 1 INSERTO IN BUSTINA CARTA/PE/AL/PE E 1 PINZETTA USA E GETTA IN BUSTINA PET/PEVA/CARTA",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Inserto oftalmico"
+    },
+    {
+        "aic": "037716026",
+        "nome": "MYDRIASERT",
+        "descrizione": "0.28 MG/5.4 MG INSERTO OFTALMICO- 10 INSERTI IN BUSTINA CARTA/PE/AL/PE E 10 PINZETTE USA E GETTA IN BUSTINA PET/PEVA/CARTA",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Inserto oftalmico"
+    },
+    {
+        "aic": "037716038",
+        "nome": "MYDRIASERT",
+        "descrizione": "0.28 MG/5.4 MG INSERTO OFTALMICO- 20 INSERTI IN BUSTINA CARTA/PE/AL/PE E 20 PINZETTE USA E GETTA IN BUSTINA PET/PEVA/CARTA",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Inserto oftalmico"
+    },
+    {
+        "aic": "037716040",
+        "nome": "MYDRIASERT",
+        "descrizione": "0.28 MG/5.4 MG INSERTO OFTALMICO- 50 INSERTI IN BUSTINA CARTA/PE/AL/PE E 50 PINZETTE USA E GETTA IN BUSTINA PET/PEVA/CARTA",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Inserto oftalmico"
+    },
+    {
+        "aic": "037716053",
+        "nome": "MYDRIASERT",
+        "descrizione": "0.28 MG/5.4 MG INSERTO OFTALMICO- 100 INSERTI IN BUSTINA CARTA/PE/AL/PE E 100 PINZETTE USA E GETTA IN BUSTINA PET/PEVA/CARTA",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Inserto oftalmico"
+    },
+    {
+        "aic": "038140012",
+        "nome": "MYLICONGAS",
+        "descrizione": "40 MG COMPRESSE MASTICABILI - 50 COMPRESSE",
+        "produttore": "KENVUE ITALIA S.P.A.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "038140024",
+        "nome": "MYLICONGAS",
+        "descrizione": "40 MG COMPRESSE MASTICABILI - 24 COMPRESSE",
+        "produttore": "KENVUE ITALIA S.P.A.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "038705012",
+        "nome": "MYCAMINE",
+        "descrizione": "50 MG POLVERE PER SOLUZIONE PER INFUSIONE ENDOVENOSA - USO ENDOVENOSO-FLACONCINO (VETRO) 10 ML-  1 FLACONCINO",
+        "produttore": "SANDOZ PHARMACEUTICALS D.D.",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "038705024",
+        "nome": "MYCAMINE",
+        "descrizione": "100 MG POLVERE PER SOLUZIONE PER INFUSIONE ENDOVENOSA - USO ENDOVENOSO FLACONCINO (VETRO) 10 ML- 1 FLACONCINO",
+        "produttore": "SANDOZ PHARMACEUTICALS D.D.",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "039696012",
+        "nome": "MYFENAX",
+        "descrizione": "250 MG CAPSULE RIGIDE - USO ORALE - BLISTER(PVC/PVDC/ALU)- 100 CAPSULE",
+        "produttore": "TEVA B.V.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "039696024",
+        "nome": "MYFENAX",
+        "descrizione": "250 MG CAPSULE RIGIDE - USO ORALE - BLISTER(PVC/PVDC/ALU)- 300 CAPSULE",
+        "produttore": "TEVA B.V.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "039696036",
+        "nome": "MYFENAX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER(PVC/PVDC/ALU)- 50 COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039696048",
+        "nome": "MYFENAX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER(PVC/PVDC/ALU)- 150 COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039698016",
+        "nome": "MYCOPHENOLATE MOFETIL TEVA",
+        "descrizione": "250 MG CAPSULE RIGIDE - USO ORALE - BLISTER(PVC/PVDC/ALU)- 100 CAPSULE",
+        "produttore": "TEVA B.V.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "039698028",
+        "nome": "MYCOPHENOLATE MOFETIL TEVA",
+        "descrizione": "250 MG CAPSULE RIGIDE - USO ORALE - BLISTER(PVC/PVDC/ALU)- 300 CAPSULE",
+        "produttore": "TEVA B.V.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "039698030",
+        "nome": "MYCOPHENOLATE MOFETIL TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER(PVC/PVDC/ALU)- 50 COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039698042",
+        "nome": "MYCOPHENOLATE MOFETIL TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER(PVC/PVDC/ALU)- 150 COMPRESSE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039878018",
+        "nome": "MYTULIP",
+        "descrizione": "0,03 MG / 2 MG COMPRESSE RIVESTITE CON FILM - 1X21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039878020",
+        "nome": "MYTULIP",
+        "descrizione": "0,03 MG / 2 MG COMPRESSE RIVESTITE CON FILM - 3X21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039878032",
+        "nome": "MYTULIP",
+        "descrizione": "0,03 MG / 2 MG COMPRESSE RIVESTITE CON FILM - 6X21 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963018",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 1X21 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963020",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 3X21 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963032",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 6X21 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963044",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 13X21 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963057",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 100X21 COMPRESSE IN BLISTER AL/PVC/PVDC CONF. OSPEDALIERA",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963069",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 1X21 COMPRESSE IN BLISTER PP/COC/PP",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963071",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 3X21 COMPRESSE IN BLISTER PP/COC/PP",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963083",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 6X21 COMPRESSE IN BLISTER PP/COC/PP",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963095",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 13X21 COMPRESSE IN BLISTER PP/COC/PP",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039963107",
+        "nome": "MYFREESIA",
+        "descrizione": "20 MICROGRAMMI/100 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 100X21 COMPRESSE IN BLISTER PP/COC/PP CONF. OSPEDALIERA",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041346014",
+        "nome": "MYWY",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041346026",
+        "nome": "MYWY",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041346038",
+        "nome": "MYWY",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041346040",
+        "nome": "MYWY",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130017",
+        "nome": "MYVIOLET",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130029",
+        "nome": "MYVIOLET",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 2 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130031",
+        "nome": "MYVIOLET",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130043",
+        "nome": "MYVIOLET",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130056",
+        "nome": "MYVIOLET",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130068",
+        "nome": "MYVIOLET",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 1 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130070",
+        "nome": "MYVIOLET",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 2 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130082",
+        "nome": "MYVIOLET",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130094",
+        "nome": "MYVIOLET",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042130106",
+        "nome": "MYVIOLET",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042131019",
+        "nome": "MYCYCLAMEN",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 1 X (24+4) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042131021",
+        "nome": "MYCYCLAMEN",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3 X (24+4) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042131033",
+        "nome": "MYCYCLAMEN",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6 X (24+4) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042131045",
+        "nome": "MYCYCLAMEN",
+        "descrizione": "0,02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 13 X (24+4) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043455043",
+        "nome": "MYDRANE",
+        "descrizione": "0,2 MG/ML+3,1 MG/ML+10 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 0,6 ML CON 1 AGO FILTRANTE STERILE",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043455056",
+        "nome": "MYDRANE",
+        "descrizione": "0,2 MG/ML+3,1 MG/ML+10 MG/ML SOLUZIONE INIETTABILE- 20 FIALE IN VETRO DA 0,6 ML CON 20 AGHI FILTRANTI STERILI",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043455068",
+        "nome": "MYDRANE",
+        "descrizione": "0,2 MG/ML+3,1 MG/ML+10 MG/ML SOLUZIONE INIETTABILE- 100 FIALE IN VETRO DA 0,6 ML CON 100 AGHI FILTRANTI STERILI",
+        "produttore": "LABORATOIRES THEA",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044014013",
+        "nome": "MYSIMBA",
+        "descrizione": "8 MG /90 MG - COMPRESSE A RILASCIO PROLUNGATO - USO ORALE - BLISTER (PVC/PCTFE/PVC) - 112 COMPRESSE",
+        "produttore": "OREXIGEN THERAPEUTICS IRELAND LIMITED",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044014025",
+        "nome": "MYSIMBA",
+        "descrizione": "8 MG / 90 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (PVC/PCTFE/PVC/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "OREXIGEN THERAPEUTICS IRELAND LIMITED",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "045052014",
+        "nome": "MYPRIMOSE",
+        "descrizione": "0,12 MG/ 0,015 MG OGNI 24 ORE DISPOSITIVO VAGINALE - 1 DISPOSITIVO IN BUSTINA PET/AL/LDPE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sistema a rilascio vaginale"
+    },
+    {
+        "aic": "045052026",
+        "nome": "MYPRIMOSE",
+        "descrizione": "0,12 MG/ 0,015 MG OGNI 24 ORE DISPOSITIVO VAGINALE - 3 DISPOSITIVI IN BUSTINE PET/AL/LDPE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sistema a rilascio vaginale"
+    },
+    {
+        "aic": "045052038",
+        "nome": "MYPRIMOSE",
+        "descrizione": "0,12 MG/ 0,015 MG OGNI 24 ORE DISPOSITIVO VAGINALE - 6 DISPOSITIVI IN BUSTINE PET/AL/LDPE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Sistema a rilascio vaginale"
+    },
+    {
+        "aic": "045112012",
+        "nome": "MYSILDECARD",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/AL) - 90 COMPRESSE",
+        "produttore": "VIATRIS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045112024",
+        "nome": "MYSILDECARD",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/AL) - 300 COMPRESSE",
+        "produttore": "VIATRIS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045112036",
+        "nome": "MYSILDECARD",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/AL) - 90 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "VIATRIS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046485013",
+        "nome": "MYLOTARG",
+        "descrizione": "5 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)  - 1 FLACONCINO",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046870010",
+        "nome": "MYCOPLASMA",
+        "descrizione": "(4 CH, 9 CH, 30 CH) SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "046926010",
+        "nome": "MYALEPTA",
+        "descrizione": "11,3 MG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "046926022",
+        "nome": "MYALEPTA",
+        "descrizione": "11,3 MG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 30 FLACONCINI",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "046926034",
+        "nome": "MYALEPTA",
+        "descrizione": "3 MG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "046926046",
+        "nome": "MYALEPTA",
+        "descrizione": "3 MG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 30 FLACONCINI",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "046926059",
+        "nome": "MYALEPTA",
+        "descrizione": "5,8 MG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "046926061",
+        "nome": "MYALEPTA",
+        "descrizione": "5,8 MG - POLVERE PER SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 30 FLACONCINI",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "048001010",
+        "nome": "MYRELEZ?",
+        "descrizione": "60 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA + AGO CON DISPOSITIVO DI SICUREZZA",
+        "produttore": "AMDIPHARM LTD",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048001022",
+        "nome": "MYRELEZ?",
+        "descrizione": "90 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA + AGO CON DISPOSITIVO DI SICUREZZA",
+        "produttore": "AMDIPHARM LTD",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048001034",
+        "nome": "MYRELEZ?",
+        "descrizione": "120 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA + AGO CON DISPOSITIVO DI SICUREZZA",
+        "produttore": "AMDIPHARM LTD",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048001046",
+        "nome": "MYRELEZ?",
+        "descrizione": "60 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 X 1 SIRINGA PRERIEMPITA + AGO CON DISPOSITIVO DI SICUREZZA (CONFEZIONE MULTIPLA)",
+        "produttore": "AMDIPHARM LTD",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048001059",
+        "nome": "MYRELEZ?",
+        "descrizione": "90 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 X 1 SIRINGA PRERIEMPITA + AGO CON DISPOSITIVO DI SICUREZZA (CONFEZIONE MULTIPLA)",
+        "produttore": "AMDIPHARM LTD",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048001061",
+        "nome": "MYRELEZ?",
+        "descrizione": "120 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 X 1 SIRINGA PRERIEMPITA + AGO CON DISPOSITIVO DI SICUREZZA (CONFEZIONE MULTIPLA)",
+        "produttore": "AMDIPHARM LTD",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "048394011",
+        "nome": "MYDITIN",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048394023",
+        "nome": "MYDITIN",
+        "descrizione": "4 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048394035",
+        "nome": "MYDITIN",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048394047",
+        "nome": "MYDITIN",
+        "descrizione": "4 MG COMPRESSE- 10 X 20 COMPRESSE IN BLISTER PVC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048394050",
+        "nome": "MYDITIN",
+        "descrizione": "4 MG COMPRESSE- 10 X 50 COMPRESSE IN BLISTER PVC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048394062",
+        "nome": "MYDITIN",
+        "descrizione": "4 MG COMPRESSE- 10 X 100 COMPRESSE IN BLISTER PVC/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "MIBE PHARMA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051940017",
+        "nome": "MYOSOTIS OTI COMPOSTO",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 60 CAPSULE DA 160 MG",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "GRANULI IN CAPSULE RIGIDE"
+    },
+    {
+        "aic": "051940029",
+        "nome": "MYOSOTIS OTI COMPOSTO",
+        "descrizione": "SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "051940031",
+        "nome": "MYOSOTIS OTI COMPOSTO",
+        "descrizione": "GOCCE PER MUCOSA ORALE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 50 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Gocce per mucosa orale"
+    },
+    {
+        "aic": "052290018",
+        "nome": "MYLATABI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052290020",
+        "nome": "MYLATABI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052290032",
+        "nome": "MYLATABI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 84 (3X28) COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052290044",
+        "nome": "MYLATABI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052290057",
+        "nome": "MYLATABI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052290069",
+        "nome": "MYLATABI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 84 (3X28) COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052483017",
+        "nome": "MYNZEPLI",
+        "descrizione": "40 mg/ml - Soluzione iniettabile - Uso intravitreo - Flaconcino (vetro) 0,1 mL - 1 flaconcino + 1 ago con filtro",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052483029",
+        "nome": "MYNZEPLI",
+        "descrizione": "40 mg/ml - Soluzione iniettabile - Uso intravitreo - Siringa preriempita (vetro) 0,09 mL - 1 siringa preriempita",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    }
+]

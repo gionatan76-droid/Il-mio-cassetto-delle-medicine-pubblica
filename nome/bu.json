@@ -1,0 +1,2144 @@
+[
+    {
+        "aic": "006979013",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 20 COMPRESSE RIVESTITE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "006979025",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "006979037",
+        "nome": "BUSCOPAN",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE- 6 FIALE 1 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "006979049",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG SUPPOSTE- 6 SUPPOSTE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "006979088",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "022928016",
+        "nome": "BUCCALIN",
+        "descrizione": "BAMBINI COMPRESSE GASTRORESISTENTI- 4 COMPRESSE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "022928028",
+        "nome": "BUCCALIN",
+        "descrizione": "ADULTI COMPRESSE GASTRORESISTENTI- 7 COMPRESSE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "029396013",
+        "nome": "BUSCOFEN",
+        "descrizione": "200 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "029396037",
+        "nome": "BUSCOFEN",
+        "descrizione": "200 MG CAPSULE MOLLI- 12 CAPSULE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "029396049",
+        "nome": "BUSCOFEN",
+        "descrizione": "<400 mg granulato per soluzione orale in bustina> 10 bustine in carta/pe/al/surlyn",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "029396052",
+        "nome": "BUSCOFEN",
+        "descrizione": "200 MG CAPSULE MOLLI- 24 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "029396064",
+        "nome": "BUSCOFEN",
+        "descrizione": "400 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 10 BUSTINE IN CARTA/AL/PE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "029454016",
+        "nome": "BUSCOPAN COMPOSITUM",
+        "descrizione": "10 MG + 500 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "029454028",
+        "nome": "BUSCOPAN COMPOSITUM",
+        "descrizione": "10 MG + 800 MG SUPPOSTE- 6 SUPPOSTE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "029454042",
+        "nome": "BUSCOPAN COMPOSITUM",
+        "descrizione": "10 MG + 500 MG COMPRESSE RIVESTITE- 20 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "032948034",
+        "nome": "BUPICAIN  CON ADRENALINA",
+        "descrizione": "2,5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE 5 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "032948059",
+        "nome": "BUPICAIN  CON ADRENALINA",
+        "descrizione": "2,5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE 10 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "032948073",
+        "nome": "BUPICAIN  CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE 5 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "032948097",
+        "nome": "BUPICAIN  CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE 10 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171013",
+        "nome": "BUPISEN",
+        "descrizione": "2,5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171025",
+        "nome": "BUPISEN",
+        "descrizione": "2,5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 2 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171037",
+        "nome": "BUPISEN",
+        "descrizione": "2,5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 5 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171049",
+        "nome": "BUPISEN",
+        "descrizione": "2,5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171052",
+        "nome": "BUPISEN",
+        "descrizione": "2,5MG/ML SOLUZIONE INIETTABILE- 5 FIALE 20 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171064",
+        "nome": "BUPISEN",
+        "descrizione": "5MG/ML SOLUZIONE INIETTABILE- 5 FIALE 20 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171076",
+        "nome": "BUPISEN",
+        "descrizione": "5MG/1ML SOLUZIONE INIETTABILE- 10 FIALE 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171088",
+        "nome": "BUPISEN",
+        "descrizione": "5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 2 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171090",
+        "nome": "BUPISEN",
+        "descrizione": "5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 5 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171102",
+        "nome": "BUPISEN",
+        "descrizione": "5MG/ML SOLUZIONE INIETTABILE- 10 FIALE 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171114",
+        "nome": "BUPISEN",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- SIRINGA PRERIEMPITA DA 5 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171126",
+        "nome": "BUPISEN",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- SIRINGA PRERIEMPITA DA 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171138",
+        "nome": "BUPISEN",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- SIRINGA PRERIEMPITA DA 5 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171140",
+        "nome": "BUPISEN",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- SIRINGA PRERIEMPITA DA 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171203",
+        "nome": "BUPISEN",
+        "descrizione": "IPERBARICA 10 MG/ ML SOLUZIONE INIETTABILE- 1 FIALA DA 2 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171215",
+        "nome": "BUPISEN",
+        "descrizione": "IPERBARICA 7,5 MG/ ML SOLUZIONE INIETTABILE- 1 FIALA DA 3 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034171227",
+        "nome": "BUPISEN",
+        "descrizione": "IPERBARICA 5 MG/ ML SOLUZIONE INIETTABILE- 1 FIALA DA 4 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034485021",
+        "nome": "BUPICAIN",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE 5 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034485045",
+        "nome": "BUPICAIN",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE 10 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034485060",
+        "nome": "BUPICAIN",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE 5 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034485084",
+        "nome": "BUPICAIN",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE 10 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034485108",
+        "nome": "BUPICAIN",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE IPERBARICA- 10 FIALE 2 ML",
+        "produttore": "MONICO S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034589147",
+        "nome": "BUPIVACAINA RECORDATI",
+        "descrizione": "5MG/ML SOLUZIONE INIETTABILE - 10 FIALE 10 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034589150",
+        "nome": "BUPIVACAINA RECORDATI",
+        "descrizione": "5MG/ML SOLUZIONE INIETTABILE IPERBARICA - 10 FIALE 4 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034849012",
+        "nome": "BUPISEN CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034849024",
+        "nome": "BUPISEN CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 2 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034849036",
+        "nome": "BUPISEN CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 5 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034849048",
+        "nome": "BUPISEN CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "034849051",
+        "nome": "BUPISEN CON ADRENALINA",
+        "descrizione": "5 MG/ML + 5 MCG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 20 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "035246014",
+        "nome": "BUPIVACAINA FISIOPHARMA",
+        "descrizione": "2.5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 5 ML",
+        "produttore": "FISIOPHARMA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "035246026",
+        "nome": "BUPIVACAINA FISIOPHARMA",
+        "descrizione": "2.5 MG/ML SOLUZIONE INIETTABILE-  10 FIALE DA 10 ML",
+        "produttore": "FISIOPHARMA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "035246038",
+        "nome": "BUPIVACAINA FISIOPHARMA",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 5 ML",
+        "produttore": "FISIOPHARMA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "035246040",
+        "nome": "BUPIVACAINA FISIOPHARMA",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE-  10 FIALE DA 10 ML",
+        "produttore": "FISIOPHARMA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "035586015",
+        "nome": "BUDESONIDE TEVA",
+        "descrizione": "0,25 MG/ML SOSPENSIONE PER  NEBULIZZATORE - 20 FLACONCINI MONODOSE 2 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "035586027",
+        "nome": "BUDESONIDE TEVA",
+        "descrizione": "0,5 MG/ML SOSPENSIONE PER NEBULIZZATORE - 20 FLACONCINI MONODOSE 2 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "035656014",
+        "nome": "BUDIAIR",
+        "descrizione": "200 MICROGRAMMI PER EROGAZIONE SOLUZIONE PRESSURIZZATA PER INALAZIONE- CONTENITORE SOTTO PRESSIONE DA 200 EROGAZIONI CON EROGATORE STANDARD",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Soluzione pressurizzata per inalazione"
+    },
+    {
+        "aic": "035656026",
+        "nome": "BUDIAIR",
+        "descrizione": "200 MICROGRAMMI PER EROGAZIONE SOLUZIONE PRESSURIZZATA PER INALAZIONE-  CONTENITORE SOTTO PRESSIONE DA 200 EROGAZIONI CON EROGATORE DISTANZIATORE JET",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Soluzione pressurizzata per inalazione"
+    },
+    {
+        "aic": "036004012",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "200 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 1 CARTUCCIA CON 1,09 G",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004024",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "200 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 1 CARTUCCIA CON 2,18 G",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004036",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "200 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 2 CARTUCCE  CON 2,18 G",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004048",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "RICARICA DA 1 CARTUCCIA CON 2,18 G. DI POLVERE PER INALAZIONE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004051",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "RICARICA DA 2 CARTUCCE CON 2,18 G DI POLVERE  PER INAZIONE CIASCUNA",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004063",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "200 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 1 CARTUCCIA  DA 100 DOSI",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004075",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE-  1 CARTUCCIA DA 50 DOSI (RICARICA)",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004087",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE-  1 CARTUCCIA DA 100 DOSI (RICARICA)",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004099",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE-  2 CARTUCCE DA 100 DOSI (RICARICA)",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004101",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 1 CARTUCCIA DA 100 DOSI",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004113",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 2 CARTUCCE DA 100 DOSI",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004125",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE- 10X1 INALATORI NOVOLIZER + 10X1 CARTUCCE DA 50 DOSI",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004137",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE- 10X1 INALATORI NOVOLIZER+  10X1 CARTUCCE DA 100 DOSI",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036004149",
+        "nome": "BUDESONIDE VIATRIS",
+        "descrizione": "400 MCG POLVERE PER INALAZIONE-1 INALATORE NOVOLIZER + 1 CARTUCCIA DA 50 DOSI",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Polvere per inalazione"
+    },
+    {
+        "aic": "036921017",
+        "nome": "BUDINEB",
+        "descrizione": "0,25 MG/ ML SOSPENSIONE DA NEBULIZZARE -  20 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "036921029",
+        "nome": "BUDINEB",
+        "descrizione": "0,5 MG/ ML SOSPENSIONE DA NEBULIZZARE -  20 CONTENITORI MONODOSE DA2 ML",
+        "produttore": "I.B.N. SAVIO S.R.L",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "036922019",
+        "nome": "BUDEXAN",
+        "descrizione": "0,25 MG/ML SOSPENSIONE DA NEBULIZZARE - 20 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "036922021",
+        "nome": "BUDEXAN",
+        "descrizione": "0,5 MG/ML SOSPENSIONE DA NEBULIZZARE - 20 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "037018013",
+        "nome": "BUDESONIDE SANDOZ",
+        "descrizione": "O,25 MG/ML SOSPENSIONE PER NEBULIZZATORE- 20 FIALE LDPE DA 2 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "037018025",
+        "nome": "BUDESONIDE SANDOZ",
+        "descrizione": "O,25 MG/ML SOSPENSIONE PER NEBULIZZATORE- 24 FIALE LDPE DA 2 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "037018037",
+        "nome": "BUDESONIDE SANDOZ",
+        "descrizione": "O,25 MG/ML SOSPENSIONE PER NEBULIZZATORE- 60 FIALE LDPE DA 2 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "037018049",
+        "nome": "BUDESONIDE SANDOZ",
+        "descrizione": "O,5 MG/ML SOSPENSIONE PER NEBULIZZATORE- 20 FIALE LDPE DA 2 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "037018052",
+        "nome": "BUDESONIDE SANDOZ",
+        "descrizione": "O,5 MG/ML SOSPENSIONE PER NEBULIZZATORE- 24 FIALE LDPE DA 2 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "037018064",
+        "nome": "BUDESONIDE SANDOZ",
+        "descrizione": "O,5 MG/ML SOSPENSIONE PER NEBULIZZATORE- 60 FIALE LDPE DA 2 ML",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "038864056",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038864068",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038864070",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038864082",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038864094",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038864106",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "038865061",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "040325045",
+        "nome": "BUPRENORFINA MOLTENI",
+        "descrizione": "2 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040325058",
+        "nome": "BUPRENORFINA MOLTENI",
+        "descrizione": "2 MG COMPRESSE SUBLINGUALI- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040325060",
+        "nome": "BUPRENORFINA MOLTENI",
+        "descrizione": "2 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040325072",
+        "nome": "BUPRENORFINA MOLTENI",
+        "descrizione": "8 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040325084",
+        "nome": "BUPRENORFINA MOLTENI",
+        "descrizione": "8 MG COMPRESSE SUBLINGUALI- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040325096",
+        "nome": "BUPRENORFINA MOLTENI",
+        "descrizione": "8 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040643013",
+        "nome": "BUPRENORFINA SUN",
+        "descrizione": "2 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040643025",
+        "nome": "BUPRENORFINA SUN",
+        "descrizione": "2 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040643037",
+        "nome": "BUPRENORFINA SUN",
+        "descrizione": "8 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "040643049",
+        "nome": "BUPRENORFINA SUN",
+        "descrizione": "8 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "041631019",
+        "nome": "BUSCOFENACT",
+        "descrizione": "400 MG CAPSULE MOLLI- 6 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "041631021",
+        "nome": "BUSCOFENACT",
+        "descrizione": "400 MG CAPSULE MOLLI- 12 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "041631033",
+        "nome": "BUSCOFENACT",
+        "descrizione": "400 MG CAPSULE MOLLI- 20 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "042021016",
+        "nome": "BUCCOLAM",
+        "descrizione": "2,5 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) - 0,5 ML- 4 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021028",
+        "nome": "BUCCOLAM",
+        "descrizione": "5 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) - 1 ML- 4 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021030",
+        "nome": "BUCCOLAM",
+        "descrizione": "7,5 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) - 1,5 ML- 4 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021042",
+        "nome": "BUCCOLAM",
+        "descrizione": "10 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) - 2 ML- 4 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021055",
+        "nome": "BUCCOLAM",
+        "descrizione": "2,5 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) 0,5 ML- 2 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021067",
+        "nome": "BUCCOLAM",
+        "descrizione": "5 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) 1 ML - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021079",
+        "nome": "BUCCOLAM",
+        "descrizione": "7,5 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) 1,5 ML - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042021081",
+        "nome": "BUCCOLAM",
+        "descrizione": "10 MG - SOLUZIONE PER MUCOSA ORALE - PER MUCOSA ORALE - SIRINGA PRERIEMPITA (POLIPROPILENE) 2 ML - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "042484042",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "043095013",
+        "nome": "BUPROPIONE SANDOZ",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "043095025",
+        "nome": "BUPROPIONE SANDOZ",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "043095052",
+        "nome": "BUPROPIONE SANDOZ",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 10 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "043426016",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 2 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426028",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 4 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426030",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 5 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426042",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 8 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426055",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 10 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426067",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 12 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426079",
+        "nome": "BUSETTE",
+        "descrizione": "5 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 20 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426081",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 2 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426093",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 4 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426105",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 5 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426117",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 8 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426129",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 10 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426131",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 12 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426143",
+        "nome": "BUSETTE",
+        "descrizione": "10 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 20 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426156",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 2 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426168",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 4 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426170",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 5 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426182",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 8 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426194",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 10 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426206",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 12 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426218",
+        "nome": "BUSETTE",
+        "descrizione": "15 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 20 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426220",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 2 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426232",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 4 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426244",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 5 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426257",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 8 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426269",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 10 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426271",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 12 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043426283",
+        "nome": "BUSETTE",
+        "descrizione": "20 MICROGRAMMI/ORA, CEROTTO TRASDERMICO - 20 CEROTTI IN BUSTINA  IN PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "043504012",
+        "nome": "BUPIVACAINA CLORIDRATO S.A.L.F.",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043504024",
+        "nome": "BUPIVACAINA CLORIDRATO S.A.L.F.",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043504036",
+        "nome": "BUPIVACAINA CLORIDRATO S.A.L.F.",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043504048",
+        "nome": "BUPIVACAINA CLORIDRATO S.A.L.F.",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043504051",
+        "nome": "BUPIVACAINA CLORIDRATO S.A.L.F.",
+        "descrizione": "10 MG/ML  IPERBARICA SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 2 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043616010",
+        "nome": "BUSULFAN FRESENIUS KABI",
+        "descrizione": "6 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 10 ML -  8 FLACONCINI  (CONFEZIONE MULTIPLA)",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "043616022",
+        "nome": "BUSULFAN FRESENIUS KABI",
+        "descrizione": "6 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro)\t40 ml - 1 flaconcino",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "043962012",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "043962024",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044182018",
+        "nome": "BUSULFAN ACCORD",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044182020",
+        "nome": "BUSULFAN ACCORD",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 8 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044646014",
+        "nome": "BUTAPRAL",
+        "descrizione": "0,5 MG +2,5 MG/2,5 ML SOLUZIONE DA NEBULIZZARE- 30 CONTENITORI MONODOSE IN LDPE DA 2,5 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "044646026",
+        "nome": "BUTAPRAL",
+        "descrizione": "0,5 MG + 2,5 MG / 2,5 ML SOLUZIONE DA NEBULIZZARE- 10 CONTENITORI MONODOSE IN LDPE DA 2,5 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "044646038",
+        "nome": "BUTAPRAL",
+        "descrizione": "0,5 MG + 2,5 MG / 2,5 ML SOLUZIONE DA NEBULIZZARE- 20 CONTENITORI MONODOSE IN LDPE DA 2,5 ML",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "044651014",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044651026",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "GEKOFAR S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "044674012",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674024",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674036",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674048",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 20 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674051",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 100 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674063",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 1 FIALA IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674075",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674087",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674099",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 20 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "044674101",
+        "nome": "BUPIVACAINA AUROBINDO",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 100 FIALE IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "045386075",
+        "nome": "BUSCOFENPOCKET",
+        "descrizione": "400 MG POLVERE ORALE IN BUSTINA- 10 BUSTINE MONODOSE IN PAP/AL/MEEA",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "045386087",
+        "nome": "BUSCOFENPOCKET",
+        "descrizione": "400 MG POLVERE ORALE IN BUSTINA- 12 BUSTINE MONODOSE IN PAP/AL/MEEA",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "045386099",
+        "nome": "BUSCOFENPOCKET",
+        "descrizione": "400 MG POLVERE ORALE IN BUSTINA- 18 BUSTINE MONODOSE IN PAP/AL/MEEA",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "045386101",
+        "nome": "BUSCOFENPOCKET",
+        "descrizione": "400 MG POLVERE ORALE IN BUSTINA- 20 BUSTINE MONODOSE IN PAP/AL/MEEA",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "045386113",
+        "nome": "BUSCOFENPOCKET",
+        "descrizione": "400 MG POLVERE ORALE IN BUSTINA- 24 BUSTINE MONODOSE IN PAP/AL/MEEA",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "045386125",
+        "nome": "BUSCOFENPOCKET",
+        "descrizione": "400 MG POLVERE ORALE IN BUSTINA- 30 BUSTINE MONODOSE IN PAP/AL/MEEA",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "045540010",
+        "nome": "BUSULFAN TILLOMED",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "045540022",
+        "nome": "BUSULFAN TILLOMED",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 8 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "045712015",
+        "nome": "BUPRENORFINA E NALOXONE ETHYPHARM",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PA/AL/PVC/AL/PET DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ETHYPHARM",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "045712027",
+        "nome": "BUPRENORFINA E NALOXONE ETHYPHARM",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER PA/AL/PVC/AL/PET DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ETHYPHARM",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "045712039",
+        "nome": "BUPRENORFINA E NALOXONE ETHYPHARM",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PA/AL/PVC/AL/PET DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ETHYPHARM",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "045712041",
+        "nome": "BUPRENORFINA E NALOXONE ETHYPHARM",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER PA/AL/PVC/AL/PET DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ETHYPHARM",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "045958016",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "160 MICROGRAMMI/4,5 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 1 INALATORE DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "045958028",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "160 MICROGRAMMI/4,5 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 2 INALATORI DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "045958030",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "160 MICROGRAMMI/4,5 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 6 INALATORI DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "045958042",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "320 MICROGRAMMI/9 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 1 INALATORE DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "045958055",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "320 MICROGRAMMI/9 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 2 INALATORI DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "045958067",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "320 MICROGRAMMI/9 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 3 INALATORI DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "045958079",
+        "nome": "BUDESONIDE E FORMOTEROLO SANDOZ",
+        "descrizione": "320 MICROGRAMMI/9 MICROGRAMMI/INALAZIONE POLVERE PER INALAZIONE, PRE-DOSATA- 6 INALATORI DA 60 DOSI IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per inalazione, pre-dosata"
+    },
+    {
+        "aic": "046057016",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057028",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057030",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057042",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057055",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057067",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057079",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046057081",
+        "nome": "BUPRENORFINA E NALOXONE MYLAN PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046455010",
+        "nome": "BUSULFANO TEVA",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 8 FLACONCINI IN VETRO (2X4)",
+        "produttore": "TEVA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046529018",
+        "nome": "BUNAMOL",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 7X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046529020",
+        "nome": "BUNAMOL",
+        "descrizione": "2 MG/0,5 MG COMPRESSE SUBLINGUALI- 28X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046529032",
+        "nome": "BUNAMOL",
+        "descrizione": "4 MG/1 MG COMPRESSE SUBLINGUALI- 7X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046529044",
+        "nome": "BUNAMOL",
+        "descrizione": "4 MG/1 MG COMPRESSE SUBLINGUALI- 28X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046529057",
+        "nome": "BUNAMOL",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 7X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "046529069",
+        "nome": "BUNAMOL",
+        "descrizione": "8 MG/2 MG COMPRESSE SUBLINGUALI- 28X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "L. MOLTENI & C. DEI F.LLI ALITTI SOCIETA' DI ESERCIZIO S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "047337011",
+        "nome": "BUSULFAN KOANAA",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "Koanaa Healthcare Spain, S.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "047337023",
+        "nome": "BUSULFAN KOANAA",
+        "descrizione": "6 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 8 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "Koanaa Healthcare Spain, S.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "047415017",
+        "nome": "BUVIDAL",
+        "descrizione": "8 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,16 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415029",
+        "nome": "BUVIDAL",
+        "descrizione": "16 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,32 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415031",
+        "nome": "BUVIDAL",
+        "descrizione": "24 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,48 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415043",
+        "nome": "BUVIDAL",
+        "descrizione": "32 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,64 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415056",
+        "nome": "BUVIDAL",
+        "descrizione": "64 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,18 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415068",
+        "nome": "BUVIDAL",
+        "descrizione": "96 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,27 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415070",
+        "nome": "BUVIDAL",
+        "descrizione": "128 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,36 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047415082",
+        "nome": "BUVIDAL",
+        "descrizione": "160 MG - SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 0,45 ML - 1 SIRINGA PRERIEMPITA",
+        "produttore": "CAMURUS AB",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "047450059",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "047596010",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047596022",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047596034",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047596046",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047596059",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 18 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047596061",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047596073",
+        "nome": "BUSCOACTFOKUS",
+        "descrizione": "400 MG/100 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047902010",
+        "nome": "BUSETALT",
+        "descrizione": "25 MICROGRAMMI/H CEROTTI TRANSDERMICI- 4 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902022",
+        "nome": "BUSETALT",
+        "descrizione": "30 MICROGRAMMI/H CEROTTI TRANSDERMICI- 4 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902034",
+        "nome": "BUSETALT",
+        "descrizione": "40 MICROGRAMMI/H CEROTTI TRANSDERMICI- 4 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902046",
+        "nome": "BUSETALT",
+        "descrizione": "25 MICROGRAMMI/H CEROTTI TRANSDERMICI- 8 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902059",
+        "nome": "BUSETALT",
+        "descrizione": "25 MICROGRAMMI/H CEROTTI TRANSDERMICI- 12 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902061",
+        "nome": "BUSETALT",
+        "descrizione": "30 MICROGRAMMI/H CEROTTI TRANSDERMICI- 8 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902073",
+        "nome": "BUSETALT",
+        "descrizione": "30 MICROGRAMMI/H CEROTTI TRANSDERMICI- 12 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902085",
+        "nome": "BUSETALT",
+        "descrizione": "40 MICROGRAMMI/H CEROTTI TRANSDERMICI- 8 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047902097",
+        "nome": "BUSETALT",
+        "descrizione": "40 MICROGRAMMI/H CEROTTI TRANSDERMICI- 12 CEROTTI IN BUSTINA PET/AL/PE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "048234013",
+        "nome": "BUPROPIONE TEVA",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "048234025",
+        "nome": "BUPROPIONE TEVA",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "048234037",
+        "nome": "BUPROPIONE TEVA",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 7 COMPRESSE IN FLACONE HDPE",
+        "produttore": "TEVA B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "048268015",
+        "nome": "BUPROPIONE DOC",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "048332011",
+        "nome": "BUFANET",
+        "descrizione": "0,25 MG/ML SOSPENSIONE PER NEBULIZZATORE- 20 CONTENITORI MONODOSE IN LDPE DA 2 ML",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "048332023",
+        "nome": "BUFANET",
+        "descrizione": "0,50 MG/ML SOSPENSIONE PER NEBULIZZATORE- 20 CONTENITORI MONODOSE IN LDPE DA 2 ML",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Sospensione da nebulizzare"
+    },
+    {
+        "aic": "048337012",
+        "nome": "BUXSYX",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HOMEOSYN ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "048337024",
+        "nome": "BUXSYX",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 50 ML",
+        "produttore": "HOMEOSYN ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "048421010",
+        "nome": "BUPIVACAINA GRINDEKS",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "AS GRINDEKS",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "048518017",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "048518029",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "048518031",
+        "nome": "BUSCOPAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 40 COMPRESSE IN BLISTER IN AL/PVC",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "048786014",
+        "nome": "BUSCOIBS",
+        "descrizione": "0,2 ML CAPSULE MOLLI GASTRORESISTENTI- 6 CAPSULE IN BLISTER PVC/PCTFE-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle gastroresistente"
+    },
+    {
+        "aic": "048786026",
+        "nome": "BUSCOIBS",
+        "descrizione": "0,2 ML CAPSULE MOLLI GASTRORESISTENTI-12 CAPSULE IN BLISTER PVC/PCTFE-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle gastroresistente"
+    },
+    {
+        "aic": "048786038",
+        "nome": "BUSCOIBS",
+        "descrizione": "0,2 ML CAPSULE MOLLI GASTRORESISTENTI- 24 CAPSULE IN BLISTER PVC/PCTFE-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle gastroresistente"
+    },
+    {
+        "aic": "048786040",
+        "nome": "BUSCOIBS",
+        "descrizione": "0,2 ML CAPSULE MOLLI GASTRORESISTENTI- 48 CAPSULE IN BLISTER PVC/PCTFE-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle gastroresistente"
+    },
+    {
+        "aic": "048786053",
+        "nome": "BUSCOIBS",
+        "descrizione": "0,2 ML CAPSULE MOLLI GASTRORESISTENTI- 96 CAPSULE IN BLISTER PVC/PCTFE-AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Capsula molle gastroresistente"
+    },
+    {
+        "aic": "049284019",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 10 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049284021",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 20 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049284033",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049284045",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 40 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049284058",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 50 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049284060",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049284072",
+        "nome": "BUTILSCOPOLAMINA LIVSANE",
+        "descrizione": "10 MG COMPRESSA RIVESTITA- 100 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "049915010",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915022",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915034",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 49 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915046",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915059",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915061",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915073",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 49 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915085",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "2 MG/0,5 MG COMPRESSA SUBLINGUALE- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915097",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915109",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915111",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 49 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915123",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915135",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915147",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915150",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 49 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915162",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "4 MG/1 MG COMPRESSA SUBLINGUALE- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915174",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915186",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915198",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 49 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915200",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915212",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915224",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915236",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 49 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049915248",
+        "nome": "BUPRENORFINA E NALOXONE G.L. PHARMA",
+        "descrizione": "8 MG/2 MG COMPRESSA SUBLINGUALE- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "G.L. PHARMA GMBH",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "049922014",
+        "nome": "BUPROPIONE  ZENTIVA",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "049922026",
+        "nome": "BUPROPIONE  ZENTIVA",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "049922038",
+        "nome": "BUPROPIONE  ZENTIVA",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "049922040",
+        "nome": "BUPROPIONE  ZENTIVA",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "049922053",
+        "nome": "BUPROPIONE  ZENTIVA",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 30X1 COMPRESSE IN BLISTER OPA/AL/PVC-AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "050057013",
+        "nome": "BUDESONIDE DOC",
+        "descrizione": "3 mg CAPSULE RIGIDE A RILASCIO MODIFICATO- 20 CAPSULE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "050057025",
+        "nome": "BUDESONIDE DOC",
+        "descrizione": "3 mg CAPSULE RIGIDE A RILASCIO MODIFICATO- 45 CAPSULE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "050057037",
+        "nome": "BUDESONIDE DOC",
+        "descrizione": "3 mg CAPSULE RIGIDE A RILASCIO MODIFICATO- 50 CAPSULE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "050057049",
+        "nome": "BUDESONIDE DOC",
+        "descrizione": "3 mg CAPSULE RIGIDE A RILASCIO MODIFICATO- 100 CAPSULE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "050320011",
+        "nome": "BUPROPIONE ZENTIVA ITALIA",
+        "descrizione": "150 MG COMPRESSA A RILASCIO MODIFICATO- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "050320023",
+        "nome": "BUPROPIONE ZENTIVA ITALIA",
+        "descrizione": "150 MG COMPRESSA A RILASCIO MODIFICATO- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051573018",
+        "nome": "BUPROPIONE SUN",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO IN PP",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051573020",
+        "nome": "BUPROPIONE SUN",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 60 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO IN PP",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051573032",
+        "nome": "BUPROPIONE SUN",
+        "descrizione": "150 MG COMPRESSE A RILASCIO MODIFICATO- 90 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO IN PP",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051573044",
+        "nome": "BUPROPIONE SUN",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO IN PP",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051573057",
+        "nome": "BUPROPIONE SUN",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 60 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO IN PP",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051573069",
+        "nome": "BUPROPIONE SUN",
+        "descrizione": "300 MG COMPRESSE A RILASCIO MODIFICATO- 90 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO IN PP",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "051741015",
+        "nome": "BUPIVACAINA AGUETTANT",
+        "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "LABORATOIRE AGUETTANT",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "051813018",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "0,4 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 7 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813020",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "0,4 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 28 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813032",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "0,4 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 56 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813044",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "4 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 7 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813057",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "4 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 28 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813069",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "4 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 56 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813071",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "6 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 7 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813083",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "6 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 28 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813095",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "6 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 56 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813107",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "8 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 7 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813119",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "8 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 28 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "051813121",
+        "nome": "BUPRENORFINA NEURAXPHARM",
+        "descrizione": "8 mg - Film sublinguale - Uso orale - bustina (PET/alu/PE) - 56 x 1 film (monodose)",
+        "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
+        "forma": "Film sublinguale"
+    },
+    {
+        "aic": "052178011",
+        "nome": "BUDESONIDE E FORMOTEROLO CIPLA",
+        "descrizione": "160 MICROGRAMMI/4,5 MICROGRAMMI/EROGAZIONE SOSPENSIONE PRESSURIZZATA PER INALAZIONE- 1 CONTENITORE IN AL DA 120 EROGAZIONI",
+        "produttore": "CIPLA EUROPE NV",
+        "forma": "Sospensione pressurizzata per inalazione"
+    }
+]

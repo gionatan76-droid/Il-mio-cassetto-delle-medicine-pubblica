@@ -1,0 +1,2739 @@
+[
+    {
+        "aic": "023726033",
+        "nome": "CROMEZIN",
+        "descrizione": "1 G/4 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-1 FLACONCINO POLVERE + 1 FIALA SOLVENTE 4 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "026689051",
+        "nome": "CROMATONFERRO",
+        "descrizione": "80 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE EFFERVESCENTI",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "026689063",
+        "nome": "CROMATONFERRO",
+        "descrizione": "BLISTER 60 CPR EFFERV 695 MG USO ORALE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "029018037",
+        "nome": "CREON",
+        "descrizione": "25.000 U.PH.EUR. CAPSULE RIGIDE A RILASCIO MODIFICATO-50 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "029018049",
+        "nome": "CREON",
+        "descrizione": "25.000 U.PH.EUR. CAPSULE RIGIDE A RILASCIO MODIFICATO- 100 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "029018052",
+        "nome": "CREON",
+        "descrizione": "10.000 U.PH.EUR. CAPSULE RIGIDE A RILASCIO MODIFICATO- 50 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "029018064",
+        "nome": "CREON",
+        "descrizione": "10.000 U.PH.EUR. CAPSULE RIGIDE A RILASCIO MODIFICATO- 100 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "029018076",
+        "nome": "CREON",
+        "descrizione": "10.000 U.PH.EUR. CAPSULE RIGIDE A RILASCIO MODIFICATO- 200 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "029018088",
+        "nome": "CREON",
+        "descrizione": "5.000 U PH. EUR. GRANULATO GASTRORESISTENTE- FLACONE DA 20 G",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Granulato gastroresistente"
+    },
+    {
+        "aic": "032132021",
+        "nome": "CRINONE",
+        "descrizione": "80 MG/G GEL VAGINALE- 6 APPLICATORI MONODOSE PRERIEMPITI",
+        "produttore": "MERCK SERONO S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "032132033",
+        "nome": "CRINONE",
+        "descrizione": "8O MG/G GEL VAGINALE- 15 APPLICATORI MONODOSE PRERIEMPITI",
+        "produttore": "MERCK SERONO S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "034220018",
+        "nome": "CRYSTACIDE",
+        "descrizione": "TUBO 5 G CREMA 1%",
+        "produttore": "GIULIANI SPA",
+        "forma": "Crema"
+    },
+    {
+        "aic": "034220020",
+        "nome": "CRYSTACIDE",
+        "descrizione": "TUBO 10 G CREMA 1%",
+        "produttore": "GIULIANI SPA",
+        "forma": "Crema"
+    },
+    {
+        "aic": "034220032",
+        "nome": "CRYSTACIDE",
+        "descrizione": "TUBO 25 G CREMA 1%",
+        "produttore": "GIULIANI SPA",
+        "forma": "Crema"
+    },
+    {
+        "aic": "034220044",
+        "nome": "CRYSTACIDE",
+        "descrizione": "TUBO 40 G CREMA 1%",
+        "produttore": "GIULIANI SPA",
+        "forma": "Crema"
+    },
+    {
+        "aic": "035885019",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885021",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885033",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885045",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885058",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885060",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885072",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 42 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885084",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885096",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885108",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885110",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885122",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885134",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885146",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885159",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885161",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885173",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885185",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885197",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885209",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885211",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885223",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 42 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885235",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885247",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885250",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885262",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885274",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885286",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885298",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885300",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885312",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885324",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885336",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885348",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885351",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885363",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885375",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 42 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885387",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885399",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885401",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885413",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885425",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885437",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885449",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885452",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885464",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885476",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885488",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885490",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885502",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885514",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885526",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 42 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885538",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885540",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885553",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885565",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 84 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885577",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885589",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885591",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885603",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885615",
+        "nome": "CRESTOR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885627",
+        "nome": "CRESTOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885639",
+        "nome": "CRESTOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035885641",
+        "nome": "CRESTOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058016",
+        "nome": "CRATIV",
+        "descrizione": "5 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058028",
+        "nome": "CRATIV",
+        "descrizione": "10 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058030",
+        "nome": "CRATIV",
+        "descrizione": "20 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058042",
+        "nome": "CRATIV",
+        "descrizione": "40 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058055",
+        "nome": "CRATIV",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER IN PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058067",
+        "nome": "CRATIV",
+        "descrizione": "?10 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER IN PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058079",
+        "nome": "CRATIV",
+        "descrizione": "?20 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER IN PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044058081",
+        "nome": "CRATIV",
+        "descrizione": "?40 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER IN PA/AL/PVC-AL",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044528014",
+        "nome": "CRESEMBA",
+        "descrizione": "200 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE  - USO ENDOVENOSO - FLACONCINO (IN VETRO) 10 ML - 1 FLACONCINO",
+        "produttore": "BASILEA PHARMACEUTICA DEUTSCHLAND GMBH",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044528026",
+        "nome": "CRESEMBA",
+        "descrizione": "100 MG -  CAPSULA RIGIDA - USO ORALE - BLISTER (ALU/ALU) - 14 CAPSULE",
+        "produttore": "BASILEA PHARMACEUTICA DEUTSCHLAND GMBH",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "044528038",
+        "nome": "CRESEMBA",
+        "descrizione": "40 mg - Capsula rigida - Uso orale - Blister (Alu/Alu) - 35 x 1 capsule (dose unitaria)",
+        "produttore": "BASILEA PHARMACEUTICA DEUTSCHLAND GMBH",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "045010016",
+        "nome": "CRYSTALSOL",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 20 SACCHE IN PO/PA DA 500 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "045010028",
+        "nome": "CRYSTALSOL",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 10 SACCHE IN PO/PA DA 1000 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "045010030",
+        "nome": "CRYSTALSOL",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 12 SACCHE IN PO/PA DA 1000 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "045010042",
+        "nome": "CRYSTALSOL",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 1 SACCA IN PO/PA DA 500 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "045010055",
+        "nome": "CRYSTALSOL",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 1 SACCA IN PO/PA DA 1000 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "045917010",
+        "nome": "CROTONIL",
+        "descrizione": "?100 MG + 33 MG SOLUZIONE INIETTABILE CON LIDOCAINA? 6 FIALE IN VETRO DA 3,3 ML",
+        "produttore": "FIDIA SPECIALTY S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "045917022",
+        "nome": "CROTONIL",
+        "descrizione": "?200 MG + 40 MG SOLUZIONE INIETTABILE CON LIDOCAINA? 3 FIALE IN VETRO DA 4 ML",
+        "produttore": "FIDIA SPECIALTY S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "045917034",
+        "nome": "CROTONIL",
+        "descrizione": "200 MG + 40 MG SOLUZIONE INIETTABILE CON LIDOCAINA? 6 FIALE IN VETRO DA 4 ML",
+        "produttore": "FIDIA SPECIALTY S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "046127015",
+        "nome": "CRYSVITA",
+        "descrizione": "10 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 ML (10 MG/ML) - 1 FLACONCINO",
+        "produttore": "KYOWA KIRIN HOLDINGS B.V.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "046127027",
+        "nome": "CRYSVITA",
+        "descrizione": "20 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 ML (20 MG/ML) - 1 FLACONCINO",
+        "produttore": "KYOWA KIRIN HOLDINGS B.V.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "046127039",
+        "nome": "CRYSVITA",
+        "descrizione": "30 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 ML (30 MG/ML) - 1 FLACONCINO",
+        "produttore": "KYOWA KIRIN HOLDINGS B.V.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "046127041",
+        "nome": "CRYSVITA",
+        "descrizione": "10 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,33 mL (30 mg/mL) - 1 siringa preriempita",
+        "produttore": "KYOWA KIRIN HOLDINGS B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "046127054",
+        "nome": "CRYSVITA",
+        "descrizione": "20 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,67 mL (30 mg/mL) - 1 siringa preriempita",
+        "produttore": "KYOWA KIRIN HOLDINGS B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "046127066",
+        "nome": "CRYSVITA",
+        "descrizione": "30 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (30 mg/mL) - 1 siringa preriempita",
+        "produttore": "KYOWA KIRIN HOLDINGS B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "046534018",
+        "nome": "CRALONIN",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047002011",
+        "nome": "CREONIPE",
+        "descrizione": "20000 CAPSULE RIGIDE GASTRORESISTENTI- 50 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002023",
+        "nome": "CREONIPE",
+        "descrizione": "20000 CAPSULE RIGIDE GASTRORESISTENTI- 60 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002035",
+        "nome": "CREONIPE",
+        "descrizione": "20000 CAPSULE RIGIDE GASTRORESISTENTI- 100 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002047",
+        "nome": "CREONIPE",
+        "descrizione": "20000 CAPSULE RIGIDE GASTRORESISTENTI- 120 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002050",
+        "nome": "CREONIPE",
+        "descrizione": "20000 CAPSULE RIGIDE GASTRORESISTENTI- 200 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002062",
+        "nome": "CREONIPE",
+        "descrizione": "20000 CAPSULE RIGIDE GASTRORESISTENTI- 250 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002074",
+        "nome": "CREONIPE",
+        "descrizione": "35000 CAPSULE RIGIDE GASTRORESISTENTI- 50 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002086",
+        "nome": "CREONIPE",
+        "descrizione": "35000 CAPSULE RIGIDE GASTRORESISTENTI- 60 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002098",
+        "nome": "CREONIPE",
+        "descrizione": "35000 CAPSULE RIGIDE GASTRORESISTENTI- 100 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002100",
+        "nome": "CREONIPE",
+        "descrizione": "35000 CAPSULE RIGIDE GASTRORESISTENTI- 120 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047002112",
+        "nome": "CREONIPE",
+        "descrizione": "35000 CAPSULE RIGIDE GASTRORESISTENTI- 200 CAPSULE IN FLACONE HDPE",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047131014",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131026",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131038",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131040",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131053",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131065",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131077",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131089",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131091",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131103",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131115",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131127",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131139",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131141",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131154",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131166",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131178",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131180",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131192",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131204",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131216",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131228",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131230",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131242",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131255",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131267",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131279",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131281",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131293",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131305",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131317",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131329",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131331",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131343",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131356",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131368",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131370",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131382",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131394",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131406",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131418",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131420",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131432",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131444",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131457",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131469",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131471",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131483",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131495",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131507",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131519",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131521",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131533",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131545",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131558",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131560",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131572",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131584",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131596",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131608",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131610",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131622",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131634",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131646",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131659",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131661",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131673",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131685",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131697",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131709",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131711",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131723",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131735",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131747",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131750",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131762",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131774",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131786",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131798",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131800",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131812",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131824",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131836",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131848",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131851",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131863",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131875",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131887",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131899",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131901",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131913",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131925",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131937",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131949",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131952",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131964",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131976",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131988",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047131990",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047134022",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047134034",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047134046",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047134059",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047134061",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047134073",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324013",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324025",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324037",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324049",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324052",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324064",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324076",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324088",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324090",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324102",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324114",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324126",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324138",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324140",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324153",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324165",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324177",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324189",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324191",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324203",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324215",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324227",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324239",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324241",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324254",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324266",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324278",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324280",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324292",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324304",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324316",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324328",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324330",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324342",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324355",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324367",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324379",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324381",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047324393",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324405",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324417",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324429",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324431",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324443",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324456",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324468",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324470",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324482",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324494",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324506",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324518",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324520",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324532",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324544",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324557",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324569",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "047324571",
+        "nome": "CRATAEGUS OXYACANTHA",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539016",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539028",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539030",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539042",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539055",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539067",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539079",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539081",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539093",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "100 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539105",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539117",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539129",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539131",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539143",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539156",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539168",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050539170",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539182",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539194",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539206",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "100 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539218",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539220",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539232",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539244",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539257",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539269",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539271",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050539283",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539295",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539307",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539319",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539321",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539333",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539345",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539358",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539360",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539372",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "100 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539384",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539396",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539408",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539410",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539422",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539434",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539446",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539459",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539461",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539473",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539485",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539497",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539509",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050539511",
+        "nome": "CROCUS SATIVUS DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "050559018",
+        "nome": "CRIS",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ARISTO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050559020",
+        "nome": "CRIS",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ARISTO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050559032",
+        "nome": "CRIS",
+        "descrizione": "0,03 MG/3 MG COMPRESSE RIVESTITE CON FILM- 6 X 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ARISTO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050846017",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846029",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846031",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846043",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846056",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846068",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846070",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846082",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846094",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846106",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846118",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846120",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846132",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846144",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846157",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846169",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846171",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846183",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846195",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846207",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846219",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846221",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846233",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846245",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846258",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846260",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846272",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846284",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050846942",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050846955",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050846967",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050846979",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050846981",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050846993",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848011",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848023",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848035",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848047",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848050",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848062",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848074",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848086",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848098",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848100",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848112",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848124",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848136",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848148",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848151",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848163",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848175",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848187",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848199",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848201",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848213",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050848225",
+        "nome": "CROTON TIGLIUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "051968016",
+        "nome": "CRYSTALGLU",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 30 SACCHE IN PP/PA/PE DA 250 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "051968028",
+        "nome": "CRYSTALGLU",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 20 SACCHE IN PP/PA/PE DA 500 ML",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "051968030",
+        "nome": "CRYSTALGLU",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 10 SACCHE IN PP/PA/PE DA 1000 ml",
+        "produttore": "BAXTER S.P.A.",
+        "forma": "Soluzione per infusione"
+    }
+]

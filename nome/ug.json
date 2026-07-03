@@ -1,0 +1,23 @@
+[
+    {
+        "aic": "021458017",
+        "nome": "UGUROL",
+        "descrizione": "250 mg  compresse>  20  compresse  in  blister  in PVC/PVDC/Al",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "021458029",
+        "nome": "UGUROL",
+        "descrizione": "500 MG/5 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO, PER USO ORALE E LOCALE- 5 FIALE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "021458031",
+        "nome": "UGUROL",
+        "descrizione": "500 MG/ 5 ML SOLUZIONE INIETTABILE, PER USO ORALE E LOCALE - 6 FIALE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    }
+]

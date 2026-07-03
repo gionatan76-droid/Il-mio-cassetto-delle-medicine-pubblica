@@ -1,0 +1,177 @@
+[
+    {
+        "aic": "002039055",
+        "nome": "AUREOMICINA",
+        "descrizione": "3% UNGUENTO- TUBO 14,2 G",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "UNGUENTO"
+    },
+    {
+        "aic": "002129017",
+        "nome": "DINTOINA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "002177018",
+        "nome": "PENSULVIT SIFI",
+        "descrizione": "1% + 5% UNGUENTO  OFTALMICO- 1 TUBO DA 6,5 G",
+        "produttore": "SIFI S.P.A.",
+        "forma": "Unguento oftalmico"
+    },
+    {
+        "aic": "002309033",
+        "nome": "FOLINA",
+        "descrizione": "15 MG/2 ML SOLUZIONE INIETTABILE- 5 FIALE DA 2 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "002309045",
+        "nome": "FOLINA",
+        "descrizione": "5 MG CAPSULE MOLLI- 20 CAPSULE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002309058",
+        "nome": "FOLINA",
+        "descrizione": "5 MG CAPSULE MOLLI- 60 CAPSULE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002309060",
+        "nome": "FOLINA",
+        "descrizione": "5 MG CAPSULE MOLLI- 28 CAPSULE IN BLISTER PVC",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002309072",
+        "nome": "FOLINA",
+        "descrizione": "5 MG CAPSULE MOLLI- 120 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002516045",
+        "nome": "REACTIFARGAN",
+        "descrizione": "<2% CREMA> TUBO DA 50 G",
+        "produttore": "KENVUE ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "002516060",
+        "nome": "REACTIFARGAN",
+        "descrizione": "2% CREMA- TUBO DA 20 G",
+        "produttore": "KENVUE ITALIA S.P.A.",
+        "forma": "Crema"
+    },
+    {
+        "aic": "002860017",
+        "nome": "LUMINALE",
+        "descrizione": "200 MG/ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 10 FIALE 1 ML",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "002860031",
+        "nome": "LUMINALE",
+        "descrizione": "100 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "002860043",
+        "nome": "LUMINALE",
+        "descrizione": "15 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "SUBSTIPHARM",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "002866174",
+        "nome": "CHEMICETINA",
+        "descrizione": "500 MG OVULI-3 OVULI",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Ovulo"
+    },
+    {
+        "aic": "002866186",
+        "nome": "CHEMICETINA",
+        "descrizione": "250 MG OVULI-3 OVULI",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L.",
+        "forma": "Ovulo"
+    },
+    {
+        "aic": "002906016",
+        "nome": "LOMARIN",
+        "descrizione": "50 MG COMPRESSE- 4 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PHARMADAY PHARMACEUTICAL S.R.L. UNIPERSONALE",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "002906030",
+        "nome": "LOMARIN",
+        "descrizione": "50 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PHARMADAY PHARMACEUTICAL S.R.L. UNIPERSONALE",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "002918047",
+        "nome": "ANTISPASMINA COLICA",
+        "descrizione": "10 MG + 10 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "002918050",
+        "nome": "ANTISPASMINA COLICA",
+        "descrizione": "FORTE 50 MG + 10 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "002922060",
+        "nome": "TESTOVIRON",
+        "descrizione": "250 MG/ML SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO PER USO INTRAMUSCOLARE-1 FIALA 1 ML",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile a rilascio prolungato"
+    },
+    {
+        "aic": "002922072",
+        "nome": "TESTOVIRON",
+        "descrizione": "250 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- UNA SIRINGA PRERIEMPITA IN VETRO DA 1 ML",
+        "produttore": "ADVANZ PHARMA LIMITED",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "002955058",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "50 MG CAPSULE MOLLI- 2 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002955060",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "50 MG CAPSULE MOLLI- 6 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002955072",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "50 MG CAPSULE MOLLI- 10 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "002955108",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "BAMBINI 25 MG CAPSULE MOLLI- 6 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Capsula molle"
+    }
+]

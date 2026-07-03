@@ -1,0 +1,1262 @@
+[
+    {
+        "aic": "026488015",
+        "nome": "CYTOTEC",
+        "descrizione": "200 MCG COMPRESSE-50 COMPRESSE",
+        "produttore": "PFIZER S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033314016",
+        "nome": "CYSTAGON",
+        "descrizione": "50 MG 100 CAPSULE FLACONE USO ORALE",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "033314028",
+        "nome": "CYSTAGON",
+        "descrizione": "50 MG 500 CAPSULE FLACONE USO ORALE",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "033314030",
+        "nome": "CYSTAGON",
+        "descrizione": "150 MG 100 CAPSULE FLACONE USO ORALE",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "033314042",
+        "nome": "CYSTAGON",
+        "descrizione": "150 MG 500 CAPSULE FLACONE USO ORALE",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "036683011",
+        "nome": "CYMBALTA",
+        "descrizione": "30 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "036683023",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "036683035",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 84 CAPSULE",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "036683047",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 98 CAPSULE",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "036683050",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 56 CAPSULE",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "036683062",
+        "nome": "CYMBALTA",
+        "descrizione": "30 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 7 CAPSULE",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "037797014",
+        "nome": "CYSTADANE",
+        "descrizione": "1 G POLVERE ORALE - USO ORALE- FLACONE (HDPE) 180 G  + 3 CUCCHIAI DOSATORI (1G, 150MG, 100MG)",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Polvere orale"
+    },
+    {
+        "aic": "038632016",
+        "nome": "CYANOKIT",
+        "descrizione": "2,5 G-POLVERE PER SOLUZIONE PER INFUSIONE -USO ENDOVENOSO-FLACONCINO(VETRO) 2 FLAC+1SET PER INFUSIONE+2DISPOSITIVI DI TRASFERIMENTO+1CATETERE CORTO",
+        "produttore": "SERB S.A.",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "038632028",
+        "nome": "CYANOKIT",
+        "descrizione": "5 G-POLVERE PER SOLUZIONE PER INFUSIONE -USO ENDOVENOSO-FLACONCINO(VETRO) 1FLAC+1SET PER INFUSIONE+1DISPOSITIVO DI TRASFERIMENTO+1CATETERE CORTO",
+        "produttore": "SERB S.A.",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "043797012",
+        "nome": "CYRAMZA",
+        "descrizione": "10 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)  10 ML - 1 FLACONCINO",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "043797024",
+        "nome": "CYRAMZA",
+        "descrizione": "10 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)10 ML - 2 FLACONCINI",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "043797036",
+        "nome": "CYRAMZA",
+        "descrizione": "10 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 50 ML- 1 FLACONCINO",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "045251016",
+        "nome": "CYSTADROPS",
+        "descrizione": "3,8 MG/ML - COLLIRIO, SOLUZIONE - USO OFTALMICO - FLACONCINO (VETRO) - 5 ML",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "045251028",
+        "nome": "CYSTADROPS",
+        "descrizione": "3.8 mg / ml - Collirio, soluzione - Uso oftalmico - flaconcino (vetro) 5 ml - 4 (4 x 1) flaconcini + 4 (4 x 1) applicatori contagocce (multipack)",
+        "produttore": "RECORDATI RARE DISEASES SARL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "046731016",
+        "nome": "CYTOMEGATECT",
+        "descrizione": "100 U/MI SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 10 ML",
+        "produttore": "BIOTEST PHARMA GMBH",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "046731028",
+        "nome": "CYTOMEGATECT",
+        "descrizione": "100 U/MI SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 50 ML",
+        "produttore": "BIOTEST PHARMA GMBH",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "046808010",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046808022",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046808034",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "046808046",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047516012",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE- 28 CAPSULE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "047594015",
+        "nome": "CYTOMEGALOVIRUS",
+        "descrizione": "(4 CH, 9 CH, 30 CH) SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+        "forma": "Soluzione per mucosa orale"
+    },
+    {
+        "aic": "047799010",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799022",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799034",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799046",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799059",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799061",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799073",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799085",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799097",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799109",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799111",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799123",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799135",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799147",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799150",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799162",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799174",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799186",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799198",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799200",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799212",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799224",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799236",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799248",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799251",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799263",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799275",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799287",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799299",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799301",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799313",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799325",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799337",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799349",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799352",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799364",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799376",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799388",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799390",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799402",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799414",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799426",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799438",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799440",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799453",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799465",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799477",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799489",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799491",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799503",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799515",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799527",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799539",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799541",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799554",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799566",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799578",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799580",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799592",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799604",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799616",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799628",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799630",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799642",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799655",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799667",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799679",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "047799681",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050339011",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050340013",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050769013",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050830013",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "050844012",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844024",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844036",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844048",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844051",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844063",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844075",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844087",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844099",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844101",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844113",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844125",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844137",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844149",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844152",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844164",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844176",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844188",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844190",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844202",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844214",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844226",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844238",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844240",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844253",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844265",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844277",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844289",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844834",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844846",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844859",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844861",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "18K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844873",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844885",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844897",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844909",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844911",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844923",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "50MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844935",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "100MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON",
+        "forma": "Granuli in contenitore monodose"
+    },
+    {
+        "aic": "050844947",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050844950",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050844962",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050844974",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050844986",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050844998",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845015",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845027",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845039",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845041",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845054",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845066",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845078",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845080",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845092",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845104",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845116",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845128",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845130",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845142",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845155",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845167",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845179",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845181",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845193",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845205",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845217",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845229",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845775",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845787",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845799",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845801",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "18K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845813",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845825",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845837",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845849",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "1MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845852",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845864",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "50MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "050845876",
+        "nome": "CYCLAMEN EUROPAEUM",
+        "descrizione": "100MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON",
+        "forma": "Granuli"
+    },
+    {
+        "aic": "051084010",
+        "nome": "CYRAMZA",
+        "descrizione": "10 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)  10 ML - 1 FLACONCINO",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051084022",
+        "nome": "CYRAMZA",
+        "descrizione": "10 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 50 ML- 1 FLACONCINO",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051657017",
+        "nome": "CYMBALTA",
+        "descrizione": "60 MG CAPSULE RIGIDE GASTRORESISTENTI USO ORALE 28 CAPSULE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    }
+]

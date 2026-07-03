@@ -1,0 +1,1171 @@
+[
+    {
+        "aic": "027741014",
+        "nome": "EDENIL",
+        "descrizione": "0,1 G SOLUZIONE VAGINALE- 5 FLACONI DI SOLUZIONE DA 100 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Soluzione vaginale"
+    },
+    {
+        "aic": "027741038",
+        "nome": "EDENIL",
+        "descrizione": "1 G POLVERE PER SOLUZIONE VAGINALE- 10 BUSTE DA 1 G",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Granulato"
+    },
+    {
+        "aic": "027741040",
+        "nome": "EDENIL",
+        "descrizione": "0,1 G SOLUZIONE VAGINALE- 3 FLACONI DI SOLUZIONE DA 100 ML",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Soluzione vaginale"
+    },
+    {
+        "aic": "031219013",
+        "nome": "EDEVEXIN",
+        "descrizione": "5 MG/5 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 3 FIALE POLVERE + 3 FIALE SOLVENTE 5 ML",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "031219025",
+        "nome": "EDEVEXIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033632011",
+        "nome": "EDRONAX",
+        "descrizione": "<4 mg compresse>  -  20  compresse  in  blister AL-PVDC/PVC-PVDC",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033632023",
+        "nome": "EDRONAX",
+        "descrizione": "<4 mg compresse>  -  60  compresse  in  blister AL-PVDC/PVC-PVDC",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037028014",
+        "nome": "EDEVEN C.M.",
+        "descrizione": "1% + 5 % GEL- 1 TUBO DA 40 G",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "037028026",
+        "nome": "EDEVEN C.M.",
+        "descrizione": "2% + 5% GEL- 1 TUBO DA 40 G",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "041628013",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 14 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628025",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628037",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628049",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 98 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628052",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 14 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628064",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628076",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628088",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 98 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628090",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628102",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628114",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 98 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628126",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628138",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628140",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628153",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628165",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 14 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628177",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628189",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628191",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 14 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628203",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 28 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628215",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 56 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628227",
+        "nome": "EDARBI",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 98 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628239",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 14 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628241",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 28 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628254",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 56 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628266",
+        "nome": "EDARBI",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 98 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628278",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 14 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628280",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 28 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628292",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 56 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041628304",
+        "nome": "EDARBI",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLITER (ALU/ALU) SENZA ESSICCANTE - 98 COMPRESSE",
+        "produttore": "TAKEDA PHARMA A/S",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041664018",
+        "nome": "EDURANT",
+        "descrizione": "25 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE)- 30 COMPRESSE",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041664020",
+        "nome": "EDURANT",
+        "descrizione": "2.5 mg - compressa dispersibile - Uso orale - blister (PA/alu/PVC/PE/carta essiccante/PET/alu/PE) - 90 x 1 compresse (dose unitaria)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "044552014",
+        "nome": "EDISTRIDE",
+        "descrizione": "5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 14 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552026",
+        "nome": "EDISTRIDE",
+        "descrizione": "5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 28 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552038",
+        "nome": "EDISTRIDE",
+        "descrizione": "5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 98 COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552040",
+        "nome": "EDISTRIDE",
+        "descrizione": "5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 30X1  COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552053",
+        "nome": "EDISTRIDE",
+        "descrizione": "5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 90X1  COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552065",
+        "nome": "EDISTRIDE",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 14  COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552077",
+        "nome": "EDISTRIDE",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 28  COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552089",
+        "nome": "EDISTRIDE",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 98  COMPRESSE",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552091",
+        "nome": "EDISTRIDE",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 30 X 1   COMPRESSE  (DOSE UNITARIA)",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044552103",
+        "nome": "EDISTRIDE",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 90 X 1   COMPRESSE  (DOSE UNITARIA)",
+        "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045201011",
+        "nome": "EDERA DR. THEISS",
+        "descrizione": "1,54 MG/ML SCIROPPO- 1 FLACONE IN VETRO DA 100 ML CON BICCHIERE DOSATORE",
+        "produttore": "DR. THEISS NATURWAREN GMBH",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "045201023",
+        "nome": "EDERA DR. THEISS",
+        "descrizione": "1,54 MG/ML SCIROPPO- 1 FLACONE IN VETRO DA 200 ML CON BICCHIERE DOSATORE",
+        "produttore": "DR. THEISS NATURWAREN GMBH",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "045201035",
+        "nome": "EDERA DR. THEISS",
+        "descrizione": "1,54 MG/ML SCIROPPO- 1 FLACONE IN VETRO DA 250 ML CON BICCHIERE DOSATORE",
+        "produttore": "DR. THEISS NATURWAREN GMBH",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "045201047",
+        "nome": "EDERA DR. THEISS",
+        "descrizione": "33 MG SCIROPPO IN BUSTINA-  21 BUSTINE DA 5 ML IN PET/AL/CPP",
+        "produttore": "DR. THEISS NATURWAREN GMBH",
+        "forma": "Sciroppo in bustina"
+    },
+    {
+        "aic": "045201050",
+        "nome": "EDERA DR. THEISS",
+        "descrizione": "33 MG SCIROPPO IN BUSTINA-  30 BUSTINE DA 5 ML IN PET/AL/CPP",
+        "produttore": "DR. THEISS NATURWAREN GMBH",
+        "forma": "Sciroppo in bustina"
+    },
+    {
+        "aic": "045201062",
+        "nome": "EDERA DR. THEISS",
+        "descrizione": "33 MG SCIROPPO IN BUSTINA-  15 BUSTINE DA 5 ML IN PET/AL/CPP",
+        "produttore": "DR. THEISS NATURWAREN GMBH",
+        "forma": "Sciroppo in bustina"
+    },
+    {
+        "aic": "051731014",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731026",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731038",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 10X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731040",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731053",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731065",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731077",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731089",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731091",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731103",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731115",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 98X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731127",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731139",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 250 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731141",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731154",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731166",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 10X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731178",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731180",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 98X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731192",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731204",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 120 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731216",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?30 MG COMPRESSE RIVESTITE CON FILM? 250 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731228",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731230",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731242",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731255",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731267",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731279",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731281",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731293",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731305",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 10X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731317",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731329",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 98X1 COMPRESSE IN BLISTER PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731331",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731343",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 120 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731356",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?60 MG COMPRESSE RIVESTITE CON FILM? 250 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051731368",
+        "nome": "EDOXABAN SANDOZ",
+        "descrizione": "?15 MG COMPRESSE RIVESTITE CON FILM? 120 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847010",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847022",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847034",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847046",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847059",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847061",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847073",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847085",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847097",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847109",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847111",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847123",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847135",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847147",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847150",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847162",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847174",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847186",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847198",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847200",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847212",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847224",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847236",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847248",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847251",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847263",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847275",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847287",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847299",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847301",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847313",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847325",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847337",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847349",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847352",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847364",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847376",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847388",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847390",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC-AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847402",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847414",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847426",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847438",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847440",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051847453",
+        "nome": "EDOXABAN TEVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108014",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108026",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108038",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108040",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108053",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108065",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108077",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108089",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108091",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108103",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108115",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108127",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108139",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052108141",
+        "nome": "EDOXABAN ZENTIVA",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193012",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193024",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193036",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193048",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193051",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193063",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193075",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193087",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193099",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193101",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193113",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193125",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193137",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193149",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052193152",
+        "nome": "EDOXABAN DR. REDDY'S",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Compressa rivestita con film"
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "aic": "012046025",
+        "nome": "MEMOVIT B12",
+        "descrizione": "SCIROPPO- 6 FLACONCINI CON TAPPO DOSATORE",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "012046049",
+        "nome": "MEMOVIT B12",
+        "descrizione": "SCIROPPO- 10 FLACONCINI CON TAPPO DOSATORE",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "012048031",
+        "nome": "SALAZOPYRIN EN",
+        "descrizione": "500 MG  COMPRESSE GASTRORESISTENTI-100 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "012048043",
+        "nome": "SALAZOPYRIN EN",
+        "descrizione": "500 MG COMPRESSE GASTRORESISTENTI- FLACONE IN HDPE DA 100 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "012235026",
+        "nome": "DEQUADIN",
+        "descrizione": "0,5% SOLUZIONE PER MUCOSA ORALE-FLACONE 28 ML",
+        "produttore": "EUROSPITAL S.P.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "012235038",
+        "nome": "DEQUADIN",
+        "descrizione": "0,5% SPRAY PER MUCOSA ORALE-FLACONE 10 ML",
+        "produttore": "EUROSPITAL S.P.A.",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "012235040",
+        "nome": "DEQUADIN",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "EUROSPITAL S.P.A.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "012238059",
+        "nome": "FERRITIN OTI",
+        "descrizione": "40 MG/8 ML SCIROPPO- 10 FLACONCINI MONODOSE",
+        "produttore": "ICE S.P.A",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "012238061",
+        "nome": "FERRITIN OTI",
+        "descrizione": "62,5 MG/8 ML SOLUZIONE ORALE- 10 FLACONCINI MONODOSE",
+        "produttore": "ICE S.P.A",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "012238073",
+        "nome": "FERRITIN OTI",
+        "descrizione": "62,5 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ICE S.P.A",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "012238085",
+        "nome": "FERRITIN OTI",
+        "descrizione": "62,5 MG/8ML SCIROPPO- 1 FLACONE DA 240 ML",
+        "produttore": "ICE S.P.A",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "012322020",
+        "nome": "ROVAMICINA",
+        "descrizione": "3.000.000 UI COMPRESSE RIVESTITE CON FILM-12 COMPRESSE",
+        "produttore": "THE SIMPLE PHARMA COMPANY LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "012336020",
+        "nome": "VISIOCETINA",
+        "descrizione": "10 mg/g unguento oftalmico> -  1  tubo da 5 g in AL",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Unguento oftalmico"
+    },
+    {
+        "aic": "012373039",
+        "nome": "TONOGEN VITAMINICO",
+        "descrizione": "POLVERE E SOLVENTE PER SOLUZIONE ORALE- FLACONE CON TAPPO SERBATOIO",
+        "produttore": "ICE S.P.A",
+        "forma": "Polvere e solvente per soluzione orale"
+    },
+    {
+        "aic": "012377026",
+        "nome": "CORYFIN",
+        "descrizione": "6,5 MG + 18 MG PASTIGLIE- 24 PASTIGLIE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "012377053",
+        "nome": "CORYFIN",
+        "descrizione": "6,5 MG + 112,5 MG PASTIGLIE- 24 PASTIGLIE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "012377089",
+        "nome": "CORYFIN",
+        "descrizione": "2,8 MG + 16,8 MG PASTIGLIE- 24 PASTIGLIE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "012437036",
+        "nome": "VIRDEX",
+        "descrizione": "0.50 MG/100 MG/250 SUPPOSTE- 5 SUPPOSTE",
+        "produttore": "FULTON MEDICINALI S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012437048",
+        "nome": "VIRDEX",
+        "descrizione": "2 MG/100 MG/250 MG SUPPOSTE- 5 SUPPOSTE",
+        "produttore": "FULTON MEDICINALI S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012611101",
+        "nome": "TALOFEN",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE- 6 FIALE DA 2 ML",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "012611125",
+        "nome": "TALOFEN",
+        "descrizione": "40 mg/ml gocce orali, soluzionE- FLACONE 30 ML",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "012745016",
+        "nome": "TACHIPIRINA",
+        "descrizione": "120 mg/5 ml sciroppo> flacone in PET da 120 ml con siringa dosatrice e bicchiere dosatore",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "012745028",
+        "nome": "TACHIPIRINA",
+        "descrizione": "500 MG COMPRESSE-10 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "012745042",
+        "nome": "TACHIPIRINA",
+        "descrizione": "BAMBINI 250 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745055",
+        "nome": "TACHIPIRINA",
+        "descrizione": "BAMBINI 500 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745067",
+        "nome": "TACHIPIRINA",
+        "descrizione": "ADULTI 1000 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745079",
+        "nome": "TACHIPIRINA",
+        "descrizione": "PRIMA INFANZIA 125 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745081",
+        "nome": "TACHIPIRINA",
+        "descrizione": "100 mg/ml gocce orali, soluzione> flacone in vetro da 30 ml con contagocce",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "012745093",
+        "nome": "TACHIPIRINA",
+        "descrizione": "500 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "012745117",
+        "nome": "TACHIPIRINA",
+        "descrizione": "500 MG GRANULATO EFFERVESCENTE-20 BUSTINE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "012745129",
+        "nome": "TACHIPIRINA",
+        "descrizione": "125 MG GRANULATO EFFERVESCENTE-20 BUSTINE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Granulato effervescente"
+    },
+    {
+        "aic": "012745143",
+        "nome": "TACHIPIRINA",
+        "descrizione": "1000 MG COMPRESSE EFFERVESCENTI - 12 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "012745168",
+        "nome": "TACHIPIRINA",
+        "descrizione": "500 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "012745170",
+        "nome": "TACHIPIRINA",
+        "descrizione": "1000 MG COMPRESSE - 8 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "012745182",
+        "nome": "TACHIPIRINA",
+        "descrizione": "1000 MG COMPRESSE - 16 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "012745218",
+        "nome": "TACHIPIRINA",
+        "descrizione": "120 MG/5 ML SCIROPPO SENZA ZUCCHERO- FLACONE DA 120 ML CON SIRINGA DOSATRICE E BICCHIERINO DOSATORE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "012745220",
+        "nome": "TACHIPIRINA",
+        "descrizione": "1000 MG GRANULATO PER SOLUZIONE ORALE - 16 BUSTINE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "012745232",
+        "nome": "TACHIPIRINA",
+        "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 1 SACCA DA 50 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "012745244",
+        "nome": "TACHIPIRINA",
+        "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 12 SACCHE DA 50 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "012745257",
+        "nome": "TACHIPIRINA",
+        "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 1 SACCA D100 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "012745269",
+        "nome": "TACHIPIRINA",
+        "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 12 SACCHE DA 100 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "012745271",
+        "nome": "TACHIPIRINA",
+        "descrizione": "NEONATI 62, 5 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745283",
+        "nome": "TACHIPIRINA",
+        "descrizione": "120 MG/5 ML SOSPENSIONE ORALE GUSTO VANIGLIA CARAMELLO- 1 FLACONE IN PET DA 120 ML CON ADATTATORE, SIRINGA DOSATRICE E BICCHIERINO DOSATORE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "012745307",
+        "nome": "TACHIPIRINA",
+        "descrizione": "120 MG/5 ML SOSPENSIONE ORALE GUSTO FRAGOLA- 1 FLACONE IN PET DA 120 ML CON SIRINGA GRADUATA E BICCHIERE DOSATORE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "012745319",
+        "nome": "TACHIPIRINA",
+        "descrizione": "?1000 MG GRANULATO PER SOLUZIONE ORALE IN BUSTINA- 16 BUSTINE IN CARTA/AL/PE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "012745321",
+        "nome": "TACHIPIRINA",
+        "descrizione": "?NEONATI 62,5 MG SUPPOSTE? 20 SUPPOSTE IN BLISTER PVC/PE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745333",
+        "nome": "TACHIPIRINA",
+        "descrizione": "BAMBINI 250 MG SUPPOSTE- 20 SUPPOSTE IN BLISTER PVC/PE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745345",
+        "nome": "TACHIPIRINA",
+        "descrizione": "?BAMBINI 500 MG SUPPOSTE? 20 SUPPOSTE IN BLISTER PVC/PE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745358",
+        "nome": "TACHIPIRINA",
+        "descrizione": "?PRIMA INFANZIA 125 MG SUPPOSTE? 20 SUPPOSTE IN BLISTER PVC/PE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "012745360",
+        "nome": "TACHIPIRINA",
+        "descrizione": "1000 MG COMPRESSE- 24 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "012745372",
+        "nome": "TACHIPIRINA",
+        "descrizione": "?120 MG/5ML SCIROPPO? FLACONE IN PET DA 240 ML CON SIRINGA DOSATRICE E BICCHIERE DOSATORE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "012811016",
+        "nome": "DELTARINOLO",
+        "descrizione": "0,5% + 0,125% SPRAY NASALE, SOLUZIONE-FLACONE  15 ML",
+        "produttore": "VEMEDIA MANUFACTURING B.V.",
+        "forma": "Spray nasale, soluzione"
+    },
+    {
+        "aic": "012812018",
+        "nome": "ROVIGON",
+        "descrizione": "COMPRESSE RIVESTITE MASTICABILI- 30 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "aic": "042868012",
+        "nome": "XTANDI",
+        "descrizione": "40 MG - CAPSULA MOLLE - USO ORALE - BLISTER (PVC/PCTFE/ALU)- 112 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "042868024",
+        "nome": "XTANDI",
+        "descrizione": "40 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 112 COMPRESSE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042868036",
+        "nome": "XTANDI",
+        "descrizione": "80 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 56 COMPRESSE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V.",
+        "forma": "Compressa rivestita con film"
+    }
+]

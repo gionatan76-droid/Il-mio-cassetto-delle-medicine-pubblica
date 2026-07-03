@@ -1,0 +1,1878 @@
+[
+    {
+        "aic": "022837013",
+        "nome": "ZERINOFEBB",
+        "descrizione": "ADULTI 500 MG + 200 MG SUPPOSTE-  6 SUPPOSTE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "022837025",
+        "nome": "ZERINOFEBB",
+        "descrizione": "ADULTI 500 MG + 200 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "022837037",
+        "nome": "ZERINOFEBB",
+        "descrizione": "BAMBINI 250 MG + 100 MG SUPPOSTE-  6 SUPPOSTE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "022837049",
+        "nome": "ZERINOFEBB",
+        "descrizione": "BAMBINI 250 MG + 100 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "022837088",
+        "nome": "ZERINOFEBB",
+        "descrizione": "300 MG + 150 MG COMPRESSE-15 COMPRESSE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "022837090",
+        "nome": "ZERINOFEBB",
+        "descrizione": "12,8 MG/ML + 8 MG/ML SCIROPPO-FLACONE 150 ML",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "024829018",
+        "nome": "ZETAMICIN",
+        "descrizione": "15 MG/1,5 ML SOLUZIONE INIETTABILE- 1 FIALA 1,5ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "024829032",
+        "nome": "ZETAMICIN",
+        "descrizione": "100 MG/ML SOLUZIONE INIETTABILE- 1 FIALA 1 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "024829044",
+        "nome": "ZETAMICIN",
+        "descrizione": "150 MG/1,5 ML SOLUZIONE INIETTABILE- 1 FIALA 1,5 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "024829057",
+        "nome": "ZETAMICIN",
+        "descrizione": "200 MG/2 ML SOLUZIONE INIETTABILE- 1 FIALA 2 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "024829069",
+        "nome": "ZETAMICIN",
+        "descrizione": "300 MG/3 ML SOLUZIONE INIETTABILE- 1 FIALA 3 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026371017",
+        "nome": "ZERINODEK DECONGESTIONANTE NASALE",
+        "descrizione": "0,1% SPRAY NASALE, SOLUZIONE- FLACONE 10 G",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Spray nasale, soluzione"
+    },
+    {
+        "aic": "026371029",
+        "nome": "ZERINODEK DECONGESTIONANTE NASALE",
+        "descrizione": "0,1% GEL NASALE- TUBO 15 G",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "026834010",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026834022",
+        "nome": "ZESTRIL",
+        "descrizione": "20 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026834034",
+        "nome": "ZESTRIL",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026834059",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026834061",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE - 42 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026834073",
+        "nome": "ZESTRIL",
+        "descrizione": "20 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026834085",
+        "nome": "ZESTRIL",
+        "descrizione": "20 MG COMPRESSE - 42 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027096041",
+        "nome": "ZENTEL",
+        "descrizione": "400 MG COMPRESSE - 3 COMPRESSE",
+        "produttore": "LABORATOIRE GLAXOSMITHKLINE",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027096066",
+        "nome": "ZENTEL",
+        "descrizione": "400 MG COMPRESSE- 1 COMPRESSA IN BLISTER AL/PVDC/PVC",
+        "produttore": "LABORATOIRE GLAXOSMITHKLINE",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027482013",
+        "nome": "ZESTORETIC",
+        "descrizione": "20 MG + 12,5 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027482025",
+        "nome": "ZESTORETIC",
+        "descrizione": "20 MG + 12,5 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "027482037",
+        "nome": "ZESTORETIC",
+        "descrizione": "20 MG + 12,5 MG COMPRESSE - 42 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028837019",
+        "nome": "ZETALAX",
+        "descrizione": "AD 18 SUPPOSTE",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "028837021",
+        "nome": "ZETALAX",
+        "descrizione": "BB 18 SUPPOSTE",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "028837033",
+        "nome": "ZETALAX",
+        "descrizione": "LATTANTI 12 SUPPOSTE",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Supposta"
+    },
+    {
+        "aic": "028837045",
+        "nome": "ZETALAX",
+        "descrizione": "AD 6 MICROCLISMI",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Soluzione rettale"
+    },
+    {
+        "aic": "028837058",
+        "nome": "ZETALAX",
+        "descrizione": "BB 6 MICROCLISMI",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Soluzione rettale"
+    },
+    {
+        "aic": "028904011",
+        "nome": "ZETALAX CLISMA FOSFATO",
+        "descrizione": "FLACONE 133 ML",
+        "produttore": "ZETA FARMACEUTICI S.P.A.",
+        "forma": "Soluzione rettale"
+    },
+    {
+        "aic": "029503012",
+        "nome": "ZELITREX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 42 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "029503024",
+        "nome": "ZELITREX",
+        "descrizione": "1 G COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "029503036",
+        "nome": "ZELITREX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "029503048",
+        "nome": "ZELITREX",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034373011",
+        "nome": "ZEROFLOG",
+        "descrizione": "0,074 G/100 ML COLLUTORIO- 1 FLACONE DA 200 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "034373023",
+        "nome": "ZEROFLOG",
+        "descrizione": "0,074 G/100 ML COLLUTORIO- 12 BUSTINE DA 15 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "034373035",
+        "nome": "ZEROFLOG",
+        "descrizione": "0,3 MG/SPRUZZO, SPRAY PER MUCOSA ORALE - 1 CONTENITORE MULTIDOSE DA 15 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "034506016",
+        "nome": "ZEFFIX",
+        "descrizione": "100 MG 28 COMPRESSE FILMRIVESTITE IN BLISTER USO ORALE",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034506028",
+        "nome": "ZEFFIX",
+        "descrizione": "100 MG 84 COMPRESSE FILMRIVESTITE IN BLISTER USO ORALE",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "034506030",
+        "nome": "ZEFFIX",
+        "descrizione": "5 MG/ML SOLUZIONE ORALE 1 FLACONE 240 ML USO ORALE",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "034634028",
+        "nome": "ZENGAC",
+        "descrizione": "1000 MG POLVERE PER SOLUZIONE PER INFUSIONE  E PER USO ORALE- FLACONE DA 1000 MG",
+        "produttore": "FISIOPHARMA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "034634030",
+        "nome": "ZENGAC",
+        "descrizione": "500 MG POLVERE PER SOLUZIONE PER INFUSIONE E PER USO ORALE - 10 FLACONCINI DA 500  MG",
+        "produttore": "FISIOPHARMA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "034935344",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935357",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935369",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935371",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935383",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 56 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935395",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935407",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935419",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A TENUTA AD INDUZIONE DI CALORE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935421",
+        "nome": "ZELDOX",
+        "descrizione": "20 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON DISSECCANTE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935433",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935445",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935458",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935460",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935472",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 56 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935484",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935496",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935508",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A TENUTA AD INDUZIONE DI CALORE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935510",
+        "nome": "ZELDOX",
+        "descrizione": "40 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON DISSECCANTE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935522",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935534",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935546",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935559",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935561",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 56 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935573",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935585",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935597",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A TENUTA AD INDUZIONE DI CALORE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935609",
+        "nome": "ZELDOX",
+        "descrizione": "60 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON DISSECCANTE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935611",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935623",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935635",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935647",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935650",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 56 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935662",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935674",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER AL/PVC/PA/AL",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935686",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A TENUTA AD INDUZIONE DI CALORE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935698",
+        "nome": "ZELDOX",
+        "descrizione": "80 MG CAPSULE RIGIDE - 100 CAPSULE IN FLACONE HDPE CON DISSECCANTE",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "034935712",
+        "nome": "ZELDOX",
+        "descrizione": "?20 MG/ML POLVERE PER SOLUZIONE INIETTABILE? 1 FLACONCINO IN VETRO DA 20 MG",
+        "produttore": "VIATRIS PHARMA S.R.L.",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "035191016",
+        "nome": "ZERINOLFLU",
+        "descrizione": "<compresse effervescenti> 10  compresse  in tubo per compresse PP",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "035191028",
+        "nome": "ZERINOLFLU",
+        "descrizione": "<compresse effervescenti> 12  compresse  in tubo per compresse PP",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "035191030",
+        "nome": "ZERINOLFLU",
+        "descrizione": "<compresse effervescenti> 20  compresse  in tubo per compresse PP",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "035304043",
+        "nome": "ZERINOL",
+        "descrizione": "<300 mg + 2 mg  compresse  rivestite>  20 compresse in blister PVC/Al",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "035722014",
+        "nome": "ZECOVIR",
+        "descrizione": "125 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035722026",
+        "nome": "ZECOVIR",
+        "descrizione": "125 MG  COMPRESSE-  35  (5X7)  COMPRESSE  IN  BLISTER PVC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017010",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 7 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017022",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 10 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017034",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017046",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017059",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017061",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017073",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 98 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017085",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017097",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 300 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017109",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 7 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017111",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 10 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017123",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017135",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017147",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017150",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017162",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 98 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017174",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017186",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 300 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017198",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017200",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017212",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 300 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017224",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 90 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017236",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 84 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017248",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017251",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 20 COMPRESSE IN BLISTER MONODOSE PCTFE/PVC/AL/CARTA",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036017263",
+        "nome": "ZETIA",
+        "descrizione": "10 MG COMPRESSE- 20 COMPRESSE IN BLISTER PCTFE/PVC/AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036088019",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "8 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088021",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "10 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088033",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "16 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088045",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088058",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "24 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088060",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "30 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088072",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "32 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088084",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "40 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088096",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "48 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088108",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "50 PASTIGLIE DA 20 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088110",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 12 PASTIGLIE IN BLISTER PP/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088122",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 18 PASTIGLIE IN BLISTER PP/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088134",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 36 PASTIGLIE IN BLISTER PP/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088146",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 42 PASTIGLIE IN BLISTER PP/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088159",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 8 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088161",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 10 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088173",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 12 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088185",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 16 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088197",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 18 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088209",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 20 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088211",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 24 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088223",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 30 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088235",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 32 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088247",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 36 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088250",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 40 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088262",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 42 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088274",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 48 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036088286",
+        "nome": "ZERINOL GOLA MENTA",
+        "descrizione": "20 MG PASTIGLIE- 50 PASTIGLIE IN BLISTER ALU/ALU",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "036311013",
+        "nome": "ZEVALIN",
+        "descrizione": "1,6 MG/ML KIT PER PREPARAZIONE RADIOFARMACEUTICA PER INFUSIONE 1 FLACONCINO 2 ML USO ENDOVENOSO",
+        "produttore": "CEFT BIOPHARMA S.R.O.",
+        "forma": "Kit per preparazione radiofarmaceutica"
+    },
+    {
+        "aic": "036374015",
+        "nome": "ZEMPLAR",
+        "descrizione": "5 MCG/ML SOLUZIONE INIETTABILE-  5 FIALE  DA 1 ML",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "036374027",
+        "nome": "ZEMPLAR",
+        "descrizione": "5 MCG/ML SOLUZIONE INIETTABILE-  5 FIALE DA 2 ML",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "036374039",
+        "nome": "ZEMPLAR",
+        "descrizione": "1 MCG CAPSULE MOLLI- 30 CAPSULE IN FLACONE HDPE",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "036374041",
+        "nome": "ZEMPLAR",
+        "descrizione": "1 MCG CAPSULE MOLLI- 7 CAPSULE IN BLISTER PVC/FLUOROPOLIMERO/AL",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "036374054",
+        "nome": "ZEMPLAR",
+        "descrizione": "1 MCG CAPSULE MOLLI- 28 CAPSULE IN BLISTER PVC/FLUOROPOLIMERO/AL",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "036374066",
+        "nome": "ZEMPLAR",
+        "descrizione": "2 MCG CAPSULE MOLLI- 30 CAPSULE IN FLACONE HDPE",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "036374078",
+        "nome": "ZEMPLAR",
+        "descrizione": "2 MCG CAPSULE MOLLI- 7 CAPSULE IN BLISTER PVC/FLUOROPOLIMERO/AL",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "036374080",
+        "nome": "ZEMPLAR",
+        "descrizione": "2 MCG CAPSULE MOLLI- 28 CAPSULE IN BLISTER PVC/FLUOROPOLIMERO/AL",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "036374130",
+        "nome": "ZEMPLAR",
+        "descrizione": "5 MCG/ML SOLUZIONE INIETTABILE- 5 FLACONCINI IN VETRO DA 1 ML",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "036374142",
+        "nome": "ZEMPLAR",
+        "descrizione": "5 MCG/ML SOLUZIONE INIETTABILE- 5 FLACONCINI IN VETRO DA 2 ML",
+        "produttore": "ABBVIE S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "037543016",
+        "nome": "ZERFUN",
+        "descrizione": "100 MG CAPSULE RIGIDE - 10 CAPSULE",
+        "produttore": "IDI FARMACEUTICI S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "037543028",
+        "nome": "ZERFUN",
+        "descrizione": "150 MG CAPSULE RIGIDE - 2 CAPSULE",
+        "produttore": "IDI FARMACEUTICI S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "037543030",
+        "nome": "ZERFUN",
+        "descrizione": "200 MG CAPSULE RIGIDE - 7 CAPSULE",
+        "produttore": "IDI FARMACEUTICI S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "038481026",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039514017",
+        "nome": "ZERINOTUSS",
+        "descrizione": "60 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 30 ML",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "039514029",
+        "nome": "ZERINOTUSS",
+        "descrizione": "30 MG/5 ML SCIROPPO - FLACONE DA 200 ML CON MISURINO DOSATORE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "039910017",
+        "nome": "ZEBINIX",
+        "descrizione": "400 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 7 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910029",
+        "nome": "ZEBINIX",
+        "descrizione": "400 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 14 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910031",
+        "nome": "ZEBINIX",
+        "descrizione": "400 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 28 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910043",
+        "nome": "ZEBINIX",
+        "descrizione": "400 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 7 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910056",
+        "nome": "ZEBINIX",
+        "descrizione": "400 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 14 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910068",
+        "nome": "ZEBINIX",
+        "descrizione": "400 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 28 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910070",
+        "nome": "ZEBINIX",
+        "descrizione": "600 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 30 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910082",
+        "nome": "ZEBINIX",
+        "descrizione": "600 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 60 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910094",
+        "nome": "ZEBINIX",
+        "descrizione": "600 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 30 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910106",
+        "nome": "ZEBINIX",
+        "descrizione": "600 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 60 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910118",
+        "nome": "ZEBINIX",
+        "descrizione": "600 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 90 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910120",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 20 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910132",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 30 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910144",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 60 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910157",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (ALL/ALL)- 90 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910169",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 20 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910171",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 30 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910183",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 60 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910195",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (PVC/ALL)- 90 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910207",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 90 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910219",
+        "nome": "ZEBINIX",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - BLISTER (PVC/AL) - 20 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910221",
+        "nome": "ZEBINIX",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - BLISTER (PVC/AL) - 60 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910233",
+        "nome": "ZEBINIX",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - FLACONE (HDPE) - 60 COMPRESSE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910245",
+        "nome": "ZEBINIX",
+        "descrizione": "50 MG/ML - SOSPENSIONE ORALE - USO ORALE - FLACONI (VETRO) - 200 ML - 1 FLACONE + 1 SIRINGA PER SOMMINISTRAZIONE ORALE + 1 ADATTATORE PER FLACONE",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "039910258",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (PVC/AL) - 180 (2 X 90) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "039910260",
+        "nome": "ZEBINIX",
+        "descrizione": "800 MG - COMPRESSA - USO ORALE - BLISTER (AL/AL) - 180 (2 X 90) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "BIAL -PORTELA & CA ,SA",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041218013",
+        "nome": "ZERINOACTIV",
+        "descrizione": "200 MG/30 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041218025",
+        "nome": "ZERINOACTIV",
+        "descrizione": "200 MG/30 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041239171",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 12 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041239195",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 18 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041239219",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 24 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041239221",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 30 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041239245",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 36 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041239260",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 42 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041239272",
+        "nome": "ZERINOL GOLA",
+        "descrizione": "20 MG PASTIGLIE- 48 PASTIGLIE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "041815010",
+        "nome": "ZERINOMED GOLA",
+        "descrizione": "2,5 mg/ml COLLUTORIO- 1 FLACONE DA 160 ML",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "041815022",
+        "nome": "ZERINOMED GOLA",
+        "descrizione": "2,5 mg/ml SPRAY PER MUCOSA ORALE- 1 FLACONE DA 15 ML",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "041863010",
+        "nome": "ZELBORAF",
+        "descrizione": "240 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "ROCHE REGISTRATION GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042710018",
+        "nome": "ZEUSEFF",
+        "descrizione": "500 MG + 30 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "OMIKRON ITALIA S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "042814018",
+        "nome": "ZERINOACTIV GOLA",
+        "descrizione": "8,75 MG PASTIGLIA GUSTO LIMONE E MIELE- 16 PASTIGLIE IN BLISTER DI PVC/PVDC ALLUMINIO",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "042814020",
+        "nome": "ZERINOACTIV GOLA",
+        "descrizione": "8,75 MG PASTIGLIA GUSTO LIMONE E MIELE- 24 PASTIGLIE IN BLISTER DI PVC/PVDC ALLUMINIO",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "044506018",
+        "nome": "ZERBAXA",
+        "descrizione": "1G / 0,5 G - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 10 FLACONCINI",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044606010",
+        "nome": "ZESTAN",
+        "descrizione": "10 MG/10 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044606034",
+        "nome": "ZESTAN",
+        "descrizione": "10 MG/20 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044606059",
+        "nome": "ZESTAN",
+        "descrizione": "10 MG/40 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044606073",
+        "nome": "ZESTAN",
+        "descrizione": "10 MG/80 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "044929014",
+        "nome": "ZEPATIER",
+        "descrizione": "50 MG/100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALL/ALL) - 28 COMPRESSE",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045000015",
+        "nome": "ZEVISTAT",
+        "descrizione": "10 MG/10 MG COMPRESSE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045000027",
+        "nome": "ZEVISTAT",
+        "descrizione": "10 MG/20 MG COMPRESSE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045000039",
+        "nome": "ZEVISTAT",
+        "descrizione": "10 MG/40 MG COMPRESSE- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045000041",
+        "nome": "ZEVISTAT",
+        "descrizione": "10 MG/10 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045000054",
+        "nome": "ZEVISTAT",
+        "descrizione": "10 MG/20 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045000066",
+        "nome": "ZEVISTAT",
+        "descrizione": "10 MG/40 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045690017",
+        "nome": "ZEJULA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PCTFE/PVC/ALU) - 84 X 1 CAPSULE (DOSE UNITARIA)",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "045690029",
+        "nome": "ZEJULA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PCTFE/PVC/ALU) - 56 X 1 CAPSULE (DOSE UNITARIA)",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "045690031",
+        "nome": "ZEJULA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PCTFE/PVC/ALU) - 28 X 1 CAPSULE (DOSE UNITARIA)",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "045690043",
+        "nome": "ZEJULA",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (OPA/alluminio/PVC/alluminio/vinile/acrilico) - 56 x 1 compresse (dose unitaria)",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045690056",
+        "nome": "ZEJULA",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (OPA/alluminio/PVC/alluminio/vinile/acrilico) - 84 x 1 compresse (dose unitaria)",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045690068",
+        "nome": "ZEJULA",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (OPA/Al/PVC/Al/vinile/acrilico/carta) - 56 compresse",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045690070",
+        "nome": "ZEJULA",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (OPA/Al/PVC/Al/vinile/acrilico/carta) - 84 compresse",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "046635013",
+        "nome": "ZESSLY",
+        "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046635025",
+        "nome": "ZESSLY",
+        "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 2 FLACONCINI",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046635037",
+        "nome": "ZESSLY",
+        "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 3 FLACONCINI",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046635049",
+        "nome": "ZESSLY",
+        "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 4 FLACONCINI",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "046635052",
+        "nome": "ZESSLY",
+        "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 5 FLACONCINI",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "047139011",
+        "nome": "ZETANEST",
+        "descrizione": "40 MG/ML + 0,005 MG/ML SOLUZIONE INIETTABILE IN CARTUCCIA- 50 CARTUCCE DA 1,8 ML",
+        "produttore": "GIOVANNI OGNA E FIGLI S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047139023",
+        "nome": "ZETANEST",
+        "descrizione": "40 MG/ML + 0,010 MG/ML SOLUZIONE INIETTABILE IN CARTUCCIA- 50 CARTUCCE DA 1,8 ML",
+        "produttore": "GIOVANNI OGNA E FIGLI S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047158011",
+        "nome": "ZETACAIN",
+        "descrizione": "30 MG/ML SOLUZIONE INIETTABILE IN CARTUCCIA- 50 CARTUCCE DA 1,8 ML",
+        "produttore": "GIOVANNI OGNA E FIGLI S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "047161017",
+        "nome": "ZETACAIN CON ADRENALINA",
+        "descrizione": "20 MG/ML + 0,010 MG/ML SOLUZIONE INIETTABILE IN CARTUCCIA- 50 CARTUCCE DA 1,8 ML",
+        "produttore": "GIOVANNI OGNA E FIGLI S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "048818013",
+        "nome": "ZEPOSIA",
+        "descrizione": "0,23 MG + 0,46 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALLUMINIO) - CONFEZIONE PER L'INIZIO DEL TRATTAMENTO: 7 CAPSULE (4 X 0,23 MG + 3 X 0,46 MG)",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048818025",
+        "nome": "ZEPOSIA",
+        "descrizione": "0,92 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALLUMINIO) - 28 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048818037",
+        "nome": "ZEPOSIA",
+        "descrizione": "0,92 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALLUMINIO) - 98 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "048912012",
+        "nome": "ZERCEPAC",
+        "descrizione": "150 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FIALA (VETRO) 150 MG - 1 FIALA",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048912024",
+        "nome": "ZERCEPAC",
+        "descrizione": "60 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - fiala (vetro) - 1 fiala",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048912036",
+        "nome": "ZERCEPAC",
+        "descrizione": "420 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - fiala (vetro) - 1 fiala",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "048922013",
+        "nome": "ZEFLAVON",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922025",
+        "nome": "ZEFLAVON",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922037",
+        "nome": "ZEFLAVON",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922049",
+        "nome": "ZEFLAVON",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922052",
+        "nome": "ZEFLAVON",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922064",
+        "nome": "ZEFLAVON",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE CON FILM- 18 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922076",
+        "nome": "ZEFLAVON",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922088",
+        "nome": "ZEFLAVON",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE CON FILM- 36 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048922090",
+        "nome": "ZEFLAVON",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049952017",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050954015",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/10 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954027",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/10 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954039",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/10 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954041",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/10 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954054",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/20 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954066",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/20 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954078",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/20 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954080",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/20 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954092",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/40 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954104",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/40 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954116",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/40 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954128",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/40 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954130",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/80 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954142",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/80 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954155",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/80 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050954167",
+        "nome": "ZETOVAR",
+        "descrizione": "?10 MG/80 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051994010",
+        "nome": "ZEFYLTI",
+        "descrizione": "30 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 1 siringa preriempita con protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994022",
+        "nome": "ZEFYLTI",
+        "descrizione": "30 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 5 siringhe preriempite con protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994034",
+        "nome": "ZEFYLTI",
+        "descrizione": "30 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 1 siringa preriempita senza protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994046",
+        "nome": "ZEFYLTI",
+        "descrizione": "30 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 5 siringhe preriempite senza protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994059",
+        "nome": "ZEFYLTI",
+        "descrizione": "48 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 1 siringa preriempita con protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994061",
+        "nome": "ZEFYLTI",
+        "descrizione": "48 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 5 siringhe preriempite con protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994073",
+        "nome": "ZEFYLTI",
+        "descrizione": "48 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 1 siringa preriempita senza protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "051994085",
+        "nome": "ZEFYLTI",
+        "descrizione": "48 MU/0,5 mL - Soluzione iniettabile/infusione - Uso endovenoso, Uso sottocutaneo - siringa preriempita (vetro) 0,5 ml - 5 siringhe preriempite senza protezione dell'ago",
+        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "forma": "Soluzione iniettabile/infusione in siringa pre-riempita"
+    },
+    {
+        "aic": "052324011",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052495013",
+        "nome": "ZEMCELPRO",
+        "descrizione": ">= 0,23 x 10^6 cellule CD34+ vitali/mL/ >= 0,53 x 10^6 cellule CD3+ vitali/mL - Dispersione per infusione - Uso endovenoso - Sacchetto (EVA) 20 ml - Fino a 8 sacchetti (fino a 4 sacchetti di dorocubicel + 4 sacchetti di cellule CD34- non espanse)",
+        "produttore": "CORDEX BIOLOGICS INTERNATIONAL LIMITED",
+        "forma": "Dispersione per infusione"
+    }
+]

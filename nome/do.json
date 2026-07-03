@@ -1,0 +1,5210 @@
+[
+    {
+        "aic": "003785019",
+        "nome": "DOBETIN",
+        "descrizione": "500 MICROGRAMMI/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003785033",
+        "nome": "DOBETIN",
+        "descrizione": "1000 MICROGRAMMI/ML SOLUZIONE INIETTABILE- 5 FIALE DA  1 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003785045",
+        "nome": "DOBETIN",
+        "descrizione": "5000 MICROGRAMMI/2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 5 FIALE DA 2 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "003785058",
+        "nome": "DOBETIN",
+        "descrizione": "20 MICROGRAMMI/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 15 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "021835018",
+        "nome": "DORICUM",
+        "descrizione": "0,04% + 0,5% COLLIRIO, SOSPENSIONE- 1 FLACONE DA 5 ML",
+        "produttore": "THEA FARMA S.P.A.",
+        "forma": "Collirio, sospensione"
+    },
+    {
+        "aic": "021835020",
+        "nome": "DORICUM",
+        "descrizione": "0,025% + 0,5% GOCCE AURICOLARI E NASALI, SOSPENSIONE- 1 FLACONE DA 10 ML",
+        "produttore": "THEA FARMA S.P.A.",
+        "forma": "Gocce auricolari, sospensione"
+    },
+    {
+        "aic": "022576021",
+        "nome": "DOBREN",
+        "descrizione": "30 COMPRESSE 50 MG",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "022576033",
+        "nome": "DOBREN",
+        "descrizione": "24 COMPRESSE 100 MG",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "022576045",
+        "nome": "DOBREN",
+        "descrizione": "20 COMPRESSE 200 MG",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "022733048",
+        "nome": "DOXYNOR",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 5 COMPRESSE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "022733051",
+        "nome": "DOXYNOR",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 8 COMPRESSE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "022733087",
+        "nome": "DOXYNOR",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "F.I.R.M.A. S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "023191012",
+        "nome": "DOMAR",
+        "descrizione": "2,5 MG CAPSULE RIGIDE- 25 CAPSULE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "023191024",
+        "nome": "DOMAR",
+        "descrizione": "5 MG CAPSULE RIGIDE- 25 CAPSULE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "023191036",
+        "nome": "DOMAR",
+        "descrizione": "10 MG CAPSULE RIGIDE- 25 CAPSULE",
+        "produttore": "TEOFARMA S.R.L.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "025738055",
+        "nome": "DOVEN",
+        "descrizione": "450 MG GRANULATO PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Granulato per soluzione orale"
+    },
+    {
+        "aic": "025738067",
+        "nome": "DOVEN",
+        "descrizione": "5% CREMA-  TUBO 40 G",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Crema"
+    },
+    {
+        "aic": "025738081",
+        "nome": "DOVEN",
+        "descrizione": "300 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "026023010",
+        "nome": "DONA",
+        "descrizione": "250 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "026023046",
+        "nome": "DONA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "026023059",
+        "nome": "DONA",
+        "descrizione": "400 MG/3 ML CONCENTRATO E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE-6 FIALE CONCENTRATO 2 ML+6 FIALE SOLVENTE 1 ML CON 3,3% LIDOCAINA",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "026023061",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "026023085",
+        "nome": "DONA",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN FLACONE PE",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "026023097",
+        "nome": "DONA",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM - 180 COMPRESSE IN FLACONE PE",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "026023109",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE",
+        "produttore": "MEDA PHARMA S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "028119067",
+        "nome": "DONAMET",
+        "descrizione": "300 MG/5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 5 FLACONCINI POLVERE + 5 FIALE DI SOLVENTE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "028119079",
+        "nome": "DONAMET",
+        "descrizione": "500 MG/5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 5 FLACONCINI DI POLVERE + 5 FIALE DI SOLVENTE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "028119081",
+        "nome": "DONAMET",
+        "descrizione": "300 MG COMPRESSE GASTRORESISTENTI- 20 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028119093",
+        "nome": "DONAMET",
+        "descrizione": "500 MG COMPRESSE GASTRORESISTENTI- 10 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028988018",
+        "nome": "DOSTINEX",
+        "descrizione": "0,5 MG COMPRESSE- 2 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028988020",
+        "nome": "DOSTINEX",
+        "descrizione": "O,5MG COMPRESSE- 4 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "028988032",
+        "nome": "DOSTINEX",
+        "descrizione": "0,5MG COMPRESSE- 8 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "029478017",
+        "nome": "DOMES",
+        "descrizione": "100 MG GRANULATO PER SOSPENSIONE ORALE-30 BUSTINE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Granulato per sospensione orale"
+    },
+    {
+        "aic": "029478056",
+        "nome": "DOMES",
+        "descrizione": "100 MG COMPRESSE ORODISPERSIBILII- 30 COMPRESSE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "029724022",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONE 10 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724034",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONE 15 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724046",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONE 20 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724073",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- FLACONE 60 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724085",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- FLACONE 100 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724097",
+        "nome": "DOTAREM",
+        "descrizione": "0,0025 MMOL/ML SOLUZIONE INIETTABILE PER USO INTRA-ARTICOLARE- 1 SIRINGA PRERIEMPITA 20 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724109",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO - FLACONE 5 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724135",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 SIRINGA PRERIEMPITA IN PP DA 10 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724147",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 SIRINGA PRERIEMPITA IN PP DA 15 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724150",
+        "nome": "DOTAREM",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 SIRINGA PRERIEMPITA IN PP DA 20 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029724162",
+        "nome": "DOTAREM",
+        "descrizione": "0,0025 MMOL/ML SOLUZIONE INIETTABILE - USO INTRA-ARTICOLARE- 1 FLACONCINO IN VETRO D 20 ML",
+        "produttore": "GUERBET",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "029775018",
+        "nome": "DOLOFAST",
+        "descrizione": "10% GEL- TUBO 50 G",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "029834013",
+        "nome": "DOPAMINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "10 MG/2 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- FIALA 2 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "029834025",
+        "nome": "DOPAMINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "50 MG/10 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- FIALA 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Concentrato per sospensione iniettabile"
+    },
+    {
+        "aic": "029834037",
+        "nome": "DOPAMINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "10 MG/2 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE 2 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "029834049",
+        "nome": "DOPAMINA CLORIDRATO GALENICA SENESE",
+        "descrizione": "50 MG/10 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE 10 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L.",
+        "forma": "Concentrato per sospensione iniettabile"
+    },
+    {
+        "aic": "030663037",
+        "nome": "DOPAMINA CLORIDRATO S.A.L.F.",
+        "descrizione": "50 MG/10 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE 10 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Concentrato e solvente per soluzione per infusione"
+    },
+    {
+        "aic": "030663052",
+        "nome": "DOPAMINA CLORIDRATO S.A.L.F.",
+        "descrizione": "200 MG/5 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "030663064",
+        "nome": "DOPAMINA CLORIDRATO S.A.L.F.",
+        "descrizione": "400 MG/5 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "033887011",
+        "nome": "DOXOVENT",
+        "descrizione": "400 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "ICE S.P.A",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "033887023",
+        "nome": "DOXOVENT",
+        "descrizione": "100 MG SOLUZIONE INIETTABILE PER USO ENDOVENOSO-3 FIALE  100 MG/10 ML",
+        "produttore": "ICE S.P.A",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "033887035",
+        "nome": "DOXOVENT",
+        "descrizione": "200 mg polvere per soluzione orale  in bustina> 20 bustine in carta/AL/LDPE",
+        "produttore": "ICE S.P.A",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "033887047",
+        "nome": "DOXOVENT",
+        "descrizione": "20 mg/ml sciroppo> 1 flacone in  vetro da 200 ml con chiusura a prova di bambino e bicchiere dosatore",
+        "produttore": "ICE S.P.A",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "033892011",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892023",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892035",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892047",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892050",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892062",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 40 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892074",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 45 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892086",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892098",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892100",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892112",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033892124",
+        "nome": "DORMIPLANT",
+        "descrizione": "160 MG + 80 MG COMPRESSE RIVESTITE CON FILM - 25 CPR",
+        "produttore": "DR. WILLMAR SCHWABE GMBH & CO.KG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "033913017",
+        "nome": "DOLAUT",
+        "descrizione": "40 mg/g gel - FLACONE CON EROGATORE 25 G",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "033913029",
+        "nome": "DOLAUT",
+        "descrizione": "40 mg/g gel- FLACONE VETRO CON EROGATORE DA 15 G",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "034027019",
+        "nome": "DONAFLOR",
+        "descrizione": "50 MG + 30 MCG COMPRESSE VAGINALI- 6 COMPRESSE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa vaginale"
+    },
+    {
+        "aic": "034027021",
+        "nome": "DONAFLOR",
+        "descrizione": "50 MG + 30 MCG COMPRESSE VAGINALI- 12 COMPRESSE",
+        "produttore": "EXELTIS ITALIA S.R.L.",
+        "forma": "Compressa vaginale"
+    },
+    {
+        "aic": "034434011",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434023",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434035",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434047",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434050",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 40 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434062",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434074",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434086",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434098",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434100",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 150 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434112",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 200 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434124",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 250 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434136",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 300 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434148",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 400 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434151",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434163",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "2 MG COMPRESSE- 1000 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434175",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434187",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434199",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434201",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434213",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 40 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434225",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434237",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434249",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434252",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434264",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 150 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434276",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 200 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434288",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 250 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434290",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 300 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434302",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 400 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434314",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034434326",
+        "nome": "DOXAZOSINA EG",
+        "descrizione": "4 MG COMPRESSE- 1000 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "034449013",
+        "nome": "DOBUTAMINA BIOINDUSTRIA LIM",
+        "descrizione": "250  mg/20  ml  concentrato  per  soluzione  per infusione> 1 flaconcino in vetro da 20 ml",
+        "produttore": "BIOINDUSTRIA LABORATORIO ITALIANO MEDICINALI S.P.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "034699013",
+        "nome": "DORICOFLU",
+        "descrizione": "1 MG/ML SOLUZIONE PER NEBULIZZATORE- FLACONE 30 ML",
+        "produttore": "SANITAS LAB. CHIMICO FARMACEUTICO S.R.L.",
+        "forma": "Soluzione per nebulizzatore"
+    },
+    {
+        "aic": "034925040",
+        "nome": "DOLGOSIN",
+        "descrizione": "200 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "034925053",
+        "nome": "DOLGOSIN",
+        "descrizione": "100 MG/2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 6 FIALE 2 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "035061011",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "10 CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061023",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "20 CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061035",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "30 CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061047",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "40  CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061050",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "50  CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061062",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "100  CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061074",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "400  CPR RIVESTITE CON FILM IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035061086",
+        "nome": "DOMPERIDONE TEVA",
+        "descrizione": "100 CPR RIVESTITE CON FILM IN FLACONE PE  DA 10 MG",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "035442019",
+        "nome": "DOPAMINA PFIZER",
+        "descrizione": "200 MG/5 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FIALE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "035442021",
+        "nome": "DOPAMINA PFIZER",
+        "descrizione": "200 MG/5 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 100 FIALE",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "035675014",
+        "nome": "DOVOBET",
+        "descrizione": "TUBO IN ALLUMINIO DA 3 G DI UNGUENTO",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "035675026",
+        "nome": "DOVOBET",
+        "descrizione": "TUBO IN ALLUMINIO DA 15 G DI UNGUENTO",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "035675038",
+        "nome": "DOVOBET",
+        "descrizione": "TUBO IN ALLUMINIO DA 30 G DI UNGUENTO",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "035675040",
+        "nome": "DOVOBET",
+        "descrizione": "TUBO IN ALLUMINIO DA 60 G DI UNGUENTO",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "035675053",
+        "nome": "DOVOBET",
+        "descrizione": "TUBO IN ALLUMINIO DA 100 G DI UNGUENTO",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "035675065",
+        "nome": "DOVOBET",
+        "descrizione": "TUBO IN ALLUMINIO DA 120 G DI UNGUENTO",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Unguento"
+    },
+    {
+        "aic": "035675139",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 1 FLACONE HDPE/LDPE DA 15 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675141",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 1 FLACONE HDPE/LDPE DA 30 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675154",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 1 FLACONE HDPE/LDPE DA 60 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675166",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 2 FLACONI HDPE/LDPE DA 60 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675178",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 3 FLACONI HDPE/LDPE DA 60 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675180",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 1 APPLICATORE PP DA 60 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675192",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 2 APPLICATORI PP DA 60 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675204",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 1 FLACONE HDPE/LDPE DA 80 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035675216",
+        "nome": "DOVOBET",
+        "descrizione": "50 MCG/0,5 MG/G GEL- 2 FLACONI HDPE/LDPE DA 80 G",
+        "produttore": "LEO PHARMA A/S",
+        "forma": "Gel"
+    },
+    {
+        "aic": "035809019",
+        "nome": "DOMPERIDONE ABC",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
+        "produttore": "ICE S.P.A",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035810011",
+        "nome": "DOMPERIDONE MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "035812015",
+        "nome": "DOMPERIDONE EG",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036109015",
+        "nome": "DOMPERIDONE DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "036497016",
+        "nome": "DOLAUT GOLA",
+        "descrizione": "0,25 % COLLUTORIO - FLACONE 150 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "036497028",
+        "nome": "DOLAUT GOLA",
+        "descrizione": "2,5 MG/ML SPRAY PER MUCOSA ORALE- FLACONE IN VETRO DA 15 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Spray per mucosa orale, soluzione"
+    },
+    {
+        "aic": "036809010",
+        "nome": "DOMPERIDONE SANDOZ",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037244050",
+        "nome": "DOXAZOSINA SANDOZ",
+        "descrizione": "2 MG COMPRESSE - 30 COMPRESSE DIVISIBILI",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037244062",
+        "nome": "DOXAZOSINA SANDOZ",
+        "descrizione": "4 MG COMPRESSE - 20 COMPRESSE DIVISIBILI",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037244074",
+        "nome": "DOXAZOSINA SANDOZ",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE DIVISIBILI IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037244086",
+        "nome": "DOXAZOSINA SANDOZ",
+        "descrizione": "4 MG COMPRESSE- 60 COMPRESSE DIVISIBILI IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037246079",
+        "nome": "DOXAFIN",
+        "descrizione": "2 MG COMPRESSE - 30 COMPRESSE",
+        "produttore": "FG S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037246081",
+        "nome": "DOXAFIN",
+        "descrizione": "4 MG COMPRESSE - 20 COMPRESSE",
+        "produttore": "FG S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037275017",
+        "nome": "DOXAZOSINA ALTER",
+        "descrizione": "2 MG COMPRESSE - 30 COMPRESSE DIVISIBILI",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037275029",
+        "nome": "DOXAZOSINA ALTER",
+        "descrizione": "4 MG COMPRESSE - 20 COMPRESSE DIVISIBILI",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037397015",
+        "nome": "DOXAZOSIN DOC GENERICI",
+        "descrizione": "2 MG COMPRESSE- 30 (3X10) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037397027",
+        "nome": "DOXAZOSIN DOC GENERICI",
+        "descrizione": "4 MG COMPRESSE- 20 (2X10) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037397039",
+        "nome": "DOXAZOSIN DOC GENERICI",
+        "descrizione": "4 MG COMPRESSE- 30 (3X10) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494010",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494022",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494034",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494046",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494059",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494061",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494073",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494085",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494097",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494109",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494111",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494123",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494135",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494147",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494150",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494162",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494174",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494186",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037494198",
+        "nome": "DOXAZOSIN RATIOPHARM",
+        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "RATIOPHARM GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618016",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "2 MG COMPRESSE- 10X3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618028",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER EAV PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618030",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618042",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618055",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618067",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "4 MG COMPRESSE- 10X3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618079",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "4 MG COMPRESSE- 50 COMPRESSE IN BLISTER EAV PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618081",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618093",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618105",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037618117",
+        "nome": "DOXAZOSIN ZENTIVA",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037644010",
+        "nome": "DORYX",
+        "descrizione": "70 MG COMPRESSE - 4 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037644022",
+        "nome": "DORYX",
+        "descrizione": "70 MG COMPRESSE- 12 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037650013",
+        "nome": "DOXAZOSINA ALMUS",
+        "descrizione": "2 MG COMPRESSE - 30 COMPRESSE DIVISIBILI",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037650025",
+        "nome": "DOXAZOSINA ALMUS",
+        "descrizione": "4 MG COMPRESSE - 20 COMPRESSE DIVISIBILI",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037650037",
+        "nome": "DOXAZOSINA ALMUS",
+        "descrizione": "4 MG COMPRESSE - 30 COMPRESSE DIVISIBILI IN BLISTER PVC/PVDC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750015",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750027",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "2 MG COMPRESSE- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750039",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750041",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750054",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750066",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750078",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "4 MG COMPRESSE- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750080",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750092",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750104",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037750116",
+        "nome": "DOXAZOSINA HEXAL",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773013",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "2 MG COMPRESSE- 10X3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773025",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER EAV PVC/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773037",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773049",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773052",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773064",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "4 MG COMPRESSE- 10X3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773076",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "4 MG COMPRESSE- 50 COMPRESSE IN BLISTER EAV PVC/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773088",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773090",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773102",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037773114",
+        "nome": "DOXAZOSINA PENSA",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037829013",
+        "nome": "DOXAZOSINA MYLAN GENERICS",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037829025",
+        "nome": "DOXAZOSINA MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037829037",
+        "nome": "DOXAZOSINA MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "037829049",
+        "nome": "DOXAZOSINA MYLAN GENERICS",
+        "descrizione": "4 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "038353013",
+        "nome": "DOLAUT MONO",
+        "descrizione": "14 MG CEROTTO MEDICATO - 4 CEROTTI",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "038353025",
+        "nome": "DOLAUT MONO",
+        "descrizione": "14 MG CEROTTO MEDICATO - 8 CEROTTI",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "038605010",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605022",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605034",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605046",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605059",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605061",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605073",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605085",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605097",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605109",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL (CONF. CALENDARIO)",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605111",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL (CONF. CALENDARIO)",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605123",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER IN DOSE UNITARIA PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605135",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE PP",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605147",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN CONTENITORE PP",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605150",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605162",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605174",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605186",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605198",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605200",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605212",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605224",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605236",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL (CONFEZIONE CALENDARIO)",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605248",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL (CONFEZIONE CALENDARIO)",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605251",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER IN DOSE UNITARIA PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605263",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE PP",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605275",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN CONTENITORE PP",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605287",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605299",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605301",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038605313",
+        "nome": "DONEPEZIL MYLAN GENERICS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768014",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768026",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768038",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768040",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768053",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768065",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768077",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768089",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768091",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768103",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768115",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038768127",
+        "nome": "DONEPEZIL ALMUS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALMUS S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145014",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145026",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145038",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145040",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145053",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145065",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145077",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145089",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145091",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145103",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145115",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145127",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145139",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145141",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145154",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145166",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145178",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145180",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145192",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145204",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145216",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145228",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145230",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145242",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145255",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145267",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145279",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145281",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145293",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039145305",
+        "nome": "DONEPEZIL SANDOZ",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039620012",
+        "nome": "DORZOSTILL",
+        "descrizione": "2% COLLIRIO, SOLUZIONE - 1 FLACONE IN PE DA 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "039620024",
+        "nome": "DORZOSTILL",
+        "descrizione": "2% COLLIRIO, SOLUZIONE- 3 FLACONI IN PE DAL 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "039620036",
+        "nome": "DORZOSTILL",
+        "descrizione": "2% COLLIRIO, SOLUZIONE- 6 FLACONI IN PE DA 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "039646017",
+        "nome": "DOXORUBICINA TEVA",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO IN VETRO DA 10MG/5ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "039646029",
+        "nome": "DOXORUBICINA TEVA",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO IN VETRO DA 20MG/10ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "039646031",
+        "nome": "DOXORUBICINA TEVA",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO IN VETRO DA 50MG/25ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "039646043",
+        "nome": "DOXORUBICINA TEVA",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO IN VETRO DA 200MG/100 ML",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "039741018",
+        "nome": "DONEPEZIL ALTER",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039741020",
+        "nome": "DONEPEZIL ALTER",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "039967017",
+        "nome": "DORZOCLAR",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE LDPE DA 5 ML",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "039967029",
+        "nome": "DORZOCLAR",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI LDPE DA 5 ML",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "039967031",
+        "nome": "DORZOCLAR",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI LDPE DA 5 ML",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040083014",
+        "nome": "DORZOLAMIDE MYLAN GENERICS",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE MDPE DA 5 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "040083026",
+        "nome": "DORZOLAMIDE MYLAN GENERICS",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI MDPE DA 5 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "040083038",
+        "nome": "DORZOLAMIDE MYLAN GENERICS",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI MDPE DA 5 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Colluttorio"
+    },
+    {
+        "aic": "040085019",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085021",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085033",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085045",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085058",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085060",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085072",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040085084",
+        "nome": "DONEPEZIL EG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040113019",
+        "nome": "DOCETAXEL AUROBINDO",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO MONODOSE DA  1 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040113021",
+        "nome": "DOCETAXEL AUROBINDO",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO MONODOSE DA  4 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040113033",
+        "nome": "DOCETAXEL AUROBINDO",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO MONODOSE DA  7 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040113045",
+        "nome": "DOCETAXEL AUROBINDO",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO MONODOSE DA 8 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040159016",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159028",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159030",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159042",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159055",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159067",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159079",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159081",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159093",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159105",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159117",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159129",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159131",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159143",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159156",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159168",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159170",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159182",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159194",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159206",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159218",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159220",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159232",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159244",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159257",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159269",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159271",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040159283",
+        "nome": "DONEPEZIL ZENTIVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040189019",
+        "nome": "DORZONORM",
+        "descrizione": "20MG/ML COLLIRIO SOLUZIONE - 1 FLACONE CONTAGOCCE DA 5 ML",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040189021",
+        "nome": "DORZONORM",
+        "descrizione": "20MG/ML COLLIRIO SOLUZIONE - 3 FLACONI CONTAGOCCE DA 5 ML",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040189033",
+        "nome": "DORZONORM",
+        "descrizione": "20MG/ML COLLIRIO SOLUZIONE -6 FLACONI CONTAGOCCE DA 5 ML",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040243014",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243026",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243038",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 15 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243040",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243053",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243065",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243077",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243089",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243091",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243103",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243115",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243127",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243139",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 140 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243141",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243154",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243166",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243178",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 15 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243180",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243192",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243204",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243216",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243228",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243230",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243242",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243255",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243267",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243279",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 140 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040243281",
+        "nome": "DOXAZOSIN AUROBINDO",
+        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "040538011",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538023",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538035",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538047",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538050",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538062",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538074",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538086",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538098",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538100",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538112",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538124",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538136",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538148",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538151",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538163",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538175",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538187",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538199",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538201",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538213",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040538225",
+        "nome": "DONEPEZIL SUN",
+        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040577013",
+        "nome": "DOCETAXEL RATIOPHARM ITALIA",
+        "descrizione": "20MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20MG/1ML",
+        "produttore": "TEVA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040577025",
+        "nome": "DOCETAXEL RATIOPHARM ITALIA",
+        "descrizione": "20MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 80MG/4ML",
+        "produttore": "TEVA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040577037",
+        "nome": "DOCETAXEL RATIOPHARM ITALIA",
+        "descrizione": "20MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 140MG/7ML",
+        "produttore": "TEVA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040577049",
+        "nome": "DOCETAXEL RATIOPHARM ITALIA",
+        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 160 MG/8 ML",
+        "produttore": "TEVA B.V.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040581011",
+        "nome": "DOXORUBICINA ACCORD HEALTHCARE ITALIA",
+        "descrizione": "2MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10MG/5ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040581023",
+        "nome": "DOXORUBICINA ACCORD HEALTHCARE ITALIA",
+        "descrizione": "2MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 50MG/25ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040581035",
+        "nome": "DOXORUBICINA ACCORD HEALTHCARE ITALIA",
+        "descrizione": "2MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 200 MG/100ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040581047",
+        "nome": "DOXORUBICINA ACCORD HEALTHCARE ITALIA",
+        "descrizione": "2MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20MG/10ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040581050",
+        "nome": "DOXORUBICINA ACCORD HEALTHCARE ITALIA",
+        "descrizione": "2MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 100MG/50ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040609012",
+        "nome": "DORZOLAMIDE AUROBINDO",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040609024",
+        "nome": "DORZOLAMIDE AUROBINDO",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 5 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040609036",
+        "nome": "DORZOLAMIDE AUROBINDO",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI DA 5 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040693018",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 5 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693020",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 5 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693032",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693044",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693057",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 25 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693069",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 50 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693071",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 75 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040693083",
+        "nome": "DOXORUBICINA AUROBINDO",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 100 ML",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "040721019",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721021",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721033",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721045",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721058",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721060",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721072",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040721084",
+        "nome": "DONEPEZIL DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040792018",
+        "nome": "DORZOLAMIDE E TIMOLOLO MYLAN GENERICS",
+        "descrizione": "20MG/ML+5MG/ML SOLUZIONE COLLIRIO - 1 FLACONE IN MDPE DA 5 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040792020",
+        "nome": "DORZOLAMIDE E TIMOLOLO MYLAN GENERICS",
+        "descrizione": "20MG/ML+5MG/ML SOLUZIONE COLLIRIO - 3 FLACONI IN MDPE DA 5 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040792032",
+        "nome": "DORZOLAMIDE E TIMOLOLO MYLAN GENERICS",
+        "descrizione": "20MG/ML+5MG/ML SOLUZIONE COLLIRIO - 6 FLACONI IN MDPE DA 5 ML",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040797019",
+        "nome": "DORZOLAMIDE E TIMOLOLO EG",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML IN MDPE CON CONTAGOCCE",
+        "produttore": "EG S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040797021",
+        "nome": "DORZOLAMIDE E TIMOLOLO EG",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 5 ML IN MDPE CON CONTAGOCCE",
+        "produttore": "EG S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040797033",
+        "nome": "DORZOLAMIDE E TIMOLOLO EG",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI DA 5 ML IN MDPE CON CONTAGOCCE",
+        "produttore": "EG S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040815019",
+        "nome": "DORZAMOX",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML IN MDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040815021",
+        "nome": "DORZAMOX",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 5 ML IN MDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "040815033",
+        "nome": "DORZAMOX",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI DA 5 ML IN MDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041015013",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015025",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015037",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015049",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015052",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015064",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015076",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015088",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015090",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015102",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015114",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015126",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015138",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015140",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015153",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015165",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015177",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015189",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015191",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015203",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015215",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041015227",
+        "nome": "DONEPEZIL ACCORD",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041088016",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088028",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088030",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 14 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088042",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088055",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088067",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 50 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088079",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088081",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088093",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 84 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088105",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088117",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088129",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 120 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088131",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 180 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088143",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088156",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088168",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 14 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088170",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088182",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088194",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 50 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088206",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088218",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088220",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 84 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088232",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088244",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088257",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 120 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041088269",
+        "nome": "DONEPEZIL MYLAN GENERICS ITALIA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 180 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa orodispersibile"
+    },
+    {
+        "aic": "041095011",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 2 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095023",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 2,7 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095035",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 5 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095047",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 10 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095050",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 15 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095062",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 20 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095074",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 2 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095086",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 2,7 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095098",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 5 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095100",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 10 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095112",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 15 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095124",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 20 L A 135 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095136",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 2 L A 185 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095148",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ACCIAIO DA 5 L A 185 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095151",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 2 L A 185 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041095163",
+        "nome": "DONOPA",
+        "descrizione": "50%/50% GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN ALLUMINIO DA 5 L A 185 BAR",
+        "produttore": "SOL S.P.A.",
+        "forma": "Gas per inalazione"
+    },
+    {
+        "aic": "041137011",
+        "nome": "DORZOLAMIDE E TIMOLOLO AUROBINDO",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041137023",
+        "nome": "DORZOLAMIDE E TIMOLOLO AUROBINDO",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 5 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041137035",
+        "nome": "DORZOLAMIDE E TIMOLOLO AUROBINDO",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI DA 5 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041580010",
+        "nome": "DORZOLAMIDE E TIMOLOLO ZENTIVA",
+        "descrizione": "20 MG/ML+5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML IN MDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041580022",
+        "nome": "DORZOLAMIDE E TIMOLOLO ZENTIVA",
+        "descrizione": "20 MG/ML+5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 5 ML IN MDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041580034",
+        "nome": "DORZOLAMIDE E TIMOLOLO ZENTIVA",
+        "descrizione": "20 MG/ML+5 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI DA 5 ML IN MDPE",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "041733015",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733027",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733039",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733041",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733054",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733066",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733078",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733080",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733092",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733104",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733116",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733128",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733130",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733142",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733155",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733167",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733179",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733181",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733193",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041733205",
+        "nome": "DONEPEZIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885017",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885029",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885031",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885043",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885056",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885068",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885070",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 1000 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885082",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885094",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885106",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885118",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885120",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885132",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885144",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 1000 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885157",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041885169",
+        "nome": "DONEPEZIL AUROBINDO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042184010",
+        "nome": "DOCETAXEL ACCORD",
+        "descrizione": "20 MG/1 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)  - 1 ML- 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042184022",
+        "nome": "DOCETAXEL ACCORD",
+        "descrizione": "80 MG/4 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)  - 4 ML- 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042184034",
+        "nome": "DOCETAXEL ACCORD",
+        "descrizione": "160 MG/8 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO)  - 8 ML- 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042285015",
+        "nome": "DOCETAXEL KABI",
+        "descrizione": "80 MG/4 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 4 ML- 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042285027",
+        "nome": "DOCETAXEL KABI",
+        "descrizione": "120 MG/6 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 6 ML- 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042285039",
+        "nome": "DOCETAXEL KABI",
+        "descrizione": "160 MG/8 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 8 ML- 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042285041",
+        "nome": "DOCETAXEL KABI",
+        "descrizione": "180 MG/9 ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 9 ML- 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042285054",
+        "nome": "DOCETAXEL KABI",
+        "descrizione": "20MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 ML - 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042970018",
+        "nome": "DOXORUBICINA HIKMA",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 5 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042970020",
+        "nome": "DOXORUBICINA HIKMA",
+        "descrizione": "2 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 25 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "043163029",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043193010",
+        "nome": "DOLIBLOC",
+        "descrizione": "BAMBINI 100 MG/5 ML SOSPENSIONE ORALE GUSTO FRAGOLA SENZA ZUCCHERO- 1 FLACONE DA 150 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "043193022",
+        "nome": "DOLIBLOC",
+        "descrizione": "BAMBINI 100 MG/5 ML SOSPENSIONE ORALE GUSTO ARANCIA SENZA ZUCCHERO- 1 FLACONE DA 150 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "043294014",
+        "nome": "DOBUTAMINA HIKMA",
+        "descrizione": "12,5 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Soluzione per infusione"
+    },
+    {
+        "aic": "043689013",
+        "nome": "DOZURSO",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689025",
+        "nome": "DOZURSO",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689037",
+        "nome": "DOZURSO",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689049",
+        "nome": "DOZURSO",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689052",
+        "nome": "DOZURSO",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689064",
+        "nome": "DOZURSO",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689076",
+        "nome": "DOZURSO",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689088",
+        "nome": "DOZURSO",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689090",
+        "nome": "DOZURSO",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043689102",
+        "nome": "DOZURSO",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATOIRES MAYOLY SPINDLER",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043849013",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE - 1 FLACONCINO DA 10 ML USO SINGOLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849025",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 FLACONCINO DA 15 ML  USO SINGOLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849037",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 FLACONCINO DA 20 ML  USO SINGOLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849049",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 10 FLACONCINI DA 10 ML USO SINGOLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849052",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 10 FLACONCINI DA 15 ML USO SINGOLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849064",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 10 FLACONCINI DA 20 ML USO SINGOLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849076",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 FLACONCINO DA 60 ML USO MULTIPLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849088",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 1 FLACONCINO DA 100 ML USO MULTIPLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849090",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 10 FLACONCINI DA 60 ML USO MULTIPLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043849102",
+        "nome": "DOTAGRAF",
+        "descrizione": "0,5 MMOL/ML SOLUZIONE INIETTABILE- 10 FLACONCINI DA 100 ML USO MULTIPLO",
+        "produttore": "BAYER S.P.A.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "043861018",
+        "nome": "DORZOLAMIDE E TIMOLOLO PENSA",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE PE DA 5 ML",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "044098010",
+        "nome": "DOPAMINA CLORIDRATO HIKMA",
+        "descrizione": "40 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FIALE IN VETRO DA 5 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044164010",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 10 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC CONFEZIONE OSPEDALIERA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164022",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 14 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164034",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 20 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164046",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164059",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 30 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164061",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 50 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164073",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164085",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 60 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164097",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 100 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164109",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 10 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC CONFEZIONE OSPEDALIERA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164111",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 14 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164123",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 20 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164135",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164147",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 30 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164150",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 50 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164162",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164174",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 60 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164186",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 100 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164198",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 10 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC CONFEZIONE OSPEDALIERA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164200",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 14 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164212",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 20 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164224",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 28 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164236",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164248",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 50 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164251",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 56 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164263",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 60 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164275",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 100 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164287",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 10 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC CONFEZIONE OSPEDALIERA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164299",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 14 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164301",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 20 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164313",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 28 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164325",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 30 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164337",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 50 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164349",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 56 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164352",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 60 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164364",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 100 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164376",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 10 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC CONFEZIONE OSPEDALIERA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164388",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 14 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164390",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 20 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164402",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 28 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164414",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 30 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164426",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 50 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164438",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 56 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164440",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 60 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164453",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 100 X 1 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164465",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164477",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164489",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164491",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164503",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164515",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164527",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164539",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164541",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164554",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164566",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164578",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164580",
+        "nome": "DOLSTIP",
+        "descrizione": "5 MG/2,5 MG COMPRESSE A RILASCIO PROLUNGATO- 84 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164592",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164604",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164616",
+        "nome": "DOLSTIP",
+        "descrizione": "10 MG/5 MG COMPRESSE A RILASCIO PROLUNGATO- 84 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164628",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164630",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164642",
+        "nome": "DOLSTIP",
+        "descrizione": "20 MG/10 MG COMPRESSE A RILASCIO PROLUNGATO- 84 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164655",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164667",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164679",
+        "nome": "DOLSTIP",
+        "descrizione": "30 MG/15 MG COMPRESSE A RILASCIO PROLUNGATO- 84 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164681",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164693",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164705",
+        "nome": "DOLSTIP",
+        "descrizione": "40 MG/20 MG COMPRESSE A RILASCIO PROLUNGATO- 84 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164717",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 28x1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON APERTURA A PRESSIONE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164729",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 50x1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON APERTURA A PRESSIONE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164731",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 60x1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON APERTURA A PRESSIONE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164743",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 28x1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON PELLICOLA RIMOVIBILE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164756",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 50x1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON PELLICOLA RIMOVIBILE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164768",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 60x1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON PELLICOLA RIMOVIBILE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164770",
+        "nome": "DOLSTIP",
+        "descrizione": "60 MG/30 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164782",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 28X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON APERTURA A PRESSIONE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164794",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 50X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON APERTURA A PRESSIONE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164806",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 60X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON APERTURA A PRESSIONE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164818",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 28X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON PELLICOLA RIMOVIBILE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164820",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 50X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON PELLICOLA RIMOVIBILE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164832",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 60X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/PVC/PE/PVDC CON PELLICOLA RIMOVIBILE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044164844",
+        "nome": "DOLSTIP",
+        "descrizione": "80 MG/40 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
+        "aic": "044686018",
+        "nome": "DOCETAXEL HIKMA",
+        "descrizione": "20 MG/1ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 6 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044686020",
+        "nome": "DOCETAXEL HIKMA",
+        "descrizione": "80 MG/4ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 6 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "044686032",
+        "nome": "DOCETAXEL HIKMA",
+        "descrizione": "160 MG/8 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "045227030",
+        "nome": "DOLKET",
+        "descrizione": "40 MG SOLUZIONE ORALE- 10 STICK PET/AL/PE DA 7 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "045227042",
+        "nome": "DOLKET",
+        "descrizione": "40 MG SOLUZIONE ORALE- 20 STICK PET/AL/PE DA 7 ML",
+        "produttore": "EPIFARMA S.R.L",
+        "forma": "Soluzione orale"
+    },
+    {
+        "aic": "045762022",
+        "nome": "DOSTINEX",
+        "descrizione": "0,5MG COMPRESSE- 8 COMPRESSE IN FLACONE HDPE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045770017",
+        "nome": "DOSTINEX",
+        "descrizione": "0,5MG COMPRESSE- 8 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045770029",
+        "nome": "DOSTINEX",
+        "descrizione": "0,5 MG COMPRESSE- 8 COMPRESSE IN FLACONE HDPE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046957015",
+        "nome": "DORSIFLEX",
+        "descrizione": "70 MG CEROTTO MEDICATO- 2 CEROTTI IN BUSTINA PAP/PE/AL/COPOLIMERI",
+        "produttore": "DROSSAPHARM ARZNEIMITTEL HANDELSGESELLSCHAFT MBH",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "046957027",
+        "nome": "DORSIFLEX",
+        "descrizione": "70 MG CEROTTO MEDICATO- 5 CEROTTI IN BUSTINA PAP/PE/AL/COPOLIMERI",
+        "produttore": "DROSSAPHARM ARZNEIMITTEL HANDELSGESELLSCHAFT MBH",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "046957039",
+        "nome": "DORSIFLEX",
+        "descrizione": "70 MG CEROTTO MEDICATO- 7 CEROTTI IN BUSTINA PAP/PE/AL/COPOLIMERI",
+        "produttore": "DROSSAPHARM ARZNEIMITTEL HANDELSGESELLSCHAFT MBH",
+        "forma": "Cerotto transdermico"
+    },
+    {
+        "aic": "047051014",
+        "nome": "DORZOLAMIDE E TIMOLOLO SANDOZ",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN MDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047051026",
+        "nome": "DORZOLAMIDE E TIMOLOLO SANDOZ",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI IN MDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047051038",
+        "nome": "DORZOLAMIDE E TIMOLOLO SANDOZ",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 6 FLACONI IN MDPE DA 5 MLCON CONTAGOCCE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047051040",
+        "nome": "DORZOLAMIDE E TIMOLOLO SANDOZ",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 2 FLACONI IN MDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047051053",
+        "nome": "DORZOLAMIDE E TIMOLOLO SANDOZ",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 4 FLACONI IN MDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047432012",
+        "nome": "DOCLEVO",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- FLACONE IN LDPE DA 5 ML",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047719012",
+        "nome": "DOCLATIM",
+        "descrizione": "50 MICROGRAMMI/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN HDPE DA 2,5 ML CON POMPA",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047719024",
+        "nome": "DOCLATIM",
+        "descrizione": "50 MICROGRAMMI/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN HDPE DA 5 ML CON POMPA",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "047789019",
+        "nome": "DOTECINE",
+        "descrizione": "200 MG COMPRESSE A RILASCIO MODIFICATO- 12 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A.",
+        "forma": "Compressa a rilascio modificato"
+    },
+    {
+        "aic": "048058010",
+        "nome": "DOVATO",
+        "descrizione": "50 MG / 300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048058022",
+        "nome": "DOVATO",
+        "descrizione": "50 MG / 300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 (3 X 30) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048058034",
+        "nome": "DOVATO",
+        "descrizione": "50 MG / 300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE) - 30 COMPRESSE",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048058046",
+        "nome": "DOVATO",
+        "descrizione": "50 MG / 300 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE) - 90 (3 X 30) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "VIIV HEALTHCARE BV",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048079014",
+        "nome": "DOPTELET",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 10 COMPRESSE",
+        "produttore": "SWEDISH ORPHAN BIOVITRUM  AB  (PUBL)",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048079026",
+        "nome": "DOPTELET",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 15 COMPRESSE",
+        "produttore": "SWEDISH ORPHAN BIOVITRUM  AB  (PUBL)",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048079038",
+        "nome": "DOPTELET",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "SWEDISH ORPHAN BIOVITRUM  AB  (PUBL)",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "048270019",
+        "nome": "DOGETIC",
+        "descrizione": "100 MICROGRAMMI COMPRESSE SUBLINGUALI- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270021",
+        "nome": "DOGETIC",
+        "descrizione": "100 MICROGRAMMI COMPRESSE SUBLINGUALI- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN   PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270033",
+        "nome": "DOGETIC",
+        "descrizione": "200 MICROGRAMMI COMPRESSE SUBLINGUALI- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270045",
+        "nome": "DOGETIC",
+        "descrizione": "200 MICROGRAMMI COMPRESSE SUBLINGUALI- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270058",
+        "nome": "DOGETIC",
+        "descrizione": "300 MICROGRAMMI COMPRESSE SUBLINGUALI- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN  PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270060",
+        "nome": "DOGETIC",
+        "descrizione": "300 MICROGRAMMI COMPRESSE SUBLINGUALI- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270072",
+        "nome": "DOGETIC",
+        "descrizione": "400 MICROGRAMMI COMPRESSE SUBLINGUALI- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270084",
+        "nome": "DOGETIC",
+        "descrizione": "400 MICROGRAMMI COMPRESSE SUBLINGUALI- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270096",
+        "nome": "DOGETIC",
+        "descrizione": "600 MICROGRAMMI COMPRESSE SUBLINGUALI- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270108",
+        "nome": "DOGETIC",
+        "descrizione": "800 MICROGRAMMI COMPRESSE SUBLINGUALI- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270110",
+        "nome": "DOGETIC",
+        "descrizione": "600 MICROGRAMMI COMPRESSE SUBLINGUALI- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048270134",
+        "nome": "DOGETIC",
+        "descrizione": "800 MICROGRAMMI COMPRESSE SUBLINGUALI- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PA/AL/PVC",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa sublinguale"
+    },
+    {
+        "aic": "048439018",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE- 30 BUSTINE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "048439020",
+        "nome": "DONA",
+        "descrizione": "1500 mg POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "048955013",
+        "nome": "DOVPRELA",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - BLISTER (PVC/PVDC/AL) - 14 COMPRESSE",
+        "produttore": "MYLAN IRE HEALTHCARE LIMITED",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048955025",
+        "nome": "DOVPRELA",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - BLISTER (PVC/PVDC/AL) - 14 X 1 COMPRESSE (UNITA POSOLOGICA)",
+        "produttore": "MYLAN IRE HEALTHCARE LIMITED",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048955037",
+        "nome": "DOVPRELA",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - FLACONE (HDPE) - 26 COMPRESSE",
+        "produttore": "MYLAN IRE HEALTHCARE LIMITED",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048955049",
+        "nome": "DOVPRELA",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - BLISTER (PVC/PVDC/AL) - 182 COMPRESSE",
+        "produttore": "MYLAN IRE HEALTHCARE LIMITED",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048955052",
+        "nome": "DOVPRELA",
+        "descrizione": "200 MG - COMPRESSA - USO ORALE - BLISTER (PVC/PVDC/AL) - 182 X 1 COMPRESSE (UNITA POSOLOGICA)",
+        "produttore": "MYLAN IRE HEALTHCARE LIMITED",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "049701016",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "049748015",
+        "nome": "DOLOLIBRE",
+        "descrizione": "50 mg/ml sospensione orale- 1 flacone di vetro da 100 ml",
+        "produttore": "INFECTOPHARM ARZNEIMITTEL UND CONSILIUM GMBH",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "049907013",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Polvere per soluzione orale in bustina"
+    },
+    {
+        "aic": "049979014",
+        "nome": "DOLFENIBUPROFENE PENSA GENERICS",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049979026",
+        "nome": "DOLFENIBUPROFENE PENSA GENERICS",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049979038",
+        "nome": "DOLFENIBUPROFENE PENSA GENERICS",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050112010",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 20 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050112022",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 40 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050112034",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 50 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050112046",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 60 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050112059",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 100 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050112061",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 120 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050112073",
+        "nome": "DOLGIT",
+        "descrizione": "50 MG/G CREMA- 1 TUBO IN AL DA 150 G",
+        "produttore": "DOLORGIET GMBH & CO. KG",
+        "forma": "Crema"
+    },
+    {
+        "aic": "050294014",
+        "nome": "DOLIVIO",
+        "descrizione": "500 mg COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050294026",
+        "nome": "DOLIVIO",
+        "descrizione": "500 mg COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050294038",
+        "nome": "DOLIVIO",
+        "descrizione": "500 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050294040",
+        "nome": "DOLIVIO",
+        "descrizione": "500 mg COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050547013",
+        "nome": "DOLOTO",
+        "descrizione": "50 mg/g + 10 mg/g GOCCE AURICOLARI, SOLUZIONE- 1 FLACONE CONTAGOCCE DA 10 G IN LDPE",
+        "produttore": "INFECTOPHARM ARZNEIMITTEL UND CONSILIUM GMBH",
+        "forma": "Gocce auricolari, soluzione"
+    },
+    {
+        "aic": "050688011",
+        "nome": "DOXAZOSINA E FINASTERIDE MYLAN",
+        "descrizione": "5 MG/4 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/PVC/TE/PVDC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050688023",
+        "nome": "DOXAZOSINA E FINASTERIDE MYLAN",
+        "descrizione": "5 MG/4 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/PVC/TE/PVDC",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051038014",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051124016",
+        "nome": "DOTIMIR",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 CONTENITORE HDPE DA 5 ML CON POMPA CONTAGOCCE",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "051124028",
+        "nome": "DOTIMIR",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 CONTENITORE HDPE DA 9 ML CON POMPA CONTAGOCCE",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "051124030",
+        "nome": "DOTIMIR",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 2 CONTENITORI HDPE DA 9 ML CON POMPA CONTAGOCCE",
+        "produttore": "OMNIVISION ITALIA SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "051308017",
+        "nome": "DOLZAN",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL-PVC/PVDC",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051308029",
+        "nome": "DOLZAN",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-PVC/PVDC",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051308031",
+        "nome": "DOLZAN",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL-PVC/PVDC",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051393015",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051444014",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051495012",
+        "nome": "DOXORUBICINA LIPOSOMIALE PEGILATA DR. REDDY'S",
+        "descrizione": "2 MG/ML CONCENTRATO PER DISPERSIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Concentrato per dispersione per infusione"
+    },
+    {
+        "aic": "051495024",
+        "nome": "DOXORUBICINA LIPOSOMIALE PEGILATA DR. REDDY'S",
+        "descrizione": "2 MG/ML CONCENTRATO PER DISPERSIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Concentrato per dispersione per infusione"
+    },
+    {
+        "aic": "051495036",
+        "nome": "DOXORUBICINA LIPOSOMIALE PEGILATA DR. REDDY'S",
+        "descrizione": "2 MG/ML CONCENTRATO PER DISPERSIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 25 ML",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Concentrato per dispersione per infusione"
+    },
+    {
+        "aic": "051495048",
+        "nome": "DOXORUBICINA LIPOSOMIALE PEGILATA DR. REDDY'S",
+        "descrizione": "2 MG/ML CONCENTRATO PER DISPERSIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 25 ML",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Concentrato per dispersione per infusione"
+    },
+    {
+        "aic": "052703016",
+        "nome": "DORZOLAMIDE E TIMOLOLO DOC",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052703028",
+        "nome": "DORZOLAMIDE E TIMOLOLO DOC",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 2 FLACONI DA 5 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052703030",
+        "nome": "DORZOLAMIDE E TIMOLOLO DOC",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 5 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052703042",
+        "nome": "DORZOLAMIDE E TIMOLOLO DOC",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 10 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052703055",
+        "nome": "DORZOLAMIDE E TIMOLOLO DOC",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 2 FLACONI DA 10 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "052703067",
+        "nome": "DORZOLAMIDE E TIMOLOLO DOC",
+        "descrizione": "20 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI DA 10 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Collirio, soluzione"
+    }
+]

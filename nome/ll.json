@@ -1,0 +1,30 @@
+[
+    {
+        "aic": "039446012",
+        "nome": "LLOYDOL",
+        "descrizione": "1 % GEL- TUBO DA 50 G",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Gel"
+    },
+    {
+        "aic": "042744019",
+        "nome": "LLOYFLU",
+        "descrizione": "500 MG/12,2 MG POLVERE PER SOLUZIONE ORALE- 6 BUSTINE IN AL/CARTA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "042744021",
+        "nome": "LLOYFLU",
+        "descrizione": "500 MG/12,2 MG POLVERE PER SOLUZIONE ORALE- 10 BUSTINE IN AL/CARTA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "042744033",
+        "nome": "LLOYFLU",
+        "descrizione": "500 MG/12,2 MG POLVERE PER SOLUZIONE ORALE- 20 BUSTINE IN AL/CARTA",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per soluzione orale"
+    }
+]
