@@ -1,0 +1,122 @@
+[
+    {
+        "aic": "009115027",
+        "nome": "FITOSTIMOLINE",
+        "descrizione": "15% CREMA- TUBO DA 32 G",
+        "produttore": "FARMACEUTICI DAMOR S.P.A."
+    },
+    {
+        "aic": "009115039",
+        "nome": "FITOSTIMOLINE",
+        "descrizione": "15% GARZE IMPREGNATE-  10 GARZE",
+        "produttore": "FARMACEUTICI DAMOR S.P.A."
+    },
+    {
+        "aic": "009115041",
+        "nome": "FITOSTIMOLINE",
+        "descrizione": "600 MG OVULI- 6 OVULI",
+        "produttore": "FARMACEUTICI DAMOR S.P.A."
+    },
+    {
+        "aic": "009115066",
+        "nome": "FITOSTIMOLINE",
+        "descrizione": "4 % SOLUZIONE VAGINALE- 5 FLACONI DA 140 ML",
+        "produttore": "FARMACEUTICI DAMOR S.P.A."
+    },
+    {
+        "aic": "009115078",
+        "nome": "FITOSTIMOLINE",
+        "descrizione": "20% CREMA VAGINALE-TUBO DA 60 G",
+        "produttore": "FARMACEUTICI DAMOR S.P.A."
+    },
+    {
+        "aic": "009132010",
+        "nome": "NORMOGIN",
+        "descrizione": "40 MG COMPRESSE VAGINALI- 6 COMPRESSE VAGINALI",
+        "produttore": "LABORATORI BALDACCI S.P.A."
+    },
+    {
+        "aic": "009209038",
+        "nome": "POTASSION",
+        "descrizione": "GRANULATO EFFERVESCENTE-  40 BUSTINE",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "009209040",
+        "nome": "POTASSION",
+        "descrizione": "GRANULATO EFFERVESCENTE- 30 BUSTINE MONODOSE IN CARTA/AL/PE",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "009209053",
+        "nome": "POTASSION",
+        "descrizione": "GRANULATO EFFERVESCENTE- 20 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "009262015",
+        "nome": "ALAXA",
+        "descrizione": "5 MG COMPRESSE GASTRORESISTENTI- 20 COMPRESSE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "009277017",
+        "nome": "DIAMOX",
+        "descrizione": "250 MG COMPRESSE- 12 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "009286016",
+        "nome": "MESTINON",
+        "descrizione": "60 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "009286042",
+        "nome": "MESTINON",
+        "descrizione": "180 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "009324029",
+        "nome": "NOVESINA",
+        "descrizione": "0,4% COLLIRIO SOLUZIONE - 30 CONTENITORI MONODOSE DA 0.6 ML",
+        "produttore": "LABORATOIRES THEA"
+    },
+    {
+        "aic": "009340011",
+        "nome": "MYSOLINE",
+        "descrizione": "30 COMPRESSE 250 MG",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "009559067",
+        "nome": "PANTETINA",
+        "descrizione": "300 MG CAPSULE MOLLI- 30 CAPSULE",
+        "produttore": "PHARMAFAR S.R.L."
+    },
+    {
+        "aic": "009956018",
+        "nome": "HEPARIN COLLIRIO",
+        "descrizione": "500.000 UI/100 ML COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "FARMIGEA S.P.A."
+    },
+    {
+        "aic": "009956020",
+        "nome": "HEPARIN COLLIRIO",
+        "descrizione": "500.000 UI/100 ML COLLIRIO, SOLUZIONE - 10 CONTENITORI MONODOSE DA 0.5 ML",
+        "produttore": "FARMIGEA S.P.A."
+    },
+    {
+        "aic": "009964038",
+        "nome": "COLCHICINA LIRCA",
+        "descrizione": "1 MG COMPRESSE- 60 COMPRESSE",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "009964040",
+        "nome": "COLCHICINA LIRCA",
+        "descrizione": "0,5 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ACARPIA FARMACEUTICI S.R.L."
+    }
+]

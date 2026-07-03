@@ -1,0 +1,4100 @@
+[
+    {
+        "aic": "023714013",
+        "nome": "AGIOLAX",
+        "descrizione": "<granulato>, 1 contenitore in carta/Al da 250 g con cucchiaio dosatore",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "023714025",
+        "nome": "AGIOLAX",
+        "descrizione": "<granulato>, 1 contenitore in carta/Al da 100 g con cucchiaio dosatore",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "023714037",
+        "nome": "AGIOLAX",
+        "descrizione": "<granulato>, 1 contenitore in carta/Al da 400 g con cucchiaio dosatore",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "023714049",
+        "nome": "AGIOLAX",
+        "descrizione": "<granulato  in  bustina>,  6  bustine  in carta/Al/PE da 5 g",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "034357018",
+        "nome": "AGGRASTAT",
+        "descrizione": "250 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 50 ML",
+        "produttore": "ADVANZ PHARMA LIMITED"
+    },
+    {
+        "aic": "040132019",
+        "nome": "AGILEV",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "040132021",
+        "nome": "AGILEV",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "042907016",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 20 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907028",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907030",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907042",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 3 X 10 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907055",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 60 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907067",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 90 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907079",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 9 X 10 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907081",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 100 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907093",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 120 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907105",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 20 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907117",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 28 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907129",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 30 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907131",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 90 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907143",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 98 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907156",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 100 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "042907168",
+        "nome": "AGEMO",
+        "descrizione": "1000 MG CAPSULE MOLLI - 280 (10X28) CAPSULE IN CONTENITORE HDPE CONFEZIONE OSPEDALIERA",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "043118013",
+        "nome": "AGLAE",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- (21 + 7) COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "043118025",
+        "nome": "AGLAE",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- (63 + 21) COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "043118037",
+        "nome": "AGLAE",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- (126 + 42) COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "043118049",
+        "nome": "AGLAE",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 13X(21+7) COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "044601019",
+        "nome": "AGIVERT",
+        "descrizione": "20 MG/40 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL/PVDC",
+        "produttore": "FARMA GROUP S.R.L."
+    },
+    {
+        "aic": "044601021",
+        "nome": "AGIVERT",
+        "descrizione": "20 MG/40 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL/PVDC",
+        "produttore": "FARMA GROUP S.R.L."
+    },
+    {
+        "aic": "046019016",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019028",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019030",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019042",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019055",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019067",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019079",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019081",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019093",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019105",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019117",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019129",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019131",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019143",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019156",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019168",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019170",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019182",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019194",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019206",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019218",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019220",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019232",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019244",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019257",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019269",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019271",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019283",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019295",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019307",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019319",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019321",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019333",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019345",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019358",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019360",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019372",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019384",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019396",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019408",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019410",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019422",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019434",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019446",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019459",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019461",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019473",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019485",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019497",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019509",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019511",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019523",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019535",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019547",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019550",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019562",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019574",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019586",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019598",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019600",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019612",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019624",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019636",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019648",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019651",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019663",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019675",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019687",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019699",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019701",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019713",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019725",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019737",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019749",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019752",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019764",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019776",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019788",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019790",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019802",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019814",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019826",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019838",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019840",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019853",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019865",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019877",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019889",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019891",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019903",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019915",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019927",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019939",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019941",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019954",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019966",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019978",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019980",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046019992",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046024016",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046024028",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046024030",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046024042",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046024055",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046024067",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046642017",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642029",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642031",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642043",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642056",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642068",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642070",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642082",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642094",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642106",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642118",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642120",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642132",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642144",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642157",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642169",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642171",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642183",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642195",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642207",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642219",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642221",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642233",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642245",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642258",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642260",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642272",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642284",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642296",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642308",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642310",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642322",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642334",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642346",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642359",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642361",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642373",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642385",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642397",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642409",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642411",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642423",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642435",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642447",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642450",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642462",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642474",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642486",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642498",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642500",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642512",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642524",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642536",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642548",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642551",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642563",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642575",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046642587",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046943015",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943027",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943039",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943041",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943054",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943066",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943078",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943080",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943092",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943104",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943116",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943128",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943130",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943142",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943155",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943167",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943179",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943181",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943193",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943205",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943217",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943229",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943231",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943243",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943256",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943268",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943270",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943282",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943294",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943306",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943318",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943320",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943332",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943344",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943357",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943369",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943371",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943383",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943395",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943407",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943419",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943421",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943433",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943445",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943458",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943460",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943472",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943484",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943496",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943508",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943510",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943522",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943534",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943546",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943559",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943561",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046943573",
+        "nome": "AGNUS CASTUS",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048383018",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383020",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383032",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383044",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383057",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383069",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383071",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383083",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383095",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383107",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383119",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383121",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383133",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383145",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383158",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383160",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383172",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383184",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383196",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383208",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383210",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383222",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383234",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383246",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383259",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383261",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383273",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383285",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383297",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383309",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383311",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383323",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383335",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383347",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383350",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383362",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383374",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383386",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383398",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383400",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383412",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383424",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383436",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383448",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383451",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383463",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383475",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383487",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383499",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383501",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383513",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383525",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383537",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383549",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383552",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383564",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383576",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383588",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383590",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383602",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383614",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383626",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383638",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383640",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383653",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383665",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383677",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383689",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383691",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383703",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383715",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383727",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383739",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383741",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383754",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383766",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383778",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383780",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383792",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383804",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383816",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383828",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383830",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383842",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383855",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383867",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383879",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383881",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383893",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383905",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383917",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383929",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383931",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383943",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383956",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383968",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383970",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383982",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048383994",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048384010",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048384022",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048384034",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048384046",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048384059",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048384061",
+        "nome": "AGRAPHIS NUTANS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049128010",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128022",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128034",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128046",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128059",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128061",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128073",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128085",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128097",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128109",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128111",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128123",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128135",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128147",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128150",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128162",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128174",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128186",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128198",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "35 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128200",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128212",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128224",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128236",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128248",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128251",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "75K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128263",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128275",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128287",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128299",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128301",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128313",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128325",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128337",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128349",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128352",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128364",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128376",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128388",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "60 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128390",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "100 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128402",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128414",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "300 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128426",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "400 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128438",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "500 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128440",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128453",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128465",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128477",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128489",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128491",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128503",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128515",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128527",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CCCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128539",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CDMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128541",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "DMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128554",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "1 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128566",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "2 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128578",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "3 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128580",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128592",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128604",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128616",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128628",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "8 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128630",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128642",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "10 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128655",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "11 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128667",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128679",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "13 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128681",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "14 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128693",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128705",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "16 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128717",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "17 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128729",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "18 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128731",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "19 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128743",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "20 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128756",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "21 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128768",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "22 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128770",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "23 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128782",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "24 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128794",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "25 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128806",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "26 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128818",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "27 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128820",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "28 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128832",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "29 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128844",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128857",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "45 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128869",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "60 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128871",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "90 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128883",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "120 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128895",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128907",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128919",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128921",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128933",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128945",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128958",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128960",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128972",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128984",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "60 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049128996",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "100 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129012",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129024",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129036",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129048",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129051",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129063",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129075",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129087",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129099",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129101",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129113",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129125",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129137",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129149",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129152",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129164",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129176",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129188",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129190",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129202",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129214",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129226",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CCCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129238",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "CDMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129240",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "DMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129253",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129265",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129277",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129289",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129291",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129303",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129315",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129327",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129339",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129341",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129354",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129366",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129378",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "13 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129380",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "14 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129392",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129404",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "16 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129416",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "17 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129428",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129430",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "19 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129442",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "20 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129455",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "21 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129467",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "22 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129479",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "23 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129481",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "24 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129493",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "25 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129505",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "26 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129517",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "27 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129529",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "28 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129531",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "29 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129543",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129556",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129568",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129570",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "90 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129582",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "120 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129594",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129606",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129618",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129620",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129632",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129644",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129657",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129669",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129671",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129683",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129695",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129707",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129719",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129721",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129733",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129745",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129758",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129760",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129772",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129784",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129796",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129808",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129810",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129822",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6K, 2 CAPSULE 12K, 2 CAPSULE 30K, 22 CAPSULE 35K, 1 CAPSULA 200K, 1 CAPSULA MK - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129834",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6 LM, 1 CAPSULA 18 LM, 1 CAPSULA 30 LM, 26 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129846",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 1 LM, 9 CAPSULE 2 LM, 9 CAPSULE 3 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129859",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 4 LM, 9 CAPSULE 5 LM, 9 CAPSULE 6 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049129861",
+        "nome": "AGNUS CASTUS DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 7 LM, 9 CAPSULE 8 LM, 9 CAPSULE 9 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049401019",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401021",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401033",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401045",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401058",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401060",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401072",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401084",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401096",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401108",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401110",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401122",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401134",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401146",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401159",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401161",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401173",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401185",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401197",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401209",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401211",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401223",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401235",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401247",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401250",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401262",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401274",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401286",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401298",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401300",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401312",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401324",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401336",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401348",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401351",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401363",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401375",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401387",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401399",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401401",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401413",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401425",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401437",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401449",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401452",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401464",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401476",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401488",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401490",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401502",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401514",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401526",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401538",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401540",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401553",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401565",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401577",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401589",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401591",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401603",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401615",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401627",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401639",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401641",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401654",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401666",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401678",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401680",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401692",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401704",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401716",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401728",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401730",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401742",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401755",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401767",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401779",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401781",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401793",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401805",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401817",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401829",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401831",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401843",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401856",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401868",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401870",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401882",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401894",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401906",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401918",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401920",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401932",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401944",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401957",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049401969",
+        "nome": "AGARICUS MUSCARIUS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049563012",
+        "nome": "AGNUCASTON",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BIONORICA SE"
+    },
+    {
+        "aic": "049563024",
+        "nome": "AGNUCASTON",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BIONORICA SE"
+    },
+    {
+        "aic": "049563036",
+        "nome": "AGNUCASTON",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BIONORICA SE"
+    },
+    {
+        "aic": "049742012",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742024",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742036",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742048",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742051",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742063",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742075",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 50 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742087",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742099",
+        "nome": "AGOVADIN",
+        "descrizione": "2,5 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742101",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742113",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742125",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742137",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742149",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742152",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742164",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742176",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742188",
+        "nome": "AGOVADIN",
+        "descrizione": "5 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742190",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742202",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742214",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742226",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742238",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742240",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742253",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742265",
+        "nome": "AGOVADIN",
+        "descrizione": "10 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742277",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 7 COMPRESSE IN BLITER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742289",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 28 COMPRESSE IN BLITER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742291",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 30 COMPRESSE IN BLITER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742303",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 50 COMPRESSE IN BLITER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742315",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 56 COMPRESSE IN BLITER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742327",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 98 COMPRESSE IN BLITER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742339",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742341",
+        "nome": "AGOVADIN",
+        "descrizione": "20 mg COMPRESSE- 250 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742354",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 7 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742366",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742378",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742380",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742392",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 56 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742404",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 98 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742416",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "049742428",
+        "nome": "AGOVADIN",
+        "descrizione": "30 mg COMPRESSE- 250 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "G.L. PHARMA GMBH"
+    },
+    {
+        "aic": "050998018",
+        "nome": "AGAMREE",
+        "descrizione": "40 mg/mL - Sospensione orale - Uso orale - Flacone (vetro) 100 mL - 1 flacone + 1 adattatore per flacone + 2 siringhe per somministrazione orale",
+        "produttore": "SANTHERA PHARMACEUTICALS (DEUTSCHLAND) GMBH"
+    },
+    {
+        "aic": "051246015",
+        "nome": "AGILUS",
+        "descrizione": "120 mg - Polvere per soluzione iniettabile - Uso endovenoso - flaconcino (vetro) - 6 flaconcini",
+        "produttore": "NORGINE BV"
+    },
+    {
+        "aic": "051246027",
+        "nome": "AGILUS",
+        "descrizione": "120 mg - Polvere per soluzione iniettabile - Uso endovenoso - flaconcino (vetro) - 10 flaconcini",
+        "produttore": "NORGINE BV"
+    }
+]

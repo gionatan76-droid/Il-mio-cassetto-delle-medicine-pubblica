@@ -1,0 +1,68 @@
+[
+    {
+        "aic": "011431018",
+        "nome": "OROBICIN",
+        "descrizione": "2500 UI + 25 MG COMPRESSE- 16 COMPRESSE",
+        "produttore": "PHARMADAY PHARMACEUTICAL S.R.L. UNIPERSONALE"
+    },
+    {
+        "aic": "011578010",
+        "nome": "FOLEPAR B12",
+        "descrizione": "SCIROPPO- 10 FLACONCINI 12 G",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "011680067",
+        "nome": "ARICODILTOSSE",
+        "descrizione": "15 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DI VETRO DA 25 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "011782012",
+        "nome": "SINTROM",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE QUADRISECABILI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "011782024",
+        "nome": "SINTROM",
+        "descrizione": "1 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "011782036",
+        "nome": "SINTROM",
+        "descrizione": "1 MG COMPRESSE - 100 COMPRESSE",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "011825015",
+        "nome": "SORBICLIS",
+        "descrizione": "ADULTI 36,00 G + 0,24 G SOLUZIONE RETTALE- 1 FLACONE IN PE DA 120 ML CON CANNULA",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "011825027",
+        "nome": "SORBICLIS",
+        "descrizione": "BAMBINI 12,00 G + 0,0096 G SOLUZIONE RETTALE- 1 FLACONE IN PE DA 120 ML CON CANNULA",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "011825039",
+        "nome": "SORBICLIS",
+        "descrizione": "ADULTI 36,00 G + 0,24 G SOLUZIONE RETTALE- 20 FLACONI IN PE DA 120 ML CON CANNULA",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "011967015",
+        "nome": "CITRATO ESPRESSO GABBIANI",
+        "descrizione": "8,155 G/100 G + 0,7 G/100 G POLVERE PER SOLUZIONE ORALE GUSTO LIMONE-1 FLACONE DA 43 G",
+        "produttore": "MONTEFARMACO OTC S.P.A."
+    },
+    {
+        "aic": "011967041",
+        "nome": "CITRATO ESPRESSO GABBIANI",
+        "descrizione": "8,155 G/100 G +0,7 G/100 G POLVERE PER SOLUZIONE ORALE GUSTO ARANCIO- 1 FLACONE DA 43 G",
+        "produttore": "MONTEFARMACO OTC S.P.A."
+    }
+]

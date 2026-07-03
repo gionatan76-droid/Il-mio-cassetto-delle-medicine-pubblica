@@ -1,0 +1,2882 @@
+[
+    {
+        "aic": "023576010",
+        "nome": "CUROXIM",
+        "descrizione": "250 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE? 1 FLACONCINO POLVERE 250 MG + 1 FIALA SOLVENTE 1 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "023576022",
+        "nome": "CUROXIM",
+        "descrizione": "CUROXIM ?500 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE? 1 FLACONCINO POLVERE 500 MG + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "023576034",
+        "nome": "CUROXIM",
+        "descrizione": "CUROXIM ?750 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE? 1 FLACONCINO POLVERE 750 MG + 1 FIALA SOLVENTE 3 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "023576046",
+        "nome": "CUROXIM",
+        "descrizione": "1 G POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE? 1 FLACONCINO POLVERE 1 G + 1 FIALA SOLVENTE 4 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "023576059",
+        "nome": "CUROXIM",
+        "descrizione": "CUROXIM ?1 G POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE? 1 FLACONCINO POLVERE 1 G + 1 FIALA SOLVENTE 10 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "023576061",
+        "nome": "CUROXIM",
+        "descrizione": "CUROXIM ?2 G POLVERE PER SOLUZIONE PER INFUSIONE? 1 FLACONCINO POLVERE 2 G",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "028221012",
+        "nome": "CUROSURF",
+        "descrizione": "80 MG/ML SOSPENSIONE PER INSTILLAZIONE ENDOTRACHEOBRONCHIALE- 2 FLACONCINI 1,5 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "028221024",
+        "nome": "CUROSURF",
+        "descrizione": "80 MG/ML SOSPENSIONE PER INSTILLAZIONE ENDOTRACHEOBRONCHIALE- 1 FLACONCINO 3  ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "028221036",
+        "nome": "CUROSURF",
+        "descrizione": "80 MG/ML SOSPENSIONE PER INSTILLAZIONE ENDOTRACHEOBRONCHIALE- 1 FLACONCINO  1,5 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032004020",
+        "nome": "CUSIMOLOL",
+        "descrizione": "5MG/ML COLLIRIO, SOLUZIONE- FLACONE DA 5 ML",
+        "produttore": "IMMEDICA PHARMA AB"
+    },
+    {
+        "aic": "036512010",
+        "nome": "CURCIX",
+        "descrizione": "6,25 MG COMPRESSE- 28 COMPRESSE DIVISIBILI",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036512022",
+        "nome": "CURCIX",
+        "descrizione": "25 MG COMPRESSE- 30 COMPRESSE DIVISIBILI",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "037151014",
+        "nome": "CUBICIN",
+        "descrizione": "350 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE INTRAVENOSA 10 ML (50 MG/ML) 1 FIALA",
+        "produttore": "MERCK SHARP & DOHME B.V."
+    },
+    {
+        "aic": "037151026",
+        "nome": "CUBICIN",
+        "descrizione": "500 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE USO INTRAVENOSO 10 ML 50 MG/ML 1 FIALA",
+        "produttore": "MERCK SHARP & DOHME B.V."
+    },
+    {
+        "aic": "037687011",
+        "nome": "CUSPIS",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "037687023",
+        "nome": "CUSPIS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "037687035",
+        "nome": "CUSPIS",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM - 12 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044244010",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 1 FLACONCINO IN VETRO DA 5 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244022",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244034",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244046",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 1 FLACONCINO IN VETRO DA 40 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244059",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 1 FLACONCINO IN VETRO DA 50 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244061",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 10 FLACONCINI IN VETRO DA 5 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244073",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 20 FLACONCINI IN VETRO DA 5 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244085",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 10 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244097",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 30 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244109",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244111",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 30 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244123",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 5 FLACONCINI IN VETRO DA 40 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244135",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 20 FLACONCINI IN VETRO DA 40 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244147",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 20 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244150",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 20 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044244162",
+        "nome": "CUVITRU",
+        "descrizione": "200 MG/ML SOLUZIONE PER INIEZIONE SOTTOCUTANEA- 10 FLACONCINI IN VETRO DA 40 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045679014",
+        "nome": "CUPRIOR",
+        "descrizione": "150 MG - COMPRESSA - USO ORALE - BLISTER (OPA/ALLU/PVC/ALLU) - 72 COMPRESSE",
+        "produttore": "ORPHALAN"
+    },
+    {
+        "aic": "045679026",
+        "nome": "CUPRIOR",
+        "descrizione": "150 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/ALLU/PVC/ALLU) - 96 COMPRESSE RIVESTITE CON FILM",
+        "produttore": "ORPHALAN"
+    },
+    {
+        "aic": "045811015",
+        "nome": "CURASYN 111",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045813019",
+        "nome": "CURASYN 54",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045892015",
+        "nome": "CURASYN 32",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045901016",
+        "nome": "CURASYN 12",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045996016",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 6 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996028",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 10 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996030",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 12 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996042",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996055",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 24 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996067",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 48 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996079",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 6 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996081",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996093",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 12 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996105",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996117",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 24 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996129",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 48 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996131",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 20 FLACONCINI IN VETRO DA 6 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996143",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 20 FLACONCINI IN VETRO DA 10 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996156",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 20 FLACONCINI IN VETRO DA 12 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996168",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 20 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996170",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 20 FLACONCINI IN VETRO DA 24 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "045996182",
+        "nome": "CUTAQUIG",
+        "descrizione": "165 MG/ML SOLUZIONE INIETTABILE- 20 FLACONCINI IN VETRO DA 48 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A."
+    },
+    {
+        "aic": "046143018",
+        "nome": "CURASYN 43",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046146015",
+        "nome": "CURASYN 28",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046147017",
+        "nome": "CURASYN 22",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046148019",
+        "nome": "CURASYN 55",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046156016",
+        "nome": "CURASYN 4",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046170015",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 1 FLACONE IN VETRO DA 500 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170027",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 1 FLACONE IN VETRO DA 1000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170039",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 10 FLACONI IN VETRO DA 500 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170041",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 6 FLACONI IN VETRO DA 1000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170054",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 1 SACCA IN PE/PP DA 1000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170066",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 1 SACCA IN PE/PP DA 2000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170078",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 1 SACCA IN PE/PP DA 5000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170080",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 6 SACCHE IN PE/PP DA 1000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170092",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 4 SACCHE IN PE/PP DA 2000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046170104",
+        "nome": "CUSTODIOL",
+        "descrizione": "SOLUZIONE PER CARDIOPLEGIA/SOLUZIONE PER CONSERVAZIONE DI ORGANI- 2 SACCHE IN PE/PP DA 5000 ML",
+        "produttore": "DR. FRANZ KOHLER CHEMIE GMBH"
+    },
+    {
+        "aic": "046199016",
+        "nome": "CURASYN 128",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046207015",
+        "nome": "CURASYN 14",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046208017",
+        "nome": "CURASYN 27",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046333011",
+        "nome": "CURASYN 41",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046353013",
+        "nome": "CURASYN 31",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046354015",
+        "nome": "CURASYN 100",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046356010",
+        "nome": "CURASYN 37",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046357012",
+        "nome": "CURASYN 7",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046358014",
+        "nome": "CURASYN 51",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046360018",
+        "nome": "CURASYN 13",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046361010",
+        "nome": "CURASYN 123",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373015",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373027",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373039",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373041",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373054",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373066",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373078",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373080",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373092",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373104",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373116",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373128",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373130",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373142",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373155",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373167",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373179",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373181",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373193",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373205",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373217",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373229",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373231",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373243",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373256",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373268",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373270",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373282",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373294",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373306",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373318",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373320",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373332",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373344",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373357",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373369",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373371",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373383",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373395",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373407",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373419",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373421",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373433",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373445",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373458",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373460",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373472",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373484",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373496",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373508",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373510",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373522",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373534",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373546",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373559",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373561",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373573",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373585",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373597",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373609",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373611",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373623",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373635",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373647",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373650",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373662",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373674",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373686",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373698",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373700",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373712",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373724",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373736",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373748",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373751",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373763",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373775",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373787",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373799",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373801",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373813",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373825",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373837",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373849",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373852",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373864",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373876",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373888",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373890",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373902",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373914",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373926",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373938",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373940",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373953",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373965",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373977",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373989",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046373991",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046374017",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046374029",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046374031",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046374043",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046374056",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046374068",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046447013",
+        "nome": "CURASYN 21",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046448015",
+        "nome": "CURASYN 74",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046450019",
+        "nome": "CURASYN 35",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "047159013",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159025",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159037",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159049",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159052",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159064",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159076",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159088",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159090",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159102",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159114",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159126",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159138",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159140",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159153",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159165",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159177",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159189",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159191",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159203",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159215",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159227",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159239",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159241",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159254",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159266",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159278",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159280",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159292",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159304",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159316",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159328",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159330",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159342",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159355",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159367",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159379",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159381",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159405",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159417",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159429",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159431",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159443",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159456",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159468",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159470",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159482",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159494",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159506",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159518",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159520",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159532",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159544",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159557",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159569",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047159571",
+        "nome": "CUPRUM METALLICUM",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047772013",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772025",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772037",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772049",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772052",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772064",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772076",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772088",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772090",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772102",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772114",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772126",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772138",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772140",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772153",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772165",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772177",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772189",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772191",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772203",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772215",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772227",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772239",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772241",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772254",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772266",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772278",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772280",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772292",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772304",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772316",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772328",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772330",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772342",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772355",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772367",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772379",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772381",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772393",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772405",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772417",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772429",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772431",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772443",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772456",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772468",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772470",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047772482",
+        "nome": "CUPRUM ACETICUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048072019",
+        "nome": "CURASYN 63",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048073011",
+        "nome": "CURASYN 2",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048105011",
+        "nome": "CUFENCE",
+        "descrizione": "200 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (VETRO) - 100 CAPSULE",
+        "produttore": "UNIVAR SOLUTION BV"
+    },
+    {
+        "aic": "048105023",
+        "nome": "CUFENCE",
+        "descrizione": "100 mg - Capsula rigida - Uso orale - Flacone (HDPE) - 200 capsule",
+        "produttore": "UNIVAR SOLUTION BV"
+    },
+    {
+        "aic": "048191011",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191023",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191035",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191047",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191050",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191062",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191074",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191086",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191098",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191100",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191112",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191124",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191136",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191148",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191151",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191163",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191175",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191187",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191199",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191201",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191213",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191225",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191237",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191249",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191252",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191264",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191276",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191288",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191290",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191302",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191314",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191326",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191338",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191340",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191353",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191365",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191377",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191389",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191391",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191403",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191415",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191427",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191439",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191441",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191454",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191466",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191478",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191480",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191492",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191504",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048191516",
+        "nome": "CUPRUM SULFURICUM DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283016",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283028",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283030",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283042",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283055",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283067",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283079",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283081",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283093",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283105",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283117",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283129",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283131",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283143",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283156",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283168",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283170",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283182",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283194",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283206",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283218",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283220",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283232",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283244",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283257",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283269",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283271",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283283",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283295",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283307",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283319",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283321",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283333",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283345",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283358",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283360",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048283372",
+        "nome": "CUPRUM ARSENICOSUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048321018",
+        "nome": "CURASYN 29",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048322010",
+        "nome": "CURASYN 45",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048323012",
+        "nome": "CUPRUMPLUS (SYNERGIPLUS N.507)",
+        "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048354017",
+        "nome": "CURASYN 19",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "048560015",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560027",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560039",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560041",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560054",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560066",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560078",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560080",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560092",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560104",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560116",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "500 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560128",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560130",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560142",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560155",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560167",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560179",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560181",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560193",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560205",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560217",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560229",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560231",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560243",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560256",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560268",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560270",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560282",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560294",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560306",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560318",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560320",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560332",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560344",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560357",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560369",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560371",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560383",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560395",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560407",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560419",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560421",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560433",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560445",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048560458",
+        "nome": "CUPRESSUS SEMPERVIRENS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071018",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071020",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071032",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071044",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071057",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071069",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071071",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071083",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071095",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071107",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071119",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071121",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071133",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071145",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071158",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071160",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071172",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071184",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071196",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071208",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071210",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071222",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071234",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071246",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071259",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071261",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071273",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071285",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071297",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071309",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071311",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071323",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071335",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071347",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071350",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071362",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071374",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071386",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049071398",
+        "nome": "CURCUMA LONGA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049449010",
+        "nome": "CURASYN 47",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "049450012",
+        "nome": "CURASYN 121",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "050508011",
+        "nome": "CURAPLEX 33",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "050522010",
+        "nome": "CURAPLEX 122",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "050586015",
+        "nome": "CURAPLEX 50",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 30 CAPSULE DA 500 MG IN BLISTER AL/PVC",
+        "produttore": "HERING S.R.L"
+    }
+]

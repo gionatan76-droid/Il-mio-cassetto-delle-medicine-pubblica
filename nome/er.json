@@ -1,0 +1,848 @@
+[
+    {
+        "aic": "026283061",
+        "nome": "ERDOTIN",
+        "descrizione": "300 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026283073",
+        "nome": "ERDOTIN",
+        "descrizione": "225 MG GRANULATO PER SOSPENSIONE ORALE- 20 BUSTINE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026283111",
+        "nome": "ERDOTIN",
+        "descrizione": "300 MG COMPRESSE DISPERSIBILI- 20 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "029171016",
+        "nome": "ERITROMICINA IDI",
+        "descrizione": "3% GEL- TUBO 30 G",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "029171042",
+        "nome": "ERITROMICINA IDI",
+        "descrizione": "3 % SOLUZIONE CUTANEA - FLACONE DA 40 ML",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "029171055",
+        "nome": "ERITROMICINA IDI",
+        "descrizione": "3 % CREMA - TUBO DA 30 G",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "031421011",
+        "nome": "ERITROMICINA LATTOBIONATO FISIOPHARMA",
+        "descrizione": "500 MG/10 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE DA 10 ML",
+        "produttore": "FISIOPHARMA S.R.L."
+    },
+    {
+        "aic": "031421023",
+        "nome": "ERITROMICINA LATTOBIONATO FISIOPHARMA",
+        "descrizione": "1 G/20 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE DA 20 ML",
+        "produttore": "FISIOPHARMA S.R.L."
+    },
+    {
+        "aic": "035364013",
+        "nome": "ERREFLOG",
+        "descrizione": "1 mg/ml Collutorio- - flacone 200 ml",
+        "produttore": "ERREKAPPA EUROTERAPICI S.P.A."
+    },
+    {
+        "aic": "035364025",
+        "nome": "ERREFLOG",
+        "descrizione": "?30 mg/g Gel- - tubo 50 g",
+        "produttore": "ERREKAPPA EUROTERAPICI S.P.A."
+    },
+    {
+        "aic": "035364037",
+        "nome": "ERREFLOG",
+        "descrizione": "30 mg/g Schiuma Cutanea- - contenitore sottopressione 50 g",
+        "produttore": "ERREKAPPA EUROTERAPICI S.P.A."
+    },
+    {
+        "aic": "035801036",
+        "nome": "ERAXITRON",
+        "descrizione": "1 G/3,5ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE  PER USO INTRAMUSCOLARE- 1 FLACONE + 1 FIALA SOLVENTE 3,5 ML",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "036584011",
+        "nome": "ERBITUX",
+        "descrizione": "1 FLACONCINO DI SOLUZIONE PER INFUSIONE DA 50 ML",
+        "produttore": "MERCK EUROPE B.V."
+    },
+    {
+        "aic": "036584023",
+        "nome": "ERBITUX",
+        "descrizione": "5 MG/ML SOLUZIONE PER INFUSIONE - USO ENDOVENOSO- FLACONCINO(VETRO) 10 ML-  1 FLACONCINO",
+        "produttore": "MERCK EUROPE B.V."
+    },
+    {
+        "aic": "036584035",
+        "nome": "ERBITUX",
+        "descrizione": "5 MG/ML SOLUZIONE PER INFUSIONE - USO ENDOVENOSO- FLACONCINO(VETRO) 20 ML-  1 FLACONCINO",
+        "produttore": "MERCK EUROPE B.V."
+    },
+    {
+        "aic": "036584047",
+        "nome": "ERBITUX",
+        "descrizione": "5 MG/ML SOLUZIONE PER INFUSIONE - USO ENDOVENOSO- FLACONCINO (VETRO) 50 ML- 1 FLACONCINO",
+        "produttore": "MERCK EUROPE B.V."
+    },
+    {
+        "aic": "036584050",
+        "nome": "ERBITUX",
+        "descrizione": "5 MG/ML SOLUZIONE PER INFUSIONE - USO ENDOVENOSO- FLACONCINO (VETRO) 100 ML- 1 FLACONCINO",
+        "produttore": "MERCK EUROPE B.V."
+    },
+    {
+        "aic": "037264013",
+        "nome": "ERMES",
+        "descrizione": "15 MG CAPSULE RIGIDE - 14 CAPSULE",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "037264025",
+        "nome": "ERMES",
+        "descrizione": "30 MG CAPSULE RIGIDE - 14 CASPULE",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "037264037",
+        "nome": "ERMES",
+        "descrizione": "15 MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER AL/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "037264049",
+        "nome": "ERMES",
+        "descrizione": "30 MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER AL/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "039547017",
+        "nome": "ERISTROL",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "JUST PHARMA S.R.L."
+    },
+    {
+        "aic": "039873017",
+        "nome": "ERREMAN",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC-AL/PVDC",
+        "produttore": "PHARMACARE S.R.L."
+    },
+    {
+        "aic": "039873029",
+        "nome": "ERREMAN",
+        "descrizione": "20 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC-AL/PVDC",
+        "produttore": "PHARMACARE S.R.L."
+    },
+    {
+        "aic": "042881019",
+        "nome": "ERIVEDGE",
+        "descrizione": "150 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) CON CHIUSURA DI SICUREZZA - 1 FLACONE DA 28 CAPSULE",
+        "produttore": "ROCHE REGISTRATION GMBH"
+    },
+    {
+        "aic": "044995013",
+        "nome": "ERLOTINIB MYLAN",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-OPA/ALU/PVC",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "044995025",
+        "nome": "ERLOTINIB MYLAN",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL-OPA/ALU/PVC",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "044995037",
+        "nome": "ERLOTINIB MYLAN",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-OPA/ALU/PVC",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "044995049",
+        "nome": "ERLOTINIB MYLAN",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL-OPA/ALU/PVC",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "045004013",
+        "nome": "ERTAPENEM AUROBINDO",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "045004025",
+        "nome": "ERTAPENEM AUROBINDO",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "045004037",
+        "nome": "ERTAPENEM AUROBINDO",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "045389018",
+        "nome": "ERTAPENEM HIKMA",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A."
+    },
+    {
+        "aic": "045389020",
+        "nome": "ERTAPENEM HIKMA",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A."
+    },
+    {
+        "aic": "045451010",
+        "nome": "ERELZI",
+        "descrizione": "25 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,5 ML (50 MG/ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451022",
+        "nome": "ERELZI",
+        "descrizione": "25 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,5 ML (50 MG/ML) - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451034",
+        "nome": "ERELZI",
+        "descrizione": "25 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,5 ML (50 MG/ML) - 4 SIRINGHE PRERIEMPITE",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451046",
+        "nome": "ERELZI",
+        "descrizione": "25 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,5 ML (50 MG/ML) - 12 (3 X 4) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451059",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451061",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451073",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 4 SIRINGHE PRERIEMPITE",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451085",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 12 (3 X 4) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451097",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451109",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 2 PENNE PRERIEMPITE",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451111",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 4 PENNE PRERIEMPITE",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451123",
+        "nome": "ERELZI",
+        "descrizione": "50 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 1,0 ML (50 MG/ML) - 12 (3 X 4) PENNE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451135",
+        "nome": "ERELZI",
+        "descrizione": "25 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,5 ML (50 MG/ML) - 8 (2X4) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045451147",
+        "nome": "ERELZI",
+        "descrizione": "25 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 0,5 ML (50 MG/ML) - 24 (6X4) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "045838012",
+        "nome": "ERLOTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM-30 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "045838024",
+        "nome": "ERLOTINIB SANDOZ",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "047525011",
+        "nome": "ERLEADA",
+        "descrizione": "60 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 112 COMPRESSE",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047525023",
+        "nome": "ERLEADA",
+        "descrizione": "60 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 120 COMPRESSE",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047525035",
+        "nome": "ERLEADA",
+        "descrizione": "60 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 120 COMPRESSE",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047525047",
+        "nome": "ERLEADA",
+        "descrizione": "240 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alu) - 28 compresse",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047525050",
+        "nome": "ERLEADA",
+        "descrizione": "240 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alu) - 30 compresse",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047525062",
+        "nome": "ERLEADA",
+        "descrizione": "240 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 30 compresse",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047525074",
+        "nome": "ERLEADA",
+        "descrizione": "240 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alu) - 84 compresse",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "047666019",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666021",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666033",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666045",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666058",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666060",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666072",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666084",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666096",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666108",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666110",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666122",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666134",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666146",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666159",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666161",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666173",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666185",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666197",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666209",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666211",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666223",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666235",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666247",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666250",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666262",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666274",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666286",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666298",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666300",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666312",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666324",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666336",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666348",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666351",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666363",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666375",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666387",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666399",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666401",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666413",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666425",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666437",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666449",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666452",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047666464",
+        "nome": "ERIGERON CANADENSIS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047827011",
+        "nome": "ERTAPENEM ACS DOBFAR",
+        "descrizione": "1G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI VETRO DA 20 ML",
+        "produttore": "ACS DOBFAR S.P.A."
+    },
+    {
+        "aic": "047827023",
+        "nome": "ERTAPENEM ACS DOBFAR",
+        "descrizione": "1G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI DI VETRO DA 20 ML",
+        "produttore": "ACS DOBFAR S.P.A."
+    },
+    {
+        "aic": "048126015",
+        "nome": "ERLOTINIB TILLOMED",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TILLOMED ITALIA SRL"
+    },
+    {
+        "aic": "048126027",
+        "nome": "ERLOTINIB TILLOMED",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TILLOMED ITALIA SRL"
+    },
+    {
+        "aic": "048126039",
+        "nome": "ERLOTINIB TILLOMED",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TILLOMED ITALIA SRL"
+    },
+    {
+        "aic": "048364018",
+        "nome": "ERVEBO",
+        "descrizione": "1 ML - SOLUZIONE INIETTABILE - USO INTRAMUSCOLARE - FLACONCINO (VETRO) 1 ML - 10 FLACONCINI",
+        "produttore": "MERCK SHARP & DOHME B.V."
+    },
+    {
+        "aic": "050216011",
+        "nome": "ERTAPENEM SUN",
+        "descrizione": "1 g - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 1 g - 1 flaconcino",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "050216023",
+        "nome": "ERTAPENEM SUN",
+        "descrizione": "1 g - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 1 g - 10 flaconcini",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "050248018",
+        "nome": "ERIBULINA ADVANZ PHARMA",
+        "descrizione": "0,44 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 2 ML",
+        "produttore": "ADVANZ PHARMA LIMITED"
+    },
+    {
+        "aic": "050365016",
+        "nome": "ERTAPENEM STERISCIENCE",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "STERISCIENCE BV"
+    },
+    {
+        "aic": "050365028",
+        "nome": "ERTAPENEM STERISCIENCE",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "STERISCIENCE BV"
+    },
+    {
+        "aic": "050886011",
+        "nome": "ERIBULINA GLENMARK",
+        "descrizione": "?0,44 MG/ML SOLUZIONE INIETTABILE? 1 FLACONCINO IN VETRO DA 2 ML",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "050886023",
+        "nome": "ERIBULINA GLENMARK",
+        "descrizione": "?0,44 MG/ML SOLUZIONE INIETTABILE? 6 FLACONCINI IN VETRO DA 2 ML",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "050893015",
+        "nome": "ERIBULINA EG",
+        "descrizione": "0.44 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 2ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050893027",
+        "nome": "ERIBULINA EG",
+        "descrizione": "0.44 MG/ML SOLUZIONE INIETTABILE- 6 FLACONCINI IN VETRO DA 2ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051021018",
+        "nome": "ERIBULINA ZENTIVA",
+        "descrizione": "?0,44 MG/ML SOLUZIONE INIETTABILE? 1 FLACONCINO IN VETRO DA 2ML",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051021020",
+        "nome": "ERIBULINA ZENTIVA",
+        "descrizione": "?0,44 MG/ML SOLUZIONE INIETTABILE? 6 FLACONCINI IN VETRO DA 2ML",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051072015",
+        "nome": "ERTAPENEM QILU",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "QILU PHARMA SPAIN S.L."
+    },
+    {
+        "aic": "051072027",
+        "nome": "ERTAPENEM QILU",
+        "descrizione": "1 G POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "QILU PHARMA SPAIN S.L."
+    },
+    {
+        "aic": "051073017",
+        "nome": "ERIBULINA VIATRIS",
+        "descrizione": "0.44 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 2 ML",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "051073029",
+        "nome": "ERIBULINA VIATRIS",
+        "descrizione": "0.44 MG/ML SOLUZIONE INIETTABILE- 6 FLACONCINI IN VETRO DA 2 ML",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "051122012",
+        "nome": "ERIBULINA EVER PHARMA",
+        "descrizione": "0.44 mg/ml SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 2 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "051122024",
+        "nome": "ERIBULINA EVER PHARMA",
+        "descrizione": "0.44 mg/ml SOLUZIONE INIETTABILE- 6 FLACONCINI IN VETRO DA 2 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "051122036",
+        "nome": "ERIBULINA EVER PHARMA",
+        "descrizione": "0.44 mg/ml SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 3 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "051122048",
+        "nome": "ERIBULINA EVER PHARMA",
+        "descrizione": "0.44 mg/ml SOLUZIONE INIETTABILE- 6 FLACONCINI IN VETRO DA 3 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "051306013",
+        "nome": "ERIBULIN BAXTER",
+        "descrizione": "0.44 mg/ml - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 2 ml - 1 Flaconcino",
+        "produttore": "BAXTER HOLDING BV"
+    },
+    {
+        "aic": "051626012",
+        "nome": "ERIMPOX",
+        "descrizione": "2,5 MG CAPSULE RIGIDE- 20 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626024",
+        "nome": "ERIMPOX",
+        "descrizione": "5 MG CAPSULE RIGIDE- 20 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626036",
+        "nome": "ERIMPOX",
+        "descrizione": "?2,5 MG CAPSULE RIGIDE? 60 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626048",
+        "nome": "ERIMPOX",
+        "descrizione": "?2,5 MG CAPSULE RIGIDE? 20 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626051",
+        "nome": "ERIMPOX",
+        "descrizione": "?2,5 MG CAPSULE RIGIDE? 60 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626063",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 28 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626075",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 56 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626087",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 60 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626099",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 20 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626101",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 28 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626113",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 56 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051626125",
+        "nome": "ERIMPOX",
+        "descrizione": "?5 MG CAPSULE RIGIDE? 60 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ADAMED S.R.L."
+    }
+]

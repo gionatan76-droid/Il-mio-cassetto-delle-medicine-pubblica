@@ -1,0 +1,92 @@
+[
+    {
+        "aic": "023779059",
+        "nome": "HOLOXAN",
+        "descrizione": "2 G POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "023779061",
+        "nome": "HOLOXAN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "036145011",
+        "nome": "HOSPASOL",
+        "descrizione": "145 MMOL/L SOLUZIONE PER INFUSIONE  3 SACCHE DA 3000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145023",
+        "nome": "HOSPASOL",
+        "descrizione": "145 MMOL/L SOLUZIONE PER INFUSIONE  2 SACCHE DA 5000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145035",
+        "nome": "HOSPASOL",
+        "descrizione": "167 MMOL/L SOLUZIONE PER INFUSIONE  3 SACCHE DA 3000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145047",
+        "nome": "HOSPASOL",
+        "descrizione": "167 MMOL/L SOLUZIONE PER INFUSIONE  2 SACCHE DA 5000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145050",
+        "nome": "HOSPASOL",
+        "descrizione": "145 MMOL/L SOLUZIONE PER INFUSIONE- 3 SACCHE IN POLIOLEFINA E ELASTOMERI DA 3000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145062",
+        "nome": "HOSPASOL",
+        "descrizione": "145 MMOL/L SOLUZIONE PER INFUSIONE- 2 SACCHE IN POLIOLEFINA E ELASTOMERI DA 5000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145074",
+        "nome": "HOSPASOL",
+        "descrizione": "167 MMOL/L SOLUZIONE PER INFUSIONE- 3 SACCHE IN POLIOLEFINA E ELASTOMERI DA 3000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036145086",
+        "nome": "HOSPASOL",
+        "descrizione": "167 MMOL/L SOLUZIONE PER INFUSIONE- 2 SACCHE IN POLIOLEFINA E ELASTOMERI DA 5000 ML",
+        "produttore": "VANTIVE BELGIUM SRL"
+    },
+    {
+        "aic": "036791010",
+        "nome": "HOMER",
+        "descrizione": "875 MG + 125 MG POLVERE PER SOSPENSIONE ORALE- 12 BUSTINE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036791022",
+        "nome": "HOMER",
+        "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "043909011",
+        "nome": "HOLOCLAR",
+        "descrizione": "79.000-316.000 CELLULE/CM2- TESSUTO VIVENTE DA COLTURA DI CELLULE-IMPIANTO-CONTENITORE CON TAPPO A VITE (ACCIAIO INOSSIDABILE)-3,8 CM2 - 1 IMPIANTO",
+        "produttore": "Holostem S.r.l."
+    },
+    {
+        "aic": "045442011",
+        "nome": "HOMERDELIK",
+        "descrizione": "BAMBINI 400 MG/57 MG/5 ML POLVERE PER SOSPENSIONE ORALE GUSTO FRAGOLA- 1 FLACONE IN VETRO DA 70 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "045442023",
+        "nome": "HOMERDELIK",
+        "descrizione": "BAMBINI 400 MG/57 MG/5 ML POLVERE PER SOSPENSIONE ORALE GUSTO FRAGOLA- 1 FLACONE IN VETRO DA 140 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    }
+]

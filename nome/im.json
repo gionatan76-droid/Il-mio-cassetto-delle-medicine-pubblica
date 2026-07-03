@@ -1,0 +1,1904 @@
+[
+    {
+        "aic": "003410026",
+        "nome": "IMIDAZYL",
+        "descrizione": "1 MG/ML COLLIRIO SOLUZIONE- 1 FLACONE 10 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "003410065",
+        "nome": "IMIDAZYL",
+        "descrizione": "1MG/ML COLLIRIO SOLUZIONE- 10 CONTENITORI MONODOSE 0,5 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "022547018",
+        "nome": "IMMUNORHO",
+        "descrizione": "300 MCG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO POLVERE 10 ML + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "022547020",
+        "nome": "IMMUNORHO",
+        "descrizione": "200 MCG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE-1 FLACONCINO POLVERE 10 ML + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "022547044",
+        "nome": "IMMUNORHO",
+        "descrizione": "300 MCG/ 2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - SIRINGA PRERIEMPITA DA 2 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "023673092",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "023673104",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE MOLLI- 12 CAPSULE",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "023673116",
+        "nome": "IMODIUM",
+        "descrizione": "2  MG CAPSULE RIGIDE- 6 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "023673128",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024383022",
+        "nome": "IMPETEX",
+        "descrizione": "10 MG/G + 1 MG/G CREMA? TUBO DA 30 G",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "025653015",
+        "nome": "IMMUNOHBS",
+        "descrizione": "180 U.I./1 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO 1 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "025653027",
+        "nome": "IMMUNOHBS",
+        "descrizione": "540 U.I./3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO 3 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "025653054",
+        "nome": "IMMUNOHBS",
+        "descrizione": "1000 UI/ 3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - 1 SIRINGA PRERIEMPITA DA 3 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "026171013",
+        "nome": "IMOVAX TETANO",
+        "descrizione": "SOSPENSIONE INIETTABILE- SIRINGA PRERIEMPITA DA 0,5 ML",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "026422028",
+        "nome": "IMMUBRON",
+        "descrizione": "50 MG COMPRESSE SUBLINGUALI- 30 COMPRESSE",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "027975059",
+        "nome": "IMIGRAN",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM-4 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975061",
+        "nome": "IMIGRAN",
+        "descrizione": "6 MG/0,5 ML SOLUZIONE INIETTABILE PER USO SOTTOCUTANEO- 2 SIRINGHE PRERIEMPITE DA 0,5 ML CON AUTOINIETTORE PENKIT",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975073",
+        "nome": "IMIGRAN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM-4 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975123",
+        "nome": "IMIGRAN",
+        "descrizione": "2 SPRAY NASALE MONODOSE 10 MG",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975135",
+        "nome": "IMIGRAN",
+        "descrizione": "2 SPRAY NASALE MONODOSE 20 MG",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975147",
+        "nome": "IMIGRAN",
+        "descrizione": "6 SPRAY NASALE MONODOSE 20 MG",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975150",
+        "nome": "IMIGRAN",
+        "descrizione": "12 SUPPOSTE 25 MG",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975162",
+        "nome": "IMIGRAN",
+        "descrizione": "18 SUPPOSTE 25 MG",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027975174",
+        "nome": "IMIGRAN",
+        "descrizione": "30 SUPPOSTE 25 MG",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "028138016",
+        "nome": "IMUKIN",
+        "descrizione": "2 X 10 MILIONI UI (0,1 MG) SOLUZIONE INIETTABILE- 6 FLACONCINI IN VETRO",
+        "produttore": "CLINIGEN HEALTHCARE B.V."
+    },
+    {
+        "aic": "028299016",
+        "nome": "IMOVANE",
+        "descrizione": "7,5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE DIVISIBILI",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "028299028",
+        "nome": "IMOVANE",
+        "descrizione": "7,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "029310012",
+        "nome": "IMOVAX POLIO",
+        "descrizione": "SOSPENSIONE INIETTABILE- 1 SIRINGA PRERIEMPITA 1 DOSE",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "035469016",
+        "nome": "IMIDAZYL ANTISTAMINICO",
+        "descrizione": "1 MG/ML + 1 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE 10 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "035469028",
+        "nome": "IMIDAZYL ANTISTAMINICO",
+        "descrizione": "1 MG/ML + 1 MG/ML COLLIRIO, SOLUZIONE- 10 CONTENITORI MONODOSE 0,5 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "038396014",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038396038",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038396040",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038396053",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038396065",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038677047",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038677062",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "039449018",
+        "nome": "IMIPENEM E CILASTATINA SUN",
+        "descrizione": "500MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE - 1 FLACONE IN VETRO PER INFUSIONE",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "039449020",
+        "nome": "IMIPENEM E CILASTATINA SUN",
+        "descrizione": "500MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE - 10 FLACONI IN VETRO PER INFUSIONE",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "039449032",
+        "nome": "IMIPENEM E CILASTATINA SUN",
+        "descrizione": "500MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO  IN VETRO CON SET DI TRASFERIMENTO PER INFUSIONE",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "039449044",
+        "nome": "IMIPENEM E CILASTATINA SUN",
+        "descrizione": "500MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 30 ML",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "039499025",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499037",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE IN BLISTER PVC/Al",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499049",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE in blister PVC/OPA/AL/OPA/PVC",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499052",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499064",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499076",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499088",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039499090",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039530011",
+        "nome": "IMIPENEM CILASTATINA KABI",
+        "descrizione": "500 MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "040005011",
+        "nome": "IMIPENEM  E  CILASTATINA AUROBINDO",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "040005023",
+        "nome": "IMIPENEM  E  CILASTATINA AUROBINDO",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "040844019",
+        "nome": "IMIPENEM E CILASTATINA HIKMA",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A."
+    },
+    {
+        "aic": "040844021",
+        "nome": "IMIPENEM E CILASTATINA HIKMA",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A."
+    },
+    {
+        "aic": "041245010",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041245034",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041245046",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041245059",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041393012",
+        "nome": "IMUNOCARE",
+        "descrizione": "5% CREMA- 12 BUSTINE DA 250 MG IN PET/ALU/PET/LDPE",
+        "produttore": "DIFA COOPER S.P.A."
+    },
+    {
+        "aic": "041393024",
+        "nome": "IMUNOCARE",
+        "descrizione": "5% CREMA- 24 BUSTINE DA 250 MG IN PET/ALU/PET/LDPE",
+        "produttore": "DIFA COOPER S.P.A."
+    },
+    {
+        "aic": "041578016",
+        "nome": "IMOLAST",
+        "descrizione": "50 microgrammi/ml + 5 mg/ml collirio, soluzione in contenitore monodose> 30 contenitori monodose da 0,1 ml",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "041578028",
+        "nome": "IMOLAST",
+        "descrizione": "50 microgrammi/ml + 5 mg/ml  collirio,  soluzione> flacone da 2,5 ml",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "042516017",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042516029",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042644017",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CONF FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 20X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644029",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644031",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644043",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 120 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644056",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 120X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644068",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 180X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644070",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 20X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644082",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 60 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644094",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 60X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644106",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 120 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644118",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 120X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644120",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 180X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644132",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644144",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644157",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644169",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644171",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 30 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644183",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 30X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644195",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 90 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644207",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 90X1 COMPRESSA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644219",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 20X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644221",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644233",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644245",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 120 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644258",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 120X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644260",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 180X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644272",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 20X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644284",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 60 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644296",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 60X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644308",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 120 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644310",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 120X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644322",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "100 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 180X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644334",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 30 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644346",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 30X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644359",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 90 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644361",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PE/PVDC/PE/PVC/AL) - 90X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644373",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644385",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644397",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90 CAPSULE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042644409",
+        "nome": "IMATINIB TEVA",
+        "descrizione": "400 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90X1 CAPSULA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "042867010",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 20 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867022",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 60 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867034",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 120 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867046",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 180 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867059",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 20 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867061",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 60 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867073",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 120 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867085",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 180 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867097",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 10 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867109",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 30 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867111",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO)- 90 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867123",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 10 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867135",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 30 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867147",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO)- 90 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867150",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867162",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 60X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867174",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 90X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867186",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 120X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867198",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 180X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867200",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867212",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 60X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867224",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 90X1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867236",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 30 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867248",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 60 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867251",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 90 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867263",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 120 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867275",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 180 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867287",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 30 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867299",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 60 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042867301",
+        "nome": "IMATINIB ACCORD",
+        "descrizione": "400 mg - Compressa rivestita con film - Uso orale - Blister (Alu/Alu) - 90 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "042927018",
+        "nome": "IMNOVID",
+        "descrizione": "1 MG - CAPSULA RIGIDA - UDO ORALE - BLISTER (PVC/PCTFE) - 21 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927020",
+        "nome": "IMNOVID",
+        "descrizione": "2 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE)  - 21 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927032",
+        "nome": "IMNOVID",
+        "descrizione": "3 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE) - 21 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927044",
+        "nome": "IMNOVID",
+        "descrizione": "4 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE) - 21 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927057",
+        "nome": "IMNOVID",
+        "descrizione": "1 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE) - 14 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927069",
+        "nome": "IMNOVID",
+        "descrizione": "2 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE) - 14 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927071",
+        "nome": "IMNOVID",
+        "descrizione": "3 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE) - 14 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042927083",
+        "nome": "IMNOVID",
+        "descrizione": "4 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE) - 14 CAPSULE",
+        "produttore": "BRISTOL-MYERS SQUIBB PHARMA EEIG"
+    },
+    {
+        "aic": "042944013",
+        "nome": "IMVANEX",
+        "descrizione": "0,5 ML SOSPENSIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) 0,5 ML - 20 FLACONCINI",
+        "produttore": "BAVARIAN NORDIC A/S"
+    },
+    {
+        "aic": "042944025",
+        "nome": "IMVANEX",
+        "descrizione": "0.5 ml - Sospensione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 0,5 ml - 1 flaconcino",
+        "produttore": "BAVARIAN NORDIC A/S"
+    },
+    {
+        "aic": "042944037",
+        "nome": "IMVANEX",
+        "descrizione": "0.5 ml - Sospensione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 0,5 ml - 10 flaconcini",
+        "produttore": "BAVARIAN NORDIC A/S"
+    },
+    {
+        "aic": "043693011",
+        "nome": "IMBRUVICA",
+        "descrizione": "140 MG -CAPSULE RIGIDE -USO ORALE - FLACONE (HDPE) - 1 FLACONE (90 CAPSULE RIGIDE)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693023",
+        "nome": "IMBRUVICA",
+        "descrizione": "140 MG -CAPSULE RIGIDE -USO ORALE - FLACONE (HDPE) - 1 FLACONE (120 CAPSULE RIGIDE)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693035",
+        "nome": "IMBRUVICA",
+        "descrizione": "140 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 10 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693047",
+        "nome": "IMBRUVICA",
+        "descrizione": "280 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 10 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693050",
+        "nome": "IMBRUVICA",
+        "descrizione": "420 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 30 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693062",
+        "nome": "IMBRUVICA",
+        "descrizione": "560 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 30 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693074",
+        "nome": "IMBRUVICA",
+        "descrizione": "140 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 28 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693086",
+        "nome": "IMBRUVICA",
+        "descrizione": "140 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 30 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693098",
+        "nome": "IMBRUVICA",
+        "descrizione": "280 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 28 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693100",
+        "nome": "IMBRUVICA",
+        "descrizione": "280 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 30 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693112",
+        "nome": "IMBRUVICA",
+        "descrizione": "420 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 28 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043693124",
+        "nome": "IMBRUVICA",
+        "descrizione": "560 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 28 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "043760014",
+        "nome": "IMANIVEC",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE BLISTER PVC/PE/PVDC/AL",
+        "produttore": "HCS BV"
+    },
+    {
+        "aic": "043760026",
+        "nome": "IMANIVEC",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE BLISTER PVC/PE/PVDC/AL",
+        "produttore": "HCS BV"
+    },
+    {
+        "aic": "043760038",
+        "nome": "IMANIVEC",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE BLISTER PVC/PE/PVDC/AL",
+        "produttore": "HCS BV"
+    },
+    {
+        "aic": "043760040",
+        "nome": "IMANIVEC",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE BLISTER PVC/PE/PVDC/AL",
+        "produttore": "HCS BV"
+    },
+    {
+        "aic": "043760053",
+        "nome": "IMANIVEC",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE BLISTER PVC/PE/PVDC/AL",
+        "produttore": "HCS BV"
+    },
+    {
+        "aic": "043760065",
+        "nome": "IMANIVEC",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE BLISTER PVC/PE/PVDC/AL",
+        "produttore": "HCS BV"
+    },
+    {
+        "aic": "043805011",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805023",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805035",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805047",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805050",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805062",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805074",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805086",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805098",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805100",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805112",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 80 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805124",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805136",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805148",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805151",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805163",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 80 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805175",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805187",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805199",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043805201",
+        "nome": "IMATINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 80 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "043880018",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880020",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880032",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880044",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880057",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880069",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880071",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043880083",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "044149019",
+        "nome": "IMMUTREX",
+        "descrizione": "2,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 2,5MG/0,33 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149021",
+        "nome": "IMMUTREX",
+        "descrizione": "2,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 2,5MG/0,33 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149033",
+        "nome": "IMMUTREX",
+        "descrizione": "7,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 7,5MG/0,30 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149045",
+        "nome": "IMMUTREX",
+        "descrizione": "7,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 7,5MG/0,30 ML  CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149058",
+        "nome": "IMMUTREX",
+        "descrizione": "10 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 10MG/0,40 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149060",
+        "nome": "IMMUTREX",
+        "descrizione": "10 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITAE DA 10MG/0,40 ML  CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149072",
+        "nome": "IMMUTREX",
+        "descrizione": "12,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITAE DA 12,5MG/0,31 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149084",
+        "nome": "IMMUTREX",
+        "descrizione": "12,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 12,5MG/0,31 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149096",
+        "nome": "IMMUTREX",
+        "descrizione": "15 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 15MG/0,38 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149108",
+        "nome": "IMMUTREX",
+        "descrizione": "15 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 15MG/0,38 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149110",
+        "nome": "IMMUTREX",
+        "descrizione": "17,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 17,5MG/0,44 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149122",
+        "nome": "IMMUTREX",
+        "descrizione": "17,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 17,5MG/0,44 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149134",
+        "nome": "IMMUTREX",
+        "descrizione": "20 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 20MG/0,50 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149146",
+        "nome": "IMMUTREX",
+        "descrizione": "20 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA  DA 20MG/0,50 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149159",
+        "nome": "IMMUTREX",
+        "descrizione": "22,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA  DA 22,5MG/0,56 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149161",
+        "nome": "IMMUTREX",
+        "descrizione": "22,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 22,5MG/0,56 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149173",
+        "nome": "IMMUTREX",
+        "descrizione": "25 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 25MG/0,63 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149185",
+        "nome": "IMMUTREX",
+        "descrizione": "25 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 25MG/0,63 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149197",
+        "nome": "IMMUTREX",
+        "descrizione": "27,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 27,5MG/0,69 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149209",
+        "nome": "IMMUTREX",
+        "descrizione": "27,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 27,5MG/0,69 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149211",
+        "nome": "IMMUTREX",
+        "descrizione": "30 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 4 SIRINGHE PRERIEMPITE DA 30MG/0,75ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149223",
+        "nome": "IMMUTREX",
+        "descrizione": "30 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA DA 30MG/0,75ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149235",
+        "nome": "IMMUTREX",
+        "descrizione": "2,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 2,5MG/0,33 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149247",
+        "nome": "IMMUTREX",
+        "descrizione": "7,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 7,5MG/0,30 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149250",
+        "nome": "IMMUTREX",
+        "descrizione": "10 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 10MG/0,40 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149274",
+        "nome": "IMMUTREX",
+        "descrizione": "12,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 12,5MG/0,31 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149286",
+        "nome": "IMMUTREX",
+        "descrizione": "15 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 15MG/0,38 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149298",
+        "nome": "IMMUTREX",
+        "descrizione": "17,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 17,5MG/0,44 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149300",
+        "nome": "IMMUTREX",
+        "descrizione": "20 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 20MG/0,50 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149312",
+        "nome": "IMMUTREX",
+        "descrizione": "22,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 22,5MG/0,56 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149324",
+        "nome": "IMMUTREX",
+        "descrizione": "25 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 25MG/0,63 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149336",
+        "nome": "IMMUTREX",
+        "descrizione": "27,5 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 27,5MG/0,69 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044149348",
+        "nome": "IMMUTREX",
+        "descrizione": "30 MG SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 12 SIRINGHE PRERIEMPITE DA 30MG/0,75 ML CON TAMPONE IMBEVUTO CON ALCOL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "044535019",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044653018",
+        "nome": "IMLYGIC",
+        "descrizione": "1X 10E6  PFU/ML - SOLUZIONE INIETTABILE - USO INTRALESIONALE - FLACONCINO (POLIMERO CICLOOLEFINICO) 1 ML - 1 X 10E6 PFU/ML",
+        "produttore": "AMGEN EUROPE B.V."
+    },
+    {
+        "aic": "044653020",
+        "nome": "IMLYGIC",
+        "descrizione": "1X 10E8  PFU/ML - SOLUZIONE INIETTABILE - USO INTRALESIONALE - FLACONCINO (POLIMERO CICLOOLEFINICO) 1 ML - 1 X 10E8 PFU/ML",
+        "produttore": "AMGEN EUROPE B.V."
+    },
+    {
+        "aic": "045053016",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 24 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053028",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053030",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 48 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053042",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053055",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 96 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053067",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 120 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053079",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 180 CAPSULE IN BLISTER PVC/ACLAR",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053081",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 24 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053093",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053105",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 48 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053117",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053129",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 96 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053131",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 120 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045053143",
+        "nome": "IMATINIB DR. REDDY'S",
+        "descrizione": "100 MG CAPSULE RIGIDE- 180 CAPSULE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "045616012",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 0,8 ML (40MG/0,8ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616024",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 0,8 ML (40MG/0,8ML) - 2 SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616036",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 0,8 ML (40MG/0,8ML) - 4 SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616048",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 0,8 ML (40MG/0,8ML) - 6 SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616051",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 0,8 ML (40 MG/0,8 ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616063",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 0,8 ML (40 MG/0,8 ML) - 2 PENNE PRERIEMPITE",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616075",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 0,8 ML (40 MG/0,8 ML) - 4 PENNE PRERIEMPITE",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616087",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - PENNA PRERIEMPITA (VETRO) - 0,8 ML (40 MG/0,8 ML) - 6 PENNE PRERIEMPITE",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616099",
+        "nome": "IMRALDI",
+        "descrizione": "40 MG/0,8 ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) 0,8 ML (40 MG/0,8 ML) - 2X(1 FLACONCINO + 1 SIRINGA + 1 AGO + 1 ADATTATORE PER FLACONCINO + 2 TAMPONI IMBEVUTI DI ALCOOL)",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616101",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) 0,4 ml (40 mg / 0,4 ml) - 1 siringa preriempita + 2 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616113",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) 0,4 ml (40 mg / 0,4 ml) - 2 siringhe preriempite + 2 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616125",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) 0,4 ml (40 mg / 0,4 ml) - 4 siringhe preriempite + 4 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616137",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) 0,4 ml (40 mg / 0,4 ml) - 6 siringhe preriempite + 6 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616149",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) in penna preriempita 0,4 ml (40 mg / 0,4 ml) - 1 penna preriempita + 2 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616152",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) in penna preriempita 0,4 ml (40 mg / 0,4 ml) - 2 penne preriempite + 2 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616164",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) in penna preriempita 0,4 ml (40 mg / 0,4 ml) - 4 penne preriempite + 4 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "045616176",
+        "nome": "IMRALDI",
+        "descrizione": "40 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) in penna preriempita 0,4 ml (40 mg / 0,4 ml) - 6 penne preriempite + 6 tamponi imbevuti d?alcool",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    },
+    {
+        "aic": "046205011",
+        "nome": "IMO 10",
+        "descrizione": "SPRAY SUBLINGUALE, SOLUZIONE- 1 FLACONE NEBULIZZATORE IN VETRO DA 30 ML",
+        "produttore": "IMO  S.P.A."
+    },
+    {
+        "aic": "046549010",
+        "nome": "IMO 09",
+        "descrizione": "SPRAY SUBLINGUALE, SOLUZIONE- 1 FLACONE NEBULIZZATORE IN VETRO DA 30 ML",
+        "produttore": "IMO  S.P.A."
+    },
+    {
+        "aic": "046757011",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "046757035",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "046757047",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "047089014",
+        "nome": "IMFINZI",
+        "descrizione": "50 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 10 ML - 1 FLACONCINO",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "047089026",
+        "nome": "IMFINZI",
+        "descrizione": "50 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO 2,4 ML -1 FLACONCINO",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "047265020",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE",
+        "produttore": "SM PHARMA S.R.L."
+    },
+    {
+        "aic": "047396015",
+        "nome": "IMOVANE",
+        "descrizione": "7,5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE DIVISIBILI",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "047448028",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047448030",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047448042",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047448055",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE in blister PVC/OPA/AL/OPA/PVC",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047448067",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047448079",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 12 CAPSULE IN BLISTER IN PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "048309025",
+        "nome": "IMOVANE",
+        "descrizione": "7,5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE DIVISIBILI",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "048426011",
+        "nome": "IMODIUM DIARREA E METEORISMO",
+        "descrizione": "2 MG/125 MG COMPRESSE- 6 COMPRESSE IN BLISTER PCTFE/PVC/Al/PET/carta",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "048426023",
+        "nome": "IMODIUM DIARREA E METEORISMO",
+        "descrizione": "2 MG/125 MG COMPRESSE- 12 COMPRESSE IN BLISTER PCTFE/PVC/Al/PET/carta",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "048515035",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG COMPRESSE OROSOLUBILI - 12 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "049009018",
+        "nome": "IMOVANE",
+        "descrizione": "7,5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE DIVISIBILI",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "049605013",
+        "nome": "IMCIVREE",
+        "descrizione": "10 MG / ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (IN VETRO) 1 ML - 1 FLACONCINO",
+        "produttore": "Rhythm Pharmaceuticals Netherlands B.V."
+    },
+    {
+        "aic": "049605025",
+        "nome": "IMCIVREE",
+        "descrizione": "10 mg / ml - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1 ml - 10 flaconcini",
+        "produttore": "Rhythm Pharmaceuticals Netherlands B.V."
+    },
+    {
+        "aic": "050272020",
+        "nome": "IMOVANE",
+        "descrizione": "7,5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE DIVISIBILI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "050476011",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "050476023",
+        "nome": "IMODIUM",
+        "descrizione": "2 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "050595014",
+        "nome": "IMJUDO",
+        "descrizione": "20 mg / ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 1,25 ml - 1 flaconcino",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "050595026",
+        "nome": "IMJUDO",
+        "descrizione": "20 mg / ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 15 ml - 1 flaconcino",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "050737016",
+        "nome": "IMIPENEM E CILASTATINA STERISCIENCE",
+        "descrizione": "?500MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE? 1 FLACONCINO IN VETRO",
+        "produttore": "STERISCIENCE BV"
+    },
+    {
+        "aic": "050737028",
+        "nome": "IMIPENEM E CILASTATINA STERISCIENCE",
+        "descrizione": "?500MG/500MG POLVERE PER SOLUZIONE PER INFUSIONE? 10 FLACONCINI IN VETRO",
+        "produttore": "STERISCIENCE BV"
+    },
+    {
+        "aic": "051026019",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026021",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026033",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026045",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026058",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026060",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026072",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051026084",
+        "nome": "IMATINIB EG STADA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051420014",
+        "nome": "IMUPRET",
+        "descrizione": "COMPRESSE RIVESTITE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BIONORICA SE"
+    },
+    {
+        "aic": "051420026",
+        "nome": "IMUPRET",
+        "descrizione": "COMPRESSE RIVESTITE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BIONORICA SE"
+    },
+    {
+        "aic": "051421016",
+        "nome": "IMBAXIR",
+        "descrizione": "5 MG/1,5 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051421028",
+        "nome": "IMBAXIR",
+        "descrizione": "5 MG/1,5 MG COMPRESSE A RILASCIO MODIFICATO- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051421030",
+        "nome": "IMBAXIR",
+        "descrizione": "5 MG/1,5 MG COMPRESSE A RILASCIO MODIFICATO- 100 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051421042",
+        "nome": "IMBAXIR",
+        "descrizione": "10 MG/1,5 MG COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051421055",
+        "nome": "IMBAXIR",
+        "descrizione": "10 MG/1,5 MG COMPRESSE A RILASCIO MODIFICATO- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051421067",
+        "nome": "IMBAXIR",
+        "descrizione": "10 MG/1,5 MG COMPRESSE A RILASCIO MODIFICATO- 100 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "051802015",
+        "nome": "IMULDOSA",
+        "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (90 mg/ml) - 1 siringa preriempita",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051802027",
+        "nome": "IMULDOSA",
+        "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (90 mg/ml) - 1 siringa preriempita",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051802039",
+        "nome": "IMULDOSA",
+        "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 ml (5 mg/ml) - 1 flaconcino",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051842019",
+        "nome": "IMIPENEM E CILASTATINA NORIDEM",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD"
+    },
+    {
+        "aic": "051842021",
+        "nome": "IMIPENEM E CILASTATINA NORIDEM",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD"
+    },
+    {
+        "aic": "051842033",
+        "nome": "IMIPENEM E CILASTATINA NORIDEM",
+        "descrizione": "500 MG/500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 25 FLACONCINI IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD"
+    },
+    {
+        "aic": "052125010",
+        "nome": "IMODIUM DIARREA E METEORISMO",
+        "descrizione": "2 MG/125 MG COMPRESSE- 12 COMPRESSE IN BLISTER PCTFE/PVC/Al/PET/carta",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "052463015",
+        "nome": "IMAFUSIN",
+        "descrizione": "20 MG/G + 1 MG/G CREMA- 1 TUBO IN AL DA 5 G",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "052463027",
+        "nome": "IMAFUSIN",
+        "descrizione": "20 MG/G + 1 MG/G CREMA- 1 TUBO IN AL DA 15 G",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "052463039",
+        "nome": "IMAFUSIN",
+        "descrizione": "20 MG/G + 1 MG/G CREMA- 1 TUBO IN AL DA 30 G",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "052463041",
+        "nome": "IMAFUSIN",
+        "descrizione": "20 MG/G + 1 MG/G CREMA- 1 TUBO IN AL DA 60 G",
+        "produttore": "LABORATOIRES BAILLEUL S.A."
+    },
+    {
+        "aic": "052494010",
+        "nome": "IMREPLYS",
+        "descrizione": "250 ?g - Polvere per soluzione iniettabile - Uso sottocutaneo - Flaconcini (vetro) - 5 flaconcini",
+        "produttore": "PARTNER THERAPEUTICS LTD."
+    },
+    {
+        "aic": "052685017",
+        "nome": "IMAAVY",
+        "descrizione": "185 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 1.62 mL - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "052685029",
+        "nome": "IMAAVY",
+        "descrizione": "185 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 6.5 mL - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    }
+]

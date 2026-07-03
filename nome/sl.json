@@ -1,0 +1,152 @@
+[
+    {
+        "aic": "040629014",
+        "nome": "SLOWMET",
+        "descrizione": "500 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "040629026",
+        "nome": "SLOWMET",
+        "descrizione": "500 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "040629038",
+        "nome": "SLOWMET",
+        "descrizione": "750 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "040629040",
+        "nome": "SLOWMET",
+        "descrizione": "750 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "040629053",
+        "nome": "SLOWMET",
+        "descrizione": "1000 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "040629065",
+        "nome": "SLOWMET",
+        "descrizione": "1000 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044879017",
+        "nome": "SLANER",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 5 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "044879029",
+        "nome": "SLANER",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOLUZIONE- 20 CONTENITORI MONODOSE IN LDPE DA 0,3 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "047048018",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "047048020",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 3 X (24 + 4) COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "047048032",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 6 X (24 + 4) COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "047048044",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 13 X (24 + 4) COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "047187012",
+        "nome": "SLENYTO",
+        "descrizione": "1 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 60 COMPRESSE",
+        "produttore": "RAD NEURIM PHARMACEUTICALS EEC SARL"
+    },
+    {
+        "aic": "047187036",
+        "nome": "SLENYTO",
+        "descrizione": "5 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30 COMPRESSE",
+        "produttore": "RAD NEURIM PHARMACEUTICALS EEC SARL"
+    },
+    {
+        "aic": "047187051",
+        "nome": "SLENYTO",
+        "descrizione": "1 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (PVC/PVDC/ALU) - 30 COMPRESSE",
+        "produttore": "RAD NEURIM PHARMACEUTICALS EEC SARL"
+    },
+    {
+        "aic": "049568013",
+        "nome": "SLOREMINA",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "049568025",
+        "nome": "SLOREMINA",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/PE/PVC/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "049955014",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "049955026",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "049955038",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "050280015",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "051141012",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "051894018",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "051894020",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 3 X (24 + 4) COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "053039018",
+        "nome": "SLINDA",
+        "descrizione": "4 MG COMPRESSE RIVESTITE CON FILM- 24 + 4 COMPRESSE IN BLISTER PVC/PVDC/AL CON CALENDARIO",
+        "produttore": "FARMA 1000 S.R.L."
+    }
+]

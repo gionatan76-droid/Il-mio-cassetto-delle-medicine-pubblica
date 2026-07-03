@@ -1,0 +1,554 @@
+[
+    {
+        "aic": "005494024",
+        "nome": "IDROCHINIDINA LIRCA",
+        "descrizione": "150 MG COMPRESSE-40 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "028533014",
+        "nome": "IDROQUARK",
+        "descrizione": "2,5MG+12,5MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "028533026",
+        "nome": "IDROQUARK",
+        "descrizione": "5MG+25MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "028533038",
+        "nome": "IDROQUARK",
+        "descrizione": "2,5 MG + 12,5 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "028533040",
+        "nome": "IDROQUARK",
+        "descrizione": "5 MG + 25 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "034213013",
+        "nome": "IDEOS",
+        "descrizione": "2 TUBI 10 COMPRESSE MASTICABILI 500MG/400UI",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "034213025",
+        "nome": "IDEOS",
+        "descrizione": "2 TUBI 15 COMPRESSE MASTICABILI 500MG/400UI",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "034213037",
+        "nome": "IDEOS",
+        "descrizione": "5 TUBI 10 COMPRESSE MASTICABILI 500MG/400UI",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "034213049",
+        "nome": "IDEOS",
+        "descrizione": "4 TUBI 15 COMPRESSE MASTICABILI 500MG/400UI",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "034213052",
+        "nome": "IDEOS",
+        "descrizione": "6 TUBI 15 COMPRESSE MASTICABILI 500MG/400UI",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "034213064",
+        "nome": "IDEOS",
+        "descrizione": "10 TUBI 10 COMPRESSE MASTICABILI 500MG/400UI",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "034470017",
+        "nome": "IDRASTIL",
+        "descrizione": "0,15% COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "034470029",
+        "nome": "IDRASTIL",
+        "descrizione": "0,15% COLLIRIO, SOLUZIONE- FLACONE 10 ML",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "034470031",
+        "nome": "IDRASTIL",
+        "descrizione": "0,15% COLLIRIO, SOLUZIONE- 20 FLACONI MONODOSE 0,3 ML",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "034470043",
+        "nome": "IDRASTIL",
+        "descrizione": "0,15 % COLLIRIO - 40 CONTENITORI MONODOSE 0,3 ML",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "041474014",
+        "nome": "IDROTENS",
+        "descrizione": "8 MG + 12,5 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "041474026",
+        "nome": "IDROTENS",
+        "descrizione": "8 MG + 12,5 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "041474038",
+        "nome": "IDROTENS",
+        "descrizione": "16 MG + 12,5 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "041474040",
+        "nome": "IDROTENS",
+        "descrizione": "16 MG + 12,5 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "044588010",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/12,5MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588022",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/12,5MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588034",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/12,5MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588046",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/12,5MG COMPRESSE RIVESTITE CON FILM- 280 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588059",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/25MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588061",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/25MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588073",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/25MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588085",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/25MG COMPRESSE RIVESTITE CON FILM- 280 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588097",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/12,5MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588109",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/12,5MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588111",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/12,5MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588123",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/12,5MG COMPRESSE RIVESTITE CON FILM- 280 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588135",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/25MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588147",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/25MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588150",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/25MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588162",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/25MG COMPRESSE RIVESTITE CON FILM- 280 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588174",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/12,5MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588186",
+        "nome": "IDALAZIDE",
+        "descrizione": "20MG/25MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588198",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/12,5MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044588200",
+        "nome": "IDALAZIDE",
+        "descrizione": "40MG/25MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590014",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590026",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590038",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590040",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 56 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590053",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590065",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 98 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590077",
+        "nome": "IDALMAN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 280 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590089",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590091",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590103",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590115",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 56 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590127",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590139",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 98 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590141",
+        "nome": "IDALMAN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 280 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590154",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590166",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590178",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590180",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 56 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590192",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590204",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 98 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044590216",
+        "nome": "IDALMAN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 280 COMPRESSE IN BLISTER OPA/AL/PVC/A",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044891012",
+        "nome": "IDELVION",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLV: FLACONE (VETRO) 250 UI + SOLV: FLACONE (VETRO) 2,5 ML (100 UI/ML) - 1 FLACONE+ 1 FLACONE + 1 DISPOSITIVO DI TRASFERIMENTO CON FILTRO+1 SIRINGA + 1  SET PER L''INIEZIONE IN VENA + 2 TAMPONI + 1 CEROTTO",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "044891024",
+        "nome": "IDELVION",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLV: FLACONE (VETRO) 500 UI + SOLV: FLACONE (VETRO) 2,5 ML (200 UI/ML) - 1 FLACONE+ 1 FLACONE + 1 DISPOSITIVO DI TRASFERIMENTO CON FILTRO+1 SIRINGA + 1  SET PER L''INIEZIONE IN VENA + 2 TAMPONI + 1 CEROTTO",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "044891036",
+        "nome": "IDELVION",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLV: FLACONE (VETRO) 1000 UI + SOLV: FLACONE (VETRO) 2,5 ML (400 UI/ML) - 1 FLACONE+ 1 FLACONE + 1 DISPOSITIVO DI TRASFERIMENTO CON FILTRO+1 SIRINGA + 1  SET PER L''INIEZIONE IN VENA + 2 TAMPONI + 1 CEROTTO",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "044891048",
+        "nome": "IDELVION",
+        "descrizione": "2000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLV: FLACONE (VETRO) 2000 UI + SOLV: FLACONE (VETRO) 5 ML (400 UI/ML) - 1 FLACONE+ 1 FLACONE + 1 DISPOSITIVO DI TRASFERIMENTO CON FILTRO+1 SIRINGA + 1  SET PER L''INIEZIONE IN VENA + 2 TAMPONI + 1 CEROTTO",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "044891051",
+        "nome": "IDELVION",
+        "descrizione": "3500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 3500 IU + SOLVENTE: 5 ML - 1 FLACONCINO + 1 FLACONCINO + 1 DISPOSITIVO DI TRASFERIMENTO CON FILTRO +1 SIRINGA + 1 SET PER L'INIEZIONE IN VENA + 2 TAMPONI + 1 CEROTTO",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "046074011",
+        "nome": "IDROSSICLOROCHINA DOC",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "047245016",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245028",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245030",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 40 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245042",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245055",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245067",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245079",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047245081",
+        "nome": "IDROCLOROTIAZIDE AUROBINDO",
+        "descrizione": "25 MG COMPRESSE- 500 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "047805027",
+        "nome": "IDACIO",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRE-RIEMPITA (VETRO) - 0,8 ML (40 MG/0,8 ML) - 2 SIRINGHE PRE-RIEMPITE + 2 TAMPONI IMBEVUTI DI ALCOOL",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "047805039",
+        "nome": "IDACIO",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRE-RIEMPITA (VETRO) IN UNA PENNA - 0,8 ML (40 MG/0,8 ML) - 2 PENNE PRE-RIEMPITE + 2 TAMPONI IMBEVUTI DI ALCOOL",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "047805041",
+        "nome": "IDACIO",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRE-RIEMPITA (VETRO) - 0,8 ML (40 MG/0,8 ML) - 6 SIRINGHE PRERIEMPITE + 6 TAMPONI IMBEVUTI DI ALCOOL",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "047805054",
+        "nome": "IDACIO",
+        "descrizione": "40 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) IN UNA PENNA - 0,8 ML (40 MG/0,8 ML) - 6 PENNE PRERIEMPITE + 6 TAMPONI IMBEVUTI DI ALCOOL",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "048988012",
+        "nome": "IDEFIRIX",
+        "descrizione": "11 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "HANSA BIOPHARMA AB"
+    },
+    {
+        "aic": "048988024",
+        "nome": "IDEFIRIX",
+        "descrizione": "11 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 2 FLACONCINI",
+        "produttore": "HANSA BIOPHARMA AB"
+    },
+    {
+        "aic": "051117012",
+        "nome": "IDROSSICARBAMIDE AUROBINDO",
+        "descrizione": "?500 MG CAPSULE RIGIDE? 20 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "051117024",
+        "nome": "IDROSSICARBAMIDE AUROBINDO",
+        "descrizione": "?500 MG CAPSULE RIGIDE? 20 CAPSULE IN BLISTER PVC/ACLAR-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "051117036",
+        "nome": "IDROSSICARBAMIDE AUROBINDO",
+        "descrizione": "?500 MG CAPSULE RIGIDE? 100 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "051117048",
+        "nome": "IDROSSICARBAMIDE AUROBINDO",
+        "descrizione": "?500 MG CAPSULE RIGIDE? 100 CAPSULE IN BLISTER PVC/ACLAR-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "051854014",
+        "nome": "IDILLA",
+        "descrizione": "COMPRESSE RIVESTITE CON FILM-  28 COMPRESSE (2 COMPRESSE DA 3 MG ESTRADIOLO + 5 COMPRESSE DA 2MG ESTRADIOLO/2 MG DIENOGEST + 17 COMPRESSE DA 2 MG ESTRADIOLO/3 MG DIENOGEST + 2 COMPRESSE DA 1 MG ESTRADIOLO + 2 COMPRESSE PLACEBO) IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L."
+    },
+    {
+        "aic": "051854026",
+        "nome": "IDILLA",
+        "descrizione": "COMPRESSE RIVESTITE CON FILM-  3 X 28 COMPRESSE (3 X 2 COMPRESSE DA 3 MG ESTRADIOLO + 3 X 5 COMPRESSE DA 2MG ESTRADIOLO/2 MG DIENOGEST + 3 X 17 COMPRESSE DA 2 MG ESTRADIOLO/3 MG DIENOGEST + 3 X 2 COMPRESSE DA 1 MG ESTRADIOLO + 3 X 2 COMPRESSE PLACEBO) IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L."
+    },
+    {
+        "aic": "051854038",
+        "nome": "IDILLA",
+        "descrizione": "COMPRESSE RIVESTITE CON FILM-  6 X 28 COMPRESSE (6 X 2 COMPRESSE DA 3 MG ESTRADIOLO + 6 X 5 COMPRESSE DA 2MG ESTRADIOLO/2 MG DIENOGEST + 6 X 17 COMPRESSE DA 2 MG ESTRADIOLO/3 MG DIENOGEST + 6 X 2 COMPRESSE DA 1 MG ESTRADIOLO + 6 X 2 COMPRESSE PLACEBO) IN BLISTER PVC/PVDC/A",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L."
+    },
+    {
+        "aic": "052435017",
+        "nome": "IDROSSICLOROCHINA AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "052435029",
+        "nome": "IDROSSICLOROCHINA AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "052435031",
+        "nome": "IDROSSICLOROCHINA AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "052435043",
+        "nome": "IDROSSICLOROCHINA AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "052435056",
+        "nome": "IDROSSICLOROCHINA AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    }
+]

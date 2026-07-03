@@ -1,0 +1,362 @@
+[
+    {
+        "aic": "028362022",
+        "nome": "DYSPORT",
+        "descrizione": "500 UI POLVERE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE E SOTTOCUTANEO- 2 FLACONI",
+        "produttore": "IPSEN S.P.A"
+    },
+    {
+        "aic": "035631050",
+        "nome": "DYNASTAT",
+        "descrizione": "40 MG POLVERE PER SOLUZIONE INIETTABILE 10 FLACONCINI USO ENDOVENOSO O INTRAMUSCOLARE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "035631062",
+        "nome": "DYNASTAT",
+        "descrizione": "40 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO + 1 FIALA 2 ML USO ENDOVENOSO O INTRAMUSCOLARE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "035631074",
+        "nome": "DYNASTAT",
+        "descrizione": "40 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 3 FLACONCINI + 3 FIALE 2 ML USO ENDOVENOSO O INTRAMUSCOLARE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "035631086",
+        "nome": "DYNASTAT",
+        "descrizione": "40 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 5 FLACONCINI + 5 FIALE 2 ML USO ENDOVENOSO O INTRAMUSCOLARE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "041808015",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 6,4 G/28 EROGAZIONI",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "041808027",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 10 FLACONI IN VETRO CON 6,4 G/28 EROGAZIONI",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "041808039",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "041808041",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 3 FLACONI IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "042705018",
+        "nome": "DYNEXAN",
+        "descrizione": "20 MG/G GEL GENGIVALE/PER MUCOSA ORALE- 1 TUBO IN AL DA 10 G",
+        "produttore": "CHEMISCHE FABRIK KREUSSLER & CO. GMBH"
+    },
+    {
+        "aic": "045019015",
+        "nome": "DYMAVIG",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "045019027",
+        "nome": "DYMAVIG",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "045019039",
+        "nome": "DYMAVIG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "045019041",
+        "nome": "DYMAVIG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "045019054",
+        "nome": "DYMAVIG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "045019066",
+        "nome": "DYMAVIG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 8 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "045859016",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "046754014",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "046754026",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "046754038",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "046761019",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "047119019",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047119021",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047825017",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825029",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825031",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825043",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825056",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825068",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825070",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825082",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825094",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825106",
+        "nome": "DYMAURIC",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825118",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825120",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825132",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825144",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825157",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PCTFE/PVC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825169",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825171",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825183",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825195",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047825207",
+        "nome": "DYMAURIC",
+        "descrizione": "120 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "047931011",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "047931023",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "048161018",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "048161020",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "048161032",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "048810016",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "048810028",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "048810030",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "048810055",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "048810067",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "048810079",
+        "nome": "DYMISTA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO CON 23 G/120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "050670013",
+        "nome": "DYSLIZET",
+        "descrizione": "10 MG COMPRESSE- 30 (3x10) COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EGIS PHARMACEUTICALS PLC"
+    },
+    {
+        "aic": "050670025",
+        "nome": "DYSLIZET",
+        "descrizione": "10 MG COMPRESSE- 60 (6x10) COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EGIS PHARMACEUTICALS PLC"
+    },
+    {
+        "aic": "050670037",
+        "nome": "DYSLIZET",
+        "descrizione": "10 MG COMPRESSE- 80 (8x10) COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EGIS PHARMACEUTICALS PLC"
+    },
+    {
+        "aic": "050670049",
+        "nome": "DYSLIZET",
+        "descrizione": "10 MG COMPRESSE- 90 (9x10) COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EGIS PHARMACEUTICALS PLC"
+    },
+    {
+        "aic": "050670052",
+        "nome": "DYSLIZET",
+        "descrizione": "10 MG COMPRESSE- 100 (10x10) COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EGIS PHARMACEUTICALS PLC"
+    },
+    {
+        "aic": "052091016",
+        "nome": "DYRUPEG",
+        "descrizione": "6 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,6 ml (10 mg/ml) - 1 siringa preriempita",
+        "produttore": "CURATEQ BIOLOGICS S.R.O"
+    }
+]

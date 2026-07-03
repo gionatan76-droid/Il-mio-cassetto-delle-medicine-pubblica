@@ -1,0 +1,3674 @@
+[
+    {
+        "aic": "026009011",
+        "nome": "LEVOPRAID",
+        "descrizione": "25 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026009023",
+        "nome": "LEVOPRAID",
+        "descrizione": "25MG/2ML SOLUZIONE INIETTABILE - 6 FIALE DA 2 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026009035",
+        "nome": "LEVOPRAID",
+        "descrizione": "25MG/ML GOCCE ORALI SOLUZIONE- FLACONE  CONTAGOCCE DA 20 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026009047",
+        "nome": "LEVOPRAID",
+        "descrizione": "100 MG COMPRESSE- BLISTER 20 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026009050",
+        "nome": "LEVOPRAID",
+        "descrizione": "50 MG COMPRESSE- BLISTER 20 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026009062",
+        "nome": "LEVOPRAID",
+        "descrizione": "50MG/2ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE ED ENDOVENOSO- 6 FIALE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026023010",
+        "nome": "DONA",
+        "descrizione": "250 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026023046",
+        "nome": "DONA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026023059",
+        "nome": "DONA",
+        "descrizione": "400 MG/3 ML CONCENTRATO E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE-6 FIALE CONCENTRATO 2 ML+6 FIALE SOLVENTE 1 ML CON 3,3% LIDOCAINA",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026023061",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026023085",
+        "nome": "DONA",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN FLACONE PE",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026023097",
+        "nome": "DONA",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM - 180 COMPRESSE IN FLACONE PE",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026023109",
+        "nome": "DONA",
+        "descrizione": "1500 MG POLVERE PER SOLUZIONE ORALE IN BUSTINA- 30 BUSTINE",
+        "produttore": "MEDA PHARMA S.P.A."
+    },
+    {
+        "aic": "026027021",
+        "nome": "CLORTANOL",
+        "descrizione": "125 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L."
+    },
+    {
+        "aic": "026029013",
+        "nome": "BRONCHO VAXOM",
+        "descrizione": "ADULTI 7 MG CAPSULE RIGIDE-  10 CAPSULE",
+        "produttore": "OMEDICAMED UNIPESSOAL LDA."
+    },
+    {
+        "aic": "026029037",
+        "nome": "BRONCHO VAXOM",
+        "descrizione": "BAMBINI 3,5 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "OMEDICAMED UNIPESSOAL LDA."
+    },
+    {
+        "aic": "026029064",
+        "nome": "BRONCHO VAXOM",
+        "descrizione": "ADULTI 7 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "OMEDICAMED UNIPESSOAL LDA."
+    },
+    {
+        "aic": "026029088",
+        "nome": "BRONCHO VAXOM",
+        "descrizione": "BAMBINI 3,5 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "OMEDICAMED UNIPESSOAL LDA."
+    },
+    {
+        "aic": "026029090",
+        "nome": "BRONCHO VAXOM",
+        "descrizione": "BAMBINI 3,5 MG GRANULATO PER SOSPENSIONE ORALE-  30 BUSTINE",
+        "produttore": "OMEDICAMED UNIPESSOAL LDA."
+    },
+    {
+        "aic": "026029102",
+        "nome": "BRONCHO VAXOM",
+        "descrizione": "BAMBINI 3,5 MG GRANULATO PER SOSPENSIONE ORALE- 10 BUSTINE",
+        "produttore": "OMEDICAMED UNIPESSOAL LDA."
+    },
+    {
+        "aic": "026043012",
+        "nome": "LOMEXIN",
+        "descrizione": "20 mg/g CREMA- TUBO 30 G",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026043063",
+        "nome": "LOMEXIN",
+        "descrizione": "20 mg/ml SPRAY CUTANEO, SOLUZIONE- FLACONE DA 30 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026043101",
+        "nome": "LOMEXIN",
+        "descrizione": "200 MG CAPSULE MOLLI VAGINALI- 6 CAPSULE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026043152",
+        "nome": "LOMEXIN",
+        "descrizione": "600 MG CAPSULE MOLLI VAGINALI- 2 CAPSULE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026043190",
+        "nome": "LOMEXIN",
+        "descrizione": "0,2% SOLUZIONE VAGINALE- 5 FLACONI 150 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026043202",
+        "nome": "LOMEXIN",
+        "descrizione": "1000 MG CAPSULE MOLLI VAGINALI- 2 CAPSULE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026043277",
+        "nome": "LOMEXIN",
+        "descrizione": "2% CREMA VAGINALE- TUBO DA 78 G + APPLICATORE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026045029",
+        "nome": "CANESTEN UNIDIE",
+        "descrizione": "1% crema> 1 tubo 30 g",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026045106",
+        "nome": "CANESTEN UNIDIE",
+        "descrizione": "1% crema>  1  tubo  pe/al  da  15  g  con applicatore",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026046019",
+        "nome": "DEFLAN",
+        "descrizione": "6 Mg compresse- 10x1 compresse in blister divisibile per dose unitaria in Al/PVC",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026046021",
+        "nome": "DEFLAN",
+        "descrizione": "30 Mg compresse- 10x1 compresse in blister divisibile per dose unitaria in Al/PVC",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026046033",
+        "nome": "DEFLAN",
+        "descrizione": "22,75 MG/ML GOCCE ORALI, SOSPENSIONE- Flacone in vetro da ml 13",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026046045",
+        "nome": "DEFLAN",
+        "descrizione": "22,75 MG/ML GOCCE ORALI, SOSPENSIONE- Flacone in vetro da ml 8",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026048090",
+        "nome": "AZOLMEN",
+        "descrizione": "1% CREMA-TUBO 30 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026048102",
+        "nome": "AZOLMEN",
+        "descrizione": "1% GEL-TUBO 30 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026048114",
+        "nome": "AZOLMEN",
+        "descrizione": "1% SOLUZIONE CUTANEA-FLACONE 30 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026048126",
+        "nome": "AZOLMEN",
+        "descrizione": "1% POLVERE CUTANEA-FLACONE 30 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026057012",
+        "nome": "CARTEOL",
+        "descrizione": "1% COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "026057024",
+        "nome": "CARTEOL",
+        "descrizione": "2% COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "026057036",
+        "nome": "CARTEOL",
+        "descrizione": "1% COLLIRIO, SOLUZIONE- 30 CONTENITORI MONODOSE",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "026057048",
+        "nome": "CARTEOL",
+        "descrizione": "2% COLLIRIO, SOLUZIONE- 30 CONTENITORI MONODOSE",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "026057051",
+        "nome": "CARTEOL",
+        "descrizione": "20 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 6 ML CON CONTAGOCCE ANTICONTAMINAZIONE",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "026064016",
+        "nome": "EQUITON",
+        "descrizione": "5MG/ML + 10MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "026065019",
+        "nome": "GLAMIDOLO",
+        "descrizione": "0,5% COLLIRIO, POLVERE E SOLVENTE PER SOLUZIONE-  FLACONE POLVERE + FLACONE SOLVENTE DA 5 ML",
+        "produttore": "OMNIVISION ITALIA SRL"
+    },
+    {
+        "aic": "026065021",
+        "nome": "GLAMIDOLO",
+        "descrizione": "0,25% COLLIRIO, POLVERE E SOLVENTE PER SOLUZIONE-  FLACONE POLVERE + FLACONE SOLVENTE DA 5 ML",
+        "produttore": "OMNIVISION ITALIA SRL"
+    },
+    {
+        "aic": "026068015",
+        "nome": "ADESITRIN",
+        "descrizione": "5 MG/24 H CEROTTI TRANSDERMICI- 15 CEROTTI TRANSDERMICI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026068027",
+        "nome": "ADESITRIN",
+        "descrizione": "10 MG/24 H CEROTTI TRANSDERMICI- 15 CEROTTI TRANSDERMICI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026070019",
+        "nome": "DEPONIT",
+        "descrizione": "5 MG/24 H CEROTTI TRANSDERMICI- 15 CEROTTI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026070021",
+        "nome": "DEPONIT",
+        "descrizione": "10 MG/24 H CEROTTI TRANSDERMICI- 15 CEROTTI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026073015",
+        "nome": "URSOFLOR",
+        "descrizione": "150 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "026073027",
+        "nome": "URSOFLOR",
+        "descrizione": "300 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "026073039",
+        "nome": "URSOFLOR",
+        "descrizione": "450 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "026073041",
+        "nome": "URSOFLOR",
+        "descrizione": "?500 MG COMPRESSA RIVESTITA CON FILM? 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "026073054",
+        "nome": "URSOFLOR",
+        "descrizione": "?500 MG COMPRESSA RIVESTITA CON FILM? 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "026089019",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 mg/125 mg compresse rivestite  con  film>  12 compresse in blister PVC/AL/PA-AL,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089108",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 mg/125 mg polvere  per  sospensione  orale  in bustine> 12 bustine,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089110",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (gusto fragola)> flacone da 35 ml con siringa dosatrice,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089122",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (gusto fragola)> flacone da 70 ml con cucchiaino dosatore,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089134",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (gusto fragola)> flacone da 140 ml con cucchiaino dosatore,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089146",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg polvere per sospensione orale in bustine> 12 bustine,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089211",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089223",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089235",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089247",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089250",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 16 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089262",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089274",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089286",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089298",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089300",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/PVC/PVDC",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089312",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL/PA-AL",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089351",
+        "nome": "AUGMENTIN",
+        "descrizione": "<875 mg/125 mg polvere  per  sospensione  orale  in bustine> 20 bustine,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089363",
+        "nome": "AUGMENTIN",
+        "descrizione": "<875 mg/125 mg polvere  per  sospensione  orale  in bustine> 30 bustine,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089464",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma frutti misti)> 1  flacone  da  35  ml  con  siringa  per somministrazione orale,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089476",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma frutti misti>  1  flacone  da  70  ml  con  siringa  per somministrazione orale,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089488",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma frutti misti)> 1 flacone  da  140  ml  con  siringa  per somministrazione orale,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089490",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma  frutti  misti)>  1  flacone  da  35  ml  con  cucchiaio dosatore,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089502",
+        "nome": "AUGMENTIN",
+        "descrizione": "bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma  frutti  misti)>  1  flacone  da  70  ml  con  cucchiaio dosatore,",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026089514",
+        "nome": "AUGMENTIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma frutti  misti)>  1  flacone  da  140  ml  con  cucchiaio dosatore.",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026102032",
+        "nome": "MAVERAL",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026102044",
+        "nome": "MAVERAL",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026104036",
+        "nome": "DUMIROX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026104048",
+        "nome": "DUMIROX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026109049",
+        "nome": "IPNOVEL",
+        "descrizione": "15 MG/3 ML SOLUZIONE INIETTABILE- 1 FIALA DA 3 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026114013",
+        "nome": "DIPRIVAN",
+        "descrizione": "10 MG/ML EMULSIONE INIETTABILE PER USO ENDOVENOSO- 5 FIALE DA 20 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026114025",
+        "nome": "DIPRIVAN",
+        "descrizione": "10 MG/ML EMULSIONE PER INFUSIONE- 1 FLACONCINO DA 50 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026114049",
+        "nome": "DIPRIVAN",
+        "descrizione": "10 MG/ML EMULSIONE PER INFUSIONE- 1 SIRINGA PRERIEMPITA DA 20 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026114052",
+        "nome": "DIPRIVAN",
+        "descrizione": "10 MG/ML EMULSIONE PER INFUSIONE- 1 SIRINGA PRERIEMPITA DA 50 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026114064",
+        "nome": "DIPRIVAN",
+        "descrizione": "20 MG/ML EMULSIONE PER INFUSIONE- 1 SIRINGA PRERIEMPITA DA 10 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026114076",
+        "nome": "DIPRIVAN",
+        "descrizione": "20 MG/ML EMULSIONE PER INFUSIONE- 1 SIRINGA PRERIEMPITA DA 50 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026114088",
+        "nome": "DIPRIVAN",
+        "descrizione": "20 MG/ML EMULSIONE PER INFUSIONE- 1 FLACONE DA 50 ML",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026129015",
+        "nome": "GLIBOMET",
+        "descrizione": "<400 MG + 2,5 MG COMPRESSE RIVESTITE CON  FILM> 40 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026129027",
+        "nome": "GLIBOMET",
+        "descrizione": "<400 MG + 2,5 MG COMPRESSE RIVESTITE CON  FILM> 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026129039",
+        "nome": "GLIBOMET",
+        "descrizione": "<400 MG + 5 MG COMPRESSE RIVESTITE CON FILM> 40 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026129041",
+        "nome": "GLIBOMET",
+        "descrizione": "<400 MG + 5 MG COMPRESSE RIVESTITE CON FILM> 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026138139",
+        "nome": "CLAVULIN",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026138192",
+        "nome": "CLAVULIN",
+        "descrizione": "<875 mg/125 mg polvere  per  sospensione  orale  in bustine> 12 bustine",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026138204",
+        "nome": "CLAVULIN",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere per  sospensione orale (aroma frutti misti)> flacone da 35 ml con siringa dosatrice",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026138216",
+        "nome": "CLAVULIN",
+        "descrizione": "<bambini  400  mg/57  mg/5   ml   polvere   per sospensione orale (aroma frutti misti)> flacone da 70 ml con  siringa dosatrice",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026138228",
+        "nome": "CLAVULIN",
+        "descrizione": "<bambini  400  mg/57  mg/5   ml   polvere   per sospensione orale (aroma frutti misti)> flacone da 140 ml con siringa dosatrice",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026138230",
+        "nome": "CLAVULIN",
+        "descrizione": "<bambini 400 mg/57 mg polvere per sospensione orale in bustine> 12 bustine",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "026141147",
+        "nome": "NEODUPLAMOX",
+        "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026141198",
+        "nome": "NEODUPLAMOX",
+        "descrizione": "875 MG/125 MG POLVERE PER SOSPENSIONE ORALE- 12 BUSTINE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026141200",
+        "nome": "NEODUPLAMOX",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere  per sospensione orale (aroma frutti misti)> flacone  35  ml  con  siringa dosatrice",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026141212",
+        "nome": "NEODUPLAMOX",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere  per sospensione orale (aroma frutti misti)> flacone  70  ml  con  siringa dosatrice",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026141224",
+        "nome": "NEODUPLAMOX",
+        "descrizione": "<bambini 400 mg/57 mg/5 ml polvere  per sospensione orale (aroma frutti misti)> flacone 140  ml  con  siringa dosatrice",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026141236",
+        "nome": "NEODUPLAMOX",
+        "descrizione": "BAMBINI 400 MG/57 MG POLVERE PER SOSPENSIONE ORALE- 12 BUSTINE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026152013",
+        "nome": "EMMETRE",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "026152025",
+        "nome": "EMMETRE",
+        "descrizione": "20 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "026152037",
+        "nome": "EMMETRE",
+        "descrizione": "10 MG/1 ML SOLUZIONE INIETTABILE- 6 FIALE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "026171013",
+        "nome": "IMOVAX TETANO",
+        "descrizione": "SOSPENSIONE INIETTABILE- SIRINGA PRERIEMPITA DA 0,5 ML",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "026185049",
+        "nome": "TATIONIL",
+        "descrizione": "600 MG/4 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 10 FLACONCINI POLVERE + 10 FIALE SOLVENTE 4 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026195091",
+        "nome": "UROCHINASI EG",
+        "descrizione": "25.000 U.I./2 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "026195103",
+        "nome": "UROCHINASI EG",
+        "descrizione": "100.000 U.I./2 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "026195115",
+        "nome": "UROCHINASI EG",
+        "descrizione": "250.000 U.I./5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 5 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "026195127",
+        "nome": "UROCHINASI EG",
+        "descrizione": "500.000 U.I./5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 5 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "026195139",
+        "nome": "UROCHINASI EG",
+        "descrizione": "1.000.000 U.I./5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 5 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "026210031",
+        "nome": "NATISPRAY",
+        "descrizione": "0,30 MG/DOSE SPRAY SUBLINGUALE-CONTENITORE SOTTOPRESSIONE 300 DOSI",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026214015",
+        "nome": "PERIPLUM",
+        "descrizione": "30 MG COMPRESSE RIVESTITE- 36 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026214039",
+        "nome": "PERIPLUM",
+        "descrizione": "30 MG/0,75 ML GOCCE ORALI, SOLUZIONE- FLACONE 25 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026224016",
+        "nome": "ISMIGEN",
+        "descrizione": "50 MG COMPRESSE SUBLINGUALI 30 COMPRESSE",
+        "produttore": "LALLEMAND PHARMA EUROPE"
+    },
+    {
+        "aic": "026270076",
+        "nome": "FLUXUM",
+        "descrizione": "3.200 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE 0,3 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270088",
+        "nome": "FLUXUM",
+        "descrizione": "4.250 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE 0,4 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270090",
+        "nome": "FLUXUM",
+        "descrizione": "6.400 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE 0,6 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270114",
+        "nome": "FLUXUM",
+        "descrizione": "8.500 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE PRERIEMPITE 0,8 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270126",
+        "nome": "FLUXUM",
+        "descrizione": "8.500 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE 0,8 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270138",
+        "nome": "FLUXUM",
+        "descrizione": "12.800 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE PRERIEMPITE 1 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270140",
+        "nome": "FLUXUM",
+        "descrizione": "3.200 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE DA 0,3 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270153",
+        "nome": "FLUXUM",
+        "descrizione": "4.250 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE DA 0,4 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270165",
+        "nome": "FLUXUM",
+        "descrizione": "6.400 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE DA 0,6 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270177",
+        "nome": "FLUXUM",
+        "descrizione": "8.500 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE PRERIEMPITE DA 0,8 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270189",
+        "nome": "FLUXUM",
+        "descrizione": "8.500 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE PRERIEMPITE DA 0,8 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026270191",
+        "nome": "FLUXUM",
+        "descrizione": "12.800 U.I. AXA SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE PRERIEMPITE DA 1 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026283061",
+        "nome": "ERDOTIN",
+        "descrizione": "300 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026283073",
+        "nome": "ERDOTIN",
+        "descrizione": "225 MG GRANULATO PER SOSPENSIONE ORALE- 20 BUSTINE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026283111",
+        "nome": "ERDOTIN",
+        "descrizione": "300 MG COMPRESSE DISPERSIBILI- 20 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026286029",
+        "nome": "MINULET",
+        "descrizione": "0,075 MG + 0,03 MG COMPRESSE RIVESTITE- 21 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026297010",
+        "nome": "BIDIEN",
+        "descrizione": "0,025% CREMA- TUBO 30 G",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "026297022",
+        "nome": "BIDIEN",
+        "descrizione": "0,025% UNGUENTO-TUBO 30 G",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "026297034",
+        "nome": "BIDIEN",
+        "descrizione": "0,025% SOLUZIONE CUTANEA-FLACONE 30 ML",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "026343018",
+        "nome": "LENDORMIN",
+        "descrizione": "0,25 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "BOEHRINGER INGELHEIM ITALIA S.P.A."
+    },
+    {
+        "aic": "026346039",
+        "nome": "GLIPRESSINA",
+        "descrizione": "0,1 MG/ML SOLUZIONE INIETTABILE - 5 FIALE DA 8,5 ML",
+        "produttore": "FERRING S.P.A."
+    },
+    {
+        "aic": "026349035",
+        "nome": "HEMOVASAL",
+        "descrizione": "1% CREMA- TUBO 30 G",
+        "produttore": "FAR.G.IM. S.R.L."
+    },
+    {
+        "aic": "026354011",
+        "nome": "HYALGAN",
+        "descrizione": "20 MG/2 ML SOLUZIONE INIETTABILE USO INTRA-ARTICOLARE- 1 FLACONCINO 2 ML",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026354023",
+        "nome": "HYALGAN",
+        "descrizione": "20 MG/2 ML SOLUZIONE INIETTABILE USO INTRA-ARTICOLARE- 5 FLACONCINI 2 ML",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026354035",
+        "nome": "HYALGAN",
+        "descrizione": "20 MG/2 ML SOLUZIONE INIETTABILE USO INTRA-ARTICOLARE- 1 SIRINGA PRERIEMPITA 2 ML",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026354047",
+        "nome": "HYALGAN",
+        "descrizione": "20 MG/2 ML SOLUZIONE INIETTABILE USO INTRA-ARTICOLARE- 5 SIRINGHE PRERIEMPITE 2 ML",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026354050",
+        "nome": "HYALGAN",
+        "descrizione": "20 MG/2 ML SOLUZIONE INIETTABILE PER USO ARTICOLARE- 3 SIRINGHE STERILI PRE-RIEMPITE MONOUSO DA 20 MG/2 ML",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026360053",
+        "nome": "UNASYN",
+        "descrizione": "375 MG COMPRESSE RIVESTITE- 12 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026360077",
+        "nome": "UNASYN",
+        "descrizione": "750 MG COMPRESSE RIVESTITE- 8 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026360089",
+        "nome": "UNASYN",
+        "descrizione": "1  G+2  G  POLVERE   PER   SOLUZIONE INIETTABILE PER USO ENDOVENOSO> 1 FLACONE POLVERE DA 3 G",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026360091",
+        "nome": "UNASYN",
+        "descrizione": "500 MG + 1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO DI POLVERE IN VETRO",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026360103",
+        "nome": "UNASYN",
+        "descrizione": "250 MG + 500 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO DI POLVERE IN VETRO",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026362020",
+        "nome": "MOTILEX",
+        "descrizione": "0,5 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "ALMIRALL S.A."
+    },
+    {
+        "aic": "026362032",
+        "nome": "MOTILEX",
+        "descrizione": "0,5 MG/5 ML SCIROPPO-1 FLACONE 120 ML",
+        "produttore": "ALMIRALL S.A."
+    },
+    {
+        "aic": "026362057",
+        "nome": "MOTILEX",
+        "descrizione": "1 MG/2 ML SOLUZIONE INIETTABILE- 6 FIALE DA 2 ML",
+        "produttore": "ALMIRALL S.A."
+    },
+    {
+        "aic": "026368050",
+        "nome": "PASADEN",
+        "descrizione": "0,5 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "FARMAKA S.R.L."
+    },
+    {
+        "aic": "026368062",
+        "nome": "PASADEN",
+        "descrizione": "1 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "FARMAKA S.R.L."
+    },
+    {
+        "aic": "026368086",
+        "nome": "PASADEN",
+        "descrizione": "0,5 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 30 ML",
+        "produttore": "FARMAKA S.R.L."
+    },
+    {
+        "aic": "026371017",
+        "nome": "ZERINODEK DECONGESTIONANTE NASALE",
+        "descrizione": "0,1% SPRAY NASALE, SOLUZIONE- FLACONE 10 G",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026371029",
+        "nome": "ZERINODEK DECONGESTIONANTE NASALE",
+        "descrizione": "0,1% GEL NASALE- TUBO 15 G",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026372033",
+        "nome": "CLASTEON",
+        "descrizione": "300 MG/10ML CONCENTRATO PER SOLUZIONE PER INFUSIONE-6 FIALE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026372045",
+        "nome": "CLASTEON",
+        "descrizione": "300 MG/10ML CONCENTRATO PER SOLUZIONE PER INFUSIONE-12 FIALE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026372058",
+        "nome": "CLASTEON",
+        "descrizione": "400 MG CAPSULE RIGIDE-10 CAPSULE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026372072",
+        "nome": "CLASTEON",
+        "descrizione": "100 MG/3,3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 6 FIALE 3,3 ML",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026372084",
+        "nome": "CLASTEON",
+        "descrizione": "100 MG/3,3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 12 FIALE 3,3 ML",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026372096",
+        "nome": "CLASTEON",
+        "descrizione": "200 MG/4 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 3 FIALE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026372108",
+        "nome": "CLASTEON",
+        "descrizione": "200 MG/4 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 6 FIALE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026380016",
+        "nome": "ANSEREN",
+        "descrizione": "45 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "026380028",
+        "nome": "ANSEREN",
+        "descrizione": "30 MG CAPSULE RIGIDE- 15 CAPSULE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "026380030",
+        "nome": "ANSEREN",
+        "descrizione": "15 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "026381020",
+        "nome": "PROSTIN VR",
+        "descrizione": "IV 1 FIALA 1 ML 0,5 MG/ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026403016",
+        "nome": "NIMOTOP",
+        "descrizione": "30 MG COMPRESSE RIVESTITE- 36 COMPRESSE",
+        "produttore": "LABORATOIRE X.O"
+    },
+    {
+        "aic": "026403055",
+        "nome": "NIMOTOP",
+        "descrizione": "30 MG/0,75 ML GOCCE ORALI, SOLUZIONE- 1 FLACONE 25 ML",
+        "produttore": "LABORATOIRE X.O"
+    },
+    {
+        "aic": "026403079",
+        "nome": "NIMOTOP",
+        "descrizione": "10 MG/50 ML SOLUZIONE PER INFUSIONE - FLACONE DA 50 ML",
+        "produttore": "LABORATOIRE X.O"
+    },
+    {
+        "aic": "026415048",
+        "nome": "VENBIG",
+        "descrizione": "500 U.I./10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE-1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE  10  ML+SET INFUSIONALE",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "026415051",
+        "nome": "VENBIG",
+        "descrizione": "2500 UI/50 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 45 ML + SET INFUSIONALE",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "026416014",
+        "nome": "ASACOL",
+        "descrizione": "400 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416091",
+        "nome": "ASACOL",
+        "descrizione": "2 G GRANULATO PER SOSPENSIONE RETTALE- 10 BUSTINE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416127",
+        "nome": "ASACOL",
+        "descrizione": "500 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416139",
+        "nome": "ASACOL",
+        "descrizione": "500 MG SUPPOSTE- 20 SUPPOSTE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416141",
+        "nome": "ASACOL",
+        "descrizione": "2 G/50 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE 50 ML",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416154",
+        "nome": "ASACOL",
+        "descrizione": "4 G/100 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE 100 ML",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416166",
+        "nome": "ASACOL",
+        "descrizione": "4 G/50 ML SOSPENSIONE RETTALE- 7 CONTENITORI MONODOSE 50 ML",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416216",
+        "nome": "ASACOL",
+        "descrizione": "2 G SCHIUMA RETTALE- 7 CONTENITORI MONODOSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416230",
+        "nome": "ASACOL",
+        "descrizione": "4 G SCHIUMA RETTALE- CONTENITORE MONODOSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416242",
+        "nome": "ASACOL",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI- 24 COMPRESSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416255",
+        "nome": "ASACOL",
+        "descrizione": "400 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 50 CAPSULE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416267",
+        "nome": "ASACOL",
+        "descrizione": "1 G SCHIUMA RETTALE- 1 CONTENITORE DA 14 DOSI",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416279",
+        "nome": "ASACOL",
+        "descrizione": "1 G SCHIUMA RETTALE- 2 CONTENITORI DA 14 DOSI",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416293",
+        "nome": "ASACOL",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI- 96 COMPRESSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416305",
+        "nome": "ASACOL",
+        "descrizione": "1 G SUPPOSTE- 28 SUPPOSTE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416317",
+        "nome": "ASACOL",
+        "descrizione": "800 MG COMPRESSE GASTRORESISTENTI - 60 COMPRESSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026416329",
+        "nome": "ASACOL",
+        "descrizione": "400 MG COMPRESSE GASTRORESISTENTE - 60 COMPRESSE",
+        "produttore": "GIULIANI SPA"
+    },
+    {
+        "aic": "026419010",
+        "nome": "ALTAN",
+        "descrizione": "30 MG COMPRESSA RIVESTITA CON FILM- 20 COMPRESSE",
+        "produttore": "FARMAKA S.R.L."
+    },
+    {
+        "aic": "026420048",
+        "nome": "FLAMINASE",
+        "descrizione": "20 COMPRESSE 30 MG",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "026422028",
+        "nome": "IMMUBRON",
+        "descrizione": "50 MG COMPRESSE SUBLINGUALI- 30 COMPRESSE",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "026435038",
+        "nome": "GINODEN",
+        "descrizione": "0,075 MG + 0,03 MG COMPRESSE RIVESTITE- 21 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026446056",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026446118",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE -6 COMPRESSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026446120",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026446132",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE EFFERVESCENTI- 6 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN AL/AL",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026446144",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN AL/AL",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026446157",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN AL/AL",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026446169",
+        "nome": "BREXIN",
+        "descrizione": "20 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN AL/AL",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "026458012",
+        "nome": "TARGOSID",
+        "descrizione": "200 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE/INFUSIONE O SOLUZIONE ORALE-1 FLACONCINO POLVERE +  1 FIALA SOLVENTE 3 ML",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026458024",
+        "nome": "TARGOSID",
+        "descrizione": "400 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE/INFUSIONE O SOLUZIONE ORALE-1 FLACONCINO POLVERE +  1 FIALA SOLVENTE 3 ML",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026471019",
+        "nome": "ZOLADEX",
+        "descrizione": "3,6 MG IMPIANTO A RILASCIO PROLUNGATO PER USO SOTTOCUTANEO- 1 SIRINGA PRERIEMPITA",
+        "produttore": "ASTRAZENECA S.P.A."
+    },
+    {
+        "aic": "026471021",
+        "nome": "ZOLADEX",
+        "descrizione": "10,8MG IMPIANTO A RILASCIO PROLUNGATO PER USO SOTTOCUTANEO- 1 SIRINGA PRERIEMPITA",
+        "produttore": "ASTRAZENECA S.P.A."
+    },
+    {
+        "aic": "026487013",
+        "nome": "ELMEX",
+        "descrizione": "GEL DENTALE- TUBO 25 G",
+        "produttore": "COLGATE - PALMOLIVE COMMERCIALE S.R.L."
+    },
+    {
+        "aic": "026487025",
+        "nome": "ELMEX",
+        "descrizione": "GEL DENTALE- TUBO 215 G",
+        "produttore": "COLGATE - PALMOLIVE COMMERCIALE S.R.L."
+    },
+    {
+        "aic": "026488015",
+        "nome": "CYTOTEC",
+        "descrizione": "200 MCG COMPRESSE-50 COMPRESSE",
+        "produttore": "PFIZER S.R.L."
+    },
+    {
+        "aic": "026510038",
+        "nome": "DIFOSFONAL",
+        "descrizione": "300 MG/10 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE-- 6 FIALE 10 ML",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026510040",
+        "nome": "DIFOSFONAL",
+        "descrizione": "300 MG/10 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 12 FIALE 10 ML",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026510053",
+        "nome": "DIFOSFONAL",
+        "descrizione": "400 mg capsule rigide> 10 capsule",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026510077",
+        "nome": "DIFOSFONAL",
+        "descrizione": "100 MG/3,3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%-   6 FIALE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026510089",
+        "nome": "DIFOSFONAL",
+        "descrizione": "100 MG/3,3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%-  12 FIALE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026510091",
+        "nome": "DIFOSFONAL",
+        "descrizione": "200 MG/4ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 3 FIALE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026510103",
+        "nome": "DIFOSFONAL",
+        "descrizione": "200 MG/4ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 6 FIALE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026520015",
+        "nome": "KRYPTOCUR",
+        "descrizione": "0,2 MG/DOSE SPRAY NASALE, SOLUZIONE- 2 FLACONI  10 G + 2 EROGATORI",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026525042",
+        "nome": "VEROLAX",
+        "descrizione": "2,25 G BAMBINI SOLUZIONE RETTALE- 6 CONTENITORI MONODOSE DA 3 G",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026525055",
+        "nome": "VEROLAX",
+        "descrizione": "6,75 G ADULTI SOLUZIONE RETTALE- 6 CONTENITORI MONODOSE DA 9 G",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026525081",
+        "nome": "VEROLAX",
+        "descrizione": "0,675 G LATTANTI SUPPOSTE- 12 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026525093",
+        "nome": "VEROLAX",
+        "descrizione": "2,25 G ADULTI SUPPOSTE- 18 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026525105",
+        "nome": "VEROLAX",
+        "descrizione": "1,375 G BAMBINI SUPPOSTE- 18 SUPPOSTE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026533036",
+        "nome": "ACTILYSE",
+        "descrizione": "10 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE E PER INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 10 ML",
+        "produttore": "BOEHRINGER INGELHEIM ITALIA S.P.A."
+    },
+    {
+        "aic": "026533048",
+        "nome": "ACTILYSE",
+        "descrizione": "50 MG/50 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE E PER INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 50 ML",
+        "produttore": "BOEHRINGER INGELHEIM ITALIA S.P.A."
+    },
+    {
+        "aic": "026533051",
+        "nome": "ACTILYSE",
+        "descrizione": "20 MG/20 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE E PER INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 20 ML",
+        "produttore": "BOEHRINGER INGELHEIM ITALIA S.P.A."
+    },
+    {
+        "aic": "026533099",
+        "nome": "ACTILYSE",
+        "descrizione": "2 MG POLVERE PER SOLUZIONE INIETTABILE E PER INFUSIONE- 5 FLACONCINI IN VETRO DA 2 MG POLVERE",
+        "produttore": "BOEHRINGER INGELHEIM ITALIA S.P.A."
+    },
+    {
+        "aic": "026542047",
+        "nome": "FLUOROURACILE TEVA",
+        "descrizione": "1 G/20 ML SOLUZIONE PER INFUSIONE- 1 FLACONCINO DA 20 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026542050",
+        "nome": "FLUOROURACILE TEVA",
+        "descrizione": "5 G/100 ML SOLUZIONE PER INFUSIONE - 1 FLACONCINO DA 100 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026542062",
+        "nome": "FLUOROURACILE TEVA",
+        "descrizione": "250 MG/5 ML SOLUZIONE PER INFUSIONE - 1 FLACONCINO DA 5 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026542074",
+        "nome": "FLUOROURACILE TEVA",
+        "descrizione": "500 MG/10 ML SOLUZIONE PER INFUSIONE - 1 FLACONCINO DA 10 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026544027",
+        "nome": "METOTRESSATO TEVA",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE-1 FLACONCINO 2 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026544039",
+        "nome": "METOTRESSATO TEVA",
+        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE-1  FLACONCINO 20 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026544041",
+        "nome": "METOTRESSATO TEVA",
+        "descrizione": "100 MG/ML SOLUZIONE INIETTABILE- 1   FLACONCINO DA 10 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026544054",
+        "nome": "METOTRESSATO TEVA",
+        "descrizione": "100 MG/ML SOLUZIONE INIETTABILE- 1   FLACONCINO DA 50 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "026563080",
+        "nome": "EBRANTIL",
+        "descrizione": "50 MG/10 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO E PER INFUSIONE- 5 FIALE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026564070",
+        "nome": "BRONCHENOLO SEDATIVO E FLUIDIFICANTE",
+        "descrizione": "1,5 MG/ML + 10 MG/ML SCIROPPO- FLACONE 150 ML",
+        "produttore": "PERRIGO ITALIA S.R.L."
+    },
+    {
+        "aic": "026564094",
+        "nome": "BRONCHENOLO SEDATIVO E FLUIDIFICANTE",
+        "descrizione": "7,5 MG + 55 MG PASTIGLIE GUSTO MENTA- 20 PASTIGLIE",
+        "produttore": "PERRIGO ITALIA S.R.L."
+    },
+    {
+        "aic": "026573016",
+        "nome": "CONCOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026586014",
+        "nome": "FENIDINA",
+        "descrizione": "30  MG COMPRESSE RIVESTITE CON FILM A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "026586026",
+        "nome": "FENIDINA",
+        "descrizione": "60  MG COMPRESSE RIVESTITE CON FILM A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "026591026",
+        "nome": "VISUCLOBEN",
+        "descrizione": "1 MG/ML COLLIRIO, SOSPENSIONE- 1 FLACONE DA 10 ML",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "026600078",
+        "nome": "HAEMATE P",
+        "descrizione": "1000 UI/15 ML POLVERE E SOLVENTE PER SOLUZIONE PER INIEZIONE O INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 15 ML + SET INFUSIONALE",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "026600080",
+        "nome": "HAEMATE P",
+        "descrizione": "500 UI/10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INIEZIONE O INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 10 ML + SET INFUSIONALE",
+        "produttore": "CSL BEHRING GMBH"
+    },
+    {
+        "aic": "026608036",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608075",
+        "nome": "EFFERALGAN",
+        "descrizione": "330 MG COMPRESSE EFFERVESCENTI CON VITAMINA C- 20 COMPRESSE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608087",
+        "nome": "EFFERALGAN",
+        "descrizione": "LATTANTI 80 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608099",
+        "nome": "EFFERALGAN",
+        "descrizione": "PRIMA INFANZIA 150 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608101",
+        "nome": "EFFERALGAN",
+        "descrizione": "BAMBINI 300 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608125",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE- 16 COMPRESSE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608214",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE RIVESTITE CON FILM - 16 COMPRESSE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608240",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE AROMA POMPELMO E ARANCIA IN FILM TERMOSALDATO AL/PE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608253",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI AROMA FRUTTI DI BOSCO- 16 COMPRESSE IN TUBO PP",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608265",
+        "nome": "EFFERALGAN",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE AROMA POMPELMO E ARANCIA IN STRIP AL/PE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608277",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE IN STRIP AL/PE",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026608289",
+        "nome": "EFFERALGAN",
+        "descrizione": "500 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/PVC",
+        "produttore": "UPSA SAS"
+    },
+    {
+        "aic": "026609014",
+        "nome": "BRONCHO MUNAL",
+        "descrizione": "ADULTI 7 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026609026",
+        "nome": "BRONCHO MUNAL",
+        "descrizione": "ADULTI 7 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026609038",
+        "nome": "BRONCHO MUNAL",
+        "descrizione": "BAMBINI 3,5 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026609040",
+        "nome": "BRONCHO MUNAL",
+        "descrizione": "BAMBINI 3,5 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026609053",
+        "nome": "BRONCHO MUNAL",
+        "descrizione": "BAMBINI 3,5 MG GRANULATO IN BUSTINA- 30 BUSTINE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026609065",
+        "nome": "BRONCHO MUNAL",
+        "descrizione": "BAMBINI 3,5 MG GRANULATO IN BUSTINA- 10 BUSTINE",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026613048",
+        "nome": "COLPOTROPHINE",
+        "descrizione": "1% CREMA VAGINALE- 1 TUBO DA 30 G + APPLICATORE",
+        "produttore": "THERAMEX IRELAND LIMITED"
+    },
+    {
+        "aic": "026613051",
+        "nome": "COLPOTROPHINE",
+        "descrizione": "10 MG CAPSULE VAGINALI - 20 CAPSULE",
+        "produttore": "THERAMEX IRELAND LIMITED"
+    },
+    {
+        "aic": "026630020",
+        "nome": "IRIDINA DUE",
+        "descrizione": "0,5 MG/ML COLLIRIO, SOLUZIONE - FLACONE 10 ML",
+        "produttore": "MONTEFARMACO OTC S.P.A."
+    },
+    {
+        "aic": "026642052",
+        "nome": "BORNILENE",
+        "descrizione": "30 MG/ML SOSPENSIONE SPRAY PER MUCOSA ORALE- 1 FLACONE NEBULIZZATORE DA 30 ML",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "026653016",
+        "nome": "ENGERIX B",
+        "descrizione": "1 FLAC. MONODOSE + SIRINGA",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653028",
+        "nome": "ENGERIX B",
+        "descrizione": "1 FLAC. MONODOSE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653030",
+        "nome": "ENGERIX B",
+        "descrizione": "10 FLAC. MONODOSE + SIRINGHE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653042",
+        "nome": "ENGERIX B",
+        "descrizione": "25 FLAC. MONODOSE + SIRINGHE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653055",
+        "nome": "ENGERIX B",
+        "descrizione": "BB 1 FLAC. 10 MCG + SIRINGA",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653067",
+        "nome": "ENGERIX B",
+        "descrizione": "BB 25 FLAC.10 MCG + 25 SIRINGHE",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653079",
+        "nome": "ENGERIX B",
+        "descrizione": "SIRINGA PRERIEMPITA SOSP INIETT 1ML/20MCG",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653081",
+        "nome": "ENGERIX B",
+        "descrizione": "10 SIRINGHE PRERIEMPITE SOSP INIETT 1ML/20MCG",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653093",
+        "nome": "ENGERIX B",
+        "descrizione": "SIRINGA PRERIEMPITA SOSP INIETT 0,5ML/10MCG",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653105",
+        "nome": "ENGERIX B",
+        "descrizione": "10 SIRINGHE PRERIEMPITE SOSP INIETT 0,5ML/10MCG",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653117",
+        "nome": "ENGERIX B",
+        "descrizione": "10 MICROGRAMMI/0,5 ML SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 0,5 ML CON 2 AGHI SEPARATI",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653129",
+        "nome": "ENGERIX B",
+        "descrizione": "10 MICROGRAMMI/0,5 ML SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 0,5 ML SENZA AGO SEPARATO",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026653131",
+        "nome": "ENGERIX B",
+        "descrizione": "10 MICROGRAMMI/0,5 ML SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,5 ML CON 10 AGHI SEPARATI",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "026663017",
+        "nome": "FLONTALEXIN",
+        "descrizione": "250 MG COMPRESSE RIVESTITE- 10 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "026663029",
+        "nome": "FLONTALEXIN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 6 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "026663056",
+        "nome": "FLONTALEXIN",
+        "descrizione": "750 MG COMPRESSE RIVESTITE- 12 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "026664019",
+        "nome": "CIPROXIN",
+        "descrizione": "250 MG COMPRESSE RIVESTITE- 10 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026664021",
+        "nome": "CIPROXIN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE- 6 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026664045",
+        "nome": "CIPROXIN",
+        "descrizione": "200 MG/100 ML SOLUZIONE PER INFUSIONE- 1 FLACONE DA 100 ML",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026664072",
+        "nome": "CIPROXIN",
+        "descrizione": "FLACONE 100 ML SOSPENSIONE ORALE 10%",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026664084",
+        "nome": "CIPROXIN",
+        "descrizione": "250 MG/5 ML POLVERE E SOLVENTE PER SOSPENSIONE ORALE- 1 FLACONE DA 100 ML",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026664134",
+        "nome": "CIPROXIN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE - 14 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026670024",
+        "nome": "MITTOVAL",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026670048",
+        "nome": "MITTOVAL",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO-  20 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026670051",
+        "nome": "MITTOVAL",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026673057",
+        "nome": "NABUSER",
+        "descrizione": "1 G COMPRESSE RIVESTITE- 30 COMPRESSE IN BLISTER",
+        "produttore": "PHARMADAY PHARMACEUTICAL S.R.L. UNIPERSONALE"
+    },
+    {
+        "aic": "026673069",
+        "nome": "NABUSER",
+        "descrizione": "1 G GRANULATO PER SOSPENSIONE ORALE- 30 BUSTINE",
+        "produttore": "PHARMADAY PHARMACEUTICAL S.R.L. UNIPERSONALE"
+    },
+    {
+        "aic": "026675013",
+        "nome": "DILTIAZEM MYLAN GENERICS ITALIA",
+        "descrizione": "60 MG COMPRESSE-50 COMPRESSE",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "026675025",
+        "nome": "DILTIAZEM MYLAN GENERICS ITALIA",
+        "descrizione": "120 MG COMPRESSE A RILASCIO PROLUNGATO- 24 COMPRESSE",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "026675049",
+        "nome": "DILTIAZEM MYLAN GENERICS ITALIA",
+        "descrizione": "300 MG COMPRESSE A RILASCIO PROLUNGATO, 14 COMPRESSE",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "026688034",
+        "nome": "SUSTEMIAL",
+        "descrizione": "650 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE EFFERVESCENTI",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026688046",
+        "nome": "SUSTEMIAL",
+        "descrizione": "650 MG COMPRESSE EFFERVESCENTI- 60 COMPRESSE EFFERVESCENTI",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026689051",
+        "nome": "CROMATONFERRO",
+        "descrizione": "80 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE EFFERVESCENTI",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026689063",
+        "nome": "CROMATONFERRO",
+        "descrizione": "BLISTER 60 CPR EFFERV 695 MG USO ORALE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026695015",
+        "nome": "STILNOX",
+        "descrizione": "10 mg compresse rivestite  con  film- 30 compresse in blister PVC/PVC-Al",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026695027",
+        "nome": "STILNOX",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 20 compresse in blister PVC/PVC-Al",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026695041",
+        "nome": "STILNOX",
+        "descrizione": "10 mg compresse rivestite con film- 14 compresse",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026695054",
+        "nome": "STILNOX",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVC-AL",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026696031",
+        "nome": "GLUCOFERRO",
+        "descrizione": "650 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE EFFERVESCENTI",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026696043",
+        "nome": "GLUCOFERRO",
+        "descrizione": "650 MG COMPRESSE EFFERVESCENTI- 60 COMPRESSE EFFERVESCENTI",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "026697058",
+        "nome": "RETROVIR",
+        "descrizione": "100 MG/10ML SOLUZIONE ORALE/SCIROPPO- FLACONE 200 ML CON SIRINGA DOSATRICE DA 10 ML",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "026697072",
+        "nome": "RETROVIR",
+        "descrizione": "10 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI DA 20 ML",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "026697134",
+        "nome": "RETROVIR",
+        "descrizione": "100MG/10ML SOLUZIONE ORALE- FLACONE DA 200ML CON SIRINGA DOSATRICE DA 1 ML PER NEONATI",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "026697146",
+        "nome": "RETROVIR",
+        "descrizione": "100 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "026697159",
+        "nome": "RETROVIR",
+        "descrizione": "250 MG CAPSULE RIGIDE- 40 CAPSULE IN BLISTER PVC/AL",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "026707036",
+        "nome": "TUDCABIL",
+        "descrizione": "250 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "026721035",
+        "nome": "ASPIRINETTA",
+        "descrizione": "100 MG COMPRESSE- 24 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026721100",
+        "nome": "ASPIRINETTA",
+        "descrizione": "100 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026725010",
+        "nome": "REGAINE",
+        "descrizione": "2% SOLUZIONE CUTANEA- FLACONE DA 60 ML",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "026725034",
+        "nome": "REGAINE",
+        "descrizione": "5% SOLUZIONE CUTANEA- FLACONE 60 ML",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "026725046",
+        "nome": "REGAINE",
+        "descrizione": "5% SCHIUMA CUTANEA- 1 CONTENITORE SOTTO PRESSIONE DA 60 ML",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "026725059",
+        "nome": "REGAINE",
+        "descrizione": "5% SCHIUMA CUTANEA- 3 CONTENITORI SOTTO PRESSIONE DA 60 ML",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "026727014",
+        "nome": "RULID",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "026727040",
+        "nome": "RULID",
+        "descrizione": "300 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "026729018",
+        "nome": "MINOXIMEN",
+        "descrizione": "2% SOLUZIONE CUTANEA- FLACONE 60 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026729032",
+        "nome": "MINOXIMEN",
+        "descrizione": "5% SOLUZIONE CUTANEA- FLACONE 60 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026738017",
+        "nome": "SELEPARINA",
+        "descrizione": "2.850 UI ANTIXA/0,3 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,3 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738056",
+        "nome": "SELEPARINA",
+        "descrizione": "3.800 UI ANTIXA/0,4 ML SOLUZIONE INIETTABILE  IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,4 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738068",
+        "nome": "SELEPARINA",
+        "descrizione": "5.700 UI ANTIXA/0,6 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,6 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738070",
+        "nome": "SELEPARINA",
+        "descrizione": "5.700 UI ANTIXA/0,6 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,6 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738082",
+        "nome": "SELEPARINA",
+        "descrizione": "7.600 UI ANTIXA/0,8 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,8 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738094",
+        "nome": "SELEPARINA",
+        "descrizione": "7.600 UI ANTIXA/0,8 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE  DA 0,8 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738106",
+        "nome": "SELEPARINA",
+        "descrizione": "9.500 UI ANTIXA/1 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 1 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738118",
+        "nome": "SELEPARINA",
+        "descrizione": "9.500 UI ANTIXA/1 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 1 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738120",
+        "nome": "SELEPARINA",
+        "descrizione": "5.700 U.I.ANTIXA/0,6 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE DA 0,6 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738132",
+        "nome": "SELEPARINA",
+        "descrizione": "7.600 U.I.ANTIXA/0,8 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE DA 0,8 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738144",
+        "nome": "SELEPARINA",
+        "descrizione": "9.500 U.I.ANTIXA/1 ML SOLUZIONE INETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE DA 1 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738157",
+        "nome": "SELEPARINA",
+        "descrizione": "9500 UI ANTIXA/ML SOLUZIONE INIETTABILE- 10 FLACONI MULTIDOSE DA 47.500 UI/5 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738169",
+        "nome": "SELEPARINA",
+        "descrizione": "9500 UI ANTIXA/ML SOLUZIONE INIETTABILE- 10 FLACONI MULTIDOSE DA 19.000 UI/2 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738171",
+        "nome": "SELEPARINA",
+        "descrizione": "9500 UI ANTIXA/ML SOLUZIONE INIETTABILE- 10 FLACONI MULTIDOSE DA 142.500 UI/15 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738183",
+        "nome": "SELEPARINA",
+        "descrizione": "2.850 U.I. ANTIXA/0,3 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,3 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738195",
+        "nome": "SELEPARINA",
+        "descrizione": "3.800 U.I. ANTIXA/0,4 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,4 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738207",
+        "nome": "SELEPARINA",
+        "descrizione": "5.700 U.I. ANTIXA/0,6 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE DA 0,6 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738219",
+        "nome": "SELEPARINA",
+        "descrizione": "5.700 U.I. ANTIXA/0,6 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,6 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738221",
+        "nome": "SELEPARINA",
+        "descrizione": "5.700 U.I. ANTIXA/0,6 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,6 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738233",
+        "nome": "SELEPARINA",
+        "descrizione": "7.600 U.I. ANTIXA/0,8 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE DA 0,8 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738245",
+        "nome": "SELEPARINA",
+        "descrizione": "7.600 U.I. ANTIXA/0,8 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 0,8 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738258",
+        "nome": "SELEPARINA",
+        "descrizione": "7.600 U.I. ANTIXA/0,8 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 0,8 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738260",
+        "nome": "SELEPARINA",
+        "descrizione": "9.500 U.I. ANTIXA/1 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 2 SIRINGHE DA 1 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738272",
+        "nome": "SELEPARINA",
+        "descrizione": "9.500 U.I. ANTIXA/1 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 1 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738284",
+        "nome": "SELEPARINA",
+        "descrizione": "9.500 U.I. ANTIXA/1 ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 1 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738296",
+        "nome": "SELEPARINA",
+        "descrizione": "?2.850 U.I. ANTIXA/0,3 ML SOLUZIONE INIETTABILE IN SIRINGA PREIEMPITA- 10 SIRINGHE IN VETRO DA 0,3 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026738308",
+        "nome": "SELEPARINA",
+        "descrizione": "?3.800 U.I. ANTIXA/0,4 ML SOLUZIONE INIETTABILE IN SIRINGA PREIEMPITA- 10 SIRINGHE IN VETRO DA 0,4 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "026749010",
+        "nome": "ANEXATE",
+        "descrizione": "0,5 MG/5 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FIALA 5 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026749034",
+        "nome": "ANEXATE",
+        "descrizione": "1 MG/10 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FIALA 10 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026752016",
+        "nome": "LEVOTUSS",
+        "descrizione": "30 MG/5 ML SCIROPPO- 1 FLACONE 200 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026752055",
+        "nome": "LEVOTUSS",
+        "descrizione": "60 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026752067",
+        "nome": "LEVOTUSS",
+        "descrizione": "60 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026752079",
+        "nome": "LEVOTUSS",
+        "descrizione": "60 MG/10 ML SCIROPPO- 10 BUSTINE PET/PE/ALLUMINIO/PE DA 10 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026760013",
+        "nome": "DURONITRIN",
+        "descrizione": "60 MG COMPRESSE A RILASCIO PROLUNGATO-30 COMPRESSE",
+        "produttore": "TOPRIDGE PHARMA (IRELAND) LIMITED"
+    },
+    {
+        "aic": "026772020",
+        "nome": "TAURO",
+        "descrizione": "150 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026772032",
+        "nome": "TAURO",
+        "descrizione": "250 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026776017",
+        "nome": "CONDRAL",
+        "descrizione": "400 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026776029",
+        "nome": "CONDRAL",
+        "descrizione": "400 MG GRANULATO PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026776031",
+        "nome": "CONDRAL",
+        "descrizione": "800 MG GRANULATO PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026776056",
+        "nome": "CONDRAL",
+        "descrizione": "800 MG GRANULATO PER SOLUZIONE ORALE- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A."
+    },
+    {
+        "aic": "026781070",
+        "nome": "BREINURAL",
+        "descrizione": "500 MG/4 ML SOLUZIONE INIETTABILE- 5 FIALE",
+        "produttore": "ESSETI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "026781106",
+        "nome": "BREINURAL",
+        "descrizione": "1000 MG/4 ML SOLUZIONE INIETTABILE - 5 FIALE",
+        "produttore": "ESSETI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "026783086",
+        "nome": "MEPRAL",
+        "descrizione": "10 MG CAPSULE RIGIDE GASTRORESISTENTI - 14 CAPSULE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026783098",
+        "nome": "MEPRAL",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026796021",
+        "nome": "MINOVITAL",
+        "descrizione": "2% SOLUZIONE CUTANEA- FLACONE 60ML",
+        "produttore": "LABORATORIO TERAPEUTICO M.R. SRL"
+    },
+    {
+        "aic": "026803080",
+        "nome": "OMEPRAZEN",
+        "descrizione": "<10 MG CAPSULE RIGIDE GASTRORESISTENTI> 14 CAPSULE IN BLISTER",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026803092",
+        "nome": "OMEPRAZEN",
+        "descrizione": "<10 MG CAPSULE RIGIDE GASTRORESISTENTI> 28 CAPSULE IN BLISTER",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026803104",
+        "nome": "OMEPRAZEN",
+        "descrizione": "<20 MG CAPSULE RIGIDE GASTRORESISTENTI> 14 CAPSULE IN BLISTER",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026803116",
+        "nome": "OMEPRAZEN",
+        "descrizione": "<10 MG CAPSULE RIGIDE GASTRORESISTENTI> 35 CAPSULE IN BLISTER",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026803205",
+        "nome": "OMEPRAZEN",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER AL",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "026804082",
+        "nome": "LOSEC",
+        "descrizione": "10 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026804106",
+        "nome": "LOSEC",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "026814044",
+        "nome": "PORTOLAC",
+        "descrizione": "10 G POLVERE PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026814158",
+        "nome": "PORTOLAC",
+        "descrizione": "66,67 G/100 ML SCIROPPO- 1 FLACONE 200 ML",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026814172",
+        "nome": "PORTOLAC",
+        "descrizione": "5 G POLVERE PER SOLUZIONE ORALE- 10 BUSTINE",
+        "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A."
+    },
+    {
+        "aic": "026817027",
+        "nome": "SABA",
+        "descrizione": "320 MG CAPSULE MOLLI- 16 CAPSULE",
+        "produttore": "LAMPUGNANI FARMACEUTICI SPA"
+    },
+    {
+        "aic": "026817041",
+        "nome": "SABA",
+        "descrizione": "320 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER",
+        "produttore": "LAMPUGNANI FARMACEUTICI SPA"
+    },
+    {
+        "aic": "026818017",
+        "nome": "NORMOTHEN",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "026818029",
+        "nome": "NORMOTHEN",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "026821013",
+        "nome": "CARDURA",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "026821025",
+        "nome": "CARDURA",
+        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "026830012",
+        "nome": "PRINIVIL",
+        "descrizione": "5 MG COMPRESSE-14 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026830024",
+        "nome": "PRINIVIL",
+        "descrizione": "20 MG COMPRESSE-14 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026834010",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026834022",
+        "nome": "ZESTRIL",
+        "descrizione": "20 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026834034",
+        "nome": "ZESTRIL",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026834059",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026834061",
+        "nome": "ZESTRIL",
+        "descrizione": "5 MG COMPRESSE - 42 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026834073",
+        "nome": "ZESTRIL",
+        "descrizione": "20 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026834085",
+        "nome": "ZESTRIL",
+        "descrizione": "20 MG COMPRESSE - 42 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "026837017",
+        "nome": "ALAPRIL",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026837029",
+        "nome": "ALAPRIL",
+        "descrizione": "20 MG COMPRESSE-14 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026837043",
+        "nome": "ALAPRIL",
+        "descrizione": "5 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026837056",
+        "nome": "ALAPRIL",
+        "descrizione": "20 MG COMPRESSE - 28 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026844098",
+        "nome": "GENOTROPIN",
+        "descrizione": "5,3 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 CARTUCCIA DA 16 IU (5,3 MG)",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844163",
+        "nome": "GENOTROPIN",
+        "descrizione": "12 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 CARTUCCIA  DA 36 UI (12 MG)",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844175",
+        "nome": "GENOTROPIN",
+        "descrizione": "12 MG  POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 5 CARTUCCE DA 36 UI (12 MG)",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844187",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 0,2 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 7 CARTCCE DA 0,6 UI (0,2 MG) IN 7 SIRINGHE MONONOSE + 7 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844199",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 0,4 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 7 CARTUCCE DA 1,2 UI (0,4 M G) IN 7 SIRINGHE MONONOSE + 7 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844201",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 0,6 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 7 CARTUCCE DA 1,8 UI (0,6 MG) IN 7 SIRINGHE MONONOSE  + 7 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844213",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 0,8 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 7 CARTUCCE DA 2,4 UI (0,8 MG) IN 7 SIRINGHE MONONOSE + 7 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844225",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 1 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 7 CARTUCCE DA 3 UI (1 MG) IN 7 SIRINGHE MONONOSE + 7 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844237",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 1,2 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 4 CARTUCCE DA 3,6 UI (1,2 MG) IN 4 SIRINGHE MONONOSE + 4 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844249",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 1,4 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 4 CARTUCCE DA 4,2 UI (1,4 MG) IN 4 SIRINGHE MONODOSE + 4 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844252",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 1,6 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 4 CARTUCCE DA 4,8 UI (1,6 MG) IN 4 SIRINGHE MONODOSE + 4 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844264",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 1,8 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 4 CARTUCCE DA 5,4 UI (1,8 MG) IN 4 SIRINGHE MONODOSE + 4 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844276",
+        "nome": "GENOTROPIN",
+        "descrizione": "MINIQUICK 2 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 4 CARTUCCE DA 6 UI (2 MG) IN 4 SIRINGHE MONODOSE + 4 AGHI",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844340",
+        "nome": "GENOTROPIN",
+        "descrizione": "GOQUICK 5,3 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 PENNA PRE-RIEMPITA CON CARTUCCIA DOPPIA CAMERA",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844353",
+        "nome": "GENOTROPIN",
+        "descrizione": "GOQUICK 5,3 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 5 PENNA PRE-RIEMPITA CON CARTUCCIA DOPPIA CAMERA",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844365",
+        "nome": "GENOTROPIN",
+        "descrizione": "GOQUICK 12 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 PENNA PRE-RIEMPITA CON CARTUCCIA DOPPIA CAMERA",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026844377",
+        "nome": "GENOTROPIN",
+        "descrizione": "GOQUICK 12 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 5 PENNE PRE-RIEMPITE CON CARTUCCIA DOPPIA CAMERA",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026851016",
+        "nome": "GLUCOBAY",
+        "descrizione": "100 MG COMPRESSE- 40 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026851028",
+        "nome": "GLUCOBAY",
+        "descrizione": "50 MG COMPRESSE- 40 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "026863148",
+        "nome": "SAIZEN",
+        "descrizione": "5,83 MG/ML SOLUZIONE INIETTABILE- 1 CARTUCCIA VETRO DA 6 MG/1,03 ML SOLUZIONE",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "026863151",
+        "nome": "SAIZEN",
+        "descrizione": "5,83 MG/ML SOLUZIONE INIETTABILE- 5 CARTUCCE VETRO DA 6 MG/1,03 ML SOLUZIONE",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "026863163",
+        "nome": "SAIZEN",
+        "descrizione": "8 MG/ML SOLUZIONE INIETTABILE- 1 CARTUCCIA VETRO DA 12 MG/1,50 ML SOLUZIONE",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "026863175",
+        "nome": "SAIZEN",
+        "descrizione": "8 MG/ML SOLUZIONE INIETTABILE- 5 CARTUCCE VETRO DA 12 MG/1,50 ML SOLUZIONE",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "026863187",
+        "nome": "SAIZEN",
+        "descrizione": "8 MG/ML SOLUZIONE INIETTABILE- 1 CARTUCCIA VETRO DA 20 MG/2,50 ML SOLUZIONE",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "026863199",
+        "nome": "SAIZEN",
+        "descrizione": "8 MG/ML SOLUZIONE INIETTABILE- 5 CARTUCCE VETRO DA 20 MG/2,50 ML SOLUZIONE",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "026886059",
+        "nome": "LUNIBRON",
+        "descrizione": "30 MG/30 ML SOLUZIONE DA NEBULIZZARE- 1 FLACONE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026886073",
+        "nome": "LUNIBRON",
+        "descrizione": "2 MG/2 ML SOLUZIONE DA NEBULIZZARE- 15 FIALE 2 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026886085",
+        "nome": "LUNIBRON",
+        "descrizione": "1 MG/2 ML SOLUZIONE DA NEBULIZZARE- 15 FIALE 2 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "026887012",
+        "nome": "DINIKET",
+        "descrizione": "1 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FIALE DA 10 ML",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026888014",
+        "nome": "ELAN",
+        "descrizione": "20 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026888038",
+        "nome": "ELAN",
+        "descrizione": "50 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026888053",
+        "nome": "ELAN",
+        "descrizione": "20 MG COMPRESSE - 60 COMPRESSE",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026888077",
+        "nome": "ELAN",
+        "descrizione": "50 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 40 CAPSULE",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026890083",
+        "nome": "CLOPIXOL",
+        "descrizione": "50 MG/ ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FIALA 1 ML",
+        "produttore": "LUNDBECK ITALIA S.P.A."
+    },
+    {
+        "aic": "026890107",
+        "nome": "CLOPIXOL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "LUNDBECK ITALIA S.P.A."
+    },
+    {
+        "aic": "026890119",
+        "nome": "CLOPIXOL",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE",
+        "produttore": "LUNDBECK ITALIA S.P.A."
+    },
+    {
+        "aic": "026890158",
+        "nome": "CLOPIXOL",
+        "descrizione": "200 MG/ ML SOLUZIONE INIETTABILE A RILASCIO PROLUNGATO PER USO INTRAMUSCOLARE- 1 FIALA",
+        "produttore": "LUNDBECK ITALIA S.P.A."
+    },
+    {
+        "aic": "026890184",
+        "nome": "CLOPIXOL",
+        "descrizione": "?20 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 20 ML CON TAPPO CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "LUNDBECK ITALIA S.P.A."
+    },
+    {
+        "aic": "026893038",
+        "nome": "URDES",
+        "descrizione": "150 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "026893040",
+        "nome": "URDES",
+        "descrizione": "300 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "026893053",
+        "nome": "URDES",
+        "descrizione": "450 MG COMPRESSE GASTRORESISTENTI- 20 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "026893065",
+        "nome": "URDES",
+        "descrizione": "225 MG COMPRESSE GASTRORESISTENTI- 20 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "026894016",
+        "nome": "ZIRTEC",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM-20 COMPRESSE",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026894028",
+        "nome": "ZIRTEC",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE-FLACONE 20 ML",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026894030",
+        "nome": "ZIRTEC",
+        "descrizione": "1 MG/ML SOLUZIONE ORALE-FLACONE 150 ML",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026894042",
+        "nome": "ZIRTEC",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 7 COMPRESSE",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026894067",
+        "nome": "ZIRTEC",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026894081",
+        "nome": "ZIRTEC",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE - FLACONE 10 ML",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026894093",
+        "nome": "ZIRTEC",
+        "descrizione": "1 MG/ML SOLUZIONE ORALE - FLACONE 75 ML",
+        "produttore": "UCB PHARMA S.P.A."
+    },
+    {
+        "aic": "026899017",
+        "nome": "GASTROMIRO",
+        "descrizione": "61,2% SOLUZIONE- FLACONE  20 ML PER USO ORALE O RETTALE",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "026899029",
+        "nome": "GASTROMIRO",
+        "descrizione": "61,2% SOLUZIONE- FLACONE  50 ML PER USO ORALE O RETTALE",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "026899031",
+        "nome": "GASTROMIRO",
+        "descrizione": "61,2% SOLUZIONE- FLACONE 100 ML PER USO ORALE O RETTALE",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "026905051",
+        "nome": "PRIMENE",
+        "descrizione": "100 ML FLACONE 10%",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "026905063",
+        "nome": "PRIMENE",
+        "descrizione": "IV FLACONE 250 ML 10%",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "026905075",
+        "nome": "PRIMENE",
+        "descrizione": "IV FLACONE 500 ML 10%",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "026905099",
+        "nome": "PRIMENE",
+        "descrizione": "10 % SOLUZIONE PER INFUSIONE - 20 FLACONI DA 100 ML",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "026905101",
+        "nome": "PRIMENE",
+        "descrizione": "10 % SOLUZIONE PER INFUSIONE - 10 FLACONI DA 250 ML",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "026915025",
+        "nome": "ZINNAT",
+        "descrizione": "250MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915037",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915049",
+        "nome": "ZINNAT",
+        "descrizione": "125MG/5ML GRANULATO PER SOSPENSIONE ORALE- FLACONE DA 100ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915052",
+        "nome": "ZINNAT",
+        "descrizione": "250MG GRANULATO PER SOSPENSIONE ORALE- 12 BUSTINE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915076",
+        "nome": "ZINNAT",
+        "descrizione": "250MG/5ML GRANULATO PER SOSPENSIONE ORALE- FLACONE DA 50ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915102",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915114",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915126",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915140",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915153",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 16 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915165",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915177",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915189",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915203",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915227",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915239",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 16 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915241",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915254",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915266",
+        "nome": "ZINNAT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915278",
+        "nome": "ZINNAT",
+        "descrizione": "125 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 40 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915280",
+        "nome": "ZINNAT",
+        "descrizione": "125 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 50 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915292",
+        "nome": "ZINNAT",
+        "descrizione": "125 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 60 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915304",
+        "nome": "ZINNAT",
+        "descrizione": "125 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 70 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915316",
+        "nome": "ZINNAT",
+        "descrizione": "125 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 80 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915342",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 60 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915355",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 70 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915367",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 100 ML",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915379",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG GRANULATO PER SOSPENSIONE ORALE- 8 BUSTINE IN CARTA/PE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915381",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG GRANULATO PER SOSPENSIONE ORALE- 10 BUSTINE IN CARTA/PE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915405",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG GRANULATO PER SOSPENSIONE ORALE- 14 BUSTINE IN CARTA/PE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915417",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG GRANULATO PER SOSPENSIONE ORALE- 20 BUSTINE IN CARTA/PE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026915429",
+        "nome": "ZINNAT",
+        "descrizione": "250 MG GRANULATO PER SOSPENSIONE ORALE- 100 BUSTINE IN CARTA/PE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "026916080",
+        "nome": "SPIDIFEN",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026916104",
+        "nome": "SPIDIFEN",
+        "descrizione": "400 MG GRANULATO PER SOLUZIONE ORALE AROMA ALBICOCCA- 30 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026916130",
+        "nome": "SPIDIFEN",
+        "descrizione": "600 MG GRANULATO PER SOLUZIONE ORALE GUSTO ALBICOCCA- 30 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026916142",
+        "nome": "SPIDIFEN",
+        "descrizione": "600 MG GRANULATO PER SOLUZIONE ORALE GUSTO COLA-LIMONE- 30 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026916155",
+        "nome": "SPIDIFEN",
+        "descrizione": "600 MG GRANULATO PER SOLUZIONE ORALE AROMA MENTA-ANICE- 10 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026916167",
+        "nome": "SPIDIFEN",
+        "descrizione": "600 MG GRANULATO PER SOLUZIONE ORALE AROMA COLA-LIMONE- 10 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026916179",
+        "nome": "SPIDIFEN",
+        "descrizione": "600 MG GRANULATO PER SOLUZIONE ORALE AROMA ALBICOCCA- 10 BUSTINE IN CARTA/AL/PE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "026919011",
+        "nome": "ASSORAL",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM-12 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "026919047",
+        "nome": "ASSORAL",
+        "descrizione": "300 MG COMPRESSE RIVESTITE CON FILM-6 COMPRESSE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "026925038",
+        "nome": "PENTACOL",
+        "descrizione": "<1500 MG  GRANULATO  PER  SOSPENSIONE  RETTALE>  20 BUSTE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925040",
+        "nome": "PENTACOL",
+        "descrizione": "<400 MG COMPRESSE GASTRORESISTENTI> 60 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925053",
+        "nome": "PENTACOL",
+        "descrizione": "<800 MG COMPRESSE GASTRORESISTENTI> 60 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925065",
+        "nome": "PENTACOL",
+        "descrizione": "<500 MG/5 G GEL RETTALE> 20 TUBI MONODOSE DA 5 G",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925115",
+        "nome": "PENTACOL",
+        "descrizione": "4 G SCHIUMA RETTALE- 1 CONTENITORE SOTTO PRESSIONE DA 28 G + 7 CANNULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925127",
+        "nome": "PENTACOL",
+        "descrizione": "2 G SCHIUMA RETTALE- 1 CONTENITORE SOTTO PRESSIONE DA 14 G+ 7 CANNULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925141",
+        "nome": "PENTACOL",
+        "descrizione": "4 G/ 100 ML SOSPENSIONE RETTALE - 7 CONTENITORI MONODOSE CON CANNULA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925154",
+        "nome": "PENTACOL",
+        "descrizione": "500 MG SUPPOSTE - 20 SUPPOSTE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925166",
+        "nome": "PENTACOL",
+        "descrizione": "<800 MG COMPRESSE GASTRORESISTENTI> 30 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925178",
+        "nome": "PENTACOL",
+        "descrizione": "<800 MG COMPRESSE GASTRORESISTENTI> 90 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925180",
+        "nome": "PENTACOL",
+        "descrizione": "<500 MG/5 G GEL RETTALE> 10 TUBI MONODOSE DA 5 G",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925228",
+        "nome": "PENTACOL",
+        "descrizione": "<1200 MG COMPRESSE GASTRORESISTENTI>  60  COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026925230",
+        "nome": "PENTACOL",
+        "descrizione": "<1200 MG COMPRESSE GASTRORESISTENTI> 120  COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "026928010",
+        "nome": "FUCITHALMIC",
+        "descrizione": "1% COLLIRIO, SOLUZIONE- FLACONCINO 5 G",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "026929024",
+        "nome": "ITRIN",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026929036",
+        "nome": "ITRIN",
+        "descrizione": "5 MG COMPRESSE-14 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026958049",
+        "nome": "PERFAN",
+        "descrizione": "100 MG/ 20 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - 5 FIALE DA 20 ML",
+        "produttore": "INCA-PHARM S.R.L."
+    },
+    {
+        "aic": "026962047",
+        "nome": "HUMATROPE",
+        "descrizione": "6 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 CARTUCCIA CONTENENTE 6 MG DI POLVERE + 1 SIRINGA PRERIEMPITA DA 3,17 ML DI SOLVENTE",
+        "produttore": "ELI LILLY ITALIA S.P.A."
+    },
+    {
+        "aic": "026962050",
+        "nome": "HUMATROPE",
+        "descrizione": "12 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 CARTUCCIA CONTENENTE 12 MG DI POLVERE + 1 SIRINGA PRERIEMPITA DA 3,15 ML DI SOLVENTE",
+        "produttore": "ELI LILLY ITALIA S.P.A."
+    },
+    {
+        "aic": "026962062",
+        "nome": "HUMATROPE",
+        "descrizione": "24 MG POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 CARTUCCIA CONTENENTE 24 MG DI POLVERE + 1 SIRINGA PRERIEMPITA DA 3,15 ML DI SOLVENTE",
+        "produttore": "ELI LILLY ITALIA S.P.A."
+    },
+    {
+        "aic": "026964015",
+        "nome": "FARGANESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "ANSERIS FARMA SRL"
+    },
+    {
+        "aic": "026964039",
+        "nome": "FARGANESSE",
+        "descrizione": "50 MG/2 ML SOLUZIONE INIETTABILE-  5 FIALE",
+        "produttore": "ANSERIS FARMA SRL"
+    },
+    {
+        "aic": "026965018",
+        "nome": "ULTRAVIST",
+        "descrizione": "240 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 50 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965044",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 50 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965057",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 75 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965069",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 100 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965083",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 50 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965095",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 100 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965107",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE - 1 FLACONE 200 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965121",
+        "nome": "ULTRAVIST",
+        "descrizione": "150 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 200 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965133",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 200 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965145",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 500 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965160",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 500 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965184",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FLACONE 20 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965196",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 75 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965208",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 100 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965210",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 125 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965222",
+        "nome": "ULTRAVIST",
+        "descrizione": "300 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 150 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965234",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 75 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965246",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 100 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965259",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 125 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026965261",
+        "nome": "ULTRAVIST",
+        "descrizione": "370 MG/ML SOLUZIONE PER INFUSIONE - CARTUCCIA DA 150 ML",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "026966034",
+        "nome": "CLEXANE",
+        "descrizione": "2000 U.I. AXA/0,2 ML SOLUZIONE INIETTABILE- 6 SIRINGHE PRERIEMPITE DA 0,2 ML",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966046",
+        "nome": "CLEXANE",
+        "descrizione": "4000  U.I.  (40  MG)/0,4  ML   SOLUZIONE  INIETTABILE-  6  SIRINGHE  PRERIEMPITE  DA  0,4  ML",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966059",
+        "nome": "CLEXANE",
+        "descrizione": "2000 UI AXA/0,2 ML SOLUZIONE INIETTABILE- 6 SIRINGHE PRERIEMPITE DA 0,2 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966061",
+        "nome": "CLEXANE",
+        "descrizione": "4000 UI AXA/0,4 ML SOLUZIONE INIETTABILE- 6 SIRINGHE PRERIEMPITE DA 0,4 ML CON SISTEMA DI SICUREZZA",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966073",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 2 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966085",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 5 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966097",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966109",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 20 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966111",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 30 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966123",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 50 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966135",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966147",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 9X10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966150",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100X10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966162",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 200X10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966174",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 2 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966186",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 5 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966198",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966200",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 20 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966212",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 30 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966224",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 50 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966236",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966248",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 9X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966251",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966263",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 200X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966275",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 2 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966287",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 5 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966299",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 6 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966301",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966313",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 20 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966325",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 30 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966337",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 50 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966349",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966352",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 9X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966364",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966376",
+        "nome": "CLEXANE",
+        "descrizione": "2.000 UI (20 MG)/0,2 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 200X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966388",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 2 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966390",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 5 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966402",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966414",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 20 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966426",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 30 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966438",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 50 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966440",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966453",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 9X10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966465",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100X10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966477",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 200X10 SIRINGHE IN VETRO",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966489",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 2 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966491",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 5 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966503",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966515",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 20 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966527",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 30 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966539",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 50 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966541",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966554",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 9X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966566",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966578",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 200X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA PREVENTIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966580",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 2 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966592",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 5 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966604",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 6 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966616",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966628",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 20 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966630",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 30 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966642",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 50 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966655",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966667",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 9X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966679",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 100X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026966681",
+        "nome": "CLEXANE",
+        "descrizione": "4.000 UI (40 MG)/0,4 ML SOLUZIONE INIETTABILE IN SIRINGHE PRERIEMPITE- 200X10 SIRINGHE IN VETRO CON SISTEMA DI SICUREZZA ERIS",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026970020",
+        "nome": "STAMARIL",
+        "descrizione": "POLVERE E SOLVENTE PER SOSPENSIONE INIETTABILE> 1 FLACONCINO DI POLVERE + 0,5 ML DI SOLVENTE IN UNA SIRINGA PRERIEMPITA CON AGO PRESALDATO,SOLVENTE",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "026970032",
+        "nome": "STAMARIL",
+        "descrizione": "<POLVERE E SOLVENTE PER SOSPENSIONE INIETTABILE>  1 FLACONCINO DI POLVERE + 0,5 ML DI SOLVENTE IN UNA SIRINGA PRERIEMPITA CON DUE AGHI SEPARATI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "026981011",
+        "nome": "RIFATER",
+        "descrizione": "50 MG/120 MG/300 MG COMPRESSE RIVESTITE- 40 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026981023",
+        "nome": "RIFATER",
+        "descrizione": "50 MG/120 MG/300 MG COMPRESSE RIVESTITE- 100 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "026999021",
+        "nome": "DECAPEPTYL",
+        "descrizione": "3,75 mg/2 ml polvere e solvente per  sospensione iniettabile a rilascio prolungato> 1 flaconcino polvere in vetro da 4 ml + 1 fiala solvente in vetro da 2 ml + 2 aghi e 1 siringa in PP",
+        "produttore": "IPSEN S.P.A"
+    },
+    {
+        "aic": "026999045",
+        "nome": "DECAPEPTYL",
+        "descrizione": "0,1  mg/ml  polvere  e  solvente  per  soluzione iniettabile> 7 flaconcini di polvere + 7 fiale solvente",
+        "produttore": "IPSEN S.P.A"
+    },
+    {
+        "aic": "026999058",
+        "nome": "DECAPEPTYL",
+        "descrizione": "11,25 mg/2 ml polvere e solvente per sospensione iniettabile a rilascio prolungato> 1 flaconcino polvere in vetro da 4 ml + 1 fiala solvente in vetro da 2 ml + 2 aghi e 1 siringa in PP",
+        "produttore": "IPSEN S.P.A"
+    },
+    {
+        "aic": "026999060",
+        "nome": "DECAPEPTYL",
+        "descrizione": "22,5 mg/2 ml polvere e solvente per  sospensione iniettabile a rilascio prolungato> 1 flaconcino polvere in vetro da 6 ml + 1 fiala solvente in vetro da 2 ml + 2 aghi e 1 siringa",
+        "produttore": "IPSEN S.P.A"
+    }
+]

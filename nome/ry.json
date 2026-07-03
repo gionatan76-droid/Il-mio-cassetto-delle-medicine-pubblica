@@ -1,0 +1,560 @@
+[
+    {
+        "aic": "024862017",
+        "nome": "RYTMONORM",
+        "descrizione": "<150 MG  COMPRESSE  RIVESTITE>  30  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862029",
+        "nome": "RYTMONORM",
+        "descrizione": "<300 MG  COMPRESSE  RIVESTITE>  30  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862031",
+        "nome": "RYTMONORM",
+        "descrizione": "70 MG/20 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 5 FIALE 20 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862070",
+        "nome": "RYTMONORM",
+        "descrizione": "<150 MG  COMPRESSE  RIVESTITE>  60  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862082",
+        "nome": "RYTMONORM",
+        "descrizione": "<300 MG  COMPRESSE  RIVESTITE>  60  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862094",
+        "nome": "RYTMONORM",
+        "descrizione": "<325 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO>  28 CAPSULE IN BLISTER PVC/PVDC/ALU",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862106",
+        "nome": "RYTMONORM",
+        "descrizione": "<425 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO>  28 CAPSULE IN BLISTER PVC/PVDC/ALU",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "029528015",
+        "nome": "RYTMOBETA",
+        "descrizione": "80 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "029528027",
+        "nome": "RYTMOBETA",
+        "descrizione": "80 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "029528039",
+        "nome": "RYTMOBETA",
+        "descrizione": "160 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "029528041",
+        "nome": "RYTMOBETA",
+        "descrizione": "160 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "042656013",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-PENNA PRE-RIEMPITA (VETRO) (FLEXTOUCH)-3 ML-1 PENNA PRERIEMPITA",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656025",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-PENNA PRE-RIEMPITA (VETRO) (FLEXTOUCH)-3 ML- 5 PENNE PRE-RIEMPITE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656037",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-PENNA PRE-RIEMPITA (VETRO) (FLEXTOUCH)-3 ML- 10 (2 CONFEZIONI DA 5 PENNE PRE-RIEMPITE-CONFEZIONE MULTI",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656049",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-CARTUCCIA  (VETRO)(PENFILL)-3 ML- 5 PENFILL",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656052",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-CARTUCCIA  (VETRO)(PENFILL)-3 ML- 10 PENFILL",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656064",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML - SOLUZIONE INETTIABILE - USO SOTTOCUTANEO - PENNA PRE-RIEMPITA (VETRO) (FLEXTOUCH) - 3 ML - 1 PENNA PRE-RIEMPITA + 7 AGHI NOVOFINE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656076",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ML - SOLUZIONE INETTIABILE - USO SOTTOCUTANEO - PENNA PRE-RIEMPITA (VETRO) (NOVOTWIST) - 3 ML - 1 PENNA PRE-RIEMPITA + 7 AGHI NOVOFINE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "042656088",
+        "nome": "RYZODEG",
+        "descrizione": "100 U/ml - Soluzione iniettabile - Uso sottocutaneo - Penna pre-riempita (vetro) (FlexPen) 3 ml - 5 penne preriempite",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "045612013",
+        "nome": "RYDAPT",
+        "descrizione": "25 MG - CAPSULA MOLLE - USO ORALE - BLISTER (PA/AL/PVC-AL) - 112 (4 X 28) CAPSULE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "045612025",
+        "nome": "RYDAPT",
+        "descrizione": "25 MG - CAPSULA MOLLE - USO ORALE - BLISTER (PA/AL/PVC-AL) - 56 (2X28) CAPSULE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "048499014",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone da 56 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "048499026",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone da 120 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "048499038",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone  da 240 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "048719013",
+        "nome": "RYBELSUS",
+        "descrizione": "3 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 10 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719025",
+        "nome": "RYBELSUS",
+        "descrizione": "3 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719037",
+        "nome": "RYBELSUS",
+        "descrizione": "3 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 60 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719049",
+        "nome": "RYBELSUS",
+        "descrizione": "3 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 90 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719052",
+        "nome": "RYBELSUS",
+        "descrizione": "7 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719064",
+        "nome": "RYBELSUS",
+        "descrizione": "7 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 60 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719076",
+        "nome": "RYBELSUS",
+        "descrizione": "7 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 90 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719088",
+        "nome": "RYBELSUS",
+        "descrizione": "14 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719090",
+        "nome": "RYBELSUS",
+        "descrizione": "14 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 60 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719102",
+        "nome": "RYBELSUS",
+        "descrizione": "14 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 90 COMPRESSE",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719114",
+        "nome": "RYBELSUS",
+        "descrizione": "3 mg - Compressa - Uso orale - blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719126",
+        "nome": "RYBELSUS",
+        "descrizione": "7 mg - Compressa - Uso orale - blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719138",
+        "nome": "RYBELSUS",
+        "descrizione": "14 mg - Compressa - Uso orale - blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719140",
+        "nome": "RYBELSUS",
+        "descrizione": "7 mg - Compressa - Uso orale - blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719153",
+        "nome": "RYBELSUS",
+        "descrizione": "14 mg - Compressa - Uso orale - blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719165",
+        "nome": "RYBELSUS",
+        "descrizione": "1,5 mg - Compressa - Uso orale - Blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719177",
+        "nome": "RYBELSUS",
+        "descrizione": "1,5 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719189",
+        "nome": "RYBELSUS",
+        "descrizione": "1,5 mg - Compressa - Uso orale - Blister (Alu/Alu) - 60 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719191",
+        "nome": "RYBELSUS",
+        "descrizione": "1,5 mg - Compressa - Uso orale - Blister (Alu/Alu) - 90 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719203",
+        "nome": "RYBELSUS",
+        "descrizione": "1,5 mg - Compressa - Uso orale - Blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719215",
+        "nome": "RYBELSUS",
+        "descrizione": "4 mg - Compressa - Uso orale - Blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719227",
+        "nome": "RYBELSUS",
+        "descrizione": "4 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719239",
+        "nome": "RYBELSUS",
+        "descrizione": "4 mg - Compressa - Uso orale - Blister (Alu/Alu) - 60 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719241",
+        "nome": "RYBELSUS",
+        "descrizione": "4 mg - Compressa - Uso orale - Blister (Alu/Alu) - 90 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719254",
+        "nome": "RYBELSUS",
+        "descrizione": "4 mg - Compressa - Uso orale - Blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719266",
+        "nome": "RYBELSUS",
+        "descrizione": "9 mg - Compressa - Uso orale - Blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719278",
+        "nome": "RYBELSUS",
+        "descrizione": "9 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719280",
+        "nome": "RYBELSUS",
+        "descrizione": "9 mg - Compressa - Uso orale - Blister (Alu/Alu) - 60 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719292",
+        "nome": "RYBELSUS",
+        "descrizione": "9 mg - Compressa - Uso orale - Blister (Alu/Alu) - 90 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719304",
+        "nome": "RYBELSUS",
+        "descrizione": "9 mg - Compressa - Uso orale - Blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719316",
+        "nome": "RYBELSUS",
+        "descrizione": "25 mg - Compressa - Uso orale - Blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719328",
+        "nome": "RYBELSUS",
+        "descrizione": "25 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719330",
+        "nome": "RYBELSUS",
+        "descrizione": "25 mg - Compressa - Uso orale - Blister (Alu/Alu) - 60 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719342",
+        "nome": "RYBELSUS",
+        "descrizione": "25 mg - Compressa - Uso orale - Blister (Alu/Alu) - 90 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719355",
+        "nome": "RYBELSUS",
+        "descrizione": "25 mg - Compressa - Uso orale - Blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719367",
+        "nome": "RYBELSUS",
+        "descrizione": "50 mg - Compressa - Uso orale - Blister (Alu/Alu) - 10 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719379",
+        "nome": "RYBELSUS",
+        "descrizione": "50 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719381",
+        "nome": "RYBELSUS",
+        "descrizione": "50 mg - Compressa - Uso orale - Blister (Alu/Alu) - 60 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719393",
+        "nome": "RYBELSUS",
+        "descrizione": "50 mg - Compressa - Uso orale - Blister (Alu/Alu) - 90 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "048719405",
+        "nome": "RYBELSUS",
+        "descrizione": "50 mg - Compressa - Uso orale - Blister (Alu/Alu) - 100 compresse",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "049616016",
+        "nome": "RYEQO",
+        "descrizione": "40 MG / 1 MG / 0,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 28 COMPRESSE RIVESTITE CON FILM",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "049616028",
+        "nome": "RYEQO",
+        "descrizione": "40 mg / 1 mg / 0,5 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 84 (3 x 28) compresse",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "049616030",
+        "nome": "RYEQO",
+        "descrizione": "40 mg/1 mg/0,5 mg - Compressa rivestita con film - Uso orale - Blister (PVC/alu) - 28 compresse",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "049616042",
+        "nome": "RYEQO",
+        "descrizione": "40 mg/1 mg/0,5 mg - Compressa rivestita con film - Uso orale - Blister (PVC/alu) - 84 compresse",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "049823014",
+        "nome": "RYBREVANT",
+        "descrizione": "350 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 7 ml - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "049823026",
+        "nome": "RYBREVANT",
+        "descrizione": "1600 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 10 ml (160 mg/ml) - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "049823038",
+        "nome": "RYBREVANT",
+        "descrizione": "2240 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 14 ml (160 mg/ml) - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "049823040",
+        "nome": "RYBREVANT",
+        "descrizione": "2400 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 15 ml (160 mg/ml) - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "049823053",
+        "nome": "RYBREVANT",
+        "descrizione": "3520 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 22 ml (160 mg/ml) - 1 flaconcino",
+        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V."
+    },
+    {
+        "aic": "051044016",
+        "nome": "RYSTIGGO",
+        "descrizione": "140 mg/ml - Soluzione iniettabile - Uso sottocutaneo - flaconcino (vetro) 2 ml - 1 flaconcino",
+        "produttore": "UCB PHARMA S.A."
+    },
+    {
+        "aic": "051044028",
+        "nome": "RYSTIGGO",
+        "descrizione": "140 mg/ml - Soluzione iniettabile - Uso sottocutaneo - flaconcino (vetro) 3 ml - 1 flaconcino",
+        "produttore": "UCB PHARMA S.A."
+    },
+    {
+        "aic": "051044030",
+        "nome": "RYSTIGGO",
+        "descrizione": "140 mg/ml - Soluzione iniettabile - Uso sottocutaneo - flaconcino (vetro) 4 ml - 1 flaconcino",
+        "produttore": "UCB PHARMA S.A."
+    },
+    {
+        "aic": "051044042",
+        "nome": "RYSTIGGO",
+        "descrizione": "140 mg/ml - Soluzione iniettabile - Uso sottocutaneo - flaconcino (vetro) 6 ml - 1 flaconcino",
+        "produttore": "UCB PHARMA S.A."
+    },
+    {
+        "aic": "051171015",
+        "nome": "RYZNEUTA",
+        "descrizione": "20 mg - Soluzione iniettabile - Per uso sottocutaneo - siringa preriempita (vetro) 1 ml (20 mg/ml) - 1 siringa preriempita",
+        "produttore": "EVIVE BIOTECHNOLOGY IRELAND LTD"
+    },
+    {
+        "aic": "051481012",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone  da 240 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "052021019",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone  da 240 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "052093010",
+        "nome": "RYTELO",
+        "descrizione": "47 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
+        "produttore": "GERON NETHERLANDS B.V"
+    },
+    {
+        "aic": "052093022",
+        "nome": "RYTELO",
+        "descrizione": "188 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
+        "produttore": "GERON NETHERLANDS B.V"
+    },
+    {
+        "aic": "052298015",
+        "nome": "RYJUNEA",
+        "descrizione": "0,1 mg/ml - Collirio, soluzione - Uso oftalmico - Flacone (LDPE) 2,5 ml - 1 flacone",
+        "produttore": "SANTEN OY"
+    },
+    {
+        "aic": "052298027",
+        "nome": "RYJUNEA",
+        "descrizione": "0,1 mg/ml - Collirio, soluzione - Uso oftalmico - Flacone (LDPE) 2,5 ml - 3 flaconi",
+        "produttore": "SANTEN OY"
+    },
+    {
+        "aic": "052513013",
+        "nome": "RYBELSUS",
+        "descrizione": "3 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "052513025",
+        "nome": "RYBELSUS",
+        "descrizione": "7 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "052513037",
+        "nome": "RYBELSUS",
+        "descrizione": "14 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "052611011",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone  da 240 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "052611023",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone da 240 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "052999012",
+        "nome": "RYBELSUS",
+        "descrizione": "1,5 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "052999024",
+        "nome": "RYBELSUS",
+        "descrizione": "9 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "052999036",
+        "nome": "RYBELSUS",
+        "descrizione": "4 mg - Compressa - Uso orale - Blister (Alu/Alu) - 30 compresse",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "053087019",
+        "nome": "RYALTRIS",
+        "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone da 240 erogazioni in HDPE con pompa dosatrice",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    }
+]

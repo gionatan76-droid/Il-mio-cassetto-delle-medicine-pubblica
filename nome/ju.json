@@ -1,0 +1,554 @@
+[
+    {
+        "aic": "025462019",
+        "nome": "JUMEX",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "CHIESI ITALIA S.P.A"
+    },
+    {
+        "aic": "025462021",
+        "nome": "JUMEX",
+        "descrizione": "10 MG COMPRESSE- 25 COMPRESSE",
+        "produttore": "CHIESI ITALIA S.P.A"
+    },
+    {
+        "aic": "046600019",
+        "nome": "JUGLANS REGIA",
+        "descrizione": "10MK SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046638019",
+        "nome": "JULUCA",
+        "descrizione": "50 MG/25 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "046638021",
+        "nome": "JULUCA",
+        "descrizione": "50 MG/25 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 (3X30) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "VIIV HEALTHCARE BV"
+    },
+    {
+        "aic": "047282013",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282025",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282037",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282049",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282052",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282064",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282076",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282088",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282090",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282102",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282114",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282126",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282138",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282140",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282153",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282165",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282177",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282189",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282191",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282203",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282215",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282227",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282239",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282241",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282254",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282266",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282278",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282280",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282292",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282304",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282316",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282328",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282330",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282342",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282355",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282367",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282379",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282381",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282393",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282405",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282417",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282429",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282431",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282443",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047282456",
+        "nome": "JUGLANS REGIA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621014",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621026",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621038",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621040",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621053",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621065",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621077",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621089",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621091",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621103",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621115",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621127",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621139",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621141",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621154",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621166",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621178",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621180",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621192",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621204",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621216",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621228",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621230",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621242",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621255",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621267",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621279",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621281",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621293",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621305",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621317",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621329",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621331",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621343",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047621356",
+        "nome": "JUNIPERUS COMMUNIS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "051245013",
+        "nome": "JUBBONTI",
+        "descrizione": "60 mg/mL - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL - 1 siringa preriempita",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "051557015",
+        "nome": "JUBLIA",
+        "descrizione": "89 MG/ML SOLUZIONE CUTANEA? 1 FLACONE DA 4 ML IN HDPE",
+        "produttore": "ALMIRALL S.A."
+    },
+    {
+        "aic": "051557027",
+        "nome": "JUBLIA",
+        "descrizione": "89 MG/ML SOLUZIONE CUTANEA? 2 FLACONI DA 4 ML IN HDPE",
+        "produttore": "ALMIRALL S.A."
+    },
+    {
+        "aic": "052236015",
+        "nome": "JUBEREQ",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1,7 ml (70 mg/ml) - 4 flaconcini",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "052236027",
+        "nome": "JUBEREQ",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1,7 ml (70 mg/ml) - 3 flaconcini",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "052236039",
+        "nome": "JUBEREQ",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1,7 ml (70 mg/ml) - 1 flaconcino",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "052282011",
+        "nome": "JUNOD",
+        "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (60 mg/ml) - 1 siringa preriempita",
+        "produttore": "GEDEON RICHTER PLC"
+    }
+]

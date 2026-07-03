@@ -1,0 +1,68 @@
+[
+    {
+        "aic": "007112016",
+        "nome": "VICI",
+        "descrizione": "FORTE IM 5 F 5 ML 0,50 G",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "007312010",
+        "nome": "OTOMIDONE",
+        "descrizione": "GOCCE OTOLOGICHE 10 ML",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "007518032",
+        "nome": "DEKAMIN",
+        "descrizione": "8% SOLUZIONE PER INFUSIONE- FLACONCINO DA 250 ML",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "007518044",
+        "nome": "DEKAMIN",
+        "descrizione": "8% SOLUZIONE PER INFUSIONE ENDOVENOSA- 1 FLACONE 500 ML",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "007539048",
+        "nome": "VITAMINA B1 SALF",
+        "descrizione": "<Vitamina B1 SALF 100 mg soluzione iniettabile> - 5 fiale da 2 ml",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO"
+    },
+    {
+        "aic": "007645056",
+        "nome": "HEDERIX PLAN",
+        "descrizione": "6 MG/ML + 45 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE 30 ML",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "007645070",
+        "nome": "HEDERIX PLAN",
+        "descrizione": "10 M + 180 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "007645082",
+        "nome": "HEDERIX PLAN",
+        "descrizione": "40 MG + 360 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "007899014",
+        "nome": "LARGACTIL",
+        "descrizione": "50 MG/2 ML SOLUZIONE INIETTABILE- 5 FIALE 2 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "007899026",
+        "nome": "LARGACTIL",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 25 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "007899038",
+        "nome": "LARGACTIL",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    }
+]

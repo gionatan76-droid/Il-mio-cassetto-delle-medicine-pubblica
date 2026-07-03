@@ -1,0 +1,1874 @@
+[
+    {
+        "aic": "020019016",
+        "nome": "ADEPRIL",
+        "descrizione": "30 CONFETTI 10 MG",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "020019028",
+        "nome": "ADEPRIL",
+        "descrizione": "30 CONFETTI 25 MG",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "022393033",
+        "nome": "ADRIBLASTINA",
+        "descrizione": "10 MG/5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "022393045",
+        "nome": "ADRIBLASTINA",
+        "descrizione": "50 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "022393058",
+        "nome": "ADRIBLASTINA",
+        "descrizione": "10 MG/5 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO - 1 FLACONE  5 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "022393060",
+        "nome": "ADRIBLASTINA",
+        "descrizione": "50 MG/25 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO - 1 FLACONE 25 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "022393084",
+        "nome": "ADRIBLASTINA",
+        "descrizione": "200MG/100ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONE 100 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "026068015",
+        "nome": "ADESITRIN",
+        "descrizione": "5 MG/24 H CEROTTI TRANSDERMICI- 15 CEROTTI TRANSDERMICI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "026068027",
+        "nome": "ADESITRIN",
+        "descrizione": "10 MG/24 H CEROTTI TRANSDERMICI- 15 CEROTTI TRANSDERMICI",
+        "produttore": "Merus Labs Luxco II S.a.r.l."
+    },
+    {
+        "aic": "027980010",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "027980059",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM A RILASCIO MODIFICATO - 28 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "027980061",
+        "nome": "ADALAT CRONO",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM A RILASCIO MODIFICATO - 28 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "028159010",
+        "nome": "ADVANTAN",
+        "descrizione": "0,1% CREMA- 1 TUBO DA 20 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "028159022",
+        "nome": "ADVANTAN",
+        "descrizione": "0,1% CREMA IDROFOBA- 1 TUBO DA 20 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "028159034",
+        "nome": "ADVANTAN",
+        "descrizione": "0,1% UNGUENTO- 1 TUBO DA 20 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "028159046",
+        "nome": "ADVANTAN",
+        "descrizione": "O,1% SOLUZIONE CUTANEA- FLACONE DA 20 ML",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "028159059",
+        "nome": "ADVANTAN",
+        "descrizione": "1 TUBO 20 G EMULSIONE",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "028159061",
+        "nome": "ADVANTAN",
+        "descrizione": "1 TUBO 50 G EMULSIONE",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "028159073",
+        "nome": "ADVANTAN",
+        "descrizione": "0,1% CREMA- TUBO DA 50 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "029053030",
+        "nome": "ADRONAT",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "029053067",
+        "nome": "ADRONAT",
+        "descrizione": "70- 2 COMPRESSE IN BLISTER AL/AL DA 70 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "029053079",
+        "nome": "ADRONAT",
+        "descrizione": "70- 4 COMPRESSE IN BLISTER AL/AL DA 70 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "029053081",
+        "nome": "ADRONAT",
+        "descrizione": "70- 8 COMPRESSE IN BLISTER AL/AL DA 70 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "029053093",
+        "nome": "ADRONAT",
+        "descrizione": "70- 12 COMPRESSE IN BLISTER AL/AL DA 70 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "029231038",
+        "nome": "ADDAMEL N",
+        "descrizione": "7,7 MG/10 ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 20 FIALE DA 10 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "029825015",
+        "nome": "ADRENALINA GALENICA SENESE",
+        "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L."
+    },
+    {
+        "aic": "029825027",
+        "nome": "ADRENALINA GALENICA SENESE",
+        "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L."
+    },
+    {
+        "aic": "029825039",
+        "nome": "ADRENALINA GALENICA SENESE",
+        "descrizione": "1 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L."
+    },
+    {
+        "aic": "029825041",
+        "nome": "ADRENALINA GALENICA SENESE",
+        "descrizione": "1 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "INDUSTRIA FARMACEUTICA GALENICA SENESE S.R.L."
+    },
+    {
+        "aic": "030650016",
+        "nome": "ADRENALINA S.A.L.F.",
+        "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO"
+    },
+    {
+        "aic": "030650030",
+        "nome": "ADRENALINA S.A.L.F.",
+        "descrizione": "1 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO"
+    },
+    {
+        "aic": "030780011",
+        "nome": "ADRENALINA MONICO",
+        "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "030780023",
+        "nome": "ADRENALINA MONICO",
+        "descrizione": "1 MG/ML SOLUZIONE INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "030780035",
+        "nome": "ADRENALINA MONICO",
+        "descrizione": "1 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "030780047",
+        "nome": "ADRENALINA MONICO",
+        "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE- 10 FIALE DA 1 ML",
+        "produttore": "MONICO S.P.A."
+    },
+    {
+        "aic": "033245010",
+        "nome": "ADENOSCAN",
+        "descrizione": "6 FLACONCINI 30 MG 10 ML IV",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "036160012",
+        "nome": "ADVATE",
+        "descrizione": "250 UI POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO + 1 FLACONCINO 5 ML  USO ENDOVENOSO",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160024",
+        "nome": "ADVATE",
+        "descrizione": "500 UI POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO + 1 FLACONCINO 5 ML  USO ENDOVENOSO",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160036",
+        "nome": "ADVATE",
+        "descrizione": "1000 UI POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO + 1 FLACONCINO 5 ML  USO ENDOVENOSO",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160048",
+        "nome": "ADVATE",
+        "descrizione": "1500 UI POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE 1 FLACONCINO + 1 FLACONCINO 5 ML  USO ENDOVENOSO",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160051",
+        "nome": "ADVATE",
+        "descrizione": "2000 UI POLVERE E SOLV.PER SOLUZ.INETTABILE-USO ENDOVENOSO-POLV:FLAC(VETRO) 2000UI SOLV FLAC(VETRO)5ML (400UI/ML)- 1 FLAC+1FLAC+DISP.PER RICOSTITUZIO",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160063",
+        "nome": "ADVATE",
+        "descrizione": "3000 UI POLVERE E SOLV.PER SOLUZ.INETTABILE-USO ENDOVENOSO-POLV:FLAC(VETRO) 3000UI SOLV FLAC(VETRO)5ML (600UI/ML)- 1 FLAC+1FLAC+DISP.PER RICOSTITUZIO",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160113",
+        "nome": "ADVATE",
+        "descrizione": "250 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)POLV 250 UI -SOLV 5 ML (50 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSEMBLATI CON DISPOSITIVO PER   RICOSTITUZIONE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160125",
+        "nome": "ADVATE",
+        "descrizione": "500 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)POLV 500 UI -SOLV 5 ML (100 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSEMBLATI CON DISPOSITIVO PER   RICOSTITUZIONE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160137",
+        "nome": "ADVATE",
+        "descrizione": "1000 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC(VETRO)-POLV 1000 UI -SOLV 5 ML (200 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSEMBLATI CON DISPOSITIVO PER   RICOSTITUZIONE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160149",
+        "nome": "ADVATE",
+        "descrizione": "1500 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)-POLV 1500 UI-SOLV 5 ML (300 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSEMBLATI CON DISPOSITIVO PER   RICOSTITUZIONE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160152",
+        "nome": "ADVATE",
+        "descrizione": "2000 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)-POLV 2000UI -SOLV 5 ML (400 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSEMBLATI CON DISPOSITIVO PER   RICOSTITUZIONE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160164",
+        "nome": "ADVATE",
+        "descrizione": "3000 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)-POLV 3000 UI-SOLV 5 ML (600 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREAS",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160176",
+        "nome": "ADVATE",
+        "descrizione": "250 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)-POLV 250 UI-SOLV 2 ML (125 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160188",
+        "nome": "ADVATE",
+        "descrizione": "500 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO-FLAC (VETRO)-POLV 500 UI -SOLV 2 ML (250 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREASSE",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160190",
+        "nome": "ADVATE",
+        "descrizione": "1000 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)-POLV 1000 UI-SOLV 2 ML (500 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREAS",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036160202",
+        "nome": "ADVATE",
+        "descrizione": "1500 UI-POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE-USO ENDOVENOSO- FLAC (VETRO)-POLV 1500 UI-SOLV 2 ML (750 UI/ML) - 1 FLACONCINO+1 FLACONCINO PREAS",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "036222053",
+        "nome": "ADAPTUS",
+        "descrizione": "30 MG + 10 MG COMPRESSE- 28 COMPRESSE DIVISIBILI IN BLISTER AL/AL",
+        "produttore": "MASTER PHARMA S.R.L."
+    },
+    {
+        "aic": "036450017",
+        "nome": "ADOLEF",
+        "descrizione": "1000 MG COMPRESSE EFFERVESCENTI - 16 COMPRESSE",
+        "produttore": "BIOMED PHARMA S.R.L."
+    },
+    {
+        "aic": "036525018",
+        "nome": "ADDOFIX",
+        "descrizione": "10 MG COMPRESSE RIVESTITE  - 30 COMPRESSE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036525020",
+        "nome": "ADDOFIX",
+        "descrizione": "20 MG/ML SOLUZIONE INIETTABILE - 6 FIALE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "037603014",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/70 MICROGRAMMI COMPRESSE -USO ORALE- BLISTER (ALU/ALU)  2 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603026",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/70 MICROGRAMMI COMPRESSE - USO ORALE- BLISTER (ALU/ALU) 4 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603038",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/70 MICROGRAMMI COMPRESSE - USO ORALE- BLISTER (ALU/ALU) 6 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603040",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/70 MICROGRAMMI COMPRESSE - USO ORALE- BLISTER (ALU/ALU) 12 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603053",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/70 MICROGRAMMI COMPRESSE - USO ORALE- BLISTER (ALU/ALU) 40 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603065",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/5600 UI COMPRESSA - USO ORALE- BLISTER (ALL/ALL) 2 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603077",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/5600 UI COMPRESSA - USO ORALE- BLISTER (ALL/ALL) 4 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603089",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/5600 UI COMPRESSA - USO ORALE- BLISTER (ALL/ALL) 12 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "037603091",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/5600 UI COMPRESSA - USO ORALE- BLISTER (ALL/ALL) 40 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "038218018",
+        "nome": "ADVAGRAF",
+        "descrizione": "0,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO -USO ORALE- BLISTER (PVC/PVDC/ALU) 30 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218020",
+        "nome": "ADVAGRAF",
+        "descrizione": "0,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 50 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218032",
+        "nome": "ADVAGRAF",
+        "descrizione": "1 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 30 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218044",
+        "nome": "ADVAGRAF",
+        "descrizione": "1 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 50 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218057",
+        "nome": "ADVAGRAF",
+        "descrizione": "1 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 60 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218069",
+        "nome": "ADVAGRAF",
+        "descrizione": "1 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 100 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218071",
+        "nome": "ADVAGRAF",
+        "descrizione": "5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 30 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218083",
+        "nome": "ADVAGRAF",
+        "descrizione": "5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (PVC/PVCD/ALU) 50 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218095",
+        "nome": "ADVAGRAF",
+        "descrizione": "0,5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER /PVC/PVDC/ALU) 100 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218107",
+        "nome": "ADVAGRAF",
+        "descrizione": "5 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - USO ORALE- BLISTER /PVC/PVDC/ALU) 100 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218119",
+        "nome": "ADVAGRAF",
+        "descrizione": "3 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO-USO ORALE- BLISTER(PVC/PVDC/ALU)-30 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218121",
+        "nome": "ADVAGRAF",
+        "descrizione": "3 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO-USO ORALE- BLISTER(PVC/PVDC/ALU)-50 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038218133",
+        "nome": "ADVAGRAF",
+        "descrizione": "3 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO-USO ORALE- BLISTER(PVC/PVDC/ALU)-100 CAPSULE",
+        "produttore": "ASTELLAS PHARMA EUROPE B.V."
+    },
+    {
+        "aic": "038979011",
+        "nome": "ADREVIEW",
+        "descrizione": "74 MBQ/ML SOLUZIONE INIETTABILE - 1 FLACONCINO DA 10 ML-OGNI FLACONCINO PUO' CONTENERE DA 37 A 740 MBQ",
+        "produttore": "GE HEALTHCARE S.R.L."
+    },
+    {
+        "aic": "039538018",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG-COMPRESSA RIVESTITA CON FILM -USO ORALE-BLISTER(PVC/ACLAR/ALL)- 28 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538020",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG- COMPRESSA RIVESTITA CON FILM - USO ORALE-BLISTER(PVC/ACLAR/ALL) - 84 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538032",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG- COMPRESSA RIVESTITA CON FILM - USO ORALE-BLISTER(PVC/ACLAR/ALL) - 28 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538044",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG- COMPRESSA RIVESTITA CON FILM - USO ORALE-BLISTER(PVC/ACLAR/ALL) - 84 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538133",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 14 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538145",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 28 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538158",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 42 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538160",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 56 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538172",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 84 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538184",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 98 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538196",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 14 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538208",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 28 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538210",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 42 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538222",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 56 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538234",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 84 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039538246",
+        "nome": "ADENURIC",
+        "descrizione": "120 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 98 COMPRESSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "039598014",
+        "nome": "ADCIRCA",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER(ALL/PVC/PE/PCTFE)- 28 COMPRESSE",
+        "produttore": "ELI LILLY NEDERLAND B.V."
+    },
+    {
+        "aic": "039598026",
+        "nome": "ADCIRCA",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER(ALL/PVC/PE/PCTFE)- 56 COMPRESSE",
+        "produttore": "ELI LILLY NEDERLAND B.V."
+    },
+    {
+        "aic": "039598038",
+        "nome": "ADCIRCA",
+        "descrizione": "2 mg/mL - Sospensione orale - Uso orale - flacone (PET) 220 mL - 1 flacone + 1 adattatore per flacone + 1 siringa orale da 10 ml",
+        "produttore": "ELI LILLY NEDERLAND B.V."
+    },
+    {
+        "aic": "039777014",
+        "nome": "ADIUNASTROL",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "WAVE PHARMA S.R.L."
+    },
+    {
+        "aic": "039777026",
+        "nome": "ADIUNASTROL",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "WAVE PHARMA S.R.L."
+    },
+    {
+        "aic": "039777038",
+        "nome": "ADIUNASTROL",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 98 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "WAVE PHARMA S.R.L."
+    },
+    {
+        "aic": "039777040",
+        "nome": "ADIUNASTROL",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "WAVE PHARMA S.R.L."
+    },
+    {
+        "aic": "039782040",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "041180011",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 7 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180023",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180035",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180047",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180050",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180062",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180074",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180086",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180098",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 90 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180100",
+        "nome": "ADOPORT",
+        "descrizione": "0,5 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180112",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 7 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180124",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180136",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180148",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180151",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180163",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180175",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180187",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180199",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 90 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180201",
+        "nome": "ADOPORT",
+        "descrizione": "1 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180213",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 7 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180225",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180237",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180249",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180252",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180264",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180276",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180288",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180290",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 90 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180302",
+        "nome": "ADOPORT",
+        "descrizione": "5 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180314",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 7 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180326",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180338",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180340",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180353",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180365",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180377",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180389",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180391",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 90 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180403",
+        "nome": "ADOPORT",
+        "descrizione": "0,75 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180415",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 7 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180427",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180439",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 14 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180441",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 20 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180454",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180466",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180478",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 50 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180480",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 60 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180492",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 90 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "041180504",
+        "nome": "ADOPORT",
+        "descrizione": "2 MG CAPSULE RIGIDE - 100 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "042448011",
+        "nome": "ADCETRIS",
+        "descrizione": "50 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO  (VETRO) - 1 FLACONCINO",
+        "produttore": "TAKEDA PHARMA A/S"
+    },
+    {
+        "aic": "042696017",
+        "nome": "ADASUVE",
+        "descrizione": "4,5 MG POLVERE PER INALAZIONE, CONTENITORE MONODOSE - USO INALATORIO - INALATORE (POLICARBONATO/ACCIAIO INOSSIDABILE) - 5 X 1 INALATORI (DOSE UNITARIA)",
+        "produttore": "FERRER INTERNACIONAL S.A."
+    },
+    {
+        "aic": "042696029",
+        "nome": "ADASUVE",
+        "descrizione": "9,1 MG - POLVERE PER INALAZIONE, CONTENITORE MONODOSE - USO INALATORIO - INALATORE (POLICARBONATO/ACCIAIO INOSSIDABILE) - 5 X 1 INALATORI (DOSE UNITARIA)",
+        "produttore": "FERRER INTERNACIONAL S.A."
+    },
+    {
+        "aic": "042696031",
+        "nome": "ADASUVE",
+        "descrizione": "4,5 MG POLVERE PER INALAZIONE, CONTENITORE MONODOSE - USO INALATORIO - INALATORE (POLICARBONATO/ACCIAIO INOSSIDABILE) - 1 INALATORE",
+        "produttore": "FERRER INTERNACIONAL S.A."
+    },
+    {
+        "aic": "042696043",
+        "nome": "ADASUVE",
+        "descrizione": "9,1 MG POLVERE PER INALAZIONE, CONTENITORE MONODOSE - USO INALATORIO - INALATORE (POLICARBONATO/ACCIAIO INOSSIDABILE) - 1 INALATORE",
+        "produttore": "FERRER INTERNACIONAL S.A."
+    },
+    {
+        "aic": "043333018",
+        "nome": "ADEMPAS",
+        "descrizione": "0,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 42 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333020",
+        "nome": "ADEMPAS",
+        "descrizione": "0,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 84 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333032",
+        "nome": "ADEMPAS",
+        "descrizione": "0,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 90 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333044",
+        "nome": "ADEMPAS",
+        "descrizione": "1 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 42 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333057",
+        "nome": "ADEMPAS",
+        "descrizione": "1 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 84 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333069",
+        "nome": "ADEMPAS",
+        "descrizione": "1 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 90 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333071",
+        "nome": "ADEMPAS",
+        "descrizione": "1,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 42 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333083",
+        "nome": "ADEMPAS",
+        "descrizione": "1,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE -BLISTER  (PP/ALU)  - 84 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333095",
+        "nome": "ADEMPAS",
+        "descrizione": "1,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 90 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333107",
+        "nome": "ADEMPAS",
+        "descrizione": "2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 42 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333119",
+        "nome": "ADEMPAS",
+        "descrizione": "2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 84 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333121",
+        "nome": "ADEMPAS",
+        "descrizione": "2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE -BLISTER  (PP/ALU) - 90 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333133",
+        "nome": "ADEMPAS",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 42 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333145",
+        "nome": "ADEMPAS",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 84 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333158",
+        "nome": "ADEMPAS",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 90 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333160",
+        "nome": "ADEMPAS",
+        "descrizione": "0,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 294 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333172",
+        "nome": "ADEMPAS",
+        "descrizione": "1 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 294 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333184",
+        "nome": "ADEMPAS",
+        "descrizione": "1,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 294 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333196",
+        "nome": "ADEMPAS",
+        "descrizione": "2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 294 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333208",
+        "nome": "ADEMPAS",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 294 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043333210",
+        "nome": "ADEMPAS",
+        "descrizione": "0,15 mg/mL - Granuli per sospensione orale - Uso orale - Flacone (vetro) - 1 flacone + 1 siringa per l?acqua da 100 ml + 1 adattatore per il flacone + 2 siringhe orali da 5 ml + 2 siringhe orali da 10 ml",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "043514037",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "043514049",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "043515016",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043515030",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE IN BLISTER PP/AL",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043515042",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043979018",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 6MG/2ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979020",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 6MG/2ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979032",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 6MG/2ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979044",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 12MG/4ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979057",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 12MG/4ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979069",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 12MG/4ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979071",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA DA 3MG/1ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979083",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 6 SIRINGHE DA 3MG/1ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "043979095",
+        "nome": "ADENOSINA KABI",
+        "descrizione": "3 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE DA 3MG/1ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "044052013",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "044077016",
+        "nome": "ADRENALINA AGUETTANT",
+        "descrizione": "1 MG/10 ML (1: 10.000) SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA IN PP SENZA AGO",
+        "produttore": "LABORATOIRE AGUETTANT"
+    },
+    {
+        "aic": "044077028",
+        "nome": "ADRENALINA AGUETTANT",
+        "descrizione": "1 MG/10 ML (1: 10.000) SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE PRERIEMPITE IN PP SENZA AGO",
+        "produttore": "LABORATOIRE AGUETTANT"
+    },
+    {
+        "aic": "044937023",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "044937047",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "045936010",
+        "nome": "ADYNOVI",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 250 UI, SOLVENTE: 2 ML (125 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936022",
+        "nome": "ADYNOVI",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 250 UI, SOLVENTE: 2 ML (125 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936034",
+        "nome": "ADYNOVI",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 250 UI, SOLVENTE: 5 ML (50 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936046",
+        "nome": "ADYNOVI",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 250 UI, SOLVENTE: 5 ML (50 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936059",
+        "nome": "ADYNOVI",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 500 UI, SOLVENTE: 2 ML (250 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936061",
+        "nome": "ADYNOVI",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 500 UI, SOLVENTE: 2 ML (250 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936073",
+        "nome": "ADYNOVI",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 500 UI, SOLVENTE: 5 ML (100 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936085",
+        "nome": "ADYNOVI",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 500 UI, SOLVENTE: 5 ML (100 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936097",
+        "nome": "ADYNOVI",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2 ML (500 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936109",
+        "nome": "ADYNOVI",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2 ML (500 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936111",
+        "nome": "ADYNOVI",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 1000 UI, SOLVENTE: 5 ML (200 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936123",
+        "nome": "ADYNOVI",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 1000 UI, SOLVENTE: 5 ML (200 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936135",
+        "nome": "ADYNOVI",
+        "descrizione": "2000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 2000 UI, SOLVENTE: 5 ML (400 UI/ML) - 1 FLACONCINO + 1 FLACONCINO + DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936147",
+        "nome": "ADYNOVI",
+        "descrizione": "2000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: FLACONCINO (VETRO) - POLVERE: 2000 UI, SOLVENTE: 5 ML (400 UI/ML) - 1 FLACONCINO + 1 FLACONCINO, PREASSEMBLATI CON DISPOSITIVO PER RICOSTRUZIONE",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936150",
+        "nome": "ADYNOVI",
+        "descrizione": "3000 UI - Polvere e solvente per soluzione iniettabile- Uso endovenoso - polvere: flaconcino (vetro), solvente: flaconcino (vetro) polvere: 3000 UI, solvente: 5 ml (600 UI / ml) - 1 flaconcino + 1 flaconcino + dispositivo per la ricostituzione",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "045936162",
+        "nome": "ADYNOVI",
+        "descrizione": "3000 UI - Polvere e solvente per soluzione iniettabile- Uso endovenoso - polvere: flaconcino (vetro), solvente: flaconcino (vetro) polvere: 3000 UI, solvente: 5 ml (600 UI / ml) - 1 flaconcino + 1 flaconcino, preassemblato con dispositivo per la ricostituzione",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "046822019",
+        "nome": "ADENOIDI",
+        "descrizione": "(6 CH, 9 CH, 30 CH, 200 CH) SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "047915018",
+        "nome": "ADENOSINA HIKMA",
+        "descrizione": "6 MG/2 ML SOLUZIONE INIETTABILE- 10 FIALE IN VETRO",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A."
+    },
+    {
+        "aic": "048559013",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559025",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559037",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559049",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559052",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559064",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559076",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559088",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559090",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559102",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559114",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559126",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559138",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559140",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559153",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559165",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559177",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "39 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559189",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "40 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559191",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "41 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559203",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "42 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559215",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "45 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559227",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559239",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559241",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559254",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559266",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559278",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559280",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559292",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559304",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559316",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559328",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559330",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559342",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559355",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559367",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559379",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559381",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559393",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559405",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559417",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559429",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559431",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559443",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559456",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559468",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559470",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559482",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "15K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559494",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559506",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559518",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559520",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559532",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048559544",
+        "nome": "ADONIS VERNALIS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048740017",
+        "nome": "ADAGLIP",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "048740029",
+        "nome": "ADAGLIP",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "048740031",
+        "nome": "ADAGLIP",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "048740043",
+        "nome": "ADAGLIP",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "048740056",
+        "nome": "ADAGLIP",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "048740068",
+        "nome": "ADAGLIP",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ADAMED S.R.L."
+    },
+    {
+        "aic": "049573013",
+        "nome": "ADTRALZA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 1 ML (150 MG / ML) - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "049573025",
+        "nome": "ADTRALZA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 1 ML (150 MG / ML) - 4 (2 ? 2) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "049573037",
+        "nome": "ADTRALZA",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 1 ML (150 MG / ML) - 12 (6 ? 2) SIRINGHE PRERIEMPITE (CONFEZIONE MULTIPLA)",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "049573049",
+        "nome": "ADTRALZA",
+        "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 2 ml (150 mg/ml) - 2 penne preriempite",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "049573052",
+        "nome": "ADTRALZA",
+        "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 2 ml (150 mg/ml) - 6 (3 ? 2) penne preriempite (confezione multipla)",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "049740018",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "049877018",
+        "nome": "ADIABIN",
+        "descrizione": "50 MG/850 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "PHARMEXTRACTA S.P.A."
+    },
+    {
+        "aic": "049877020",
+        "nome": "ADIABIN",
+        "descrizione": "50 MG/850 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "PHARMEXTRACTA S.P.A."
+    },
+    {
+        "aic": "049877032",
+        "nome": "ADIABIN",
+        "descrizione": "50 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "PHARMEXTRACTA S.P.A."
+    },
+    {
+        "aic": "049877044",
+        "nome": "ADIABIN",
+        "descrizione": "50 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "PHARMEXTRACTA S.P.A."
+    },
+    {
+        "aic": "050207012",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "SM PHARMA S.R.L."
+    },
+    {
+        "aic": "050702012",
+        "nome": "ADROVANCE",
+        "descrizione": "70MG/5600 UI COMPRESSA - USO ORALE- BLISTER (ALL/ALL) 4 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "050810011",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG-COMPRESSA RIVESTITA CON FILM -USO ORALE-BLISTER(PVC/ACLAR/ALL)- 28 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "050810023",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 28 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "051479018",
+        "nome": "ADZYNMA",
+        "descrizione": "500 IU - Polvere e solvente per soluzione iniettabile - Uso endovenoso polvere: flaconcino (vetro), solvente: flaconcino (vetro) polvere: 500 UI, solvente: 5 mL (100 UI/mL) - 1 flaconcino di polvere + 1 flaconcino di solvente + 1 dispositivo di ricostituzione + 1 siringa + 1 set per infusione + 2 tamponi imbevuti di alcol",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "051479020",
+        "nome": "ADZYNMA",
+        "descrizione": "1 500 UI - Polvere e solvente per soluzione iniettabile - Uso endovenoso - polvere: flaconcino (vetro), solvente: flaconcino (vetro) polvere: 1 500 UI, solvente: 5 mL (300 UI/mL) - 1 flaconcino di polvere + 1 flaconcino di solvente + 1 dispositivo di ricostituzione + 1 siringa + 1 set per infusione + 2 tamponi imbevuti di alcol",
+        "produttore": "TAKEDA MANUFACTURING AUSTRIA AG"
+    },
+    {
+        "aic": "051770016",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "1 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 30 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051770028",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "1 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 45 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051770030",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "1 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 60 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051770042",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 15 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051770055",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 30 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051770067",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 45 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051770079",
+        "nome": "ADAPALENE E BENZOILE PEROSSIDO MEDGEN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 60 G",
+        "produttore": "LABORATOIRES MEDGEN SAS"
+    },
+    {
+        "aic": "051851018",
+        "nome": "ADENURIC",
+        "descrizione": "80 MG-COMPRESSA RIVESTITA CON FILM -USO ORALE-BLISTER(PVC/ACLAR/ALL)- 28 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "051889018",
+        "nome": "ADEMPAS",
+        "descrizione": "2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 42 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051889020",
+        "nome": "ADEMPAS",
+        "descrizione": "1 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 42 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051889032",
+        "nome": "ADEMPAS",
+        "descrizione": "1,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU)  - 42 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051889044",
+        "nome": "ADEMPAS",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER  (PP/ALU) - 42 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051996015",
+        "nome": "ADALAIN",
+        "descrizione": "1 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 30 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "051996027",
+        "nome": "ADALAIN",
+        "descrizione": "1 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 45 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "051996039",
+        "nome": "ADALAIN",
+        "descrizione": "1 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 60 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "051996041",
+        "nome": "ADALAIN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 15 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "051996054",
+        "nome": "ADALAIN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 30 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "051996066",
+        "nome": "ADALAIN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 45 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "051996078",
+        "nome": "ADALAIN",
+        "descrizione": "3 MG/G + 25 MG/G GEL- 1 TUBO IN HDPE/LLDPE DA 60 G",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "052120019",
+        "nome": "ADALAT CRONO",
+        "descrizione": "30 MG COMPRESSE A RILASCIO MODIFICATO- 14 COMPRESSE IN BLISTER PP/AL",
+        "produttore": "FARMED S.R.L."
+    }
+]

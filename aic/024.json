@@ -1,0 +1,2252 @@
+[
+    {
+        "aic": "024001012",
+        "nome": "URBASON",
+        "descrizione": "4 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024016014",
+        "nome": "TENORMIN",
+        "descrizione": "100 MG COMPRESSE- BLISTER 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024016038",
+        "nome": "TENORMIN",
+        "descrizione": "100 MG COMPRESSE- 42 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024022030",
+        "nome": "ARTROSILENE",
+        "descrizione": "160 MG SUPPOSTE- 10 SUPPOSTE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024022117",
+        "nome": "ARTROSILENE",
+        "descrizione": "5% GEL- TUBO 50 G",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024022129",
+        "nome": "ARTROSILENE",
+        "descrizione": "320 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024022143",
+        "nome": "ARTROSILENE",
+        "descrizione": "15% SCHIUMA CUTANEA-1 CONTENITORE SOTTO PRESSIONE 50 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024022170",
+        "nome": "ARTROSILENE",
+        "descrizione": "160 MG/2 ML SOLUZIONE INIETTABILE-6 FIALE 2 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024027017",
+        "nome": "MEFOXIN",
+        "descrizione": "1G/2 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO POLVERE +1 FIALA SOLVENTE 2ML",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "024027029",
+        "nome": "MEFOXIN",
+        "descrizione": "1G/10 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONCINO POLVERE +1 FIALA SOLVENTE10 ML",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "024027031",
+        "nome": "MEFOXIN",
+        "descrizione": "2G/20 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE 20ML",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "024032017",
+        "nome": "NATRILIX",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE  CON  FILM>  30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LES LABORATOIRES SERVIER"
+    },
+    {
+        "aic": "024032031",
+        "nome": "NATRILIX",
+        "descrizione": "1,5 MG COMPRESSE A RILASCIO PROLUNGATO> 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LES LABORATOIRES SERVIER"
+    },
+    {
+        "aic": "024032068",
+        "nome": "NATRILIX",
+        "descrizione": "1,5 MG COMPRESSE A RILASCIO PROLUNGATO- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "LES LABORATOIRES SERVIER"
+    },
+    {
+        "aic": "024036042",
+        "nome": "LENTOKALIUM",
+        "descrizione": "600 MG CAPSULE RIGIDE-40 CAPSULE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024037018",
+        "nome": "INFLORAN",
+        "descrizione": "CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "024045027",
+        "nome": "LEXIL",
+        "descrizione": "15 MG + 1,5 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024062046",
+        "nome": "VENOSMINE",
+        "descrizione": "4% CREMA- TUBO DA 40 G",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "024062073",
+        "nome": "VENOSMINE",
+        "descrizione": "450 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "024062085",
+        "nome": "VENOSMINE",
+        "descrizione": "450 MG POLVERE PER SOSPENSIONE ORALE- 20 BUSTINE",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "024066019",
+        "nome": "IFENEC",
+        "descrizione": "1% CREMA- TUBO 30 G",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066021",
+        "nome": "IFENEC",
+        "descrizione": "1% EMULSIONE CUTANEA- TUBO 30 G",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066033",
+        "nome": "IFENEC",
+        "descrizione": "1% POLVERE CUTANEA- FLACONE DA 20 G",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066045",
+        "nome": "IFENEC",
+        "descrizione": "1% POLVERE CUTANEA- FLACONE 30 G",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066058",
+        "nome": "IFENEC",
+        "descrizione": "1% CREMA VAGINALE- TUBO DA 30 G + APPLICATORE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066060",
+        "nome": "IFENEC",
+        "descrizione": "1% CREMA VAGINALE- TUBO 78 G + APPLICATORE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066072",
+        "nome": "IFENEC",
+        "descrizione": "50 MG OVULI- 6 OVULI",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066084",
+        "nome": "IFENEC",
+        "descrizione": "50 MG OVULI- 12 OVULI",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066096",
+        "nome": "IFENEC",
+        "descrizione": "50 MG OVULI- 15 OVULI",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066108",
+        "nome": "IFENEC",
+        "descrizione": "150 MG OVULI- 3 OVULI",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066110",
+        "nome": "IFENEC",
+        "descrizione": "150 MG OVULI- 6 OVULI",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066122",
+        "nome": "IFENEC",
+        "descrizione": "1% SOLUZIONE CUTANEA- 3 BUSTINE DA 10 G",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066134",
+        "nome": "IFENEC",
+        "descrizione": "1% SOLUZIONE CUTANEA- 6 BUSTINE 10 G",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024066159",
+        "nome": "IFENEC",
+        "descrizione": "1% SOLUZIONE CUTANEA PER GENITALI ESTERNI- 1 FLACONE DA 60 ML",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024073013",
+        "nome": "DERMATAR",
+        "descrizione": "15 MG/G + 15 MG/G + 0,5 MG/G UNGUENTO- 1 TUBO DA 30 G",
+        "produttore": "IDI FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "024080020",
+        "nome": "GLURENOR",
+        "descrizione": "30 MG COMPRESSE - 40 COMPRESSE",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "024121067",
+        "nome": "DIFOSFOCIN",
+        "descrizione": "1000 MG/4 ML SOLUZIONE INIETTABILE-  3 FIALE DA 4 ML",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL"
+    },
+    {
+        "aic": "024121093",
+        "nome": "DIFOSFOCIN",
+        "descrizione": "500 MG/4 ML SOLUZIONE INIETTABILE- 5 FIALE DA 4 ML",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL"
+    },
+    {
+        "aic": "024121129",
+        "nome": "DIFOSFOCIN",
+        "descrizione": "1000 MG/4 ML SOLUZIONE INIETTABILE- 5 FIALE IN VETRO DA 4 ML",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL"
+    },
+    {
+        "aic": "024127019",
+        "nome": "CEFAZOLINA PHARMACARE",
+        "descrizione": "1000 MG/4 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE 4 ML",
+        "produttore": "PHARMACARE S.R.L."
+    },
+    {
+        "aic": "024139014",
+        "nome": "DIDROGYL",
+        "descrizione": "0,15 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 10 ML",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024139026",
+        "nome": "DIDROGYL",
+        "descrizione": "0,15 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 3,3 ML",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024150029",
+        "nome": "IPAMIX",
+        "descrizione": "50 CONFETTI MG 2,5",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "024153052",
+        "nome": "ATEM",
+        "descrizione": "0,5 MG/2 ML SOLUZIONE PER NEBULIZZATORE- 10 CONTENITORI MONODOSE 2 ML",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "024153064",
+        "nome": "ATEM",
+        "descrizione": "0,5 MG/2 ML SOLUZIONE PER NEBULIZZATORE- 20 CONTENITORI MONODOSE 2 ML",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "024154054",
+        "nome": "BREVA",
+        "descrizione": "15 MG + 3 MG AEROSOL  DOSATO  IN  FLACONE AL",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024154066",
+        "nome": "BREVA",
+        "descrizione": "<0,375%   +   0,075%   SOLUZIONE   DA NEBULIZZARE>, 1 FLACONE PE DA 15 ML CON CONTAGOCCE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024155057",
+        "nome": "SECTRAL",
+        "descrizione": "400 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "024157036",
+        "nome": "LIPOFENE",
+        "descrizione": "100 MG CAPSULE- 50 CAPSULE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024158014",
+        "nome": "TRIPT-OH",
+        "descrizione": "50 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024158026",
+        "nome": "TRIPT-OH",
+        "descrizione": "100 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024158038",
+        "nome": "TRIPT-OH",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024158040",
+        "nome": "TRIPT-OH",
+        "descrizione": "200 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024165021",
+        "nome": "MUCOCIS",
+        "descrizione": "ADULTI  50 MG/ML  SCIROPPO- FLACONE 200 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "024165058",
+        "nome": "MUCOCIS",
+        "descrizione": "BAMBINI 20 MG/ML  SCIROPPO- FLACONE DA 200 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "024165084",
+        "nome": "MUCOCIS",
+        "descrizione": "300 MG GRANULATO PER SOSPENSIONE ORALE- 30 BUSTINE 5 G",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "024173054",
+        "nome": "URSILON",
+        "descrizione": "450 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024173066",
+        "nome": "URSILON",
+        "descrizione": "225 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024173078",
+        "nome": "URSILON",
+        "descrizione": "150 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024173080",
+        "nome": "URSILON",
+        "descrizione": "300 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024173092",
+        "nome": "URSILON",
+        "descrizione": "150  mg  granulato  per  sospensione  orale  in bustina>, 20 bustine CARTA/AL/PE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024173104",
+        "nome": "URSILON",
+        "descrizione": "300  mg  granulato  per  sospensione  orale  in bustina>, 20 bustine CARTA/AL/PE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024180010",
+        "nome": "BRUFEN ANTINFIAMMATORIO LOCALE",
+        "descrizione": "5% GEL- TUBO 40 G",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "024180034",
+        "nome": "BRUFEN ANTINFIAMMATORIO LOCALE",
+        "descrizione": "10% CREMA- TUBO 50 G",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "024217010",
+        "nome": "MONORES",
+        "descrizione": "10 MCG COMPRESSE- 30 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024217034",
+        "nome": "MONORES",
+        "descrizione": "20 MCG COMPRESSE- 30 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024217109",
+        "nome": "MONORES",
+        "descrizione": "0,4 MG/100 ML SCIROPPO- FLACONE DA 120 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024217111",
+        "nome": "MONORES",
+        "descrizione": "0,1 MG/100 ML SCIROPPO- FLACONE DA 120 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024222034",
+        "nome": "BLOCADREN",
+        "descrizione": "40 COMPRESSE 10 MG",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "024227011",
+        "nome": "PANACEF",
+        "descrizione": "250 MG CAPSULE RIGIDE-  12 CAPSULE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227023",
+        "nome": "PANACEF",
+        "descrizione": "500 MG CAPSULE RIGIDE-8 CAPSULE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227035",
+        "nome": "PANACEF",
+        "descrizione": "125 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- FLACONE 100 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227047",
+        "nome": "PANACEF",
+        "descrizione": "50 MG/ML GOCCE ORALI, SOSPENSIONE- FLACONE 20 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227050",
+        "nome": "PANACEF",
+        "descrizione": "250 MG/5ML GRANULATO PER SOSPENSIONE ORALE-  FLACONE 100 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227074",
+        "nome": "PANACEF",
+        "descrizione": "375 MG COMPRESSE A RILASCIO MODIFICATO-  12 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227086",
+        "nome": "PANACEF",
+        "descrizione": "500 MG COMPRESSE A RILASCIO MODIFICATO-  8 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227098",
+        "nome": "PANACEF",
+        "descrizione": "750 MG COMPRESSE A RILASCIO MODIFICATO- 6 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227100",
+        "nome": "PANACEF",
+        "descrizione": "187,5 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- FLACONE 60 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227124",
+        "nome": "PANACEF",
+        "descrizione": "375 MG/5 ML GRANULATO PER SOSPENSIONE ORALE- 1 FLACONE 70 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227136",
+        "nome": "PANACEF",
+        "descrizione": "375 MG GRANULATO PER SOSPENSIONE ORALE- 12 BUSTINE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024227148",
+        "nome": "PANACEF",
+        "descrizione": "750 MG COMPRESSE A RILASCIO MODIFICATO- 12 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024249029",
+        "nome": "FELDENE",
+        "descrizione": "20 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024249068",
+        "nome": "FELDENE",
+        "descrizione": "20 MG/1 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE-  6 FIALE 1 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024259032",
+        "nome": "ZARIVIZ",
+        "descrizione": "1 G/4 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 4 ML",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "024259044",
+        "nome": "ZARIVIZ",
+        "descrizione": "1 G/4 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 4 ML",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "024264018",
+        "nome": "SORMODREN",
+        "descrizione": "4 MG COMPRESSE-50 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024273043",
+        "nome": "LUVION",
+        "descrizione": "100 MG CAPSULE RIGIDE-10 CAPSULE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024273056",
+        "nome": "LUVION",
+        "descrizione": "100 MG CAPSULE RIGIDE-20 CAPSULE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024273070",
+        "nome": "LUVION",
+        "descrizione": "200 MG/2 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE USO ENDOVENOSO- 6 FLACONI LIOFILIZZATI + 6 FIALE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024273082",
+        "nome": "LUVION",
+        "descrizione": "50 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024273094",
+        "nome": "LUVION",
+        "descrizione": "50 MG COMPRESSE- 40 COMPRESSE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024278107",
+        "nome": "TIMOPTOL",
+        "descrizione": "0,25% COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "SANTEN ITALY SRL"
+    },
+    {
+        "aic": "024278121",
+        "nome": "TIMOPTOL",
+        "descrizione": "0,50% COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "SANTEN ITALY SRL"
+    },
+    {
+        "aic": "024278133",
+        "nome": "TIMOPTOL",
+        "descrizione": "XE 0,25% COLLIRIO A RILASCIO PROLUNGATO-  FLACONE 2,5 ML",
+        "produttore": "SANTEN ITALY SRL"
+    },
+    {
+        "aic": "024278145",
+        "nome": "TIMOPTOL",
+        "descrizione": "XE 0,50% COLLIRIO A RILASCIO PROLUNGATO-  FLACONE 2,5 ML",
+        "produttore": "SANTEN ITALY SRL"
+    },
+    {
+        "aic": "024280012",
+        "nome": "ROCALTROL",
+        "descrizione": "0,25 MCG CAPSULE MOLLI- 30 CAPSULE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024280024",
+        "nome": "ROCALTROL",
+        "descrizione": "0,50 MCG CAPSULE MOLLI- 30 CAPSULE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024284034",
+        "nome": "FROBEN",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "024284073",
+        "nome": "FROBEN",
+        "descrizione": "5 MG/ML SCIROPPO- 1 FLACONE DA 160 ML",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "024284162",
+        "nome": "FROBEN",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 10 COMPRESSE RIVESTITE",
+        "produttore": "COOPER CONSUMER HEALTH B.V."
+    },
+    {
+        "aic": "024309039",
+        "nome": "PERIDON",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024309066",
+        "nome": "PERIDON",
+        "descrizione": "30 MG SUPPOSTE- 6 SUPPOSTE",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024309130",
+        "nome": "PERIDON",
+        "descrizione": "10 MG GRANULATO EFFERVESCENTE- 30 BUSTINE",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024309142",
+        "nome": "PERIDON",
+        "descrizione": "1 MG/ML SOSPENSIONE ORALE- FLACONE DA 200 ML",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024314039",
+        "nome": "DICETEL",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "024314041",
+        "nome": "DICETEL",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "024325060",
+        "nome": "SELES BETA",
+        "descrizione": "100 MG COMPRESSE - 50 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024350023",
+        "nome": "SPASMOMEN SOMATICO",
+        "descrizione": "40- 30 COMPRESSE RIVESTITE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "024352039",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE- FLACONE 200 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352054",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG + 267 MG COMPRESSE MASTICABILI GUSTO MENTA - 24 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352066",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG + 267 MG COMPRESSE MASTICABILI GUSTO MENTA - 36 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352078",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG + 267 MG COMPRESSE MASTICABILI GUSTO MENTA - 48 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352080",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG + 267 MG COMPRESSE MASTICABILI GUSTO MENTA - 40 COMPRESSE IN CONTENITORE",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352092",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE AROMA MENTA- FLACONE DA 200 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352104",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE AROMA MENTA- FLACONE DA 300 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352116",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE AROMA MENTA- FLACONE DA 500 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352128",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE AROMA MENTA- 12 BUSTINE MONODOSE DA 10 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352130",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE AROMA MENTA- 20 BUSTINE MONODOSE DA 10 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352142",
+        "nome": "GAVISCON",
+        "descrizione": "500 MG/10 ML + 267 MG/10 ML SOSPENSIONE ORALE AROMA MENTA- 24 BUSTINE MONODOSE DA 10 ML",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352155",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSE MASTICABILI GUSTO MENTA- 16 COMPRESSE",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352167",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSE MASTICABILI GUSTO MENTA- 24 COMPRESSE",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352179",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSE MASTICABILI GUSTO MENTA- 32 COMPRESSE",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352181",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSE MASTICABILI GUSTO MENTA- 48 COMPRESSE",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352193",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSA MASTICABILE GUSTO FRAGOLA- 16 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352205",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSA MASTICABILE GUSTO FRAGOLA- 24 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352217",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSA MASTICABILE GUSTO FRAGOLA- 32 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352229",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSA MASTICABILE GUSTO FRAGOLA- 48 COMPRESSE IN BLISTER",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352231",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSA MASTICABILE GUSTO FRAGOLA- 16 COMPRESSE IN CONTENITORE CON TAPPO A SCATTO",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024352243",
+        "nome": "GAVISCON",
+        "descrizione": "250 MG + 133,5 MG COMPRESSA MASTICABILE GUSTO FRAGOLA- 20 COMPRESSE IN CONTENITORE CON TAPPO A SCATTO",
+        "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A."
+    },
+    {
+        "aic": "024372082",
+        "nome": "DANTRIUM",
+        "descrizione": "20 MG POLVERE PER SOLUZIONE PER INFUSIONE- 36 FLACONCINI",
+        "produttore": "NORGINE ITALIA S.R.L."
+    },
+    {
+        "aic": "024372094",
+        "nome": "DANTRIUM",
+        "descrizione": "20 MG POLVERE PER SOLUZIONE PER INFUSIONE- 12 FLACONCINI",
+        "produttore": "NORGINE ITALIA S.R.L."
+    },
+    {
+        "aic": "024373019",
+        "nome": "MIRTILENE",
+        "descrizione": "CAPSULE MOLLI- 20 CAPSULE",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "024373033",
+        "nome": "MIRTILENE",
+        "descrizione": "FORTE CAPSULE MOLLI- 20 CAPSULE",
+        "produttore": "SIFI S.P.A."
+    },
+    {
+        "aic": "024378022",
+        "nome": "TRAVOSEPT",
+        "descrizione": "0,1% + 1% CREMA-TUBO 30 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "024383022",
+        "nome": "IMPETEX",
+        "descrizione": "10 MG/G + 1 MG/G CREMA? TUBO DA 30 G",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024385320",
+        "nome": "INTRALIPID",
+        "descrizione": "10 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385332",
+        "nome": "INTRALIPID",
+        "descrizione": "10 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 500 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385344",
+        "nome": "INTRALIPID",
+        "descrizione": "10 G/100 ML EMULSIONE PER INFUSIONE- 12 SACCHE IN BIOFINE DA 500 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385357",
+        "nome": "INTRALIPID",
+        "descrizione": "10 G/100 ML EMULSIONE PER INFUSIONE- 10 SACCHE IN BIOFINE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385369",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385371",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 250 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385383",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 10 SACCHE IN BIOFINE DA 250 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385395",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 500 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385407",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 10 SACCHE IN BIOFINE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385419",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 12 SACCHE IN BIOFINE DA 500 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385421",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 6 SACCHE IN BIOFINE DA 1000 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385433",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 1000 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385445",
+        "nome": "INTRALIPID",
+        "descrizione": "30 G/100 ML EMULSIONE PER INFUSIONE- 1 SACCA IN BIOFINE DA 250 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385458",
+        "nome": "INTRALIPID",
+        "descrizione": "30 G/100 ML EMULSIONE PER INFUSIONE- 10 SACCHE IN BIOFINE DA 250 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385484",
+        "nome": "INTRALIPID",
+        "descrizione": "10 G/100 ML EMULSIONE PER INFUSIONE - 20 SACCHE IN BIOFINE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024385496",
+        "nome": "INTRALIPID",
+        "descrizione": "20 G/100 ML EMULSIONE PER INFUSIONE - 20 SACCHE IN BIOFINE DA 100 ML",
+        "produttore": "FRESENIUS KABI ITALIA S.R.L."
+    },
+    {
+        "aic": "024402048",
+        "nome": "EUTIROX",
+        "descrizione": "25 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402051",
+        "nome": "EUTIROX",
+        "descrizione": "75 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402063",
+        "nome": "EUTIROX",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402075",
+        "nome": "EUTIROX",
+        "descrizione": "150 MICROGRAMMI COMPRESSE-50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402125",
+        "nome": "EUTIROX",
+        "descrizione": "50 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402137",
+        "nome": "EUTIROX",
+        "descrizione": "100 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402149",
+        "nome": "EUTIROX",
+        "descrizione": "175 MICROGRAMMI COMPRESSE - 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402152",
+        "nome": "EUTIROX",
+        "descrizione": "200 MICROGRAMMI COMPRESSE - 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402164",
+        "nome": "EUTIROX",
+        "descrizione": "88 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402176",
+        "nome": "EUTIROX",
+        "descrizione": "112 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402188",
+        "nome": "EUTIROX",
+        "descrizione": "137 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402190",
+        "nome": "EUTIROX",
+        "descrizione": "38 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402202",
+        "nome": "EUTIROX",
+        "descrizione": "63 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024409118",
+        "nome": "EPALFEN EPS",
+        "descrizione": "6 G GRANULATO PER SOLUZIONE ORALE-30 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024409120",
+        "nome": "EPALFEN EPS",
+        "descrizione": "12 G GRANULATO PER SOLUZIONE ORALE-15 BUSTINE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024409132",
+        "nome": "EPALFEN EPS",
+        "descrizione": "65% SCIROPPO- FLACONE200 ML",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024409144",
+        "nome": "EPALFEN EPS",
+        "descrizione": "65% SCIROPPO- FLACONE 400 ML",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024410021",
+        "nome": "FLUXARTEN",
+        "descrizione": "10 MG CAPSULE RIGIDE- 50 CAPSULE RIGIDE",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024410045",
+        "nome": "FLUXARTEN",
+        "descrizione": "5 MG CAPSULE RIGIDE- 50 CAPSULE RIGIDE",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024411023",
+        "nome": "FLUNAGEN",
+        "descrizione": "5 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "024411035",
+        "nome": "FLUNAGEN",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "024414017",
+        "nome": "FLUGERAL",
+        "descrizione": "5 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024414029",
+        "nome": "FLUGERAL",
+        "descrizione": "5 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024414031",
+        "nome": "FLUGERAL",
+        "descrizione": "5 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024414043",
+        "nome": "FLUGERAL",
+        "descrizione": "10 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024414056",
+        "nome": "FLUGERAL",
+        "descrizione": "10 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024414068",
+        "nome": "FLUGERAL",
+        "descrizione": "10 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "024425011",
+        "nome": "IOPAMIRO",
+        "descrizione": "200 MG/ML SOLUZIONE INIETTABILE- 1 FIALA 10 ML",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425023",
+        "nome": "IOPAMIRO",
+        "descrizione": "300 MG/ML SOLUZIONE INIETTABILE- 1 FIALA DA 10 ML",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425035",
+        "nome": "IOPAMIRO",
+        "descrizione": "<300 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 30 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425047",
+        "nome": "IOPAMIRO",
+        "descrizione": "<300 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 50 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425050",
+        "nome": "IOPAMIRO",
+        "descrizione": "370 MG/ML SOLUZIONE INIETTABILE- 1 FIALA 10 ML",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425062",
+        "nome": "IOPAMIRO",
+        "descrizione": "<370 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 30 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425074",
+        "nome": "IOPAMIRO",
+        "descrizione": "<370 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 50 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425100",
+        "nome": "IOPAMIRO",
+        "descrizione": "<300 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 100 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425112",
+        "nome": "IOPAMIRO",
+        "descrizione": "<370 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 100 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425124",
+        "nome": "IOPAMIRO",
+        "descrizione": "<150 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 50 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425136",
+        "nome": "IOPAMIRO",
+        "descrizione": "<150 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 100 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425148",
+        "nome": "IOPAMIRO",
+        "descrizione": "<150 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 250 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425151",
+        "nome": "IOPAMIRO",
+        "descrizione": "<300 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 200 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425163",
+        "nome": "IOPAMIRO",
+        "descrizione": "<370 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 200 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425314",
+        "nome": "IOPAMIRO",
+        "descrizione": "<300 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 500 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024425326",
+        "nome": "IOPAMIRO",
+        "descrizione": "<370 mgI/ml soluzione  iniettabile>  1  flacone  in vetro da 500 ml",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "024427015",
+        "nome": "SEKI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024427027",
+        "nome": "SEKI",
+        "descrizione": "BAMBINI 4,4 MG COMPRESSE MASTICABILI- 20 COMPRESSE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024427039",
+        "nome": "SEKI",
+        "descrizione": "BAMBINI 4,4 MG COMPRESSE MASTICABILI- 60 COMPRESSE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024427041",
+        "nome": "SEKI",
+        "descrizione": "3,54 MG/ML SCIROPPO- 1 FLACONE 200 ML CON BICCHIERE DOSATORE",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024427054",
+        "nome": "SEKI",
+        "descrizione": "35,4 MG/ML GOCCE ORALI, SOSPENSIONE- 1 FLACONE 25 ML",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024428043",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "15MG/2ML SOLUZIONE DA NEBULIZZARE- 6 FIALE 2 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428068",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "75 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428144",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "7,5 MG/ML SOLUZIONE DA NEBULIZZARE-  FLACONE 40 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428195",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "15 MG PASTIGLIE GOMMOSE - 20 PASTIGLIE IN BLISTER PVC/AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428219",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "15 MG PASTIGLIE GOMMOSE - 40 PASTIGLIE IN BLISTER PVC/AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428233",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "30 MG/ 5 ML SCIROPPO - FLACONE DA 100 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428258",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "30 MG/ 5 ML SCIROPPO - FLACONE DA 200 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024428272",
+        "nome": "MUCOSOLVAN",
+        "descrizione": "15 MG/5 ML SCIROPPO GUSTO FRUTTI DI BOSCO- FLACONE 200 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "024430023",
+        "nome": "GRADIENT POLIFARMA",
+        "descrizione": "5 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "024430035",
+        "nome": "GRADIENT POLIFARMA",
+        "descrizione": "10 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "024444034",
+        "nome": "URSOBIL",
+        "descrizione": "150 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444059",
+        "nome": "URSOBIL",
+        "descrizione": "250 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444085",
+        "nome": "URSOBIL",
+        "descrizione": "254 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 20 ML.",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444097",
+        "nome": "URSOBIL",
+        "descrizione": "150 MG CAPSULE RIGIDE- 40 CAPSULE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444109",
+        "nome": "URSOBIL",
+        "descrizione": "250 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444111",
+        "nome": "URSOBIL",
+        "descrizione": "31,7 MG/ML SCIROPPO- FLACONE 200 ML",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444123",
+        "nome": "URSOBIL",
+        "descrizione": "300 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024444135",
+        "nome": "URSOBIL",
+        "descrizione": "300 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "024449050",
+        "nome": "VICKS MEDINAIT",
+        "descrizione": "0,5 mg/ml +  0,25  mg/ml  +  20  mg/ml sciroppo>, flacone in vetro da 90 ml con bicchiere dosatore",
+        "produttore": "PROCTER & GAMBLE S.R.L."
+    },
+    {
+        "aic": "024449062",
+        "nome": "VICKS MEDINAIT",
+        "descrizione": "0,5 mg/ml +  0,25  mg/ml  +  20  mg/ml sciroppo>, flacone in vetro da 180 ml con bicchiere dosatore",
+        "produttore": "PROCTER & GAMBLE S.R.L."
+    },
+    {
+        "aic": "024453021",
+        "nome": "TIKLID",
+        "descrizione": "250MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "024459137",
+        "nome": "AMICASIL",
+        "descrizione": "500 MG/2 ML SOLUZIONE INIETTABILE - 10 FIALE",
+        "produttore": "PHARMATEX ITALIA S.R.L."
+    },
+    {
+        "aic": "024475030",
+        "nome": "LIKACIN",
+        "descrizione": "250 MG/2 ML SOLUZIONE INIETTABILE- 1 FLACONCINO 2 ML",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024475055",
+        "nome": "LIKACIN",
+        "descrizione": "500 MG/2 ML SOLUZIONE INIETTABILE-1 FLACONCINO 2 ML",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024475067",
+        "nome": "LIKACIN",
+        "descrizione": "1000 MG/4 ML SOLUZIONE INIETTABILE- 1 FLACONCINO 4 ML",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024475081",
+        "nome": "LIKACIN",
+        "descrizione": "5% GEL- TUBO 30 G",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024488064",
+        "nome": "ZAROXOLYN",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024488090",
+        "nome": "ZAROXOLYN",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024493013",
+        "nome": "DIGERENT POLIFARMA",
+        "descrizione": "150 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "024493025",
+        "nome": "DIGERENT POLIFARMA",
+        "descrizione": "150 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "024515049",
+        "nome": "DICLOREUM",
+        "descrizione": "50 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024515076",
+        "nome": "DICLOREUM",
+        "descrizione": "75 MG/3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 6 FIALE 3 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024515088",
+        "nome": "DICLOREUM",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024515114",
+        "nome": "DICLOREUM",
+        "descrizione": "150 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024515138",
+        "nome": "DICLOREUM",
+        "descrizione": "50 MG GRANULATO PER SOLUZIONE ORALE- 20 BUSTINE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024519011",
+        "nome": "GUTRON",
+        "descrizione": "2,5 MG COMPRESSE- 30 COMPRESSE DIVISIBILI",
+        "produttore": "ISTITUTO LUSO FARMACO D'ITALIA S.P.A."
+    },
+    {
+        "aic": "024519023",
+        "nome": "GUTRON",
+        "descrizione": "2,5 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 30 ML",
+        "produttore": "ISTITUTO LUSO FARMACO D'ITALIA S.P.A."
+    },
+    {
+        "aic": "024527071",
+        "nome": "LUKADIN",
+        "descrizione": "1 G/4 ML SOLUZIONE INIETTABILE- 1 FIALA 4 ML",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "024552022",
+        "nome": "ARVENUM",
+        "descrizione": "500 mg compresse rivestite  con  film> 30 compresse in blister PVC/Al",
+        "produttore": "IST.FARM.BIOL.STRODER S.R.L."
+    },
+    {
+        "aic": "024552046",
+        "nome": "ARVENUM",
+        "descrizione": "500 mg compresse rivestite  con  film> 60 compresse in blister PVC/Al",
+        "produttore": "IST.FARM.BIOL.STRODER S.R.L."
+    },
+    {
+        "aic": "024552059",
+        "nome": "ARVENUM",
+        "descrizione": "500 mg compresse rivestite  con  film> 15 compresse in blister PVC/Al",
+        "produttore": "IST.FARM.BIOL.STRODER S.R.L."
+    },
+    {
+        "aic": "024574030",
+        "nome": "ZADITEN",
+        "descrizione": "0,2 MG/ML SCIROPPO- 1 FLACONE DA 200 ML CON CUCCHIAIO DOSATORE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024574042",
+        "nome": "ZADITEN",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO- 15 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024580072",
+        "nome": "NEUROTON",
+        "descrizione": "500 MG/3 ML SOLUZIONE INIETTABILE-  5 FIALE DA 3 ML",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "024580096",
+        "nome": "NEUROTON",
+        "descrizione": "1000 MG/4 ML SOLUZIONE INIETTABILE- 3 FIALE DA 4 ML",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "024580159",
+        "nome": "NEUROTON",
+        "descrizione": "1000 MG/4 ML SOLUZIONE INIETTABILE- 5 FIALE 4 ML",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "024593016",
+        "nome": "BRUNAC",
+        "descrizione": "5% COLLIRIO, SOLUZIONE- FLACONE 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "024596037",
+        "nome": "FLUIBRON",
+        "descrizione": "15 MG/5 ML SCIROPPO-FLACONE 200 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024596049",
+        "nome": "FLUIBRON",
+        "descrizione": "0,75% SOLUZIONE ORALE O DA NEBULIZZARE-FLACONE 40 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024596090",
+        "nome": "FLUIBRON",
+        "descrizione": "ADULTI 30 MG GRANULATO PER SOSPENSIONE ORALE- 30 BUSTINE",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024596102",
+        "nome": "FLUIBRON",
+        "descrizione": "ADULTI 30 MG GRANULATO PER SOSPENSIONE ORALE- 60 BUSTINE",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024596138",
+        "nome": "FLUIBRON",
+        "descrizione": "15 MG/2 ML SOLUZIONE DA NEBULIZZARE- 10 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024596140",
+        "nome": "FLUIBRON",
+        "descrizione": "15 MG/2 ML SOLUZIONE DA NEBULIZZARE- 15 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024596153",
+        "nome": "FLUIBRON",
+        "descrizione": "15 MG/2 ML SOLUZIONE DA NEBULIZZARE- 20 CONTENITORI MONODOSE 2 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024597015",
+        "nome": "CARBOLITHIUM",
+        "descrizione": "150 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "024597039",
+        "nome": "CARBOLITHIUM",
+        "descrizione": "300 MG CAPSULE RIGIDE- 50 CAPSULE",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "024599045",
+        "nome": "CORAL",
+        "descrizione": "30  MG COMPRESSE RIVESTITE CON FILM A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "024599058",
+        "nome": "CORAL",
+        "descrizione": "60  MG COMPRESSE RIVESTITE CON FILM A RILASCIO MODIFICATO- 14 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "024603019",
+        "nome": "EUMOVATE",
+        "descrizione": "0,5 MG/G CREMA- TUBO 30 G",
+        "produttore": "HALEON ITALY S.R.L."
+    },
+    {
+        "aic": "024608061",
+        "nome": "NIFEDICOR",
+        "descrizione": "20 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE CONTAGOCCE IN VETRO DA 30 ML CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "024615078",
+        "nome": "ACIDO URSODESOSSICOLICO EG STADA",
+        "descrizione": "150 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "024615080",
+        "nome": "ACIDO URSODESOSSICOLICO EG STADA",
+        "descrizione": "300 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "024615092",
+        "nome": "ACIDO URSODESOSSICOLICO EG STADA",
+        "descrizione": "450 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 20 CAPSULE",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "024624013",
+        "nome": "DINEZA",
+        "descrizione": "5MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE",
+        "produttore": "D.M.G. ITALIA S.R.L."
+    },
+    {
+        "aic": "024625016",
+        "nome": "MICONAL",
+        "descrizione": "2% CREMA- TUBO 30 G",
+        "produttore": "MORGAN S.R.L."
+    },
+    {
+        "aic": "024625030",
+        "nome": "MICONAL",
+        "descrizione": "2% CREMA VAGINALE- TUBO 78 G",
+        "produttore": "MORGAN S.R.L."
+    },
+    {
+        "aic": "024625042",
+        "nome": "MICONAL",
+        "descrizione": "2% POLVERE CUTANEA- FLACONE 20 G",
+        "produttore": "MORGAN S.R.L."
+    },
+    {
+        "aic": "024625055",
+        "nome": "MICONAL",
+        "descrizione": "15 OVULI VAG 50 MG",
+        "produttore": "MORGAN S.R.L."
+    },
+    {
+        "aic": "024625067",
+        "nome": "MICONAL",
+        "descrizione": "2 CAPSULE VAGINALI",
+        "produttore": "MORGAN S.R.L."
+    },
+    {
+        "aic": "024625079",
+        "nome": "MICONAL",
+        "descrizione": "0,2% SOLUZIONE VAGINALE- 5 FLACONI",
+        "produttore": "MORGAN S.R.L."
+    },
+    {
+        "aic": "024632085",
+        "nome": "CITOFOLIN",
+        "descrizione": "15 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "SUBSTIPHARM"
+    },
+    {
+        "aic": "024635029",
+        "nome": "ARFEN",
+        "descrizione": "500 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024635094",
+        "nome": "ARFEN",
+        "descrizione": "10 MG/ML SOLUZIONE VAGINALE- 5 FLACONI DA 140 ML + 5 CANNULE",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024635106",
+        "nome": "ARFEN",
+        "descrizione": "400 MG/3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 6 FIALE 3 ML",
+        "produttore": "LABORATORIO ITALIANO BIOCHIMICO FARMACEUTICO LISAPHARMA S.P.A."
+    },
+    {
+        "aic": "024639039",
+        "nome": "VEPESID",
+        "descrizione": "50 MG CAPSULE MOLLI- 20 CAPSULE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "024639041",
+        "nome": "VEPESID",
+        "descrizione": "100 MG CAPSULE MOLLI- 10 CAPSULE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "024649081",
+        "nome": "CITICOLIN",
+        "descrizione": "500 MG/4 ML SOLUZIONE INIETTABILE- 5 FIALE 4 ML",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024649093",
+        "nome": "CITICOLIN",
+        "descrizione": "1000 MG/4 ML  SOLUZIONE INIETTABILE- 5 FIALE 4 ML",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024652101",
+        "nome": "ANTIMICOTICO SAME",
+        "descrizione": "1% CREMA- 1 TUBO DA 30 G",
+        "produttore": "SAVOMA MEDICINALI S.P.A."
+    },
+    {
+        "aic": "024659118",
+        "nome": "LEDERFOLIN",
+        "descrizione": "7,5 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024659120",
+        "nome": "LEDERFOLIN",
+        "descrizione": "25 MG POLVERE PER SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONCINO",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024659183",
+        "nome": "LEDERFOLIN",
+        "descrizione": "175 MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024659195",
+        "nome": "LEDERFOLIN",
+        "descrizione": "100 MG POLVERE PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024666024",
+        "nome": "PRESSURAL",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE- 50 COMPRESSE",
+        "produttore": "POLIFARMA S.P.A."
+    },
+    {
+        "aic": "024667139",
+        "nome": "NAPRIUS",
+        "descrizione": "500 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "024667141",
+        "nome": "NAPRIUS",
+        "descrizione": "10% GEL- TUBO 30 G",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "024667154",
+        "nome": "NAPRIUS",
+        "descrizione": "500 MG GRANULATO PER SOSPENSIONE ORALE- 20 BUSTINE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "024685012",
+        "nome": "MUCOSTAR",
+        "descrizione": "50 MG/ML SCIROPPO- FLACONE DA 200 ML",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL"
+    },
+    {
+        "aic": "024685036",
+        "nome": "MUCOSTAR",
+        "descrizione": "1,5 G GRANULATO PER SOSPENSIONE ORALE- 20 BUSTINE",
+        "produttore": "AESCULAPIUS FARMACEUTICI SRL"
+    },
+    {
+        "aic": "024703098",
+        "nome": "PREFOLIC",
+        "descrizione": "5 FLAC. LIOF. 15 MG + 5 F.SOLV.",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024703112",
+        "nome": "PREFOLIC",
+        "descrizione": "6 FLAC. LIOF. 50 MG+ 6 F SOLV.",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024703124",
+        "nome": "PREFOLIC",
+        "descrizione": "30 COMPRESSE GASTRORES. 15 MG",
+        "produttore": "ZAMBON ITALIA S.R.L."
+    },
+    {
+        "aic": "024713048",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 10 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024713051",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE - 10 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024713063",
+        "nome": "HALCION",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024713075",
+        "nome": "HALCION",
+        "descrizione": "250 MICROGRAMMI COMPRESSE- 20 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024721021",
+        "nome": "SYNTARIS",
+        "descrizione": "0,25 MG/ML SPRAY NASALE, SOLUZIONE- FLACONE 24 ML 200 DOSI",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "024722047",
+        "nome": "SYNFLEX",
+        "descrizione": "550 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "024722086",
+        "nome": "SYNFLEX",
+        "descrizione": "550 MG GRANULATO PER SOSPENSIONE ORALE- 30 BUSTINE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "024722112",
+        "nome": "SYNFLEX",
+        "descrizione": "550 MG COMPRESSE RIVESTITE- 10 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "024731073",
+        "nome": "SONGAR",
+        "descrizione": "0,25 MG  CAPSULE RIGIDE- 10 CAPSULE RIGIDE CONTENENTI CIASCUNA 2 COMPRESSE DA 0,125 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024731085",
+        "nome": "SONGAR",
+        "descrizione": "0,125 MG CAPSULE RIGIDE- 10 CAPSULE RIGIDE CONTENENTI CIASCUNA 2 COMPRESSE DA 0,0625 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024731097",
+        "nome": "SONGAR",
+        "descrizione": "0,25 MG  CAPSULE RIGIDE- 20 CAPSULE RIGIDE CONTENENTI CIASCUNA 2 COMPRESSE DA 0,125 MG",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024731111",
+        "nome": "SONGAR",
+        "descrizione": "0,375 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 19 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024732012",
+        "nome": "BEZALIP",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "024732024",
+        "nome": "BEZALIP",
+        "descrizione": "400 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "024737013",
+        "nome": "TENORETIC",
+        "descrizione": "100 MG + 25 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024737025",
+        "nome": "TENORETIC",
+        "descrizione": "100 MG + 25 MG COMPRESSE- 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024737037",
+        "nome": "TENORETIC",
+        "descrizione": "50 MG + 12,5 MG COMPRESSE- 28 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "024744043",
+        "nome": "FEIBA",
+        "descrizione": "500 UF/20 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE  + 1 FLACONCINO SOLVENTE DA 20 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024744056",
+        "nome": "FEIBA",
+        "descrizione": "1000 UF/20 ML  POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE  + 1 FLACONCINO SOLVENTE DA 20 ML",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024744068",
+        "nome": "FEIBA",
+        "descrizione": "500 UF/20 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE 20 ML + 1 DISPOSITIVO BAXJECT II HI FLOW",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024744070",
+        "nome": "FEIBA",
+        "descrizione": "1000 UF/20 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE 20 ML + 1 DISPOSITIVO BAXJECT II HI FLOW",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024744082",
+        "nome": "FEIBA",
+        "descrizione": "100 UF/ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE DA 500 UF + 1 FLACONCINO SOLVENTE DA 5 ML + 1 DISPOSITIVO BAXJECT II HI-FLOW CON SIRINGA E AGO",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024744094",
+        "nome": "FEIBA",
+        "descrizione": "100 UF/ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE DA 1000 UF + 1 FLACONCINO SOLVENTE DA 10 ML + 1 DISPOSITIVO BAXJECT II HI-FLOW CON SIRINGA E AGO",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024744106",
+        "nome": "FEIBA",
+        "descrizione": "100 UF/ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE DA 2500 UF + 1 FLACONCINO SOLVENTE DA 25 ML + 1 DISPOSITIVO BAXJECT II HI-FLOW CON SIRINGA E AGO",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024748042",
+        "nome": "PROVERTINUM",
+        "descrizione": "600 UI POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE DA 600 UI + 1 FLACONCINO DI SOLVENTE DA 10 ML+ SET PER RIC E INF",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "024753028",
+        "nome": "ANCOTIL",
+        "descrizione": "2,5 G/250 ML SOLUZIONE PER INFUSIONE-  5 FLACONI 250 ML",
+        "produttore": "VIATRIS ITALIA S.R.L."
+    },
+    {
+        "aic": "024756025",
+        "nome": "LONITEN",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "024763056",
+        "nome": "IGROSELES",
+        "descrizione": "100 MG + 25 MG COMPRESSE-28 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024763068",
+        "nome": "IGROSELES",
+        "descrizione": "50 MG + 12,5 MG COMPRESSE-28 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "024782056",
+        "nome": "KATARFLUID",
+        "descrizione": "5 G/100 ML ADULTI SOLUZIONE ORALE- 1 FLACONE DA 200 ML",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "024787018",
+        "nome": "MYLERAN",
+        "descrizione": "2 MG COMPRESSE RIVESTITE CON FILM-100 COMPRESSE",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "024790026",
+        "nome": "LEUKERAN",
+        "descrizione": "2 MG COMPRESSE RIVESTITE CON FILM- 25 COMPRESSE",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "024823066",
+        "nome": "ACTIGRIP",
+        "descrizione": "<2,5 mg/60  mg/300  mg  compresse>  12 compresse in blister AL/PVC/PVDC",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024823080",
+        "nome": "ACTIGRIP",
+        "descrizione": "<2,5  mg/60  mg/500  mg  compresse>  12 compresse in blister AL/PVC/PVDC",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024829018",
+        "nome": "ZETAMICIN",
+        "descrizione": "15 MG/1,5 ML SOLUZIONE INIETTABILE- 1 FIALA 1,5ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "024829032",
+        "nome": "ZETAMICIN",
+        "descrizione": "100 MG/ML SOLUZIONE INIETTABILE- 1 FIALA 1 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "024829044",
+        "nome": "ZETAMICIN",
+        "descrizione": "150 MG/1,5 ML SOLUZIONE INIETTABILE- 1 FIALA 1,5 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "024829057",
+        "nome": "ZETAMICIN",
+        "descrizione": "200 MG/2 ML SOLUZIONE INIETTABILE- 1 FIALA 2 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "024829069",
+        "nome": "ZETAMICIN",
+        "descrizione": "300 MG/3 ML SOLUZIONE INIETTABILE- 1 FIALA 3 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "024840074",
+        "nome": "CARDIOASPIRIN",
+        "descrizione": "100 MG COMPRESSE GASTRORESISTENTI-30 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "024840086",
+        "nome": "CARDIOASPIRIN",
+        "descrizione": "100 MG COMPRESSE GASTRORESISTENTI-60 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "024840098",
+        "nome": "CARDIOASPIRIN",
+        "descrizione": "100 MG COMPRESSE GASTRORESISTENTI-90 COMPRESSE",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "024851014",
+        "nome": "VISUGLICAN",
+        "descrizione": "40 MG/ML + 2 MG/ML COLLIRIO, SOLUZIONE- FLACONE 10 ML",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "024851026",
+        "nome": "VISUGLICAN",
+        "descrizione": "40 MG/ML + 2 MG/ML COLLIRIO, SOLUZIONE- 25 CONTENITORI MONODOSE DA 0,5 ML",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "024855037",
+        "nome": "BENDALINA",
+        "descrizione": "0,5% COLLIRIO, SOLUZIONE- 30 CONTENITORI MONODOSE",
+        "produttore": "OMNIVISION ITALIA SRL"
+    },
+    {
+        "aic": "024855049",
+        "nome": "BENDALINA",
+        "descrizione": "0,5% COLLIRIO, SOLUZIONE- 1 FLACONE DA 7 ML",
+        "produttore": "OMNIVISION ITALIA SRL"
+    },
+    {
+        "aic": "024860025",
+        "nome": "TRIMONASE",
+        "descrizione": "500 MG COMPRESSE- 8 COMPRESSE",
+        "produttore": "FARMITALIA INDUSTRIA CHIMICO FARMACEUTICA S.R.L."
+    },
+    {
+        "aic": "024861015",
+        "nome": "NALCROM",
+        "descrizione": "100 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024861066",
+        "nome": "NALCROM",
+        "descrizione": "250 MG GRANULATO PER SOLUZIONE ORALE - 24 BUSTINE",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024861078",
+        "nome": "NALCROM",
+        "descrizione": "500 MG GRANULATO PER SOLUZIONE ORALE - 24 BUSTINE",
+        "produttore": "ITALCHIMICI S.P.A."
+    },
+    {
+        "aic": "024862017",
+        "nome": "RYTMONORM",
+        "descrizione": "<150 MG  COMPRESSE  RIVESTITE>  30  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862029",
+        "nome": "RYTMONORM",
+        "descrizione": "<300 MG  COMPRESSE  RIVESTITE>  30  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862031",
+        "nome": "RYTMONORM",
+        "descrizione": "70 MG/20 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 5 FIALE 20 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862070",
+        "nome": "RYTMONORM",
+        "descrizione": "<150 MG  COMPRESSE  RIVESTITE>  60  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862082",
+        "nome": "RYTMONORM",
+        "descrizione": "<300 MG  COMPRESSE  RIVESTITE>  60  COMPRESSE  IN BLISTER ALLUMINIO/PVC",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862094",
+        "nome": "RYTMONORM",
+        "descrizione": "<325 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO>  28 CAPSULE IN BLISTER PVC/PVDC/ALU",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024862106",
+        "nome": "RYTMONORM",
+        "descrizione": "<425 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO>  28 CAPSULE IN BLISTER PVC/PVDC/ALU",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "024863019",
+        "nome": "LUNIS",
+        "descrizione": "5 MG/14 ML SPRAY NASALE, SOLUZIONE- 1 FLACONE PER 200 DOSI",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "024886018",
+        "nome": "MOBILISIN",
+        "descrizione": "40 G CREMA- 1 TUBO",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "024928119",
+        "nome": "NORMOPARIN",
+        "descrizione": "25.000 UI/ 5 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 10 FIALE",
+        "produttore": "LABORATORIOS FARMACEUTICOS ROVI S.A."
+    },
+    {
+        "aic": "024953022",
+        "nome": "MOTILIUM",
+        "descrizione": "1 MG/ML SOSPENSIONE ORALE- 1 FLACONE 200 ML",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024953034",
+        "nome": "MOTILIUM",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024957060",
+        "nome": "DAKTARIN",
+        "descrizione": "20 MG/G GEL ORALE- TUBO 80 G",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024957247",
+        "nome": "DAKTARIN",
+        "descrizione": "20 MG/G CREMA VAGINALE- 1 TUBO DA 78 G CON 16 APPLICATORI MONOUSO",
+        "produttore": "KENVUE ITALIA S.P.A."
+    },
+    {
+        "aic": "024962045",
+        "nome": "PHOSPHO LAX",
+        "descrizione": "8,346 G/20 ML + 1,906 G/20 ML SOLUZIONE ORALE- 2 BUSTINE DA 20 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "024962058",
+        "nome": "PHOSPHO LAX",
+        "descrizione": "8,346 G/20 ML + 1,906 G/20 ML SOLUZIONE ORALE- 10 BUSTINE DA 20 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "024964037",
+        "nome": "NIZORAL",
+        "descrizione": "2 % CREMA- TUBO DA 30G",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "024964140",
+        "nome": "NIZORAL",
+        "descrizione": "20 MG/G SHAMPOO- FLACONE DA 100 G",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "024992024",
+        "nome": "MUCOLASE",
+        "descrizione": "50 MG/ML SCIROPPO- FLACONE DA 200 ML",
+        "produttore": "LAMPUGNANI FARMACEUTICI SPA"
+    },
+    {
+        "aic": "024992051",
+        "nome": "MUCOLASE",
+        "descrizione": "1,5 G GRANULATO PER SOLUZIONE ORALE - 20 BUSTINE",
+        "produttore": "LAMPUGNANI FARMACEUTICI SPA"
+    },
+    {
+        "aic": "024994081",
+        "nome": "IBIFEN",
+        "descrizione": "100 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994105",
+        "nome": "IBIFEN",
+        "descrizione": "50 MG/ML GEL- 1 TUBO 50 G",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994117",
+        "nome": "IBIFEN",
+        "descrizione": "50 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994168",
+        "nome": "IBIFEN",
+        "descrizione": "200 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994170",
+        "nome": "IBIFEN",
+        "descrizione": "30 BUSTINE GRANULATO EFFERV 50 MG",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994182",
+        "nome": "IBIFEN",
+        "descrizione": "100MG/2,5ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - 6 FIALE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994194",
+        "nome": "IBIFEN",
+        "descrizione": "100 MG/5 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 6 FIALE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994220",
+        "nome": "IBIFEN",
+        "descrizione": "25 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 20 ML",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994232",
+        "nome": "IBIFEN",
+        "descrizione": "100 MG/2,5 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 5 FIALE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024994244",
+        "nome": "IBIFEN",
+        "descrizione": "100 MG/5 ML SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 5 FIALE",
+        "produttore": "ISTITUTO BIOCHIMICO ITALIANO GIOVANNI LORENZINI S.P.A."
+    },
+    {
+        "aic": "024995033",
+        "nome": "CLISMA LAX",
+        "descrizione": "SOLUZIONE RETTALE- 1 FLACONE DA 133 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024995045",
+        "nome": "CLISMA LAX",
+        "descrizione": "SOLUZIONE RETTALE- 4 FLACONI DA 133 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024995058",
+        "nome": "CLISMA LAX",
+        "descrizione": "SOLUZIONE RETTALE - 20 FLACONI DA 133 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "024995060",
+        "nome": "CLISMA LAX",
+        "descrizione": "SOLUZIONE RETTALE - 4 FLACONI DA 260 ML",
+        "produttore": "ALFASIGMA S.P.A."
+    }
+]

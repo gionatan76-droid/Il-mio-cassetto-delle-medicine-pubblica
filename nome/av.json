@@ -1,0 +1,560 @@
+[
+    {
+        "aic": "033247014",
+        "nome": "AVAXIM",
+        "descrizione": "SOSPENSIONE 0,5 ML SIR. PRECARICATA",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247026",
+        "nome": "AVAXIM",
+        "descrizione": "SOSPENSIONE 0,5 ML SIRINGA PRECARICATA CON NUOVO CAPPUCCIO COPRIAGO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247038",
+        "nome": "AVAXIM",
+        "descrizione": "1 SIRINGA PRERIEMPITA SENZA AGO DA 0,5 ML",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247040",
+        "nome": "AVAXIM",
+        "descrizione": "0,5 ML SOSPENSIONE INIETTABILE- 1 SIRINGA PRERIEMPITA CON 1 AGO SEPARATO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247053",
+        "nome": "AVAXIM",
+        "descrizione": "0,5 ML SOSPENSIONE INIETTABILE- 1 SIRINGA PRERIEMPITA CON 2 AGHI SEPARATI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247065",
+        "nome": "AVAXIM",
+        "descrizione": "0,5 ML SOSPENSIONE INIETTABILE- 10 SIRINGHE PRERIEMPITE CON 10 AGHI SEPARATI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247077",
+        "nome": "AVAXIM",
+        "descrizione": "0,5 ML SOSPENSIONE INIETTABILE- 10 SIRINGHE PRERIEMPITE CON 20 AGHI SEPARATI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247089",
+        "nome": "AVAXIM",
+        "descrizione": "BAMBINI, SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA IN VETRO DA 0,5 ML CON AGO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247091",
+        "nome": "AVAXIM",
+        "descrizione": "BAMBINI, SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE PRERIEMPITE IN VETRO DA 0,5 ML CON AGO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247103",
+        "nome": "AVAXIM",
+        "descrizione": "BAMBINI, SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA IN VETRO DA 0,5 ML SENZA AGO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247115",
+        "nome": "AVAXIM",
+        "descrizione": "BAMBINI, SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE PRERIEMPITE IN VETRO DA 0,5 ML SENZA AGO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247127",
+        "nome": "AVAXIM",
+        "descrizione": "BAMBINI, SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA IN VETRO DA 0,5 ML CON DUE AGHI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033247139",
+        "nome": "AVAXIM",
+        "descrizione": "BAMBINI, SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA- 10 SIRINGHE PRERIEMPITE IN VETRO DA 0,5 ML CON DUE AGHI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "033283021",
+        "nome": "AVONEX",
+        "descrizione": "30 MCG (6 MILIONI UI) POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE- 4 FLACONI CON DISPOSITIVO BIOSET + 4 SIRINGHE PRERIEMPITE USO INTRAMUSCOLARE",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "033283033",
+        "nome": "AVONEX",
+        "descrizione": "30 MCG/0,5 ML (6 MILIONI UI) SOLUZIONE INIETTABILE 4 SIRINGHE PRERIEMPITE IN VETRO 0,5 ML + 4 AGHI PER INIEZIONE USO INTRAMUSCOLARE",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "033283045",
+        "nome": "AVONEX",
+        "descrizione": "30MCG/0.5ML (6 MIL.UI)-SOL. INIETT -USO INTRAM.- SIRINGA PRE-RIEMPITA (VETRO) IN PENNA PRE-RIEMPITA - 0.5ML - 4 PENNE PRE-RIEMP.+4AGHI+4CAPPUC. PENNA",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "033283058",
+        "nome": "AVONEX",
+        "descrizione": "30MCG/0.5ML (6 MIL.UI)-SOL. INIETT.-USO INTRAM.- SIRINGA PRE-RIEMP.(VETRO) IN PENNA PRE-RIEMP.- 0.5ML -12 PENNE PRE-RIEMP.+12 AGHI+12 CAPPUC.PENNA",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "033283060",
+        "nome": "AVONEX",
+        "descrizione": "30MCG/0.5ML (6 MILIONI UI) SOLUZ. INIET. - USO INTRAM.- SIRINGA PRE-RIEMPITA (VETRO) IN PENNA PRE-RIEMPITA - 0.5ML -12 SIRINGHE PRE-RIM.+12 AGHI",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "034436016",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436028",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 7 COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436030",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 10  COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436042",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 25  (5X5) COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436055",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 50 (5X10) COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436067",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 70 (7X10 )  COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436079",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 80 (16X5) COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436081",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM - 100 (10X10)  COMPRESSE IN BLISTER PP/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436170",
+        "nome": "AVALOX",
+        "descrizione": "400 MG/250 ML SOLUZIONE PER INFUSIONE- 5 SACCHE IN POLIOLEFINA DA 250 ML",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436182",
+        "nome": "AVALOX",
+        "descrizione": "400 MG/250 ML SOLUZIONE PER INFUSIONE- 12 SACCHE IN POLIOLEFINA DA 250 ML",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436194",
+        "nome": "AVALOX",
+        "descrizione": "400 MG/250 ML SOLUZIONE PER INFUSIONE- 1 FLACONE IN VETRO DA 250 ML",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436206",
+        "nome": "AVALOX",
+        "descrizione": "400 MG/250 ML SOLUZIONE PER INFUSIONE- 5 FLACONI IN VETRO DA 250 ML",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436218",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436220",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436232",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436244",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 25 (5X5) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436257",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 50 (5X10) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436269",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 70 (7X10) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436271",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 80 (5X16) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "034436283",
+        "nome": "AVALOX",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 100 (10X10) COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BAYER S.P.A."
+    },
+    {
+        "aic": "035895010",
+        "nome": "AVODART",
+        "descrizione": "<0,5 MG  CAPSULE  MOLLI>  30  CAPSULE  IN BLISTER PVC/PVDC",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "035895022",
+        "nome": "AVODART",
+        "descrizione": "<0,5 MG  CAPSULE  MOLLI>  90  CAPSULE  IN  BLISTER PVC/PVDC",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "036680015",
+        "nome": "AVASTIN",
+        "descrizione": "1 FLACONCINO DA 400 MG DI CONCENTRATO PER SOLUZIONE PER INFUSIONE",
+        "produttore": "ROCHE REGISTRATION GMBH"
+    },
+    {
+        "aic": "036680027",
+        "nome": "AVASTIN",
+        "descrizione": "1 FLACONCINO DA 100 MG DI CONCENTRATO PER SOLUZIONE PER INFUSIONE",
+        "produttore": "ROCHE REGISTRATION GMBH"
+    },
+    {
+        "aic": "037217054",
+        "nome": "AVEGGIO",
+        "descrizione": "875 MG + 125 MG POLVERE PER SOSPENSIONE ORALE - 12 BUSTINE",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL"
+    },
+    {
+        "aic": "037217066",
+        "nome": "AVEGGIO",
+        "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM - 12 COMPRESSE",
+        "produttore": "A.G.I.P.S. FARMACEUTICI SRL"
+    },
+    {
+        "aic": "037688013",
+        "nome": "AVIFLUCOX",
+        "descrizione": "50 MG CAPSULE RIGIDE- 7 CAPSULE",
+        "produttore": "BIONATIVA S.P.A."
+    },
+    {
+        "aic": "037688025",
+        "nome": "AVIFLUCOX",
+        "descrizione": "100 MG CAPSULE RIGIDE- 10 CAPSULE",
+        "produttore": "BIONATIVA S.P.A."
+    },
+    {
+        "aic": "037688037",
+        "nome": "AVIFLUCOX",
+        "descrizione": "150 MG CAPSULE RIGIDE- 2 CAPSULE",
+        "produttore": "BIONATIVA S.P.A."
+    },
+    {
+        "aic": "037688049",
+        "nome": "AVIFLUCOX",
+        "descrizione": "200 MG CAPSULE RIGIDE- 7 CAPSULE",
+        "produttore": "BIONATIVA S.P.A."
+    },
+    {
+        "aic": "038343012",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1  FLACONE (VETRO) IN EROGATORE PLASTICA 30 EROGAZIONI",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED"
+    },
+    {
+        "aic": "038343024",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 60 EROGAZIONI",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED"
+    },
+    {
+        "aic": "038343036",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED"
+    },
+    {
+        "aic": "041434010",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "041434022",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 60",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "042189011",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "042189023",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 60 EROGAZIONI",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "042402014",
+        "nome": "AVERELIX",
+        "descrizione": "75 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "F.I.R.M.A. S.P.A."
+    },
+    {
+        "aic": "042402026",
+        "nome": "AVERELIX",
+        "descrizione": "75 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "F.I.R.M.A. S.P.A."
+    },
+    {
+        "aic": "042402038",
+        "nome": "AVERELIX",
+        "descrizione": "75 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "F.I.R.M.A. S.P.A."
+    },
+    {
+        "aic": "043705019",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "043964016",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "044422018",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044526010",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "044526022",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 60 EROGAZIONI",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "044864015",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE- 1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "044864027",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 60 EROGAZIONI",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "046119018",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "046119020",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 60 EROGAZIONI",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "047960012",
+        "nome": "AVERBET",
+        "descrizione": "8 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "047960024",
+        "nome": "AVERBET",
+        "descrizione": "8 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "047960036",
+        "nome": "AVERBET",
+        "descrizione": "16 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "047960048",
+        "nome": "AVERBET",
+        "descrizione": "16 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "047960051",
+        "nome": "AVERBET",
+        "descrizione": "24 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "047960063",
+        "nome": "AVERBET",
+        "descrizione": "24 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "049926013",
+        "nome": "AVIOR",
+        "descrizione": "5MG/80MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER  PVC/PVDC-AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "049926025",
+        "nome": "AVIOR",
+        "descrizione": "5MG/160MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER  PVC/PVDC-AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "049926037",
+        "nome": "AVIOR",
+        "descrizione": "10MG/160MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER  PVC/PVDC-AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "050936018",
+        "nome": "AVAMYS",
+        "descrizione": "27,5 MCG/EROGAZIONE SPRAY NASALE SOSPENSIONE - USO ENDONASALE-  1 FLACONE (VETRO) IN EROGATORE PLASTICA 120 EROGAZIONI",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051379016",
+        "nome": "AVZIVI",
+        "descrizione": "25 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 4 mL - 1 flaconcino",
+        "produttore": "FGK REPRESENTATIVE SERVICE GMBH"
+    },
+    {
+        "aic": "051379028",
+        "nome": "AVZIVI",
+        "descrizione": "25 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 16 mL - 1 flaconcino",
+        "produttore": "FGK REPRESENTATIVE SERVICE GMBH"
+    },
+    {
+        "aic": "051677019",
+        "nome": "AVASTIN",
+        "descrizione": "1 FLACONCINO DA 400 MG DI CONCENTRATO PER SOLUZIONE PER INFUSIONE",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051677021",
+        "nome": "AVASTIN",
+        "descrizione": "1 FLACONCINO DA 100 MG DI CONCENTRATO PER SOLUZIONE PER INFUSIONE",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "052003011",
+        "nome": "AVTOZMA",
+        "descrizione": "20 mg/mL- Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 mL - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003023",
+        "nome": "AVTOZMA",
+        "descrizione": "20 mg/mL- Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 mL - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003035",
+        "nome": "AVTOZMA",
+        "descrizione": "20 mg/mL- Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 mL - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003047",
+        "nome": "AVTOZMA",
+        "descrizione": "20 mg/mL- Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 mL - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003050",
+        "nome": "AVTOZMA",
+        "descrizione": "20 mg/mL- Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 mL - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003062",
+        "nome": "AVTOZMA",
+        "descrizione": "20 mg/mL- Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 mL - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003074",
+        "nome": "AVTOZMA",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,9 mL (180 mg/mL) - 1 siringa preriempita",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003086",
+        "nome": "AVTOZMA",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,9 mL (180 mg/mL) - 4 siringhe preriempite",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003098",
+        "nome": "AVTOZMA",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,9 mL (180 mg/mL) - 12 (3 x 4) siringhe preriempite (confezione multipla)",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003100",
+        "nome": "AVTOZMA",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,9 mL (180 mg/mL) - 1 penna preriempita",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003112",
+        "nome": "AVTOZMA",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,9 mL (180 mg/mL) - 4 penne preriempite",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    },
+    {
+        "aic": "052003124",
+        "nome": "AVTOZMA",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,9 mL (180 mg/mL) - 12 (3 x 4) penne preriempite (confezione multipla)",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT"
+    }
+]

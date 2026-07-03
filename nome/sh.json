@@ -1,0 +1,62 @@
+[
+    {
+        "aic": "044173019",
+        "nome": "SHYLA",
+        "descrizione": "2,5 MG COMPRESSE- 1X28 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "044173021",
+        "nome": "SHYLA",
+        "descrizione": "2,5 MG COMPRESSE- 1X30 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "044173033",
+        "nome": "SHYLA",
+        "descrizione": "2,5 MG COMPRESSE- 3X28 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "044173045",
+        "nome": "SHYLA",
+        "descrizione": "2,5 MG COMPRESSE- 3X30 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "044173058",
+        "nome": "SHYLA",
+        "descrizione": "2,5 MG COMPRESSE- 6X28 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "044173060",
+        "nome": "SHYLA",
+        "descrizione": "2,5 MG COMPRESSE- 6X30 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "046337010",
+        "nome": "SHINGRIX",
+        "descrizione": "0,5 ML - POLVERE E SOSPENSIONE PER SOSPENSIONE INIETTABILE - USO INTRAMUSCOLARE - POLVERE: FLACONE (VETRO), SOSPENSIONE: FLACONE (VETRO) POLVERE: 50 MCG, SOSPENSIONE: 0,5 ML - 1 FLACONE (POLVERE) + 1 FLACONE (SOSPENSIONE)",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "046337022",
+        "nome": "SHINGRIX",
+        "descrizione": "0,5 ML - POLVERE E SOSPENSIONE PER SOSPENSIONE INIETTABILE - USO INTRAMUSCOLARE - POLVERE: FLACONE (VETRO), SOSPENSIONE: FLACONE (VETRO) - POLVERE: 50 MCG, SOSPENSIONE: 0,5 ML - 10 FLACONI (POLVERE) + 10 FLACONI (SOSPENSIONE)",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "046337034",
+        "nome": "SHINGRIX",
+        "descrizione": "0,5 ml - Sospensione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) - Sospensione (0,5 ml) - 1 siringa preriempita",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    },
+    {
+        "aic": "046337046",
+        "nome": "SHINGRIX",
+        "descrizione": "0,5 ml - Sospensione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) - Sospensione (0,5 ml) - 10 siringhe preriempite",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A."
+    }
+]

@@ -1,0 +1,1274 @@
+[
+    {
+        "aic": "027234032",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE - 1 FLACONE DA 10 ML",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "028631012",
+        "nome": "EXPOSE",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "028631024",
+        "nome": "EXPOSE",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "033302011",
+        "nome": "EXTRANEAL",
+        "descrizione": "1 SACCA 1,5 LITRI",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302023",
+        "nome": "EXTRANEAL",
+        "descrizione": "1 SACCA 2 LITRI",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302035",
+        "nome": "EXTRANEAL",
+        "descrizione": "1 SACCA 2,5 LITRI",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302047",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE SEMPLICI DA 1500 ML SY II",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302050",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE SEMPLICI DA 1500 ML SY III",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302062",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE DOPPIE DA 1500 ML SY II",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302074",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE DOPPIE DA 1500 ML SY III",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302086",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE SEMPLICI DA 2000 ML SY II",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302098",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE SEMPLICI DA 2000 ML SY III",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302100",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE DOPPIE DA 2000 ML SY II",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302112",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE DOPPIE DA 2000 ML SY III",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302124",
+        "nome": "EXTRANEAL",
+        "descrizione": "4 SACCHE SEMPLICI DA 2500 ML SY II",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302136",
+        "nome": "EXTRANEAL",
+        "descrizione": "4 SACCHE SEMPLICI DA 2500 ML SY III",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302148",
+        "nome": "EXTRANEAL",
+        "descrizione": "4 SACCHE DOPPIE DA 2500 ML SY II",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302151",
+        "nome": "EXTRANEAL",
+        "descrizione": "4 SACCHE DOPPIE DA 2500 ML SY III",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302199",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE SEMPLICI DA 2,0 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302201",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE SEMPLICI DA 2,0 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302213",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE DOPPIE DA 2,0 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302225",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE DOPPIE DA 2,0 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302237",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE DOPPIE DA 2,0 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302249",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE DOPPIE DA 2,0 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302252",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE SEMPLICI DA 2,5 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302264",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE SEMPLICI DA 2,5 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302276",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE DOPPIE DA 2,5 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302288",
+        "nome": "EXTRANEAL",
+        "descrizione": "5 SACCHE DOPPIE DA 2,5 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302290",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE SEMPLICI DA 1,5 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302302",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE SEMPLICI DA 1,5 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302314",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE DOPPIE DA 1,5 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302326",
+        "nome": "EXTRANEAL",
+        "descrizione": "8 SACCHE DOPPIE DA 1,5 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302338",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE SEMPLICI DA 2,0 L SY II CON CONNETTORE LUER",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "033302340",
+        "nome": "EXTRANEAL",
+        "descrizione": "6 SACCHE SEMPLICI DA 2,0 L SY III CON CONNETTORE SPIKE",
+        "produttore": "VANTIVE SRL"
+    },
+    {
+        "aic": "034078016",
+        "nome": "EXELON",
+        "descrizione": "28 CAPSULE RIGIDE 1,5 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078028",
+        "nome": "EXELON",
+        "descrizione": "56 CAPSULE RIGIDE 1,5 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078030",
+        "nome": "EXELON",
+        "descrizione": "112 CAPSULE RIGIDE 1,5 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078042",
+        "nome": "EXELON",
+        "descrizione": "28 CAPSULE RIGIDE 3 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078055",
+        "nome": "EXELON",
+        "descrizione": "56 CAPSULE RIGIDE 3 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078067",
+        "nome": "EXELON",
+        "descrizione": "112 CAPSULE RIGIDE 3 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078079",
+        "nome": "EXELON",
+        "descrizione": "28 CAPSULE RIGIDE 4,5 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078081",
+        "nome": "EXELON",
+        "descrizione": "56 CAPSULE RIGIDE 4,5 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078093",
+        "nome": "EXELON",
+        "descrizione": "112 CAPSULE RIGIDE 4,5 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078105",
+        "nome": "EXELON",
+        "descrizione": "28 CAPSULE RIGIDE 6 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078117",
+        "nome": "EXELON",
+        "descrizione": "56 CAPSULE RIGIDE 6 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078129",
+        "nome": "EXELON",
+        "descrizione": "112 CAPSULE RIGIDE 6 MG",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078131",
+        "nome": "EXELON",
+        "descrizione": "1 FLACONE DA 120 ML DI SOLUZIONE ORALE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078143",
+        "nome": "EXELON",
+        "descrizione": "1 FLACONE DA 50 ML DI SOLUZIONE ORALE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078156",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 7 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078168",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 30 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078170",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 60 BUSTINE (30X2 BUSTINE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078182",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 90 BUSTINE (30X3 BUSTINE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078194",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 7 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078206",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 30 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078218",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 60 BUSTINE (30X2 BUSTINE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078220",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG/24 ORE CEROTTO TRANSDERMICO - USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE)- 90 BUSTINE (30X3 BUSTINE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078271",
+        "nome": "EXELON",
+        "descrizione": "13,3 MG/24 ORE - CEROTTO TRANSDERMICO USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ ALLUMINIO/ POLIACRONITRILE) - 7 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078283",
+        "nome": "EXELON",
+        "descrizione": "13,3 MG/24 ORE - CEROTTO TRANSDERMICO USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ ALLUMINIO/ POLIACRONITRILE) - 30 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078295",
+        "nome": "EXELON",
+        "descrizione": "13,3 MG/24 ORE - CEROTTO TRANSDERMICO USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ ALLUMINIO/ POLIACRONITRILE) - 60 BUSTINE (30X2 BUSTINE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078307",
+        "nome": "EXELON",
+        "descrizione": "13,3 MG/24 ORE - CEROTTO TRANSDERMICO USO TRANSDERMICO BUSTINA (CARTA/POLIESTERE/ ALLUMINIO/ POLIACRONITRILE) - 90 BUSTINE (30X3 BUSTINE)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078319",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG/24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE) - 42 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078321",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG/24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE) - 84 (2X42) BUSTINE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078333",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG/24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE) - 42 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078345",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG/24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/POLIESTERE/ALLUMINIO/POLIACRONITRILE) - 84 (2X42) BUSTINE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078360",
+        "nome": "EXELON",
+        "descrizione": "4,6 MG / 24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/PET/PE/ALU/PA) - 30 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078408",
+        "nome": "EXELON",
+        "descrizione": "9,5 MG / 24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/PET/PE/ALU/PA) - 30 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034078446",
+        "nome": "EXELON",
+        "descrizione": "13,3 MG / 24 ORE - CEROTTO TRANSDERMICO - USO TRANSDERMICO - BUSTINA (CARTA/PET/PE/ALU/PA) - 30 BUSTINE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034183018",
+        "nome": "EXPIROBACTER",
+        "descrizione": "100 MG COMPRESSA SOLUBILE- 1 COMPRESSA + GRANULATO PER SOSPENSIONE ORALE (ACIDO CITRICO)",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "034183020",
+        "nome": "EXPIROBACTER",
+        "descrizione": "100 MG COMPRESSA SOLUBILE - 1 COMPRESSA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "037421017",
+        "nome": "EXJADE",
+        "descrizione": "125 MG COMPRESSE DISPERSIBILI- USO ORALE- BLISTER PVC/PE/PVDC/ALU 28 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421029",
+        "nome": "EXJADE",
+        "descrizione": "125 MG COMPRESSA DISPERSIBILE - USO ORALE- BLISTER PVC/PE/PVD/ALU 84 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421031",
+        "nome": "EXJADE",
+        "descrizione": "250 MG COMPRESSA DISPERSIBILE - USO ORALE- BLISTER PVC/PE/PVDC/ALU 28 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421043",
+        "nome": "EXJADE",
+        "descrizione": "250 MG COMPRESSA DISPERSIBILE - USO ORALE- BLISTER PVC/PE/PVDC/ALU 84 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421056",
+        "nome": "EXJADE",
+        "descrizione": "500 MG COMPRESSA DISPERSIBILE - USO ORALE- BLISTER PVC/PE/PVDC/ALU 28 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421068",
+        "nome": "EXJADE",
+        "descrizione": "500 MG COMPRESSA DISPERSIBILE - USO ORALE- BLISTER PVC/PE/PVDC/ALU 84 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421118",
+        "nome": "EXJADE",
+        "descrizione": "90 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421120",
+        "nome": "EXJADE",
+        "descrizione": "90 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 90 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421132",
+        "nome": "EXJADE",
+        "descrizione": "90 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 300 (10 X 30) COMPRESSE  (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421144",
+        "nome": "EXJADE",
+        "descrizione": "180 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421157",
+        "nome": "EXJADE",
+        "descrizione": "180 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 90 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421169",
+        "nome": "EXJADE",
+        "descrizione": "180 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 300 (10 X 30) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421171",
+        "nome": "EXJADE",
+        "descrizione": "360 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421183",
+        "nome": "EXJADE",
+        "descrizione": "360 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 90 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037421195",
+        "nome": "EXJADE",
+        "descrizione": "360 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTERS PVC/PVDC/ALLUMINIO - 300 (10 X 30) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919014",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 7 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919026",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 14 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919038",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 28 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919040",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919053",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 56 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919065",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 90 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919077",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 98 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919089",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/80MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 280 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919091",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/160MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 7 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919103",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/160MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 14 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919115",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/160MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 28 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919127",
+        "nome": "EXFORGE",
+        "descrizione": "5 MG/160MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919139",
+        "nome": "EXFORGE",
+        "descrizione": "5MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 56 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919141",
+        "nome": "EXFORGE",
+        "descrizione": "5MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 90 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919154",
+        "nome": "EXFORGE",
+        "descrizione": "5MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 98 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919166",
+        "nome": "EXFORGE",
+        "descrizione": "5MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 280 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919178",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 7 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919180",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 14 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919192",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 28 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919204",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919216",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 56 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919228",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 90 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919230",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 98 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "037919242",
+        "nome": "EXFORGE",
+        "descrizione": "10MG/160 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PVDC) 280 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "039094014",
+        "nome": "EXTROPLEX",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SOPHOS BIOTECH S.R.L."
+    },
+    {
+        "aic": "039094026",
+        "nome": "EXTROPLEX",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SOPHOS BIOTECH S.R.L."
+    },
+    {
+        "aic": "039850019",
+        "nome": "EXEMESTANE DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "040011013",
+        "nome": "EXEGEN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "040275012",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275024",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275036",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275048",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275051",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275063",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275075",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040275087",
+        "nome": "EXEMESTANE TEVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040320018",
+        "nome": "EXEMESTANE EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "040320020",
+        "nome": "EXEMESTANE EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "040535015",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535027",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535039",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535041",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535054",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535066",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535078",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040535080",
+        "nome": "EXEMESTANE SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PVDC-ALU",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "040886018",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886020",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886032",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886044",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886057",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886069",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886071",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040886083",
+        "nome": "EXEMESTANE MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 120 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040940013",
+        "nome": "EXEMESTANE ZENTIVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040940025",
+        "nome": "EXEMESTANE ZENTIVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040940037",
+        "nome": "EXEMESTANE ZENTIVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "040940049",
+        "nome": "EXEMESTANE ZENTIVA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM - 30 (30X1) COMPRESSE MONODOSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042496012",
+        "nome": "EXAMETASCAN",
+        "descrizione": "500 MICROGAMMI KIT PER PREPARAZIONE RADIOFARMACEUTICA- 3 FLACONCINI IN VETRO MULTIDOSE",
+        "produttore": "RADIOPHARMACY LABORATORY LTD"
+    },
+    {
+        "aic": "042496024",
+        "nome": "EXAMETASCAN",
+        "descrizione": "500 MICROGAMMI KIT PER PREPARAZIONE RADIOFARMACEUTICA- 6 FLACONCINI IN VETRO MULTIDOSE",
+        "produttore": "RADIOPHARMACY LABORATORY LTD"
+    },
+    {
+        "aic": "042496036",
+        "nome": "EXAMETASCAN",
+        "descrizione": "500 MICROGAMMI KIT PER PREPARAZIONE RADIOFARMACEUTICA- 12 FLACONCINI IN VETRO MULTIDOSE",
+        "produttore": "RADIOPHARMACY LABORATORY LTD"
+    },
+    {
+        "aic": "042496048",
+        "nome": "EXAMETASCAN",
+        "descrizione": "500 MICROGAMMI KIT PER PREPARAZIONE RADIOFARMACEUTICA- 24 FLACONCINI IN VETRO MULTIDOSE",
+        "produttore": "RADIOPHARMACY LABORATORY LTD"
+    },
+    {
+        "aic": "042520015",
+        "nome": "EXELON",
+        "descrizione": "56 CAPSULE RIGIDE 1,5 MG",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "044631012",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631024",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631036",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631048",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631051",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631063",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631075",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631087",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631099",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631101",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631113",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631125",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631137",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631149",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631152",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631164",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631176",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631188",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631190",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631202",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE HDPE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631214",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631226",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631238",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631240",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631253",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631265",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631277",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631289",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631291",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631303",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631315",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631327",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631339",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631341",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631354",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631366",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631378",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631380",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631392",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631404",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631416",
+        "nome": "EXORTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631428",
+        "nome": "EXORTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631430",
+        "nome": "EXORTA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "044631442",
+        "nome": "EXORTA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "046619019",
+        "nome": "EXICORT",
+        "descrizione": "50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE HDPE DA 10 G/60 EROGAZIONI CON POMPA SPRAY ED EROGATORE",
+        "produttore": "EXIPHARMA S.R.L."
+    },
+    {
+        "aic": "046619021",
+        "nome": "EXICORT",
+        "descrizione": "50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE HDPE DA 18 G/140 EROGAZIONI CON POMPA SPRAY ED EROGATORE",
+        "produttore": "EXIPHARMA S.R.L."
+    },
+    {
+        "aic": "046985014",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 10 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "048241018",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE - 1 FLACONE DA 10 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "048584015",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE - 1 FLACONE DA 10 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "049166010",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE - 1 FLACONE DA 10 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "049240017",
+        "nome": "EXPAREL LIPOSOMAL",
+        "descrizione": "133 MG / 10 ML - DISPERSIONE PER PREPARAZIONE INIETTABILE A RILASCIO PROLUNGATO - INFILTRAZIONE, USO PERINEURALE - FLACONCINO (VETRO) 10 ML - 4 FLACONCINI",
+        "produttore": "PACIRA IRELAND LTD"
+    },
+    {
+        "aic": "049240029",
+        "nome": "EXPAREL LIPOSOMAL",
+        "descrizione": "133 MG / 10 ML - DISPERSIONE PER PREPARAZIONE INIETTABILE A RILASCIO PROLUNGATO - INFILTRAZIONE, USO PERINEURALE - FLACONCINO (VETRO) 10 ML - 10 FLACONCINI",
+        "produttore": "PACIRA IRELAND LTD"
+    },
+    {
+        "aic": "049240031",
+        "nome": "EXPAREL LIPOSOMAL",
+        "descrizione": "266 MG / 20 ML - DISPERSIONE PER PREPARAZIONE INIETTABILE A RILASCIO PROLUNGATO - INFILTRAZIONE, USO PERINEURALE - FLACONCINO (VETRO) 20 ML - 4 FLACONCINI",
+        "produttore": "PACIRA IRELAND LTD"
+    },
+    {
+        "aic": "049240043",
+        "nome": "EXPAREL LIPOSOMAL",
+        "descrizione": "266 MG / 20 ML - DISPERSIONE PER PREPARAZIONE INIETTABILE A RILASCIO PROLUNGATO - INFILTRAZIONE, USO PERINEURALE - FLACONCINO (VETRO) 20 ML - 10 FLACONCINI",
+        "produttore": "PACIRA IRELAND LTD"
+    },
+    {
+        "aic": "050276017",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE - 1 FLACONE DA 10 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "050285016",
+        "nome": "EXOCIN",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE - 1 FLACONE DA 10 ML",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "051167017",
+        "nome": "EXBLIFEP",
+        "descrizione": "2 g / 0.5 g - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 10 flaconcini",
+        "produttore": "ADVANZ PHARMA LIMITED"
+    },
+    {
+        "aic": "052150012",
+        "nome": "EXEMESTANE AUROBINDO ITALIA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "052150024",
+        "nome": "EXEMESTANE AUROBINDO ITALIA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "052150036",
+        "nome": "EXEMESTANE AUROBINDO ITALIA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "052150048",
+        "nome": "EXEMESTANE AUROBINDO ITALIA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "052150051",
+        "nome": "EXEMESTANE AUROBINDO ITALIA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "052150063",
+        "nome": "EXEMESTANE AUROBINDO ITALIA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "052890011",
+        "nome": "EXDENSUR",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 1 ml (100 mg/ml) - 1 penna preriempita",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED"
+    },
+    {
+        "aic": "052890023",
+        "nome": "EXDENSUR",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "GLAXOSMITHKLINE TRADING SERVICES LIMITED"
+    }
+]

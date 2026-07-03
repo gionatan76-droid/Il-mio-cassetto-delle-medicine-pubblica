@@ -1,0 +1,1742 @@
+[
+    {
+        "aic": "020957039",
+        "nome": "AZATIOPRINA ASPEN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM - 50 COMPRESSE",
+        "produttore": "ASPEN PHARMA TRADING LIMITED"
+    },
+    {
+        "aic": "026048090",
+        "nome": "AZOLMEN",
+        "descrizione": "1% CREMA-TUBO 30 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026048102",
+        "nome": "AZOLMEN",
+        "descrizione": "1% GEL-TUBO 30 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026048114",
+        "nome": "AZOLMEN",
+        "descrizione": "1% SOLUZIONE CUTANEA-FLACONE 30 ML",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "026048126",
+        "nome": "AZOLMEN",
+        "descrizione": "1% POLVERE CUTANEA-FLACONE 30 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "034770014",
+        "nome": "AZOPT",
+        "descrizione": "10 MG/ML COLLIRIO SOSPENSIONE 1 FLACONE (LDPE) 5 ML USO OCULARE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "034770026",
+        "nome": "AZOPT",
+        "descrizione": "10 MG/ML COLLIRIO SOSPENSIONE 1 FLACONE (LDPE) 10 ML USO OCULARE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "035203013",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 1 COMPRESSA  RIVESTITA CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203025",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 2 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203037",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 3 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203049",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 5 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203052",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 7 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203064",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 10 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203076",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 14 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203088",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 15 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203090",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203102",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 21 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203114",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 30 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203126",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 50 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203138",
+        "nome": "AZOMYR",
+        "descrizione": "5 MG 100 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203367",
+        "nome": "AZOMYR",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER (PVC/OPA/ALU) 6 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203405",
+        "nome": "AZOMYR",
+        "descrizione": "2,5 MG COMPRESSA ORODISPERSIBILE - USO ORALE- BLISTER (PVC/OPA/ALU) 18 COMPRESSE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203607",
+        "nome": "AZOMYR",
+        "descrizione": "0,5 MG/ML SOLUZIONE ORALE - USO ORALE - FLACONE (VETRO) + CUCCHIAIO (PLASTICA)- 50 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "035203621",
+        "nome": "AZOMYR",
+        "descrizione": "0,5 MG/ML SOLUZIONE ORALE - USO ORALE - FLACONE (VETRO) + CUCCHIAIO (PLASTICA)- 100 ML 1 FLACONE",
+        "produttore": "N.V. ORGANON"
+    },
+    {
+        "aic": "036292011",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse  rivestite  con  film>  30 compresse in blister PP/Al",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292023",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse  rivestite  con  film>  50 compresse in blister PP/Al",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292035",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse rivestite  con  film>  100 compresse in blister PP/Al",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292047",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse  rivestite  con  film>  30 compresse in blister PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292050",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse  rivestite  con  film>  50 compresse in blister PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292062",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse rivestite  con  film>  100 compresse in blister PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292074",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse  rivestite  con  film>  90 compresse in blister PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036292086",
+        "nome": "AZATIOPRINA HEXAL",
+        "descrizione": "<50 mg compresse  rivestite  con  film>  90 compresse in blister PP/Al",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036983017",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA - USO ORALE- BLISTER ALU/ALU 7 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983029",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 28 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983031",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU  10 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983043",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 30 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983056",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 100 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983068",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 112 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983070",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE-  FLACONE HDPE 30 COMPRESSE",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983082",
+        "nome": "AZILECT",
+        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 10 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983094",
+        "nome": "AZILECT",
+        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 30 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "036983106",
+        "nome": "AZILECT",
+        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 100 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "037495013",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495025",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495037",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495049",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495052",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495064",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495076",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037495088",
+        "nome": "AZITROMICINA EG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037534017",
+        "nome": "AZAFOR",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "037534029",
+        "nome": "AZAFOR",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "037555289",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555291",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555303",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555315",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555327",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555339",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555341",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555354",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037555366",
+        "nome": "AZITROMICINA TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "037600044",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600057",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600069",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600071",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600083",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600095",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600107",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037600119",
+        "nome": "AZITROMICINA SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037972015",
+        "nome": "AZITROMICINA MYLAN GENERICS ITALIA",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 600 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037972027",
+        "nome": "AZITROMICINA MYLAN GENERICS ITALIA",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 800 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037972039",
+        "nome": "AZITROMICINA MYLAN GENERICS ITALIA",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 900 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037972041",
+        "nome": "AZITROMICINA MYLAN GENERICS ITALIA",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 1200 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037972054",
+        "nome": "AZITROMICINA MYLAN GENERICS ITALIA",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 1500 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037973017",
+        "nome": "AZITROMICINA SANDOZ GMBH",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 600 MG",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "037973029",
+        "nome": "AZITROMICINA SANDOZ GMBH",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 800 MG",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "037973031",
+        "nome": "AZITROMICINA SANDOZ GMBH",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 900 MG",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "037973043",
+        "nome": "AZITROMICINA SANDOZ GMBH",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 1200 MG",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "037973056",
+        "nome": "AZITROMICINA SANDOZ GMBH",
+        "descrizione": "200 MG/5 ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE HDPE DA 1500 MG",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "038231015",
+        "nome": "AZYTER",
+        "descrizione": "15 MG/G, COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 6 CONTENITORI LDPE DA 0,25 G",
+        "produttore": "LABORATOIRES THEA"
+    },
+    {
+        "aic": "038453015",
+        "nome": "AZIMIL",
+        "descrizione": "15 MG/ 2 ML SOLUZIONE DA NEBULIZZARE E ORALE - 15 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "038453027",
+        "nome": "AZIMIL",
+        "descrizione": "15 MG/2 ML SOLUZIONE DA NEBULIZZARE E ORALE - 30 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "038453039",
+        "nome": "AZIMIL",
+        "descrizione": "15 MG/5 ML SCIROPPO - 20 CONTENITORI MONODOSE DA 5 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "038453041",
+        "nome": "AZIMIL",
+        "descrizione": "15 MG/5 ML SCIROPPO - 1 FLACONE DA 200 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "038557017",
+        "nome": "AZIPROME",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "PROGE FARM S.R.L."
+    },
+    {
+        "aic": "038650014",
+        "nome": "AZITROERRE",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "ARES FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "038667022",
+        "nome": "AZITROMICINA ZENTIVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038756019",
+        "nome": "AZITROMICINA ACCORD",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "038757011",
+        "nome": "AZITROMICINA PHARMEG",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "PHARMEG S.R.L."
+    },
+    {
+        "aic": "038758013",
+        "nome": "AZITROMICINA ABC",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "IPSO PHARMA S.R.L."
+    },
+    {
+        "aic": "038825016",
+        "nome": "AZEPTIN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "038837011",
+        "nome": "AZARGA",
+        "descrizione": "10 MG/ML + 5 MG/ML  - COLLIRIO, SOSPENSIONE - USO OFTALMICO -  FLACONE (PE) 5 ML- 1 FLACONE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038837023",
+        "nome": "AZARGA",
+        "descrizione": "10 MG/ML + 5 MG/ML COLLIRIO, SOSPENSIONE - USO OFTALMICO - FLACONE (PE) 5 ML- 3 FLACONI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038929016",
+        "nome": "AZITROMICINA TEVA ITALIA",
+        "descrizione": "200MG/5ML POLVERE PER SOSPENSIONE ORALE-  1 FLACONE DA 15 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038929028",
+        "nome": "AZITROMICINA TEVA ITALIA",
+        "descrizione": "200MG/5ML POLVERE PER SOSPENSIONE ORALE-  1 FLACONE DA 22,5 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038929030",
+        "nome": "AZITROMICINA TEVA ITALIA",
+        "descrizione": "200MG/5ML POLVERE PER SOSPENSIONE ORALE-  1 FLACONE DA 30 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038929042",
+        "nome": "AZITROMICINA TEVA ITALIA",
+        "descrizione": "200MG/5ML POLVERE PER SOSPENSIONE ORALE- 1 FLACONE DA 37,5 ML",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "039063019",
+        "nome": "AZZALURE",
+        "descrizione": "125 UNITA SPEYWOOD POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO DA 125 UNITA SPEYWOOD",
+        "produttore": "IPSEN PHARMA"
+    },
+    {
+        "aic": "039063021",
+        "nome": "AZZALURE",
+        "descrizione": "125 UNITA SPEYWOOD POLVERE PER SOLUZIONE INIETTABILE- 2 FLACONCINI DA 125 UNITA SPEYWOOD",
+        "produttore": "IPSEN PHARMA"
+    },
+    {
+        "aic": "039213018",
+        "nome": "AZITREDIL",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "039257011",
+        "nome": "AZITROMICINA ALMUS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "ALMUS S.R.L."
+    },
+    {
+        "aic": "039290010",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 2,25 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290022",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 3,75 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290034",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 7,5 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290046",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 10,5 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290059",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 20,25 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290061",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 30 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290073",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAO DA 37,5 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290085",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 9 BOMBOLE IN ACCIAO DA 30 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290097",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 700 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290109",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1.200 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290111",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1.300 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039290123",
+        "nome": "AZOTO PROTOSSIDO SOL",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1.500 KG",
+        "produttore": "SOL S.P.A."
+    },
+    {
+        "aic": "039291012",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 2,25 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291024",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 3,75 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291036",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 7,5 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291048",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 10,5 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291051",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 20,25 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291063",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 30 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291075",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 37,5 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291087",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 12 BOMBOLE IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 30 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291099",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ALLUMINIO CON VALVOLA VPR O PIN INDEX DA 3,75 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291101",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO  DA 1.650 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291113",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO  DA 3300 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039291125",
+        "nome": "AZOTO PROTOSSIDO SIAD",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO  DA 5500 KG",
+        "produttore": "SOCIETA' ITALIANA ACETILENE & DERIVATI -S.I.A.D.- S.P.A."
+    },
+    {
+        "aic": "039292014",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA  IN ACCIAIO CON VALVOLA  VPR O PIN INDEX DA 2,25 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292026",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 3,75 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292038",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 7,5 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292040",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 10,5 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292053",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 20,25 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292065",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 30 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292077",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 37,5 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292089",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ALLUMINIO CON VALVOLA VPR O PIN INDEX DA 3,75 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292091",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 12 BOMBOLE IN ACCIAIO CON VALVOLA VPR O PIN INDEX DA 30 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292103",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1.650 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292115",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 3300 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039292127",
+        "nome": "AZOTO PROTOSSIDO NIPPON GASES",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 5.500 KG",
+        "produttore": "NIPPON SANSO PHARMA S.R.L."
+    },
+    {
+        "aic": "039294018",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE DA 3,8 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294020",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE DA 7,5 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294032",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE DA 30 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294044",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 12 BOMBOLE IN ACCIAIO CON VALVOLA EROGATRICE DA 450 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294057",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1125 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294069",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 2250 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294071",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE PIN-INDEX DA 3,8 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294083",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE PIN-INDEX DA 7,5 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294095",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE PIN-INDEX DA 30 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294107",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 12 BOMBOLE IN ACCIAIO CON VALVOLA EROGATRICE PIN-INDEX DA 450 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294119",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE DA 5,6 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294121",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE DA 11,20 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039294133",
+        "nome": "AZOTO PROTOSSIDO LINDE MEDICALE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA EROGATRICE DA 40 KG",
+        "produttore": "LINDE MEDICALE SRL"
+    },
+    {
+        "aic": "039296013",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 3,75 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296025",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 7,5 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296037",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 10,5 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296049",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 30 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296052",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 37,5 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296064",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1.200 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296076",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1.800 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296088",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 2.400 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296090",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 3.600 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296102",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 6000 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039296114",
+        "nome": "AZOTO PROTOSSIDO SAPIO LIFE",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 12 BOMBOLE IN ACCIAIO DA 30 KG",
+        "produttore": "SAPIO LIFE S.R.L."
+    },
+    {
+        "aic": "039299019",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 0,38 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299021",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 0,75 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299033",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 2,25 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299045",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 4 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299058",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 7,5 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299060",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 30 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299072",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 500 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299084",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 700 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299096",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 1500 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299108",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 3000 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299110",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 5000 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039299122",
+        "nome": "AZOTO PROTOSSIDO MEDICAIR",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO DA 10.000 KG",
+        "produttore": "MEDICAIR ITALIA S.R.L."
+    },
+    {
+        "aic": "039300037",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO DA 3,75 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300049",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO DA 7,50 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300076",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO DA 30 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300088",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO DA 37,5 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300090",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 12 BOMBOLE IN ACCIAIO DA 30 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300102",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO IN ACCIAIO DA 880 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300114",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO IN ACCIAIO DA 1600 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300126",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO IN ACCIAIO DA 3300 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039300138",
+        "nome": "AZOTO PROTOSSIDO AIR LIQUIDE SANITA'",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE CRIOGENICO FISSO IN ACCIAIO DA 5500 KG",
+        "produttore": "AIR LIQUIDE SANTE (INTERNATIONAL)"
+    },
+    {
+        "aic": "039508015",
+        "nome": "AZITROMICINA DOC GENERICI",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "039509017",
+        "nome": "AZITROMICINA PENSA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A."
+    },
+    {
+        "aic": "039510019",
+        "nome": "AZACID",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "040104010",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104022",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104034",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104046",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104059",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 24 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104061",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104073",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "040104085",
+        "nome": "AZITROMICINA MYLAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "041762016",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "041762028",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 3X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "041762030",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 6X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "041762042",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 13X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GEDEON RICHTER PLC"
+    },
+    {
+        "aic": "042433019",
+        "nome": "AZITROX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "042798013",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798025",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798037",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798049",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798052",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798064",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "40MG/ML POLVERE PER SOSPENSIONE ORALE - 600 MG IN FLACONE IN VETRO",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798076",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "40MG/ML POLVERE PER SOSPENSIONE ORALE - 900 MG IN FLACONE IN VETRO",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798088",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "40MG/ML POLVERE PER SOSPENSIONE ORALE - 1200 MG IN FLACONE IN VETRO",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042798090",
+        "nome": "AZITROMICINA KRKA",
+        "descrizione": "40MG/ML POLVERE PER SOSPENSIONE ORALE - 1500 MG IN FLACONE IN VETRO",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "044273011",
+        "nome": "AZYLUNG",
+        "descrizione": "500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "INCA-PHARM S.R.L."
+    },
+    {
+        "aic": "044589012",
+        "nome": "AZITROMICINA AUROBINDO",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 3 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "045646015",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 4 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646027",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 7,5 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646041",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 30 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646054",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- PACCO BOMBOLA DA 14 BOMBOLE IN ACCIAIO CON VALVOLA VI DA 30 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646066",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA  3,75 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646078",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 10,5 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646080",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- BOMBOLA IN ACCIAIO CON VALVOLA VI DA 37,5 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646092",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE FISSO DA 1200 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646104",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE FISSO DA 1800 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "045646116",
+        "nome": "AZOTO PROTOSSIDO SICO",
+        "descrizione": "GAS MEDICINALE LIQUEFATTO- CONTENITORE FISSO DA 3600 KG",
+        "produttore": "SICO SOCIETA' ITALIANA CARBURO OSSIGENO S.P.A."
+    },
+    {
+        "aic": "046089013",
+        "nome": "AZURVIG",
+        "descrizione": "12,5 MG/EROGAZIONE, SOSPENSIONE ORALE- 1 FLACONE HDPE DA 30 ML CON POMPA DOSATRICE 0,5 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "046102012",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "047327010",
+        "nome": "AZONAL",
+        "descrizione": "100 MG CAPSULE RIGIDE- 10 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AURORA BIOFARMA S.R.L."
+    },
+    {
+        "aic": "047327022",
+        "nome": "AZONAL",
+        "descrizione": "150 MG CAPSULE RIGIDE- 2 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AURORA BIOFARMA S.R.L."
+    },
+    {
+        "aic": "047327034",
+        "nome": "AZONAL",
+        "descrizione": "200 MG CAPSULE RIGIDE- 7 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AURORA BIOFARMA S.R.L."
+    },
+    {
+        "aic": "047334014",
+        "nome": "AZOLIX",
+        "descrizione": "100 MG CAPSULE RIGIDE- 10 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "047334026",
+        "nome": "AZOLIX",
+        "descrizione": "150 MG CAPSULE RIGIDE- 2 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "047334038",
+        "nome": "AZOLIX",
+        "descrizione": "200 MG CAPSULE RIGIDE- 7 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "047389010",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "047497019",
+        "nome": "AZACITIDINA ZENTIVA",
+        "descrizione": "25 MG/ML POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 100 MG",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "047520010",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "047523016",
+        "nome": "AZACITIDINA HIKMA",
+        "descrizione": "25 MG/ML POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 100 MG",
+        "produttore": "HIKMA FARMACEUTICA (PORTUGAL) S.A."
+    },
+    {
+        "aic": "047907011",
+        "nome": "AZACITIDINA SANDOZ",
+        "descrizione": "25 MG/ML POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 100 MG",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "048209011",
+        "nome": "AZACITIDINA TILLOMED",
+        "descrizione": "25 MG/ML POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 30 ML",
+        "produttore": "TILLOMED ITALIA SRL"
+    },
+    {
+        "aic": "048524019",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "25 MG/ML - POLVERE PER SOSPENSIONE INIETTABILE - USO SOTTOCUTANEO - FLACONE (VETRO) 100 MG - 1 FLACONE",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524021",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "25 mg / ml - Polvere per sospensione iniettabile - Uso sottocutaneo - flacone (vetro) 150 mg - 1 flacone",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524033",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 7 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524045",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 14 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524058",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 7 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524060",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 14 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524072",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 7 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524084",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 14 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524096",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 7 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524108",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 14 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524110",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 7 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524122",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 14 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524134",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 7 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524146",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/alu) - 14 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524159",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 7 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524161",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 14 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524173",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 7 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048524185",
+        "nome": "AZACITIDINA ACCORD",
+        "descrizione": "300 mg - Compressa rivestita con film - Uso orale - Blister (alu/PVC/PCTFE) - 14 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "048609010",
+        "nome": "AZACITIDINA MYLAN",
+        "descrizione": "25 MG/ML - POLVERE PER SOSPENSIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) 100 MG - 1 FLACONCINO",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED"
+    },
+    {
+        "aic": "048609022",
+        "nome": "AZACITIDINA MYLAN",
+        "descrizione": "25 MG/ML - POLVERE PER SOSPENSIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) 100 MG - 7 FLACONCINI",
+        "produttore": "MYLAN PHARMACEUTICALS LIMITED"
+    },
+    {
+        "aic": "048612016",
+        "nome": "AZACITIDINA BETAPHARM",
+        "descrizione": "25 MG/ML - POLVERE PER SOSPENSIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (VETRO) 100 MG - 1 FLACONCINO",
+        "produttore": "BETAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "048996019",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "049085018",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "049085020",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "049085032",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "049085044",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "049343015",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "049433016",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "049697016",
+        "nome": "AZALIA",
+        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM - 1X28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "049936014",
+        "nome": "AZACITIDINA SEACROSS",
+        "descrizione": "25 MG/ML POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 100 MG DI POLVERE",
+        "produttore": "SEACROSS PHARMA (EUROPE) LTD"
+    },
+    {
+        "aic": "050331014",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 28 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "050447010",
+        "nome": "AZACITIDINA AUROBINDO",
+        "descrizione": "25 mg/ml POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 100 MG",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "050447022",
+        "nome": "AZACITIDINA AUROBINDO",
+        "descrizione": "25 mg/ml POLVERE PER SOSPENSIONE INIETTABILE- 5 FLACONCINI IN VETRO DA 100 MG",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "050447034",
+        "nome": "AZACITIDINA AUROBINDO",
+        "descrizione": "25 mg/ml POLVERE PER SOSPENSIONE INIETTABILE- 7 FLACONCINI IN VETRO DA 100 MG",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "050447046",
+        "nome": "AZACITIDINA AUROBINDO",
+        "descrizione": "25 mg/ml POLVERE PER SOSPENSIONE INIETTABILE- 10 FLACONCINI IN VETRO DA 100 MG",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "050583018",
+        "nome": "AZITROMICINA ALTAN",
+        "descrizione": "500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "ALTAN PHARMACEUTICALS S.A."
+    },
+    {
+        "aic": "050583020",
+        "nome": "AZITROMICINA ALTAN",
+        "descrizione": "500 MG POLVERE PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI IN VETRO",
+        "produttore": "ALTAN PHARMACEUTICALS S.A."
+    },
+    {
+        "aic": "050604014",
+        "nome": "AZELASTINA E FLUTICASONE VIATRIS",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE DA 6,4 G/28 EROGAZIONI IN VETRO",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "050604026",
+        "nome": "AZELASTINA E FLUTICASONE VIATRIS",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 10 FLACONI DA 6,4 G/28 EROGAZIONI IN VETRO",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "050604038",
+        "nome": "AZELASTINA E FLUTICASONE VIATRIS",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE DA 23 G/120 EROGAZIONI IN VETRO",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "050604040",
+        "nome": "AZELASTINA E FLUTICASONE VIATRIS",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 3 FLACONI DA 23 G/120 EROGAZIONI IN VETRO",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "050610017",
+        "nome": "AZITROMICINA BLUEPHARMA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 2 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BLUEPHARMA INDUSTRIA FARMACEUTICA S.A."
+    },
+    {
+        "aic": "050610029",
+        "nome": "AZITROMICINA BLUEPHARMA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 3 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BLUEPHARMA INDUSTRIA FARMACEUTICA S.A."
+    },
+    {
+        "aic": "050610031",
+        "nome": "AZITROMICINA BLUEPHARMA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BLUEPHARMA INDUSTRIA FARMACEUTICA S.A."
+    },
+    {
+        "aic": "050610043",
+        "nome": "AZITROMICINA BLUEPHARMA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BLUEPHARMA INDUSTRIA FARMACEUTICA S.A."
+    },
+    {
+        "aic": "050736014",
+        "nome": "AZELASTINA E FLUTICASONE EG",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO DA 23 G/120 EROGAZIONI CON POMPA SPRAY ED EROGATORE",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050736026",
+        "nome": "AZELASTINA E FLUTICASONE EG",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 3 FLACONI IN VETRO DA 23 G/120 EROGAZIONI CON POMPA SPRAY ED EROGATORE",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050866019",
+        "nome": "AZATIOPRINA DOC",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "051042012",
+        "nome": "AZACITIDINA KABI",
+        "descrizione": "25 mg/ml - Polvere per sospensione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 100 mg - 1 flaconcino",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "051125019",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 28 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "051129017",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 28 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "051179012",
+        "nome": "AZELASTINA E FLUTICASONE SUBSTIPHARM",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO DA 23 g/120 EROGAZIONI CON POMPA SPRAY E APPLICATORE",
+        "produttore": "SUBSTIPHARM"
+    },
+    {
+        "aic": "051180014",
+        "nome": "AZELASTINA E FLUTICASONE ZENTIVA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO DA 23 g/120 EROGAZIONI CON POMPA SPRAY E APPLICATORE",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051180026",
+        "nome": "AZELASTINA E FLUTICASONE ZENTIVA",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 3 FLACONI IN VETRO DA 23 g/120 EROGAZIONI CON POMPA SPRAY E APPLICATORE",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051822017",
+        "nome": "AZILECT",
+        "descrizione": "1 MG COMPRESSA -USO ORALE- BLISTER ALU/ALU 28 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "052427010",
+        "nome": "AZACITIDINA EG STADA",
+        "descrizione": "25 MG/ML POLVERE PER SOSPENSIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052891013",
+        "nome": "AZATIOPRINA ASPEN",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM - 50 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    }
+]

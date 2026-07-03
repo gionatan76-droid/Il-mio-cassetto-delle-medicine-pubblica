@@ -1,0 +1,164 @@
+[
+    {
+        "aic": "049807011",
+        "nome": "VUMERITY",
+        "descrizione": "231 mg - Capsula rigida gastroresistente - Uso orale - Flacone (HDPE) - 120 capsule",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "049807023",
+        "nome": "VUMERITY",
+        "descrizione": "231 mg - Capsula rigida gastroresistente - Uso orale - Flacone (HDPE) - 360 capsule (3 x 120)",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "050997016",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 3 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997028",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 7.5 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997030",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 7.5 mL - 25 flaconcini",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997042",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 10 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997055",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 10 mL - 25 flaconcini",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997067",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 15 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997079",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 15 mL - 25 flaconcini",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997081",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 30 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997093",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 50 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997105",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Flaconcino (vetro) 100 mL - 1 flaconcino",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997117",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 7,5 mL - 1 siringa preriempita",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997129",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 7,5 mL - 10 (10 x 1) siringa preriempita (multipack)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997131",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 7,5 mL - 1 siringa preriempita + kit di somministrazione per iniezione manuale (1 prolunga + 1 catetere)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997143",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 7,5 mL - 1 siringa preriempita + kit di somministrazione per iniettore Optistar Elite (1 prolunga + 1 catetere + 1 siringa da 60 mL)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997156",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 7,5 mL - 1 siringa preriempita + kit di somministrazione per iniettore Medrad Spectris Solaris EP (1 prolunga + 1 catetere + 1 siringa da 115 mL)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997168",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 10 mL - 1 siringa preriempita",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997170",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 10 mL - 10 (10 x 1) siringa preriempita (multipack)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997182",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 10 mL - 1 siringa preriempita + kit di somministrazione per iniezione manuale (1 prolunga + 1 catetere)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997194",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 10 mL - 1 siringa preriempita + kit di somministrazione per iniettore Optistar Elite (1 prolunga + 1 catetere + 1 siringa da 60 mL)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997206",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 10 mL - 1 siringa preriempita + kit di somministrazione per iniettore Medrad Spectris Solaris EP (1 prolunga + 1 catetere + 1 siringa da 115 mL)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997218",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 15 mL - 1 siringa preriempita",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997220",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 15 mL - 10 (10 x 1) siringa preriempita (multipack)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997232",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriempita (PP) 15 mL - 1 siringa preriempita + kit di somministrazione per iniezione manuale (1 prolunga + 1 catetere)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997244",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriepita (PP) 15 mL - 1 siringa preriempita + kit di somministrazione per iniettore Optistar Elite (1 prolunga + 1 catetere + 1 siringa da 60 mL)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    },
+    {
+        "aic": "050997257",
+        "nome": "VUEWAY",
+        "descrizione": "0,5 mmol/mL - Soluzione iniettabile - Uso endovenoso - Siringa preriepita (PP) 15 mL - 1 siringa preriempita + kit di somministrazione per iniettore Medrad Spectris Solaris EP (1 prolunga + 1 catetere + 1 siringa da 115 mL)",
+        "produttore": "BRACCO IMAGING S.P.A."
+    }
+]

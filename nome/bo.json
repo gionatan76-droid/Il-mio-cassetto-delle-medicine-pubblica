@@ -1,0 +1,4670 @@
+[
+    {
+        "aic": "026642052",
+        "nome": "BORNILENE",
+        "descrizione": "30 MG/ML SOSPENSIONE SPRAY PER MUCOSA ORALE- 1 FLACONE NEBULIZZATORE DA 30 ML",
+        "produttore": "ABIOGEN PHARMA S.P.A."
+    },
+    {
+        "aic": "034813067",
+        "nome": "BOOSTRIX",
+        "descrizione": "<SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA>  1  SIRINGA PRERIEMPITA DA 0,5 ML SENZA AGO",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "034813079",
+        "nome": "BOOSTRIX",
+        "descrizione": "<SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA> 10  SIRINGHE PRERIEMPITE DA 0,5 ML SENZA AGO",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "034813117",
+        "nome": "BOOSTRIX",
+        "descrizione": "<SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA>  1  SIRINGA PRERIEMPITA DA 0,5 ML CON AGO",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "034813129",
+        "nome": "BOOSTRIX",
+        "descrizione": "<SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA> 10  SIRINGHE PRERIEMPITE DA 0,5 ML CON AGO",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "034813168",
+        "nome": "BOOSTRIX",
+        "descrizione": "<SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA>  1  SIRINGA DA 0,5 ML CON DUE AGHI",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "034813170",
+        "nome": "BOOSTRIX",
+        "descrizione": "<SOSPENSIONE INIETTABILE IN SIRINGA PRERIEMPITA> 10  SIRINGHE DA 0,5 ML CON 20 AGHI",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "034883013",
+        "nome": "BOTOX",
+        "descrizione": "100 UNITA ALLERGAN POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "034883064",
+        "nome": "BOTOX",
+        "descrizione": "200 UNITA ALLERGAN POLVERE PER SOLUZIONE INIETTABILE-  1 FLACONCINO IN VETRO",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "034883076",
+        "nome": "BOTOX",
+        "descrizione": "200 UNITA ALLERGAN POLVERE PER SOLUZIONE INIETTABILE-  2 FLACONCINI IN VETRO",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "034883088",
+        "nome": "BOTOX",
+        "descrizione": "200 UNITA ALLERGAN POLVERE PER SOLUZIONE INIETTABILE-  3 FLACONCINI IN VETRO",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "034883090",
+        "nome": "BOTOX",
+        "descrizione": "200 UNITA ALLERGAN POLVERE PER SOLUZIONE INIETTABILE-  6 FLACONCINI IN VETRO",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "034883102",
+        "nome": "BOTOX",
+        "descrizione": "200 UNITA ALLERGAN POLVERE PER SOLUZIONE INIETTABILE-  10 FLACONCINI IN VETRO",
+        "produttore": "ABBVIE S.R.L."
+    },
+    {
+        "aic": "036570012",
+        "nome": "BONDRONAT",
+        "descrizione": "28 COMPRESSE RIVESTITE CON FILM DA 50 MG  IN BLISTER PVC/ALU",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036570024",
+        "nome": "BONDRONAT",
+        "descrizione": "84 COMPRESSE RIVESTITE CON FILM DA 50 MG  IN BLISTER PVC/ALU",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036570036",
+        "nome": "BONDRONAT",
+        "descrizione": "1 FLACONCINO DI CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA 6 MG/6 ML",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036570048",
+        "nome": "BONDRONAT",
+        "descrizione": "5 FLACONCINI DI CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA 6 MG/6 ML",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036570051",
+        "nome": "BONDRONAT",
+        "descrizione": "10 FLACONCINI DI CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA 6 MG/6 ML",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036570063",
+        "nome": "BONDRONAT",
+        "descrizione": "1 FIALA USO ENDOVENOSO 2 MG/2 ML",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036899019",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE  RIVESTITE CON FILM-USO ORALE 1 BLISTER  (PVC/PVDC) 1 COMPRESSA",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036899021",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG  COMPRESSE RIVESTITE CON FILM- USO ORALE 3 BLISTER  (PVC/PVDC) 3 COMPRESSE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036899033",
+        "nome": "BONVIVA",
+        "descrizione": "3 MG/3 ML SOLUZIONE INIETTABILE - USO ENDOVENOSO- 1 SIRINGA PRERIEMPITA",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036899045",
+        "nome": "BONVIVA",
+        "descrizione": "3 MG/3 ML SOLUZIONE INIETTABILE - USO ENDOVENOSO- 4  SIRINGHE PRERIEMPITE",
+        "produttore": "ATNAHS PHARMA NETHERLANDS BV"
+    },
+    {
+        "aic": "036923011",
+        "nome": "BODINET",
+        "descrizione": "0,25 MG/ ML SOSPENSIONE DA NEBULIZZARE - 20 CONTENITORI MONODOSE  DA 2 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "036923023",
+        "nome": "BODINET",
+        "descrizione": "0,5 MG/ ML SOSPENSIONE DA NEBULIZZARE - 20 CONTENITORI MONODOSE  DA 2 ML",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "036924013",
+        "nome": "BODIX",
+        "descrizione": "0,25 MG/ML SOSPENSIONE DA NEBULIZZARE - 20 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "EXIPHARMA S.R.L."
+    },
+    {
+        "aic": "036924025",
+        "nome": "BODIX",
+        "descrizione": "0,5 MG/ ML SOSPENSIONE DA NEBULIZZARE - 20 CONTENITORI MONODOSE DA 2 ML",
+        "produttore": "EXIPHARMA S.R.L."
+    },
+    {
+        "aic": "036965010",
+        "nome": "BOTAM",
+        "descrizione": "0,4 MG CAPSULE A RILASCIO MODIFICATO - 20 CAPSULE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "037285018",
+        "nome": "BOSIX",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "037285020",
+        "nome": "BOSIX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "037285032",
+        "nome": "BOSIX",
+        "descrizione": "750 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "037285069",
+        "nome": "BOSIX",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "039672011",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE FILM RIVESTITE USO ORALE 1 BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039672023",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE FILM RIVESTITE USO ORALE 3 BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "040016014",
+        "nome": "BOCOUTURE",
+        "descrizione": "50 UNITA' POLVERE  PER  SOLUZIONE  INIETTABILE-  1  FLACONCINO IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016026",
+        "nome": "BOCOUTURE",
+        "descrizione": "50 UNITA'  POLVERE  PER  SOLUZIONE  INIETTABILE-  2  FLACONCINI IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016038",
+        "nome": "BOCOUTURE",
+        "descrizione": "50 UNITA' POLVERE  PER  SOLUZIONE  INIETTABILE-  3  FLACONCINI IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016040",
+        "nome": "BOCOUTURE",
+        "descrizione": "50 UNITA' POLVERE  PER  SOLUZIONE  INIETTABILE- 6  FLACONCINI IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016053",
+        "nome": "BOCOUTURE",
+        "descrizione": "100 UNITA'  POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016065",
+        "nome": "BOCOUTURE",
+        "descrizione": "100 UNITA'  POLVERE PER SOLUZIONE INIETTABILE- 2 FLACONCINI IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016077",
+        "nome": "BOCOUTURE",
+        "descrizione": "100 UNITA'  POLVERE PER SOLUZIONE INIETTABILE- 3 FLACONCINI IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040016089",
+        "nome": "BOCOUTURE",
+        "descrizione": "100 UNITA'  POLVERE PER SOLUZIONE INIETTABILE- 6 FLACONCINI IN VETRO",
+        "produttore": "MERZ PHARMACEUTICALS GMBH"
+    },
+    {
+        "aic": "040622019",
+        "nome": "BONASOL",
+        "descrizione": "70 MG SOLUZIONE ORALE- 1 FLACONE IN PET",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040622021",
+        "nome": "BONASOL",
+        "descrizione": "70 MG SOLUZIONE ORALE- 2 FLACONI IN PET",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040622033",
+        "nome": "BONASOL",
+        "descrizione": "70 MG SOLUZIONE ORALE- 4 FLACONI IN PET",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040622045",
+        "nome": "BONASOL",
+        "descrizione": "70 MG SOLUZIONE ORALE- 12 FLACONI IN PET",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "042590012",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590024",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590036",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590048",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590051",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590063",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590075",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590087",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590099",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590101",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590113",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590125",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590137",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042590149",
+        "nome": "BOSENTAN MYLAN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112X1 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "042735011",
+        "nome": "BOSULIF",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/PVC) - 28 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735023",
+        "nome": "BOSULIF",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/PVC) - 30 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735035",
+        "nome": "BOSULIF",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/PVC) - 28 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735047",
+        "nome": "BOSULIF",
+        "descrizione": "500 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/PVC) - 30 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735050",
+        "nome": "BOSULIF",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/PVC) - 112 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735062",
+        "nome": "BOSULIF",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/PVC) - 28 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735074",
+        "nome": "BOSULIF",
+        "descrizione": "400 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PCTFE/PVC) - 30 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735086",
+        "nome": "BOSULIF",
+        "descrizione": "50 mg - Capsula rigida - Uso orale - Flacone (HDPE) - 30 capsule",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042735098",
+        "nome": "BOSULIF",
+        "descrizione": "100 mg - Capsula rigida - Uso orale - Flacone (HDPE) - 150 capsule",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "043079019",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079021",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079033",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079045",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079058",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079060",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079072",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079084",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079096",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079108",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079110",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043079122",
+        "nome": "BOSENTAN ACCORD",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "043919012",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919024",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919036",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919048",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919051",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919063",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919075",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919087",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919099",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919101",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919113",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919125",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919137",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "043919149",
+        "nome": "BOSENTAN SUN",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PVC/PE/PVDC/AL",
+        "produttore": "SUN PHARMA FRANCE"
+    },
+    {
+        "aic": "044050019",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE FILM RIVESTITE USO ORALE 1 BLISTER AL/AL 1 COMPRESSA",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "044094011",
+        "nome": "BOSENTAN ABDI",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "Abdi Farma GmbH"
+    },
+    {
+        "aic": "044094023",
+        "nome": "BOSENTAN ABDI",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "Abdi Farma GmbH"
+    },
+    {
+        "aic": "044204016",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204028",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204030",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204042",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204055",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204067",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204079",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204081",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204093",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204105",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204117",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204129",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 7 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204131",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204143",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204156",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204168",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204170",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 7 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204182",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204194",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204206",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112 X 1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204218",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204220",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204232",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204244",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204257",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044204269",
+        "nome": "BOSENTAN TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA IN PVC/ACLAR/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "044378014",
+        "nome": "BORTEZOMIB ACCORD",
+        "descrizione": "3,5 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "044378026",
+        "nome": "BORTEZOMIB ACCORD",
+        "descrizione": "1 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "044378038",
+        "nome": "BORTEZOMIB ACCORD",
+        "descrizione": "2,5 MG / ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) 1 ML - 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "044378040",
+        "nome": "BORTEZOMIB ACCORD",
+        "descrizione": "2,5 MG / ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) 1 ML - 4 FLACONCINI",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "044378053",
+        "nome": "BORTEZOMIB ACCORD",
+        "descrizione": "2,5 MG / ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) 1,4 ML - 1 FLACONCINO",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "044378065",
+        "nome": "BORTEZOMIB ACCORD",
+        "descrizione": "2,5 MG / ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) 1,4 ML - 4 FLACONCINI",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "044424012",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE RIVESTITE CON FILM-USO ORALE 1 BLISTER (PVC/PVDC) 1 COMPRESSA",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044876011",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876023",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876035",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876047",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876050",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876062",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876074",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876086",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876098",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876100",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876112",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876124",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "62,5 MG COMPRESSE RIVESTITE CON FILM- 1000 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876136",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876148",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876151",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876163",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876175",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876187",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876199",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876201",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876213",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876225",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876237",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876249",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876252",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876264",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 1000 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044876276",
+        "nome": "BOSENTAN AUROBINDO",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "044926018",
+        "nome": "BORTEZOMIB SUN",
+        "descrizione": "3,5 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "045176017",
+        "nome": "BORGHES",
+        "descrizione": "5 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176029",
+        "nome": "BORGHES",
+        "descrizione": "10 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176031",
+        "nome": "BORGHES",
+        "descrizione": "20 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176043",
+        "nome": "BORGHES",
+        "descrizione": "40 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176056",
+        "nome": "BORGHES",
+        "descrizione": "?5 MG COMPRESSA RIVESTITA CON FILM? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176068",
+        "nome": "BORGHES",
+        "descrizione": "?5 MG COMPRESSA RIVESTITA CON FILM? 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176070",
+        "nome": "BORGHES",
+        "descrizione": "?10 MG COMPRESSA RIVESTITA CON FILM? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176082",
+        "nome": "BORGHES",
+        "descrizione": "?10 MG COMPRESSA RIVESTITA CON FILM? 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176094",
+        "nome": "BORGHES",
+        "descrizione": "?20 MG COMPRESSA RIVESTITA CON FILM? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176106",
+        "nome": "BORGHES",
+        "descrizione": "?20 MG COMPRESSA RIVESTITA CON FILM? 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176118",
+        "nome": "BORGHES",
+        "descrizione": "?40 MG COMPRESSA RIVESTITA CON FILM? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045176120",
+        "nome": "BORGHES",
+        "descrizione": "?40 MG COMPRESSA RIVESTITA CON FILM? 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "GENETIC S.P.A."
+    },
+    {
+        "aic": "045200019",
+        "nome": "BOTINERO",
+        "descrizione": "4 MG/5 MG COMPRESSA- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L."
+    },
+    {
+        "aic": "045200021",
+        "nome": "BOTINERO",
+        "descrizione": "4 MG/10 MG COMPRESSA- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L."
+    },
+    {
+        "aic": "045200033",
+        "nome": "BOTINERO",
+        "descrizione": "8 MG/5 MG COMPRESSA- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L."
+    },
+    {
+        "aic": "045200045",
+        "nome": "BOTINERO",
+        "descrizione": "8 MG/10 MG COMPRESSA- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L."
+    },
+    {
+        "aic": "045356019",
+        "nome": "BORTEZOMIB EG",
+        "descrizione": "<2,5 mg/ml soluzione iniettabile> 1 flaconcino  in  vetro  da 3,5 mg/1,4 ml",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "045356021",
+        "nome": "BORTEZOMIB EG",
+        "descrizione": "2,5 mg/ml soluzione iniettabile- 1 flaconcino in vetro da 7 mg/2,8 ml",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "045896014",
+        "nome": "BORAX",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896026",
+        "nome": "BORAX",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896038",
+        "nome": "BORAX",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896040",
+        "nome": "BORAX",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896053",
+        "nome": "BORAX",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896065",
+        "nome": "BORAX",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896077",
+        "nome": "BORAX",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896089",
+        "nome": "BORAX",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896091",
+        "nome": "BORAX",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896103",
+        "nome": "BORAX",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896115",
+        "nome": "BORAX",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896127",
+        "nome": "BORAX",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896139",
+        "nome": "BORAX",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896141",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896154",
+        "nome": "BORAX",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896166",
+        "nome": "BORAX",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896178",
+        "nome": "BORAX",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896180",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896192",
+        "nome": "BORAX",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896204",
+        "nome": "BORAX",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896216",
+        "nome": "BORAX",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896228",
+        "nome": "BORAX",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896230",
+        "nome": "BORAX",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896242",
+        "nome": "BORAX",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896255",
+        "nome": "BORAX",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896267",
+        "nome": "BORAX",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896279",
+        "nome": "BORAX",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896281",
+        "nome": "BORAX",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896293",
+        "nome": "BORAX",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896305",
+        "nome": "BORAX",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896317",
+        "nome": "BORAX",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896329",
+        "nome": "BORAX",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896331",
+        "nome": "BORAX",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896343",
+        "nome": "BORAX",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896356",
+        "nome": "BORAX",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896368",
+        "nome": "BORAX",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896370",
+        "nome": "BORAX",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896382",
+        "nome": "BORAX",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896394",
+        "nome": "BORAX",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896406",
+        "nome": "BORAX",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896418",
+        "nome": "BORAX",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896420",
+        "nome": "BORAX",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896432",
+        "nome": "BORAX",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896444",
+        "nome": "BORAX",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896457",
+        "nome": "BORAX",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896469",
+        "nome": "BORAX",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896471",
+        "nome": "BORAX",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896483",
+        "nome": "BORAX",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896495",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896507",
+        "nome": "BORAX",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896519",
+        "nome": "BORAX",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896521",
+        "nome": "BORAX",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896533",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896545",
+        "nome": "BORAX",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896558",
+        "nome": "BORAX",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896560",
+        "nome": "BORAX",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896572",
+        "nome": "BORAX",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896584",
+        "nome": "BORAX",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896596",
+        "nome": "BORAX",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896608",
+        "nome": "BORAX",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896610",
+        "nome": "BORAX",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896622",
+        "nome": "BORAX",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896634",
+        "nome": "BORAX",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896646",
+        "nome": "BORAX",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896659",
+        "nome": "BORAX",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896661",
+        "nome": "BORAX",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896673",
+        "nome": "BORAX",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896685",
+        "nome": "BORAX",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896697",
+        "nome": "BORAX",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896709",
+        "nome": "BORAX",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896711",
+        "nome": "BORAX",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896723",
+        "nome": "BORAX",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896735",
+        "nome": "BORAX",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896747",
+        "nome": "BORAX",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896750",
+        "nome": "BORAX",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896762",
+        "nome": "BORAX",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896774",
+        "nome": "BORAX",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896786",
+        "nome": "BORAX",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896798",
+        "nome": "BORAX",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896800",
+        "nome": "BORAX",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896812",
+        "nome": "BORAX",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896824",
+        "nome": "BORAX",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896836",
+        "nome": "BORAX",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896848",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896851",
+        "nome": "BORAX",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896863",
+        "nome": "BORAX",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896875",
+        "nome": "BORAX",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896887",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896899",
+        "nome": "BORAX",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896901",
+        "nome": "BORAX",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896913",
+        "nome": "BORAX",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896925",
+        "nome": "BORAX",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896937",
+        "nome": "BORAX",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896949",
+        "nome": "BORAX",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896952",
+        "nome": "BORAX",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896964",
+        "nome": "BORAX",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896976",
+        "nome": "BORAX",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896988",
+        "nome": "BORAX",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045896990",
+        "nome": "BORAX",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897016",
+        "nome": "BORAX",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897028",
+        "nome": "BORAX",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897030",
+        "nome": "BORAX",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897042",
+        "nome": "BORAX",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897055",
+        "nome": "BORAX",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897067",
+        "nome": "BORAX",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897079",
+        "nome": "BORAX",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897081",
+        "nome": "BORAX",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897093",
+        "nome": "BORAX",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897105",
+        "nome": "BORAX",
+        "descrizione": "8 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897117",
+        "nome": "BORAX",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897129",
+        "nome": "BORAX",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897131",
+        "nome": "BORAX",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897143",
+        "nome": "BORAX",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897156",
+        "nome": "BORAX",
+        "descrizione": "18 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897168",
+        "nome": "BORAX",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897170",
+        "nome": "BORAX",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897182",
+        "nome": "BORAX",
+        "descrizione": "1000 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897194",
+        "nome": "BORAX",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897206",
+        "nome": "BORAX",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897218",
+        "nome": "BORAX",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897220",
+        "nome": "BORAX",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897232",
+        "nome": "BORAX",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897244",
+        "nome": "BORAX",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897257",
+        "nome": "BORAX",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897269",
+        "nome": "BORAX",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897271",
+        "nome": "BORAX",
+        "descrizione": "7K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897283",
+        "nome": "BORAX",
+        "descrizione": "9K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897295",
+        "nome": "BORAX",
+        "descrizione": "15K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897307",
+        "nome": "BORAX",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897319",
+        "nome": "BORAX",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897321",
+        "nome": "BORAX",
+        "descrizione": "1000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897333",
+        "nome": "BORAX",
+        "descrizione": "10000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897345",
+        "nome": "BORAX",
+        "descrizione": "50000K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897358",
+        "nome": "BORAX",
+        "descrizione": "06 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897360",
+        "nome": "BORAX",
+        "descrizione": "09 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897372",
+        "nome": "BORAX",
+        "descrizione": "012 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897384",
+        "nome": "BORAX",
+        "descrizione": "015 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897396",
+        "nome": "BORAX",
+        "descrizione": "030 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897408",
+        "nome": "BORAX",
+        "descrizione": "050 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045897410",
+        "nome": "BORAX",
+        "descrizione": "060 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046001018",
+        "nome": "BORTEZOMIB MEDAC",
+        "descrizione": "1 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "MEDAC GESELLSCHAFT FUR KLINISCHE SPEZIALPRAPARATE MBH"
+    },
+    {
+        "aic": "046001020",
+        "nome": "BORTEZOMIB MEDAC",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "MEDAC GESELLSCHAFT FUR KLINISCHE SPEZIALPRAPARATE MBH"
+    },
+    {
+        "aic": "046001032",
+        "nome": "BORTEZOMIB MEDAC",
+        "descrizione": "2,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 2,5 MG",
+        "produttore": "MEDAC GESELLSCHAFT FUR KLINISCHE SPEZIALPRAPARATE MBH"
+    },
+    {
+        "aic": "046042014",
+        "nome": "BORTEZOMIB DR. REDDY'S",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "046172019",
+        "nome": "BORTEZOMIB SANDOZ BV",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "SANDOZ BV"
+    },
+    {
+        "aic": "046172021",
+        "nome": "BORTEZOMIB SANDOZ BV",
+        "descrizione": "2,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "SANDOZ BV"
+    },
+    {
+        "aic": "046172033",
+        "nome": "BORTEZOMIB SANDOZ BV",
+        "descrizione": "2,5 MG POLVERE PER SOLUZIONE INIETTABILE- 3 FLACONCINI IN VETRO",
+        "produttore": "SANDOZ BV"
+    },
+    {
+        "aic": "046172045",
+        "nome": "BORTEZOMIB SANDOZ BV",
+        "descrizione": "2,5 MG POLVERE PER SOLUZIONE INIETTABILE- 5 FLACONCINI IN VETRO",
+        "produttore": "SANDOZ BV"
+    },
+    {
+        "aic": "046172058",
+        "nome": "BORTEZOMIB SANDOZ BV",
+        "descrizione": "2,5 MG POLVERE PER SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO",
+        "produttore": "SANDOZ BV"
+    },
+    {
+        "aic": "046436010",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436022",
+        "nome": "BORAX",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436034",
+        "nome": "BORAX",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436046",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436059",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/SBC DA 12 G (240 GRANULI) CON TAPPO DISPENSATORE IN SBC",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436061",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/SBC DA 12 G (240 GRANULI) CON TAPPO DISPENSATORE IN SBC",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436073",
+        "nome": "BORAX",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436085",
+        "nome": "BORAX",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436097",
+        "nome": "BORAX",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436109",
+        "nome": "BORAX",
+        "descrizione": "06 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436111",
+        "nome": "BORAX",
+        "descrizione": "018 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046436123",
+        "nome": "BORAX",
+        "descrizione": "030 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046617015",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617027",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617039",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617041",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617054",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617066",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617078",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617080",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617092",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617104",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617116",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617128",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617130",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617142",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617155",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617167",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617179",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617181",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617193",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617205",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617217",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617229",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617231",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617243",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617256",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617268",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617270",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617282",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617294",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617306",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617318",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617320",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617332",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617344",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617357",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617369",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617371",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617383",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617395",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617407",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617419",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617421",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617433",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617445",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617458",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617460",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617472",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617484",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617496",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617508",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617510",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617522",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617534",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617546",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617559",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617561",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617573",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617585",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617597",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "2 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046617609",
+        "nome": "BOVISTA GIGANTEA",
+        "descrizione": "2 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "047025010",
+        "nome": "BORAX",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025022",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025034",
+        "nome": "BORAX",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025046",
+        "nome": "BORAX",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025059",
+        "nome": "BORAX",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025061",
+        "nome": "BORAX",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025073",
+        "nome": "BORAX",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025085",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025097",
+        "nome": "BORAX",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025109",
+        "nome": "BORAX",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025111",
+        "nome": "BORAX",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025123",
+        "nome": "BORAX",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025135",
+        "nome": "BORAX",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025147",
+        "nome": "BORAX",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025150",
+        "nome": "BORAX",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025162",
+        "nome": "BORAX",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025174",
+        "nome": "BORAX",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025186",
+        "nome": "BORAX",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025198",
+        "nome": "BORAX",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025200",
+        "nome": "BORAX",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025212",
+        "nome": "BORAX",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025224",
+        "nome": "BORAX",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025236",
+        "nome": "BORAX",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025248",
+        "nome": "BORAX",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025251",
+        "nome": "BORAX",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025263",
+        "nome": "BORAX",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025275",
+        "nome": "BORAX",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025287",
+        "nome": "BORAX",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025299",
+        "nome": "BORAX",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025301",
+        "nome": "BORAX",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025313",
+        "nome": "BORAX",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025325",
+        "nome": "BORAX",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025337",
+        "nome": "BORAX",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025349",
+        "nome": "BORAX",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025352",
+        "nome": "BORAX",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025364",
+        "nome": "BORAX",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025376",
+        "nome": "BORAX",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025388",
+        "nome": "BORAX",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025390",
+        "nome": "BORAX",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025402",
+        "nome": "BORAX",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025414",
+        "nome": "BORAX",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025426",
+        "nome": "BORAX",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025438",
+        "nome": "BORAX",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025440",
+        "nome": "BORAX",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025453",
+        "nome": "BORAX",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025465",
+        "nome": "BORAX",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025477",
+        "nome": "BORAX",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025489",
+        "nome": "BORAX",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025491",
+        "nome": "BORAX",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025503",
+        "nome": "BORAX",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025515",
+        "nome": "BORAX",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025527",
+        "nome": "BORAX",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025539",
+        "nome": "BORAX",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025541",
+        "nome": "BORAX",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025554",
+        "nome": "BORAX",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025566",
+        "nome": "BORAX",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047025578",
+        "nome": "BORAX",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047290022",
+        "nome": "BORTEZOMIB MYLAN",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "047662010",
+        "nome": "BORTEZOMIB HIKMA",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 8 ML",
+        "produttore": "HIKMA PHARMA GMBH"
+    },
+    {
+        "aic": "047996018",
+        "nome": "BORTEZOMIB AUROBINDO",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "047996020",
+        "nome": "BORTEZOMIB AUROBINDO",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 3 FLACONCINI IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "047996032",
+        "nome": "BORTEZOMIB AUROBINDO",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 5 FLACONCINI IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "047996044",
+        "nome": "BORTEZOMIB AUROBINDO",
+        "descrizione": "3,5 MG POLVERE PER SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited"
+    },
+    {
+        "aic": "048360010",
+        "nome": "BORTEZOMIB FRESENIUS KABI",
+        "descrizione": "3.5 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "048360022",
+        "nome": "BORTEZOMIB FRESENIUS KABI",
+        "descrizione": "1 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "048360034",
+        "nome": "BORTEZOMIB FRESENIUS KABI",
+        "descrizione": "2,5 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO, USO SOTTOCUTANEO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "048975015",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975027",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975039",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975041",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975054",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975066",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975078",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975080",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975092",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975104",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975116",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975128",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975130",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975142",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975155",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975167",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975179",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975181",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975193",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975205",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975217",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975229",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975231",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975243",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975256",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975268",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975270",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975282",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "2 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975294",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "3 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975306",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975318",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975320",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975332",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975344",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "8 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975357",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975369",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "10 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975371",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "11 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975383",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975395",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "18 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975407",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975419",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "45 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975421",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "60 LM GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975433",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975445",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975458",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975460",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975472",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975484",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975496",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975508",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975510",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "60 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975522",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "100 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975534",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975546",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "300 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975559",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "400 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975561",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "500 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975573",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975585",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975597",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975609",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975611",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975623",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975635",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975647",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975650",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975662",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975674",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975686",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CCCMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975698",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CDMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975700",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "DMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975712",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975724",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "2 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975736",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "3 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975748",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975751",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975763",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975775",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975787",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "8 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975799",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975801",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "10 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975813",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "11 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975825",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975837",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "13 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975849",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "14 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975852",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975864",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "16 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975876",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "17 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975888",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "18 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975890",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "19 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975902",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "20 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975914",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "21 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975926",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "22 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975938",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "23 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975940",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "24 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975953",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "25 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975965",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "26 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975977",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "27 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975989",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "28 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048975991",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "29 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976017",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976029",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "45 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976031",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "60 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976043",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "90 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976056",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "120 LM GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976068",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976070",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976082",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976094",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976106",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "8 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976118",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976120",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "10 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976132",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976144",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976157",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976169",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "60 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976171",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "100 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976183",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976195",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976207",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976219",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976221",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976233",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976245",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976258",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976260",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976272",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976284",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976296",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976308",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976310",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976322",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976334",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976346",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976359",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976361",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976373",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976385",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976397",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CCCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976409",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CDMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976411",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "DMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976423",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976435",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976447",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976450",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976462",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976474",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976486",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976498",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976500",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976512",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976524",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976536",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976548",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "13 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976551",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "14 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976563",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976575",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "16 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976587",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "17 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976599",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976601",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "19 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976613",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "20 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976625",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "21 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976637",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "22 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976649",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "23 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976652",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "24 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976664",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "25 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976676",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "26 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976688",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "27 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976690",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "28 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976702",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "29 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976714",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976726",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976738",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976740",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "90 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976753",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "120 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976765",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976777",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976789",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976791",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976803",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976815",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976827",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976839",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976841",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976854",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1000 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976866",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976878",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976880",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976892",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976904",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976916",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976928",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976930",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976942",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976955",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976967",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CCCMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976979",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "CDMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976981",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "DMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048976993",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "1 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977019",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "2 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977021",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "3 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977033",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "4 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977045",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "5 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977058",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "6 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977060",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "7 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977072",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "8 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977084",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "9 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977096",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "10 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977108",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "11 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977110",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "12 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977122",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "13 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977134",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "14 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977146",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "15 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977159",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "16 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977161",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "17 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977173",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "18 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977185",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "19 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977197",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "20 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977209",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "21 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977211",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "22 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977223",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "23 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977235",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "24 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977247",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "25 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977250",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "26 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977262",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "27 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977274",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "28 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977286",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "29 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977298",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "30 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977300",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "45 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977312",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "60 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977324",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "90 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977336",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "120 LM GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977348",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6K, 2 CAPSULE 12K, 2 CAPSULE 30K, 22 CAPSULE 35K, 1 CAPSULA 200K, 1 CAPSULA MK - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977351",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 2 CAPSULE 6 LM, 1 CAPSULA 18 LM, 1 CAPSULA 30 LM, 26 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977363",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 1 LM, 9 CAPSULE 2 LM, 9 CAPSULE 3 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977375",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 4 LM, 9 CAPSULE 5 LM, 9 CAPSULE 6 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048977387",
+        "nome": "BORAX DYNAMIS",
+        "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 7 LM, 9 CAPSULE 8 LM, 9 CAPSULE 9 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049717010",
+        "nome": "BORTEZOMIB EVER",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 1 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "049717022",
+        "nome": "BORTEZOMIB EVER",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 5 FLACONCINI IN VETRO DA 1 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "049717034",
+        "nome": "BORTEZOMIB EVER",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 1,4 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "049717046",
+        "nome": "BORTEZOMIB EVER",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 5 FLACONCINI IN VETRO DA 1,4 ML",
+        "produttore": "EVER VALINJECT GMBH"
+    },
+    {
+        "aic": "050068016",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE  RIVESTITE CON FILM-USO ORALE 1 BLISTER  (PVC/PVDC) 1 COMPRESSA",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "050119015",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119027",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119039",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119041",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119054",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119066",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 112 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119078",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119080",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119092",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119104",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119116",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119128",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119130",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 28 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050119142",
+        "nome": "BOSUTINIB SANDOZ",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050532011",
+        "nome": "BONJESTA",
+        "descrizione": "20 mg/20 mg COMPRESSE A RILASCIO MODIFICATO- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "050532023",
+        "nome": "BONJESTA",
+        "descrizione": "20 mg/20 mg COMPRESSE A RILASCIO MODIFICATO- 20 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "050532035",
+        "nome": "BONJESTA",
+        "descrizione": "20 mg/20 mg COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "050532047",
+        "nome": "BONJESTA",
+        "descrizione": "20 mg/20 mg COMPRESSE A RILASCIO MODIFICATO- 40 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EXELTIS ITALIA S.R.L."
+    },
+    {
+        "aic": "050603012",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603024",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603036",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 112 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603048",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603051",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603063",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 112 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603075",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603087",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603099",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 28 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603101",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 30 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603113",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603125",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603137",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 28 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050603149",
+        "nome": "BOSUTINIB TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 x 1 COMPRESSE IN BLISTER PVC/PCTFE/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050771017",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE  RIVESTITE CON FILM-USO ORALE 1 BLISTER  (PVC/PVDC) 1 COMPRESSA",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "050857010",
+        "nome": "BORTEZOMIB QILU",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 1 FLACONCINO IN VETRO DA 1,4 ML",
+        "produttore": "QILU PHARMA SPAIN S.L."
+    },
+    {
+        "aic": "050857022",
+        "nome": "BORTEZOMIB QILU",
+        "descrizione": "2,5 MG/ML SOLUZIONE INIETTABILE- 4 FLACONCINI IN VETRO DA 1,4 ML",
+        "produttore": "QILU PHARMA SPAIN S.L."
+    },
+    {
+        "aic": "051018012",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018024",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 112 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018036",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018048",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 112X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018051",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018063",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018087",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051018099",
+        "nome": "BOSUTINIB DR. REDDY?S",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "DR. REDDY'S S.R.L."
+    },
+    {
+        "aic": "051019014",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019026",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 112 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019038",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019040",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 112X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019053",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019065",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 112 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019077",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019089",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 112X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019091",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019103",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 112 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019115",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051019127",
+        "nome": "BOSUTINIB EG",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 112X1  COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "051020016",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020028",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 112 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020030",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020042",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?100 MG COMPRESSE RIVESTITE CON FILM? 112X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020055",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020067",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020079",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051020081",
+        "nome": "BOSUTINIB ZENTIVA",
+        "descrizione": "?500 MG COMPRESSE RIVESTITE CON FILM? 28X1 COMPRESSE IN BLISTER AL/PVC/AL/OPA DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051268011",
+        "nome": "BONVIVA",
+        "descrizione": "150 MG COMPRESSE  RIVESTITE CON FILM-USO ORALE 1 BLISTER  (PVC/PVDC) 1 COMPRESSA",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "051653018",
+        "nome": "BORTEZOMIB GLENMARK",
+        "descrizione": "?2,5 MG/ML SOLUZIONE INIETTABILE?1 FLACONCINO IN VETRO DA 1 ML",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "051653020",
+        "nome": "BORTEZOMIB GLENMARK",
+        "descrizione": "?2,5 MG/ML SOLUZIONE INIETTABILE?1 FLACONCINO IN VETRO DA 1,4 ML",
+        "produttore": "GLENMARK PHARMACEUTICALS S.R.O."
+    },
+    {
+        "aic": "052345016",
+        "nome": "BOSENTAN ACCORDPHARMA",
+        "descrizione": "32 MG COMPRESSE DISPERSIBILI- 56 COMPRESSE IN BLISTER AL-AL",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "052356019",
+        "nome": "BOMYNTRA",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino(vetro) 1,7 ml (70 mg/ml) - 1 flaconcino",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "052356021",
+        "nome": "BOMYNTRA",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino(vetro) 1,7 ml (70 mg/ml) - 3 flaconcini",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "052356033",
+        "nome": "BOMYNTRA",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino(vetro) 1,7 ml (70 mg/ml) - 4 flaconcini",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "052356045",
+        "nome": "BOMYNTRA",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa pre-riempita (vetro) 1,7 ml (70 mg/ml) - 1 siringa pre-riempita",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "052356058",
+        "nome": "BOMYNTRA",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa pre-riempita (vetro) 1,7 ml (70 mg/ml) - 3 siringhe pre-riempite",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "052356060",
+        "nome": "BOMYNTRA",
+        "descrizione": "120 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa pre-riempita (vetro) 1,7 ml (70 mg/ml) - 4 siringhe pre-riempite",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    }
+]

@@ -1,0 +1,3716 @@
+[
+    {
+        "aic": "001578018",
+        "nome": "EURAX",
+        "descrizione": "10% CREMA - TUBO 20 G",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "022941064",
+        "nome": "EUCHESSINA C.M.",
+        "descrizione": "750 MG/100 ML GOCCE ORALI, SOLUZIONE- 1 FLACONE 20 ML",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "022941076",
+        "nome": "EUCHESSINA C.M.",
+        "descrizione": "3,5 MG COMPRESSE MASTICABILI-18 COMPRESSE",
+        "produttore": "CHIESI FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "024402048",
+        "nome": "EUTIROX",
+        "descrizione": "25 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402051",
+        "nome": "EUTIROX",
+        "descrizione": "75 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402063",
+        "nome": "EUTIROX",
+        "descrizione": "125 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402075",
+        "nome": "EUTIROX",
+        "descrizione": "150 MICROGRAMMI COMPRESSE-50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402125",
+        "nome": "EUTIROX",
+        "descrizione": "50 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402137",
+        "nome": "EUTIROX",
+        "descrizione": "100 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402149",
+        "nome": "EUTIROX",
+        "descrizione": "175 MICROGRAMMI COMPRESSE - 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402152",
+        "nome": "EUTIROX",
+        "descrizione": "200 MICROGRAMMI COMPRESSE - 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402164",
+        "nome": "EUTIROX",
+        "descrizione": "88 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402176",
+        "nome": "EUTIROX",
+        "descrizione": "112 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402188",
+        "nome": "EUTIROX",
+        "descrizione": "137 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402190",
+        "nome": "EUTIROX",
+        "descrizione": "38 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024402202",
+        "nome": "EUTIROX",
+        "descrizione": "63 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MERCK SERONO S.P.A."
+    },
+    {
+        "aic": "024603019",
+        "nome": "EUMOVATE",
+        "descrizione": "0,5 MG/G CREMA- TUBO 30 G",
+        "produttore": "HALEON ITALY S.R.L."
+    },
+    {
+        "aic": "027964030",
+        "nome": "EUTIMIL",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "027964042",
+        "nome": "EUTIMIL",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE",
+        "produttore": "GLAXOSMITHKLINE S.P.A."
+    },
+    {
+        "aic": "032056018",
+        "nome": "EUCLORINA",
+        "descrizione": "2,5 G POLVERE SOLUBILE- 6 BUSTINE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032056020",
+        "nome": "EUCLORINA",
+        "descrizione": "2,5 G POLVERE SOLUBILE- 10 BUSTINE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032056032",
+        "nome": "EUCLORINA",
+        "descrizione": "2,5 G POLVERE SOLUBILE- 100 BUSTINE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032056069",
+        "nome": "EUCLORINA",
+        "descrizione": "2,5% SOLUZIONE CUTANEA- 1 FLACONE DA 250 ML CON MISURINO DOSATORE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032056071",
+        "nome": "EUCLORINA",
+        "descrizione": "2,5% SOLUZIONE CUTANEA- 1 FLACONE DA 500 ML CON MISURINO DOSATORE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032056083",
+        "nome": "EUCLORINA",
+        "descrizione": "2,5% SOLUZIONE CUTANEA- 1 FLACONE DA 1000 ML CON MISURINO DOSATORE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "032840011",
+        "nome": "EUROCAL D3",
+        "descrizione": "1000 MG/880 UI GRANULATO EFFERVESCENTE- 46 BUSTINE",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "032840023",
+        "nome": "EUROCAL D3",
+        "descrizione": "1000 MG/880 UI GRANULATO EFFERVESCENTE- 30 BUSTINE",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "034594010",
+        "nome": "EUSPIFLU",
+        "descrizione": "400 MG + 240 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "034594022",
+        "nome": "EUSPIFLU",
+        "descrizione": "400 MG + 240 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "034980019",
+        "nome": "EUROFLU",
+        "descrizione": "0,1% SOLUZIONE DA NEBULIZZARE- 15 FIALE 2 ML",
+        "produttore": "EURO-PHARMA S.R.L."
+    },
+    {
+        "aic": "034980021",
+        "nome": "EUROFLU",
+        "descrizione": "0,05% BAMBINI SOLUZIONE DA NEBULIZZARE- 15 FIALE 2 ML",
+        "produttore": "EURO-PHARMA S.R.L."
+    },
+    {
+        "aic": "036269025",
+        "nome": "EUTOPIC",
+        "descrizione": "1mg/g crema, tubo da 30g",
+        "produttore": "LABORATORIO FARMACOLOGICO MILANESE S.R.L."
+    },
+    {
+        "aic": "037851019",
+        "nome": "EUMAT",
+        "descrizione": "30 MG/ ML SOLUZIONE INIETTABILE - 3 FIALE",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "037851021",
+        "nome": "EUMAT",
+        "descrizione": "20 MG/ ML GOCCE ORALI, SOLUZIONE - FLACONE DA 10 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "038252019",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/ALU/PVC/AL)- 10 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252021",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE-BLISTER (PA/AL/PVC/AL) 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252033",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 60 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252045",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 120 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252058",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 180 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252060",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 360 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252072",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 10 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252084",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252096",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 60 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252108",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 120 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252110",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 180 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252122",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 360 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252134",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 120 (2X60) COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252146",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 180 (3X60) COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252159",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 360 (6X60) COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252161",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 120 (2X60) COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252173",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 180 (3X60) COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252185",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000MG  COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PA/AL/PVC/AL) 360 (6X60) COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252197",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 10 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252209",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252211",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 60 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252223",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 120 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252235",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 180 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252247",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 360 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252250",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 10 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252262",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252274",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 60 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252286",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 120 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252298",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 180 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252300",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 360 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252312",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 120 ( 2X60) COMPRESSE CONFEZIONE MULTIPLA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252324",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 180 (3X60) COMPRESSE CONFEZIONE MULTIPLA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252336",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/850 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 360 (6X60) COMPRESSE CONFEZIONE MULTIPLA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252348",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 120 (2X60) COMPRESSE CONFEZIONE MULTIPLA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252351",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 180 (3X60) COMPRESSE CONFEZIONE MULTIPLA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252363",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - BLISTER (PCTFE/PVC/ALU) - 360 (6X60) COMPRESSE CONFEZIONE MULTIPLA",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252375",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 10 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252387",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252399",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 60 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252401",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 120 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252413",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 180 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252425",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 360 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252437",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 120 (2 X 60) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252449",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 180 (3 X 60) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252452",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 360 (6 X 60) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252464",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 10 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252476",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 30 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252488",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 60 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252490",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 120 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252502",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 180 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252514",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 360 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252526",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 120 (2 X 60) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252538",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 180 (3 X 60) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038252540",
+        "nome": "EUCREAS",
+        "descrizione": "50 MG / 1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PE/PVDC/ALU) - 360 (6 X 60) COMPRESSE (CONFEZIONE MULTIPLA)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "039436011",
+        "nome": "EUSTAMYL",
+        "descrizione": "0,5 MG/ML COLLIRIO, SOLUZIONE- FLACONE DA 10 ML",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "039436023",
+        "nome": "EUSTAMYL",
+        "descrizione": "0,5 MG/ML COLLIRIO, SOLUZIONE- 25 CONTENITORI MONODOSE DA 0,5 ML",
+        "produttore": "VISUFARMA S.P.A."
+    },
+    {
+        "aic": "040231019",
+        "nome": "EUGASTROL REFLUSSO",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "RATIOPHARM GMBH"
+    },
+    {
+        "aic": "040231021",
+        "nome": "EUGASTROL REFLUSSO",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "RATIOPHARM GMBH"
+    },
+    {
+        "aic": "041496011",
+        "nome": "EURARTESIM",
+        "descrizione": "320MG/40MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL)- 3 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041496023",
+        "nome": "EURARTESIM",
+        "descrizione": "320MG/40MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL)- 6 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041496035",
+        "nome": "EURARTESIM",
+        "descrizione": "320MG/40MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL)- 9 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041496047",
+        "nome": "EURARTESIM",
+        "descrizione": "320MG/40MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL)- 12 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041496050",
+        "nome": "EURARTESIM",
+        "descrizione": "160MG/20MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/AL)- 3 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041496062",
+        "nome": "EURARTESIM",
+        "descrizione": "320 mg / 40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVdC/Al) - 270 compresse",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041496074",
+        "nome": "EURARTESIM",
+        "descrizione": "320 mg / 40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVdC/Al) - 300 compresse",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "041844010",
+        "nome": "EUSPIDOL GOLA",
+        "descrizione": "1,6% COLLUTORIO- FLACONE DA 150 ML",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "041844022",
+        "nome": "EUSPIDOL GOLA",
+        "descrizione": "0,16% SPRAY PER MUCOSA ORALE- FLACONE DA 15 ML",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "045719010",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719022",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719034",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719046",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719059",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719061",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719073",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719085",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719097",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719109",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719111",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719123",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719135",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719147",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719150",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719162",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719174",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719186",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719198",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719200",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719212",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719224",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719236",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719248",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719251",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719263",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719275",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719287",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719299",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719301",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719313",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719325",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719337",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719349",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719352",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719364",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719376",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719388",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719390",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719402",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719414",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719426",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719438",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719440",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719453",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719465",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719477",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719489",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719491",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719503",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719515",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719527",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719539",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719541",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719554",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719566",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719578",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719580",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719592",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719604",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719616",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719628",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719630",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719642",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719655",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719667",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719679",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719681",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719693",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719705",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719717",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719729",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719731",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719743",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719756",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719768",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719770",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719782",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719794",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719806",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719818",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719820",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719832",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719844",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719857",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719869",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719871",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719883",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719895",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719907",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719919",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719921",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719933",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719945",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719958",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719960",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719972",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719984",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045719996",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045720012",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045720024",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045720036",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045720048",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045720051",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "045720063",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003012",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003024",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003036",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003048",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003051",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003063",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003075",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003087",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003099",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003101",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003113",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003125",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003137",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003149",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003152",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003164",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003176",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003188",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003190",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003202",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003214",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003226",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003238",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003240",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003253",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003265",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003277",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003289",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003291",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003303",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003315",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003327",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003339",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003341",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003354",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003366",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003378",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003380",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003392",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003404",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003416",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003428",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003430",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003442",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003455",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003467",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003479",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003481",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003493",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003505",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003517",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003529",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003531",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003543",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003556",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003568",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003570",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003582",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003594",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003606",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 6 G (120 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003618",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003620",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003632",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003644",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003657",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003669",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003671",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003683",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003695",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003707",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003719",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003721",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003733",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003745",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003758",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003760",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003772",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003784",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003796",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003808",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003810",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003822",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003834",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003846",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003859",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003861",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003873",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003885",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003897",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046003909",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "HERING S.R.L"
+    },
+    {
+        "aic": "046083010",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "2 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083022",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083034",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083046",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083059",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083061",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083073",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083085",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083097",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083109",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083111",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083123",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083135",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083147",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083150",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083162",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083174",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083186",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083198",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083200",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083212",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083224",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083236",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083248",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083251",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083263",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083275",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083287",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083299",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083301",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083313",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083325",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083337",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083349",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "18K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083352",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083364",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083376",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083388",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083390",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083402",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083414",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "100000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083426",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "2 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083438",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "3 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083440",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083453",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083465",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083477",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083489",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "8 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083491",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083503",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083515",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "11 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083527",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083539",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "13 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083541",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083554",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "16 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083566",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "17 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083578",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "18 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083580",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "19 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083592",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "20 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083604",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "21 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083616",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "22 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083628",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "23 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083630",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "24 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083642",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "14 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083655",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "25 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083667",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "26 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083679",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "27 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083681",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "28 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083693",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "29 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083705",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046083717",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046539019",
+        "nome": "EUPHRALIA",
+        "descrizione": "COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 30 CONTENITORI LDPE DA 0.4 ML",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046539021",
+        "nome": "EUPHRALIA",
+        "descrizione": "COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 10 CONTENITORI LDPE DA 0.4 ML",
+        "produttore": "BOIRON"
+    },
+    {
+        "aic": "046586018",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586020",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586032",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586044",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586057",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/SBC DA 12 G (240 GRANULI) CON TAPPO DISPENSATORE IN SBC",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586069",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/SBC DA 12 G (240 GRANULI) CON TAPPO DISPENSATORE IN SBC",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586071",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586083",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586095",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586107",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "06 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586119",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "018 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046586121",
+        "nome": "EUPHORBIA RESINIFERA",
+        "descrizione": "030 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664013",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664025",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664037",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664049",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664052",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664064",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664076",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046664088",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "10MK SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682011",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682023",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682035",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682047",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 3,5 G (70 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682050",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682062",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682074",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682086",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "06 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682098",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "018 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682100",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "030 LM SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE IDROALCOLICA AL 30% V/V DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046682112",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "10MK SOLUZIONE PER MUCOSA ORALE- 20 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE"
+    },
+    {
+        "aic": "046857013",
+        "nome": "EUPHRASIALYR (HOMEOLYR N.4)",
+        "descrizione": "COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 10 CONTENITORI IN LDPE DA 0,4 ML",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "046953016",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953028",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953030",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953042",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953055",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953067",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953079",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953081",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953093",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953105",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953117",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953129",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953131",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953143",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953156",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953168",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953170",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953182",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953194",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953206",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953218",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953220",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953232",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953244",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953257",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953269",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953271",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953283",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953295",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953307",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953319",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953321",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953333",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953345",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953358",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953360",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953372",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953384",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953396",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953408",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953410",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953422",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953434",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953446",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953459",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953461",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953473",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953485",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953497",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953509",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953511",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953523",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953535",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953547",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953550",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953562",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "046953574",
+        "nome": "EUPHRASIA OFFICINALIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047967017",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967029",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967031",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967043",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967056",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967068",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967070",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967082",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967094",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967106",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967118",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967120",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967132",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967144",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967157",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967169",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967171",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967183",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967195",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967207",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967219",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967221",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967233",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967245",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967258",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967260",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967272",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967284",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967296",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967308",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967310",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967322",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967334",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967346",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967359",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967361",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967373",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967385",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967397",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967409",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967411",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967423",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047967435",
+        "nome": "EUCALYPTUS GLOBULUS DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "048307019",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307021",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307033",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307045",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307058",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307060",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307072",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307084",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307096",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307108",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307110",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307122",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307134",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307146",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307159",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307161",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307173",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307185",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307197",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307209",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307211",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307223",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307235",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307247",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307250",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307262",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307274",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307286",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307298",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307300",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307312",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307324",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307336",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307348",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307351",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307363",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307375",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307387",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307399",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307401",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307413",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307425",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307437",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307449",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307452",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307464",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307476",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307488",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307490",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307502",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307514",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307526",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307538",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307540",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307553",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307565",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "048307577",
+        "nome": "EUGENIA JAMBOSA",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049567011",
+        "nome": "EUSOM",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ECUPHARMA S.R.L."
+    },
+    {
+        "aic": "049567023",
+        "nome": "EUSOM",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/PE/PVC/AL",
+        "produttore": "ECUPHARMA S.R.L."
+    },
+    {
+        "aic": "049602016",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602028",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602030",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602042",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602055",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602067",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602079",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602081",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602093",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602105",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602117",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602129",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602131",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602143",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602156",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602168",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602170",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602182",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602194",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602206",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602218",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602220",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602232",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602244",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602257",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602269",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602271",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602283",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602295",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602307",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602319",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602321",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602333",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602345",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602358",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602360",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602372",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602384",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "MMK GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602396",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602408",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602410",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602422",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602434",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602446",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602459",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602461",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602473",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602485",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602497",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "5M CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602509",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "XM CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602511",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602523",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602535",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602547",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602550",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "LMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602562",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "CMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "049602574",
+        "nome": "EUPATORIUM PERFOLIATUM",
+        "descrizione": "MMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "051483016",
+        "nome": "EURNEFFY",
+        "descrizione": "2 mg - Spray nasale, soluzione - Uso nasale - Flaconcino (vetro) in flacone nebulizzatore 0,1 mL - 1 flacone nebulizzatore monodose",
+        "produttore": "ALK-ABELLO A/S"
+    },
+    {
+        "aic": "051483028",
+        "nome": "EURNEFFY",
+        "descrizione": "2 mg - Spray nasale, soluzione - Uso nasale - Flaconcino (vetro) in flacone nebulizzatore 0,1 mL - 2 flaconi nebulizzatori monodose",
+        "produttore": "ALK-ABELLO A/S"
+    }
+]

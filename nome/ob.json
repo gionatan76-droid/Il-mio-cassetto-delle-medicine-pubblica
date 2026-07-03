@@ -1,0 +1,74 @@
+[
+    {
+        "aic": "027172030",
+        "nome": "OBIMAL",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "027256027",
+        "nome": "OBISPAX",
+        "descrizione": "40MG+2 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "MALESCI ISTITUTO FARMACOBIOLOGICO S.P.A."
+    },
+    {
+        "aic": "044557015",
+        "nome": "OBIZUR",
+        "descrizione": "500 U - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 500 U/ML - 1 FLACONCINO",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044557027",
+        "nome": "OBIZUR",
+        "descrizione": "500 U - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 500 U/ML - 5 FLACONCINI",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "044557039",
+        "nome": "OBIZUR",
+        "descrizione": "500 U - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 500 U/ML - 10 FLACONCINI",
+        "produttore": "BAXALTA INNOVATIONS GMBH"
+    },
+    {
+        "aic": "051355016",
+        "nome": "OBGEMSA",
+        "descrizione": "75 mg - Compresse rivestite con film - Uso orale - Flacone rotondo (HDPE) - 7 compresse",
+        "produttore": "PIERRE FABRE MEDICAMENT"
+    },
+    {
+        "aic": "051355028",
+        "nome": "OBGEMSA",
+        "descrizione": "75 mg - Compresse rivestite con film - Uso orale - Flacone rotondo (HDPE) - 30 compresse",
+        "produttore": "PIERRE FABRE MEDICAMENT"
+    },
+    {
+        "aic": "051355030",
+        "nome": "OBGEMSA",
+        "descrizione": "75 mg - Compresse rivestite con film - Uso orale - Flacone rotondo (HDPE) - 90 compresse",
+        "produttore": "PIERRE FABRE MEDICAMENT"
+    },
+    {
+        "aic": "051355042",
+        "nome": "OBGEMSA",
+        "descrizione": "75 mg - Compresse rivestite con film - Uso orale - Flacone quadrato (HDPE) - 7 compresse",
+        "produttore": "PIERRE FABRE MEDICAMENT"
+    },
+    {
+        "aic": "051355055",
+        "nome": "OBGEMSA",
+        "descrizione": "75 mg - Compresse rivestite con film - Uso orale - Flacone quadrato (HDPE) - 30 compresse",
+        "produttore": "PIERRE FABRE MEDICAMENT"
+    },
+    {
+        "aic": "051355067",
+        "nome": "OBGEMSA",
+        "descrizione": "75 mg - Compresse rivestite con film - Uso orale - Flacone quadrato (HDPE) - 90 compresse",
+        "produttore": "PIERRE FABRE MEDICAMENT"
+    },
+    {
+        "aic": "051989010",
+        "nome": "OBODENCE",
+        "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - siringa preriempita (vetro) 1 mL (60 mg/mL) - 1 siringa preriempita",
+        "produttore": "SAMSUNG BIOEPIS NL B.V."
+    }
+]

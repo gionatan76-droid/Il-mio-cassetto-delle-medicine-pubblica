@@ -1,0 +1,1940 @@
+[
+    {
+        "aic": "002955058",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "50 MG CAPSULE MOLLI- 2 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "002955060",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "50 MG CAPSULE MOLLI- 6 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "002955072",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "50 MG CAPSULE MOLLI- 10 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "002955108",
+        "nome": "XAMAMINA MAL DI VIAGGIO",
+        "descrizione": "BAMBINI 25 MG CAPSULE MOLLI- 6 CAPSULE",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "017849023",
+        "nome": "XANTURENASI",
+        "descrizione": "10 COMPRESSE 300 MG",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "025980057",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980069",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980071",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980083",
+        "nome": "XANAX",
+        "descrizione": "0,75  MG/ML GOCCE ORALI, SOLUZIONE-FLACONE 20 ML",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980133",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980145",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980158",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 40 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980160",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 60 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980172",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 100 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980184",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 2 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980196",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 10 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980208",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980210",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980222",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 40 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980234",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 60 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980246",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 100 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980259",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 10 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980261",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980273",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980285",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 60 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980297",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 100 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980309",
+        "nome": "XANAX",
+        "descrizione": "3 MG COMPRESSE A RILASCIO PROLUNGATO - 10 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980311",
+        "nome": "XANAX",
+        "descrizione": "3 MG COMPRESSE A RILASCIO PROLUNGATO - 20 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980323",
+        "nome": "XANAX",
+        "descrizione": "3 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980335",
+        "nome": "XANAX",
+        "descrizione": "3 MG COMPRESSE A RILASCIO PROLUNGATO - 40 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "025980347",
+        "nome": "XANAX",
+        "descrizione": "3 MG COMPRESSE A RILASCIO PROLUNGATO - 100 COMPRESSE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "027314018",
+        "nome": "XATRAL",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "027314044",
+        "nome": "XATRAL",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "027314057",
+        "nome": "XATRAL",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE",
+        "produttore": "SANOFI S.R.L."
+    },
+    {
+        "aic": "033005012",
+        "nome": "XARATOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005024",
+        "nome": "XARATOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE  IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005036",
+        "nome": "XARATOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE  IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005048",
+        "nome": "XARATOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE  IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005051",
+        "nome": "XARATOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE  IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005063",
+        "nome": "XARATOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005075",
+        "nome": "XARATOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005087",
+        "nome": "XARATOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005099",
+        "nome": "XARATOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005240",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005253",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005265",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005277",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005289",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005291",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005303",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005315",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005327",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005339",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005341",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005354",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005366",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 200(10X20) COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005378",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005380",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005392",
+        "nome": "XARATOR",
+        "descrizione": "5 MG COMPRESSE MASTICABILI- 30  COMPRESSE IN BLISTER  PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005404",
+        "nome": "XARATOR",
+        "descrizione": "10 MG COMPRESSE MASTICABILI- 30  COMPRESSE IN BLISTER  PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005416",
+        "nome": "XARATOR",
+        "descrizione": "20 MG COMPRESSE MASTICABILI- 30  COMPRESSE IN BLISTER  PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005428",
+        "nome": "XARATOR",
+        "descrizione": "40 MG COMPRESSE MASTICABILI- 30  COMPRESSE IN BLISTER  PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005430",
+        "nome": "XARATOR",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005442",
+        "nome": "XARATOR",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005455",
+        "nome": "XARATOR",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033005467",
+        "nome": "XARATOR",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033219015",
+        "nome": "XALATAN",
+        "descrizione": "50  MICROGRAMMI/ML  COLLIRIO,  SOLUZIONE-  1 FLACONE DA 2,5 ML",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033219027",
+        "nome": "XALATAN",
+        "descrizione": "50  MICROGRAMMI/ML  COLLIRIO,  SOLUZIONE-  3 FLACONI DA 2,5 ML",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033219039",
+        "nome": "XALATAN",
+        "descrizione": "0,005% COLLIRIO SOLUZIONE- 6 FLACONI DA 2,5 ML",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "035402015",
+        "nome": "XALACOM",
+        "descrizione": "<50  ?g/ml  5 mg/ml collirio, soluzione 1 flacone contagocce in LLDPE>",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "035402027",
+        "nome": "XALACOM",
+        "descrizione": "<50  ?g/ml  5 mg/ml collirio, soluzione 3 flaconi contagocce in LLDPE>",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "036745014",
+        "nome": "XAGRID",
+        "descrizione": "0,5 MG CAPSULA RIGIDA USO ORALE FLACONE (HDPE) 100 CAPSULE",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "037564010",
+        "nome": "XARENEL",
+        "descrizione": "10.000 U.I./ml gocce orali, soluzione> flacone in vetro da 10 ml",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564022",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I./ml soluzione iniettabile> 6 fiale in vetro da 1 ml",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564034",
+        "nome": "XARENEL",
+        "descrizione": "300.000 U.I./ml soluzione iniettabile> 2 fiale in vetro da 1 ml",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564046",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I./2,5 ml soluzione orale  in contenitore monodose> 1 contenitore monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564059",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I./2,5 ml soluzione orale  in contenitore monodose> 4 contenitori monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564061",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I./2,5 ml soluzione orale  in contenitore monodose> 1 contenitore monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564073",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I./2,5 ml soluzione orale  in contenitore monodose> 4 contenitori monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564085",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I./2,5 ml soluzione orale  in contenitore monodose> 2 contenitori monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564097",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I./2,5 ml soluzione orale  in contenitore monodose> 2 contenitori monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564109",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I./2,5 ml soluzione orale in contenitore monodose> 1 contenitore monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564111",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I./2,5 ml soluzione orale in contenitore monodose> 2 contenitori monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564123",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I./2,5 ml soluzione orale in contenitore monodose> 4 contenitori monodose in vetro",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564135",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I./ml soluzione iniettabile> 1 fiala in vetro da 1 ml",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564147",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I./ml soluzione iniettabile> 3 fiale in vetro da 1 ml",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564150",
+        "nome": "XARENEL",
+        "descrizione": "300.000 U.I./ml soluzione iniettabile> 1 fiala in vetro da 1 ml",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564162",
+        "nome": "XARENEL",
+        "descrizione": "2.000 U.I. CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564174",
+        "nome": "XARENEL",
+        "descrizione": "6.000 U.I. CAPSULE RIGIDE- 4 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564186",
+        "nome": "XARENEL",
+        "descrizione": "6.000 U.I. CAPSULE RIGIDE- 12 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564198",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I. CAPSULE RIGIDE- 1 CAPSULA IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564200",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I. CAPSULE RIGIDE- 2 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564212",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I. CAPSULE RIGIDE- 4 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564224",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I. CAPSULE RIGIDE- 1 CAPSULA IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564236",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I. CAPSULE RIGIDE- 2 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564248",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I. CAPSULE RIGIDE- 1 CAPSULA IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564251",
+        "nome": "XARENEL",
+        "descrizione": "1000 U.I. CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564263",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I. CAPSULE RIGIDE- 8 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564275",
+        "nome": "XARENEL",
+        "descrizione": "25.000 U.I. CAPSULE RIGIDE- 12 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564287",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I. CAPSULE RIGIDE- 4 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564299",
+        "nome": "XARENEL",
+        "descrizione": "50.000 U.I. CAPSULE RIGIDE- 6 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564301",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I. CAPSULE RIGIDE- 2 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564313",
+        "nome": "XARENEL",
+        "descrizione": "100.000 U.I. CAPSULE RIGIDE- 3 CAPSULE IN BLISTER AL-PVC/PVDC",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564325",
+        "nome": "XARENEL",
+        "descrizione": "10.000 U.I./ML GOCCE ORALI, SOLUZIONE- FLACONE CONTAGOCCE IN VETRO DA 10 ML",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564337",
+        "nome": "XARENEL",
+        "descrizione": "?25.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 3 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564349",
+        "nome": "XARENEL",
+        "descrizione": "?25.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 6 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564352",
+        "nome": "XARENEL",
+        "descrizione": "?25.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 8 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564364",
+        "nome": "XARENEL",
+        "descrizione": "?25.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 10 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564376",
+        "nome": "XARENEL",
+        "descrizione": "?25.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 12 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564388",
+        "nome": "XARENEL",
+        "descrizione": "?50.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 3 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "037564390",
+        "nome": "XARENEL",
+        "descrizione": "?50.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 6 CONTENITORI MONODOSE IN VETRO",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "038482055",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482079",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482081",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482093",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482105",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482117",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482129",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038482131",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038611024",
+        "nome": "XALIBUR",
+        "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 2,5 ML",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "038611036",
+        "nome": "XALIBUR",
+        "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 30 CONTENITORI MONODOSE DA 0,2 ML",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "038744013",
+        "nome": "XARELTO",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU)- 5 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744025",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU) 10 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744037",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU) 30 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744049",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU) 100 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744052",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) 5  COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744064",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) 10  COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744076",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) 30 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744088",
+        "nome": "XARELTO",
+        "descrizione": "10 MG  COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) 100 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744114",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744126",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 28 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744138",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 42 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744140",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 98 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744153",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 10 X 1 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744165",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 100 X 1 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744177",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744189",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 28 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744191",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 98 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744203",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 10 X 1 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744215",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU)- 100 X 1 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744227",
+        "nome": "XARELTO",
+        "descrizione": "10 MG - COMPRESSE RIVESTITE CON FILM USO ORALE - BLISTER (PP/ALU) - 100 (10X10X1) COMPRESSE (DOSE UNITARIA) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744239",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE BLISTER (PP/ALU) 100 (10X10X1) COMPRESSE (DOSE UNITARIA) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744241",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 100 (10X10X1) COMPRESSE (DOSE UNITARIA) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744254",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744266",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 28 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744278",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE  - BLISTER (PP/ALU) - 56 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744280",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - UO ORALE - BLISTER (PP/ALU) - 60 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744292",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 98 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744304",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 168 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744316",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE  - BLISTER (PP/ALU) - 196 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744328",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE  .- BLISTER (PP/ALU) - 10X1 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744330",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE  - BLISTER (PP/ALU) - 100X1 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744342",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 100 (10 X 10 X 1) COMPRESSE (DOSE UNITARIA) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744355",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSE RIVESTITE CON FILM - USO ORALE - BLISTER (PP/ALU) - 30 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744367",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 100 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744379",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 100 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744381",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 10 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744393",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 10 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744405",
+        "nome": "XARELTO",
+        "descrizione": "15 MG + 20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - CONFEZIONE STARTER: 49 COMPRESSE (42 X 15 MG + 7 X 20 MG)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744417",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 20 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744429",
+        "nome": "XARELTO",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744431",
+        "nome": "XARELTO",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 28 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744443",
+        "nome": "XARELTO",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PP/ALU) - 98 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744456",
+        "nome": "XARELTO",
+        "descrizione": "10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 100 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744468",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 100 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744470",
+        "nome": "XARELTO",
+        "descrizione": "2,5 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU) - 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744482",
+        "nome": "XARELTO",
+        "descrizione": "15 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU) - 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744494",
+        "nome": "XARELTO",
+        "descrizione": "20 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALU) - 14 COMPRESSE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744506",
+        "nome": "XARELTO",
+        "descrizione": "1 MG / ML - GRANULI PER SOSPENSIONE ORALE - USO ORALE - FLACONE (VETRO) 2,625 G - 1 FLACONE + 2 SIRINGHE ORALI DA 1 ML + 1 SIRINGA DA 50 ML + 1 ADATTATORE PER IL FLACONE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038744518",
+        "nome": "XARELTO",
+        "descrizione": "1 MG / ML - GRANULI PER SOSPENSIONE ORALE - USO ORALE - FLACONE (VETRO) 5,25 G - 1 FLACONE + 2 SIRINGHE ORALI DA 5 ML + 2 SIRINGHE DA 10 ML + 1 SIRINGA DA 100 ML + 1 ADATTATORE PER IL FLACONE",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "038767012",
+        "nome": "XAMIOL",
+        "descrizione": "50 MCG/G / 0.5 MG/G GEL- 1 FLACONE PE DA 15 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "038767024",
+        "nome": "XAMIOL",
+        "descrizione": "50 MCG/G / 0.5 MG/G GEL- 1 FLACONE PE DA 30 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "038767036",
+        "nome": "XAMIOL",
+        "descrizione": "50 MCG/G / 0.5 MG/G GEL- 1 FLACONE PE DA 60 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "038767048",
+        "nome": "XAMIOL",
+        "descrizione": "50 MCG/G / 0.5 MG/G GEL- 2 FLACONI PE DA 60 G",
+        "produttore": "LEO PHARMA A/S"
+    },
+    {
+        "aic": "039573011",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573023",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573035",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573074",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573086",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573098",
+        "nome": "XANAX",
+        "descrizione": "0.25 mg COMPRESSA- 20 COMPRESSA",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573100",
+        "nome": "XANAX",
+        "descrizione": "0.5 mg COMPRESSA- 20 COMPRESSA",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573112",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573124",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573136",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSEIN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573148",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573151",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PA/AL/AL",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039573163",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039795012",
+        "nome": "XALOST",
+        "descrizione": "50 MCG/ML COLLIRIO SOLUZIONE - 1 FLACONE CONTAGOCCE IN LDPE DA 2,5ML",
+        "produttore": "FARMIGEA S.P.A."
+    },
+    {
+        "aic": "039795024",
+        "nome": "XALOST",
+        "descrizione": "50 MCG/ML COLLIRIO SOLUZIONE - 3 FLACONI CONTAGOCCE IN LDPE DA 2,5ML",
+        "produttore": "FARMIGEA S.P.A."
+    },
+    {
+        "aic": "039795036",
+        "nome": "XALOST",
+        "descrizione": "50 MCG/ML COLLIRIO SOLUZIONE - 6 FLACONI CONTAGOCCE IN LDPE DA 2,5ML",
+        "produttore": "FARMIGEA S.P.A."
+    },
+    {
+        "aic": "041602044",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602057",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602069",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602071",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602083",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602095",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602107",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602119",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602121",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602133",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602145",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602158",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602160",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041602172",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041677016",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "041677028",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "041677030",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "041677042",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "041677055",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "041677067",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "041677079",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042346041",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042346054",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042346066",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042346078",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042346080",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042346092",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042346104",
+        "nome": "XANAX",
+        "descrizione": "1 mg COMPRESSA- 20 COMPRESSE",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042549016",
+        "nome": "XALKORI",
+        "descrizione": "200 MG- CAPSULA RIGIDA - USO ORALE - BLISTER  (PVC/ALU) - 60 CAPSULE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042549028",
+        "nome": "XALKORI",
+        "descrizione": "200 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 60 CAPSULE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042549030",
+        "nome": "XALKORI",
+        "descrizione": "250 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/ALU) - 60 CAPSULE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042549042",
+        "nome": "XALKORI",
+        "descrizione": "250 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 60 CAPSULE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042549055",
+        "nome": "XALKORI",
+        "descrizione": "20 mg - Granuli in capsule da aprire - Uso orale - Flacone (HDPE) - 60 capsule",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042549067",
+        "nome": "XALKORI",
+        "descrizione": "50 mg - Granuli in capsule da aprire - Uso orale - Flacone (HDPE) - 60 capsule",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "042549079",
+        "nome": "XALKORI",
+        "descrizione": "150 mg - Granuli in capsule da aprire - Uso orale - Flacone (HDPE) - 60 capsule",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "043881010",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881022",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881046",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881059",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881061",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881073",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881085",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881097",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881109",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881111",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881123",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881135",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881147",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881150",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881162",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881174",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881186",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881198",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881200",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881212",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881224",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881236",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881275",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881287",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043881299",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043906015",
+        "nome": "XADAGO",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 14 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906027",
+        "nome": "XADAGO",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906039",
+        "nome": "XADAGO",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906041",
+        "nome": "XADAGO",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 90 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906054",
+        "nome": "XADAGO",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 100 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906066",
+        "nome": "XADAGO",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 14 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906078",
+        "nome": "XADAGO",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906080",
+        "nome": "XADAGO",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906092",
+        "nome": "XADAGO",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 90 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043906104",
+        "nome": "XADAGO",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 100 COMPRESSE",
+        "produttore": "ZAMBON S.P.A."
+    },
+    {
+        "aic": "043977014",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977026",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977038",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977040",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977053",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977065",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977077",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977089",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977091",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977103",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977115",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977127",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977139",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977141",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "043977154",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "PRICETAG SPA"
+    },
+    {
+        "aic": "044665014",
+        "nome": "XALUPRINE",
+        "descrizione": "20 MG / ML - SOSPENSIONE ORALE - USO ORALE - FLACONE (VETRO), SIRINGA (PET) - 100 ML - 1 FLACONE + 1 ADATTATORE PER FLACONE + 2 SIRINGHE ORALI",
+        "produttore": "LIPOMED GMBH"
+    },
+    {
+        "aic": "044790018",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044790020",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044790032",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044895011",
+        "nome": "XALATAN",
+        "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 2,5 ML",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "045189014",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189026",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189038",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189040",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189053",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189065",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO - 30 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189077",
+        "nome": "XANAX",
+        "descrizione": "0.25 mg COMPRESSA- 20 COMPRESSA",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189089",
+        "nome": "XANAX",
+        "descrizione": "0.50 mg COMPRESSA- 20 COMPRESSA",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189091",
+        "nome": "XANAX",
+        "descrizione": "1 mg COMPRESSA- 20 COMPRESSA",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189103",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189115",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/Al",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189127",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/Al",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189139",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189141",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189154",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189166",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189178",
+        "nome": "XANAX",
+        "descrizione": "0,5 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189180",
+        "nome": "XANAX",
+        "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189192",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045189204",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "045467014",
+        "nome": "XAREXEN",
+        "descrizione": "1000 U.I. CAPSULA RIGIDA- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "045945045",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945058",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945060",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945072",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945084",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945096",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945108",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945110",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945122",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE- 20 COMPRESSE N BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "045945134",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "046107025",
+        "nome": "XALATAN",
+        "descrizione": "50  MICROGRAMMI/ML  COLLIRIO, SOLUZIONE- 1 FLACONE DA 2,5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "046107037",
+        "nome": "XALATAN",
+        "descrizione": "50  MICROGRAMMI/ML  COLLIRIO, SOLUZIONE-  1 FLACONE DA 2,5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "046762011",
+        "nome": "XANAX",
+        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "SM PHARMA S.R.L."
+    },
+    {
+        "aic": "046762023",
+        "nome": "XANAX",
+        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "SM PHARMA S.R.L."
+    },
+    {
+        "aic": "046762035",
+        "nome": "XANAX",
+        "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
+        "produttore": "SM PHARMA S.R.L."
+    },
+    {
+        "aic": "049735018",
+        "nome": "XALATAN",
+        "descrizione": "50  MICROGRAMMI/ML  COLLIRIO,  SOLUZIONE-  1 FLACONE DA 2,5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "049958010",
+        "nome": "XALATAN",
+        "descrizione": "50  MICROGRAMMI/ML  COLLIRIO,  SOLUZIONE-  1 FLACONE DA 2,5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "049958022",
+        "nome": "XALATAN",
+        "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN PE DA 2,5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "051875019",
+        "nome": "XALATAN",
+        "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 2,5 ML",
+        "produttore": "ABACUS MEDICINE A/S"
+    },
+    {
+        "aic": "051957013",
+        "nome": "XALATAN",
+        "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 2,5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "052833011",
+        "nome": "XADAGO",
+        "descrizione": "50 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "052833023",
+        "nome": "XADAGO",
+        "descrizione": "100 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/PVDC/ALLUMINIO) - 30 COMPRESSE",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    }
+]

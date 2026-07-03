@@ -1,0 +1,56 @@
+[
+    {
+        "aic": "021111024",
+        "nome": "UMAN ALBUMIN",
+        "descrizione": "200 G/L SOLUZIONE PER INFUSIONE- 1 FLACONE DA 50 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "021111051",
+        "nome": "UMAN ALBUMIN",
+        "descrizione": "5 G/100 ML SOLUZIONE PER INFUSIONE - 1 FLACONE 250 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "021111087",
+        "nome": "UMAN ALBUMIN",
+        "descrizione": "250 G/L SOLUZIONE PER INFUSIONE- 1 FLACONE DA 50 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "021111101",
+        "nome": "UMAN ALBUMIN",
+        "descrizione": "200 G/L SOLUZIONE PER INFUSIONE- 1 FLACONE DA 100 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "021112040",
+        "nome": "UMAN SERUM",
+        "descrizione": "5% SOLUZIONE PER INFUSIONE- FLACONE DA 250 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "023309103",
+        "nome": "UMAN COMPLEX",
+        "descrizione": "500 U.I./20 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE 20 ML + SET PER LA RICOSTITUZIONE E LA SOMMINISTRAZIONE",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "023782016",
+        "nome": "UMAN BIG",
+        "descrizione": "540 UI/3 MLSOLUZIONE INIETTABILE- FLACONCINO 3 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "023782028",
+        "nome": "UMAN BIG",
+        "descrizione": "180 UI/1 ML SOLUZIONE INIETTABILE- FLACONCINO 1 ML",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "045531011",
+        "nome": "UMOSTIL",
+        "descrizione": "40 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN PP DA 2,5 ML CON CONTAGOCCE",
+        "produttore": "A.G.F. SRL"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "aic": "051230011",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1 ml - 1 penna preriempita",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230023",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1 ml - 1 penna preriempita + 9 aghi",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230035",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1 ml - 1 penna preriempita + 14 (2 x 7) aghi",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230047",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1.5 ml - 1 penna preriempita",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230050",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1.5 ml - 1 penna preriempita + 13 aghi",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230062",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1.5 ml - 1 penna preriempita + 14 (2 x 7) aghi",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230074",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1.5 ml - 2 (2 x 1) penne preriempite + 26 (2 x 13) aghi (confezione multipla)",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230086",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1.5 ml - 2 (2 x 1) penne preriempite + 28 (4 x 7) aghi (confezione multipla)",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230098",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml - 1 penna preriempita",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230100",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml - 2 penne preriempite",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230112",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml - 1 penna preriempita + 13 aghi",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230124",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml - 1 penna preriempita + 14 (2 x 7) aghi",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230136",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml - 2 (2 x 1) penne preriempite + 26 (2 x 13) aghi (confezione multipla)",
+        "produttore": "NOVO NORDISK A/S"
+    },
+    {
+        "aic": "051230148",
+        "nome": "AWIQLI",
+        "descrizione": "700 U/ml - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml - 2 (2 x 1) penne preriempite + 28 (4 x 7) aghi (confezione multipla)",
+        "produttore": "NOVO NORDISK A/S"
+    }
+]

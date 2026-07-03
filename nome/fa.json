@@ -1,0 +1,1862 @@
+[
+    {
+        "aic": "015148024",
+        "nome": "FARLUTAL",
+        "descrizione": "10 MG COMPRESSE- 12 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "015148036",
+        "nome": "FARLUTAL",
+        "descrizione": "20 MG COMPRESSE- 10 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "015148125",
+        "nome": "FARLUTAL",
+        "descrizione": "500 MG COMPRESSE-30 COMPRESSE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "021856051",
+        "nome": "FARMODOXI",
+        "descrizione": "100 MG COMPRESSE - 10 COMPRESSE",
+        "produttore": "ITALFARMACO S.P.A."
+    },
+    {
+        "aic": "022801017",
+        "nome": "FARINGOTRICINA",
+        "descrizione": "2,5 MG COMPRESSE ORODISPERSIBILI- 20 C0MPRESSE IN BLISTER PVC/AL",
+        "produttore": "LABORATORIO FARMACEUTICO SIT SPECIALITA IGIENICO TERAPEUTICHE S.R.L."
+    },
+    {
+        "aic": "023417037",
+        "nome": "FASTUM",
+        "descrizione": "25 mg/g gel> tubo da 50 g in Al",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "023417114",
+        "nome": "FASTUM",
+        "descrizione": "25 MG/G GEL -  TUBO CON DISPENSER 50 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "023417138",
+        "nome": "FASTUM",
+        "descrizione": "25 MG/G GEL- TUBO DA 100 G IN AL",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "025197031",
+        "nome": "FARMORUBICINA",
+        "descrizione": "10 MG/5 ML POLVERE E SOLVENTE  PER  SOLUZIONE  PER INFUSIONE> 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE DA 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "025197043",
+        "nome": "FARMORUBICINA",
+        "descrizione": "50 MG  POLVERE  PER  SOLUZIONE  PER  INFUSIONE>  1 FLACONCINO POLVERE",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "025197068",
+        "nome": "FARMORUBICINA",
+        "descrizione": "10 MG/5 ML SOLUZIONE PER INFUSIONE- 1 FLACONE DA 5 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "025197070",
+        "nome": "FARMORUBICINA",
+        "descrizione": "50 MG/25 ML SOLUZIONE PER INFUSIONE- 1 FLACONE DA 25 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "025197082",
+        "nome": "FARMORUBICINA",
+        "descrizione": "200 MG/100 ML SOLUZIONE PER INFUSIONE PER USO ENDOVENOSO- 1 FLACONE DA 100 ML",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "025982012",
+        "nome": "FALVIN",
+        "descrizione": "20 mg/g CREMA- TUBO 30 G",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "025982051",
+        "nome": "FALVIN",
+        "descrizione": "20 mg/ml SPRAY CUTANEO, SOLUZIONE- FLACONE 30 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "025982149",
+        "nome": "FALVIN",
+        "descrizione": "200MG CAPSULE MOLLI VAGINALI- 6 CAPSULE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "025982188",
+        "nome": "FALVIN",
+        "descrizione": "0,2% SOLUZIONE VAGINALE- 5 FLACONI 150 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "025982190",
+        "nome": "FALVIN",
+        "descrizione": "600MG CAPSULE MOLLI VAGINALI- 2 CAPSULE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "025982202",
+        "nome": "FALVIN",
+        "descrizione": "1000 MG CAPSULE MOLLI VAGINALI- 2 CAPSULE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "025982226",
+        "nome": "FALVIN",
+        "descrizione": "2% CREMA VAGINALE- TUBO 78 G + 1 APPLICATORE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "026964015",
+        "nome": "FARGANESSE",
+        "descrizione": "25 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "ANSERIS FARMA SRL"
+    },
+    {
+        "aic": "026964039",
+        "nome": "FARGANESSE",
+        "descrizione": "50 MG/2 ML SOLUZIONE INIETTABILE-  5 FIALE",
+        "produttore": "ANSERIS FARMA SRL"
+    },
+    {
+        "aic": "029172018",
+        "nome": "FAMVIR",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "029172032",
+        "nome": "FAMVIR",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "029172044",
+        "nome": "FAMVIR",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "029172057",
+        "nome": "FAMVIR",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "029172069",
+        "nome": "FAMVIR",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE",
+        "produttore": "PHOENIX LABS UNLIMITED COMPANY"
+    },
+    {
+        "aic": "029914013",
+        "nome": "FARESTON",
+        "descrizione": "30 COMPRESSE 60 MG",
+        "produttore": "ORION CORPORATION"
+    },
+    {
+        "aic": "029914025",
+        "nome": "FARESTON",
+        "descrizione": "100 COMPRESSE 60 MG",
+        "produttore": "ORION CORPORATION"
+    },
+    {
+        "aic": "032644054",
+        "nome": "FARVICETT",
+        "descrizione": "1,5% + 15% CONCENTRATO PER SOLUZIONE CUTANEA - 400 BUSTE 20 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "032644066",
+        "nome": "FARVICETT",
+        "descrizione": "1,5% + 15% CONCENTRATO PER SOLUZIONE CUTANEA - 12 FLACONI 1 LITRO",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "032644078",
+        "nome": "FARVICETT",
+        "descrizione": "0,015% + 0,15% SOLUZIONE CUTANEA - 400 BUSTE 25 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "032644080",
+        "nome": "FARVICETT",
+        "descrizione": "0,015% + 0,15% SOLUZIONE CUTANEA - 10 BUSTE 25 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "033866043",
+        "nome": "FANHDI",
+        "descrizione": "250 UI + 300 UI/10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE + 1 SIRINGA PRER CON 10 ML DI SOLV + ACCESSORI",
+        "produttore": "INSTITUTO GRIFOLS S.A."
+    },
+    {
+        "aic": "033866056",
+        "nome": "FANHDI",
+        "descrizione": "500 UI + 600 UI/10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE + 1 SIRINGA PRER CON 10 ML DI SOLV + ACCESSORI",
+        "produttore": "INSTITUTO GRIFOLS S.A."
+    },
+    {
+        "aic": "033866068",
+        "nome": "FANHDI",
+        "descrizione": "1000 UI + 1200 UI/10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE + 1 SIRINGA PRER CON 10 ML DI SOLV + ACCESSORI",
+        "produttore": "INSTITUTO GRIFOLS S.A."
+    },
+    {
+        "aic": "033866070",
+        "nome": "FANHDI",
+        "descrizione": "1500 UI + 1800 UI/15 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE + 1 SIRINGA PRER CON 15 ML DI SOLV + ACCESSORI",
+        "produttore": "INSTITUTO GRIFOLS S.A."
+    },
+    {
+        "aic": "034041032",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "20 COMPRESSE 25 MG",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041196",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 2 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041208",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 4 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041210",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 10 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041222",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 20 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041234",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 30 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041246",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 40 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041259",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 50 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041261",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 100 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041273",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG GRANULATO PER SOLUZIONE ORALE - 500 BUSTINE AL/PE MONODOSE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041297",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041309",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 2 BUSTINE PL/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041311",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 4 BUSTINE PL/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041323",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 10 BUSTINE PL/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041335",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG SOLUZIONE ORALE IN BUSTINA- 20 BUSTINE PL/AL/LDPE",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041347",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041350",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER ACLAR/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041362",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034041374",
+        "nome": "FASTUMDOL ANTINFIAMMATORIO",
+        "descrizione": "25 MG COMPRESSA RIVESTITA CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A."
+    },
+    {
+        "aic": "034433019",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  10  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433021",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  20  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433033",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  28  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433045",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  30  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433058",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  50  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433060",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  56  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433072",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  60  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433084",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM> 100  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433096",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  10  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433108",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  90  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433110",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  15  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433122",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  20  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433134",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  28  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433146",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  30  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433159",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  50  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433161",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  56  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433173",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM>  60  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433185",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM> 100  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433197",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM> 250  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433209",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM> 500  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433211",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<40 MG COMPRESSE RIVESTITE CON FILM> 1000 COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433223",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  15  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433235",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM>  90  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433247",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM> 250  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433250",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM> 500  COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "034433262",
+        "nome": "FAMOTIDINA EG",
+        "descrizione": "<20 MG COMPRESSE RIVESTITE CON FILM> 1000 COMPRESSE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "035275015",
+        "nome": "FABRAZYME",
+        "descrizione": "35 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA 1 FLACONCINO",
+        "produttore": "SANOFI B.V."
+    },
+    {
+        "aic": "035275027",
+        "nome": "FABRAZYME",
+        "descrizione": "35 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA 5 FLACONCINI",
+        "produttore": "SANOFI B.V."
+    },
+    {
+        "aic": "035275039",
+        "nome": "FABRAZYME",
+        "descrizione": "35 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA 10 FLACONCINI",
+        "produttore": "SANOFI B.V."
+    },
+    {
+        "aic": "035473014",
+        "nome": "FASTURTEC",
+        "descrizione": "1,5 MG POLVERE E SOLVENTE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE ENDOVENOSA  3 FLACONCINI + 3 FIALE USO ENDOVENOSO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "035473026",
+        "nome": "FASTURTEC",
+        "descrizione": "1,5 MG/ML  POLVERE E SOLVENTE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE  1 FLACONCINO 7,5 MG+ 1 FIALA 5 ML USO ENDOVENOSO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "036387013",
+        "nome": "FASLODEX",
+        "descrizione": "250 MG/5 ML SOLUZIONE INIETTABILE 1 SIRINGA PRERIEMPITA 5 ML + 1 AGO USO INTRAMUSCOLARE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "036387025",
+        "nome": "FASLODEX",
+        "descrizione": "250MG/5ML SOLUZIONE INIETTABILE - USO INTRAMUSCOLARE - SIRINGA PRERIEMPITA(VETRO) - 5 ML- 2 SIRINGHE PRERIEMPITE + 2 AGHI DI SICUREZZA",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "037842010",
+        "nome": "FARMAIOD",
+        "descrizione": "1 % SOLUZIONE CUTANEA - FLACONE DA 1 LITRO",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "037842022",
+        "nome": "FARMAIOD",
+        "descrizione": "1 % SOLUZIONE CUTANEA - FLACONE  DA 500 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "037842034",
+        "nome": "FARMAIOD",
+        "descrizione": "1 % SOLUZIONE CUTANEA - FLACONE  DA 250 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "037842046",
+        "nome": "FARMAIOD",
+        "descrizione": "10 % SOLUZIONE CUTANEA - FLACONE  DA 1 LITRO",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "037842059",
+        "nome": "FARMAIOD",
+        "descrizione": "10 % SOLUZIONE CUTANEA - FLACONE  DA 500 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "037842061",
+        "nome": "FARMAIOD",
+        "descrizione": "10 % SOLUZIONE CUTANEA - FLACONE  DA 250 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "037842073",
+        "nome": "FARMAIOD",
+        "descrizione": "10 % SOLUZIONE CUTANEA - FLACONE  DA 100 ML",
+        "produttore": "NUOVA FARMEC S.R.L."
+    },
+    {
+        "aic": "038106011",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106023",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106035",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106047",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106050",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "125 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106062",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106074",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106086",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106098",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106100",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106112",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106124",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106136",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106148",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106151",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106163",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106175",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106187",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106199",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106201",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106213",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106225",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106237",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106249",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038106252",
+        "nome": "FAMCICLOVIR TEVA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 50X1 COMPRESSE IN BLISTER PVC/PE/ACLAR/AL CONFEZIONE OSPEDALIERA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "038422010",
+        "nome": "FARALZIN",
+        "descrizione": "10 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "FARMA GROUP S.R.L."
+    },
+    {
+        "aic": "038854016",
+        "nome": "FASTUM",
+        "descrizione": "2,5% GEL- TUBO 60 G",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038952026",
+        "nome": "FASTUM",
+        "descrizione": "25 MG/G GEL- TUBO DA 60 G IN AL",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "039252010",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252022",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252034",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 21 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252046",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252059",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252061",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252073",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252085",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 21 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252097",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039252109",
+        "nome": "FAMCICLOVIR MYLAN GENERICS",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 56 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039356011",
+        "nome": "FAMCICLOVIR PENSA",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A."
+    },
+    {
+        "aic": "039356023",
+        "nome": "FAMCICLOVIR PENSA",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 21 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "TOWA PHARMACEUTICAL S.P.A."
+    },
+    {
+        "aic": "040361014",
+        "nome": "FALEV",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040361026",
+        "nome": "FALEV",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040361038",
+        "nome": "FALEV",
+        "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040361040",
+        "nome": "FALEV",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 1 COMPRESSA IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040361053",
+        "nome": "FALEV",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040361065",
+        "nome": "FALEV",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040361077",
+        "nome": "FALEV",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LANOVA FARMACEUTICI S.R.L."
+    },
+    {
+        "aic": "040657013",
+        "nome": "FASTUM ANTIDOLORIFICO",
+        "descrizione": "<10 MG/G GEL> TUBO DA 50 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "040657025",
+        "nome": "FASTUM ANTIDOLORIFICO",
+        "descrizione": "<10 MG/G GEL>- TUBO IN AL DA 100 G",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "041298011",
+        "nome": "FAMPYRA",
+        "descrizione": "10 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - FLACONE (HDPE)- 28 COMPRESSE (2 FLACONI DA 14)",
+        "produttore": "MERZ THERAPEUTICS GMBH"
+    },
+    {
+        "aic": "041298023",
+        "nome": "FAMPYRA",
+        "descrizione": "10 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - FLACONE (HDPE)- 56 COMPRESSE (4 FLACONI DA 14)",
+        "produttore": "MERZ THERAPEUTICS GMBH"
+    },
+    {
+        "aic": "041298035",
+        "nome": "FAMPYRA",
+        "descrizione": "10 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (ALU/ALU)- 28 COMPRESSE (2 BLISTER DA 14)",
+        "produttore": "MERZ THERAPEUTICS GMBH"
+    },
+    {
+        "aic": "041298047",
+        "nome": "FAMPYRA",
+        "descrizione": "10 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE (4 BLISTER DA 14)",
+        "produttore": "MERZ THERAPEUTICS GMBH"
+    },
+    {
+        "aic": "041973013",
+        "nome": "FASTUM",
+        "descrizione": "25 MG/G GEL- TUBO 60 G",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042416014",
+        "nome": "FASTJEKT",
+        "descrizione": "150 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA-  1 INIETTORE DA 2 ML",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "042416026",
+        "nome": "FASTJEKT",
+        "descrizione": "150 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 2 INIETTORI DA 2 ML",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "042416038",
+        "nome": "FASTJEKT",
+        "descrizione": "300 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 1 INIETTORE DA 2 ML",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "042416040",
+        "nome": "FASTJEKT",
+        "descrizione": "300 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 2 INIETTORI DA 2 ML",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "043764012",
+        "nome": "FASTUM",
+        "descrizione": "2,5% GEL- TUBO 60 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "044481012",
+        "nome": "FARYDAK",
+        "descrizione": "10 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) -  6 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481024",
+        "nome": "FARYDAK",
+        "descrizione": "10 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 12 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481036",
+        "nome": "FARYDAK",
+        "descrizione": "10 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 24 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481048",
+        "nome": "FARYDAK",
+        "descrizione": "15 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 6 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481051",
+        "nome": "FARYDAK",
+        "descrizione": "15 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 12 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481063",
+        "nome": "FARYDAK",
+        "descrizione": "15 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 24 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481075",
+        "nome": "FARYDAK",
+        "descrizione": "20 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 6 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481087",
+        "nome": "FARYDAK",
+        "descrizione": "20 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 12 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "044481099",
+        "nome": "FARYDAK",
+        "descrizione": "20 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (PVC/PCTFE/ALU) - 24 CAPSULE",
+        "produttore": "PHARMAAND GMBH"
+    },
+    {
+        "aic": "045931019",
+        "nome": "FASENRA",
+        "descrizione": "30 MG - SOLUZIONE PER INIEZIONE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) - 1 ML (30 MG/ML) - 1 SIRINGA PRERIEMPITA",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "045931021",
+        "nome": "FASENRA",
+        "descrizione": "30 MG - SOLUZIONE PER INIEZIONE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) IN PENNA PRERIEMPITA - 1 ML (30 MG/ML) - 1 PENNA PRERIEMPITA",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "045952013",
+        "nome": "FASTUFLEX",
+        "descrizione": "180 MG CEROTTO MEDICATO- 5 CEROTTI IN BUSTINA IN PAP/PE/AL/EMAA",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "045952025",
+        "nome": "FASTUFLEX",
+        "descrizione": "180 MG CEROTTO MEDICATO- 10 CEROTTI IN BUSTINA  IN PAP/PE/AL/EMAA",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "046039018",
+        "nome": "FASTUADVANCE",
+        "descrizione": "4% SPRAY CUTANEO, SOLUZIONE- 1 FLACONE IN VETRO DA 7,5 G CON POMPA DOSATRICE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "046039020",
+        "nome": "FASTUADVANCE",
+        "descrizione": "4% SPRAY CUTANEO, SOLUZIONE- 1 FLACONE IN VETRO DA 12,5 G CON POMPA DOSATRICE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "046039032",
+        "nome": "FASTUADVANCE",
+        "descrizione": "4% SPRAY CUTANEO, SOLUZIONE- 1 FLACONE IN VETRO DA 25 G CON POMPA DOSATRICE",
+        "produttore": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L."
+    },
+    {
+        "aic": "047486016",
+        "nome": "FARPENTA",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486028",
+        "nome": "FARPENTA",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486030",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486042",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486067",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486079",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486081",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486117",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486129",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486131",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486143",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486194",
+        "nome": "FARPENTA",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486206",
+        "nome": "FARPENTA",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486218",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486220",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486232",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486244",
+        "nome": "FARPENTA",
+        "descrizione": "5 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486271",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486283",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486295",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047486307",
+        "nome": "FARPENTA",
+        "descrizione": "10 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "DOUBLE-E PHARMA LTD"
+    },
+    {
+        "aic": "047686011",
+        "nome": "FAGAL",
+        "descrizione": "400 MG/400 MG COMPRESSE MASTICABILI- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "MEDINITALY PHARMA PROGRESS S.R.L."
+    },
+    {
+        "aic": "047686023",
+        "nome": "FAGAL",
+        "descrizione": "460 MG/400 MG SOSPENSIONE ORALE IN BUSTINE- 20 BUSTINE IN PP/AL/PE DA 4,3 ML",
+        "produttore": "MEDINITALY PHARMA PROGRESS S.R.L."
+    },
+    {
+        "aic": "047686035",
+        "nome": "FAGAL",
+        "descrizione": "460 MG/400 MG SOSPENSIONE ORALE IN BUSTINE- 6 BUSTINE IN PP/AL/PE DA 4,3 ML",
+        "produttore": "MEDINITALY PHARMA PROGRESS S.R.L."
+    },
+    {
+        "aic": "047946013",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946025",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946037",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946049",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946052",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946064",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946076",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946088",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946090",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946102",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946114",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946126",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946138",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946140",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946153",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946165",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946177",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946189",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946191",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946203",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946215",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946227",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "12 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946239",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946241",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946254",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946266",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946278",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946280",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946292",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946304",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946316",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946328",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946330",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946342",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946355",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946367",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946379",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946381",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946393",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946405",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "047946417",
+        "nome": "FAGOPYRUM ESCULENTUM DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 18% V/V DA 20 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049055015",
+        "nome": "FAMPRIDINA ACCORD",
+        "descrizione": "10 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (ALL/ALL) - 28 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "049055027",
+        "nome": "FAMPRIDINA ACCORD",
+        "descrizione": "10 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (ALL/ALL) - 56 X 1 COMPRESSE (DOSE UNITARIA)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "049055039",
+        "nome": "FAMPRIDINA ACCORD",
+        "descrizione": "10 mg - Compressa a rilascio prolungato - Uso orale - Blister (all/all) - 49 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "049055041",
+        "nome": "FAMPRIDINA ACCORD",
+        "descrizione": "10 mg - Compressa a rilascio prolungato - Uso orale - Blister (all/all) - 196 (4x49x1) compresse (dose unitaria) (confezione multipla)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "049759018",
+        "nome": "FASTUM",
+        "descrizione": "25 MG/G GEL- TUBO 60 G",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "049821010",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821022",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821034",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821046",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821059",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821061",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821073",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821085",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821097",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821109",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821111",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821123",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821135",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821147",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821150",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821162",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821174",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821186",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821198",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821200",
+        "nome": "FAXILEX",
+        "descrizione": "50 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821212",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "049821224",
+        "nome": "FAXILEX",
+        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "050010014",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010026",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010038",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010040",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PCTFE/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010053",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC/PVC",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010065",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/PVC",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010077",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/PVC",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050010089",
+        "nome": "FADEZIN",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/PVDC/PVC",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "050218015",
+        "nome": "FAMOTIDINA DOC",
+        "descrizione": "?20 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "050218027",
+        "nome": "FAMOTIDINA DOC",
+        "descrizione": "?40 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "050218039",
+        "nome": "FAMOTIDINA DOC",
+        "descrizione": "?40 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "051155012",
+        "nome": "FABHALTA",
+        "descrizione": "200 mg - Capsula rigida - Uso orale - Blister (PVC/PE/PVDC/alu) - 28 capsule",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "051155024",
+        "nome": "FABHALTA",
+        "descrizione": "200 mg - Capsula rigida - Uso orale - Blister (PVC/PE/PVDC/alu) - 56 capsule",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "051155036",
+        "nome": "FABHALTA",
+        "descrizione": "200 mg - Capsula rigida - Uso orale - Blister (PVC/PE/PVDC/alu) - 168 (3 x 56) capsule (confezione multipla)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "051346017",
+        "nome": "FASTUACTIV",
+        "descrizione": "20 MG/G GEL- 1 TUBO IN PE/AL/PE DA 60 G",
+        "produttore": "A. MENARINI FARMACEUTICA INTERNAZIONALE S.R.L."
+    },
+    {
+        "aic": "051346029",
+        "nome": "FASTUACTIV",
+        "descrizione": "20 MG/G GEL- 1 TUBO IN PE/AL/PE DA 100 G",
+        "produttore": "A. MENARINI FARMACEUTICA INTERNAZIONALE S.R.L."
+    },
+    {
+        "aic": "051346031",
+        "nome": "FASTUACTIV",
+        "descrizione": "20 MG/G GEL- 1 TUBO IN PE/AL/PE DA 120 G",
+        "produttore": "A. MENARINI FARMACEUTICA INTERNAZIONALE S.R.L."
+    },
+    {
+        "aic": "051346043",
+        "nome": "FASTUACTIV",
+        "descrizione": "20 MG/G GEL- 1 TUBO IN PE/AL/PE DA 150 G",
+        "produttore": "A. MENARINI FARMACEUTICA INTERNAZIONALE S.R.L."
+    },
+    {
+        "aic": "052363013",
+        "nome": "FAMOTIDINA TEVA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "052363025",
+        "nome": "FAMOTIDINA TEVA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "052363037",
+        "nome": "FAMOTIDINA TEVA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "052575014",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575026",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575038",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575040",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575053",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575065",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575077",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575089",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575091",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575103",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575115",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575127",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575139",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575141",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575154",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575166",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575178",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575180",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575192",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575204",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575216",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575228",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575230",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575242",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575255",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "052575267",
+        "nome": "FAMOTIDINA EG STADA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "EG S.P.A."
+    }
+]

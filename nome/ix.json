@@ -1,0 +1,56 @@
+[
+    {
+        "aic": "038506010",
+        "nome": "IXILANIA",
+        "descrizione": "75 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 14 CAPSULE",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "038506022",
+        "nome": "IXILANIA",
+        "descrizione": "150 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO - 10 CAPSULE",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "038506073",
+        "nome": "IXILANIA",
+        "descrizione": "75 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 14 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "038506085",
+        "nome": "IXILANIA",
+        "descrizione": "150 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 10 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "NEURAXPHARM ITALY S.P.A."
+    },
+    {
+        "aic": "039220013",
+        "nome": "IXIARO",
+        "descrizione": "6 MCG- SOSPENSIONE INIETTABILE- USO INTRAMUSCOLARE- SIRINGA PRERIEMPITA (VETRO)- 0,5 ML- 1 SIRINGA PRERIEMPITA + 1 AGO",
+        "produttore": "VALNEVA AUSTRIA GMBH"
+    },
+    {
+        "aic": "039220025",
+        "nome": "IXIARO",
+        "descrizione": "6 MCG-SOSPENSIONE INIETTABILE -USO INTRAMUSCOLARE- SIRINGA PRERIEMPITA (VETRO)-0,5 ML- 1 SIRINGA PRERIEMPITA",
+        "produttore": "VALNEVA AUSTRIA GMBH"
+    },
+    {
+        "aic": "041799026",
+        "nome": "IXED",
+        "descrizione": "500 UI/10 ML  POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLAC.NO POLVERE+1 FLAC.NO SOLVENTE DA 10 ML+SET PER LA RICOSTITUZIONE/SOMMINISTRAZION",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "041799038",
+        "nome": "IXED",
+        "descrizione": "1000 U.I./10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE + 1 FLACONCINO SOLVENTE DA 10 ML + SET PER LA RICOSTITUZIONE E SOMMINISTRAZIONE",
+        "produttore": "KEDRION S.P.A."
+    },
+    {
+        "aic": "051357010",
+        "nome": "IXCHIQ",
+        "descrizione": "0.5 ml - Polvere e solvente per soluzione iniettabile - Uso intramuscolare - Polvere: fiala (vetro), solvente: siringa pre-riempita (vetro) 0.5 ml - 1 fiala + 1 siringa pre-riempita",
+        "produttore": "VALNEVA AUSTRIA GMBH"
+    }
+]

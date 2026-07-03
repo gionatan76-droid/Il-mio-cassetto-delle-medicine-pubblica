@@ -1,0 +1,164 @@
+[
+    {
+        "aic": "008096024",
+        "nome": "PARACODINA SCIROPPO",
+        "descrizione": "12 MG/5 ML+12 MG/5 ML SCIROPPO-, FLACONE DA 83,3 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "008194033",
+        "nome": "VITAMINA C SALF",
+        "descrizione": "1000 MG/5 ML SOLUZIONE INIETTABILE - 5 FIALE DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO"
+    },
+    {
+        "aic": "008194045",
+        "nome": "VITAMINA C SALF",
+        "descrizione": "500 MG/5 ML SOLUZIONE INIETTABILE- 5 FIALE DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO"
+    },
+    {
+        "aic": "008290088",
+        "nome": "TICALMA",
+        "descrizione": "400 MG TISANA- 20 BUSTINE",
+        "produttore": "KELEMATA S.R.L."
+    },
+    {
+        "aic": "008290090",
+        "nome": "TICALMA",
+        "descrizione": "100 MG COMPRESSE RIVESTITE- 30 COMPRESSE RIVESTITE",
+        "produttore": "KELEMATA S.R.L."
+    },
+    {
+        "aic": "008477061",
+        "nome": "BIMIXIN",
+        "descrizione": "25.000 UI + 2.500 UI COMPRESSE- 16 COMPRESSE",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "008595062",
+        "nome": "AMBRAMICINA",
+        "descrizione": "250 MG CAPSULE RIGIDE-16 CAPSULE",
+        "produttore": "SCHARPER S.P.A."
+    },
+    {
+        "aic": "008679021",
+        "nome": "NOVALGINA",
+        "descrizione": "1 G/2 ML SOLUZIONE INIETTABILE-5 FIALE 2 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008679033",
+        "nome": "NOVALGINA",
+        "descrizione": "500 MG/ML GOCCE ORALI, SOLUZIONE-FLACONE 20 ML",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008701017",
+        "nome": "CAFERGOT",
+        "descrizione": "1 MG + 100 MG COMPRESSE- 20 COMPRESSE",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "008701031",
+        "nome": "CAFERGOT",
+        "descrizione": "2 MG + 100 MG SUPPOSTE- 5 SUPPOSTE",
+        "produttore": "AMDIPHARM LTD"
+    },
+    {
+        "aic": "008776015",
+        "nome": "KONAKION",
+        "descrizione": "10 MG/ML SOLUZIONE ORALE E INIETTABILE PER USO ENDOVENOSO- 3 FIALE DA 1 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "008776066",
+        "nome": "KONAKION",
+        "descrizione": "PRIMA INFANZIA 2 MG/0,2 ML SOLUZIONE ORALE ED INIETTABILE'' 5 FIALE DA 0,2 ML CON SIRINGA PER SOMMINISTRAZIONE ORALE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "008776078",
+        "nome": "KONAKION",
+        "descrizione": "10 MG/ML SOLUZIONE ORALE E INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "008783108",
+        "nome": "ESAFOSFINA",
+        "descrizione": "0,5 G/10 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 4 FLACONCINI POLVERE 0,5 G + 4 FIALE SOLVENTE 10 ML",
+        "produttore": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "008783110",
+        "nome": "ESAFOSFINA",
+        "descrizione": "5 G/50 ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONE POLVERE 5 G + 1 FLACONE SOLVENTE 50 ML",
+        "produttore": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "008783134",
+        "nome": "ESAFOSFINA",
+        "descrizione": "10 G/100 ML SOLUZIONE PER INFUSIONE- 1 FLACONE 100 ML",
+        "produttore": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "008783146",
+        "nome": "ESAFOSFINA",
+        "descrizione": "10 G/100 ML SOLUZIONE PER INFUSIONE -FLACONE DA 100 ML SENZA SET DA INFUSIONE",
+        "produttore": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "008783159",
+        "nome": "ESAFOSFINA",
+        "descrizione": "10 G/100 ML SOLUZIONE PER INFUSIONE- 20 FLACONI SENZA SET DA INFUSIONE",
+        "produttore": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "008883035",
+        "nome": "TIOCALMINA",
+        "descrizione": "1,2 G/100 ML + 0,1 G/100 ML SCIROPPO- FLACONE 200 G",
+        "produttore": "POLIFARMA BENESSERE S.R.L."
+    },
+    {
+        "aic": "008891018",
+        "nome": "DENTINALE",
+        "descrizione": "0,5% + 0,5% PASTA GENGIVALE- TUBO 25 G",
+        "produttore": "MONTEFARMACO OTC S.P.A."
+    },
+    {
+        "aic": "008997013",
+        "nome": "DULCOLAX",
+        "descrizione": "<5 MG COMPRESSE RIVESTITE> 30 COMPRESSE RIVESTITE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008997025",
+        "nome": "DULCOLAX",
+        "descrizione": "<ADULTI 10  MG  SUPPOSTE>  6  SUPPOSTE  IN  STRIP  AL/PE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008997037",
+        "nome": "DULCOLAX",
+        "descrizione": "<BAMBINI 5  MG  SUPPOSTE>  6  SUPPOSTE  IN  STRIP  AL/PE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008997052",
+        "nome": "DULCOLAX",
+        "descrizione": "<5 MG COMPRESSE RIVESTITE> 24 COMPRESSE RIVESTITE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008997064",
+        "nome": "DULCOLAX",
+        "descrizione": "<5 MG COMPRESSE RIVESTITE> 40 COMPRESSE RIVESTITE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    },
+    {
+        "aic": "008997076",
+        "nome": "DULCOLAX",
+        "descrizione": "<5 MG COMPRESSE RIVESTITE> 20 COMPRESSE RIVESTITE  IN BLISTER PVC/PVDC/AL",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L."
+    }
+]

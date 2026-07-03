@@ -1,0 +1,926 @@
+[
+    {
+        "aic": "026064016",
+        "nome": "EQUITON",
+        "descrizione": "5MG/ML + 10MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "035699026",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 4 SACCHE DA 2000 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699038",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 4 SACCHE DA 2500 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699040",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 4 SACCHE DA 3000 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699053",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 4 SACCHE DA 3000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699077",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 4 SACCHE DA 2000 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699089",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 4 SACCHE DA 2500 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699091",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 4 SACCHE DA 3000 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699103",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 4 SACCHE DA 3000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699127",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 4 SACCHE DA 2000 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699139",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 4 SACCHE DA 2500 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699141",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 4 SACCHE DA 3000 ML CON SISTEMA STAY SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699154",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 4 SACCHE DA 3000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699166",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 2 SACCHE DA 5000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699178",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 2 SACCHE DA 6000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699180",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 2 SACCHE DA 5000 ML CON SISTEMA SAFE LOCK",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699192",
+        "nome": "EQUIBALANCE",
+        "descrizione": "1,5% 2 SACCHE DA 6000 ML CON SISTEMA SAFE LOCK",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699204",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 2 SACCHE DA 5000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699216",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 2 SACCHE DA 6000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699228",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 2 SACCHE DA 5000 ML CON SISTEMA SAFE LOCK",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699230",
+        "nome": "EQUIBALANCE",
+        "descrizione": "2,3% 2 SACCHE DA 6000 ML CON SISTEMA SAFE LOCK",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699242",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 2 SACCHE DA 5000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699255",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 2 SACCHE DA 6000 ML CON SISTEMA SLEEP SAFE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699267",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 2 SACCHE DA 5000 ML CON SISTEMA SAFE LOCK",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "035699279",
+        "nome": "EQUIBALANCE",
+        "descrizione": "4,25% 2 SACCHE DA 6000 ML CON SISTEMA SAFE LOCK",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "037897016",
+        "nome": "EQUIMET",
+        "descrizione": "0,5 MG/ML SPRAY NASALE, SOLUZIONE- FLACONE 15 ML",
+        "produttore": "TECNIGEN S.R.L."
+    },
+    {
+        "aic": "041889015",
+        "nome": "EQUASYM",
+        "descrizione": "10 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 10 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889039",
+        "nome": "EQUASYM",
+        "descrizione": "10 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889041",
+        "nome": "EQUASYM",
+        "descrizione": "10 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889054",
+        "nome": "EQUASYM",
+        "descrizione": "10 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 60 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889066",
+        "nome": "EQUASYM",
+        "descrizione": "10 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 100 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889080",
+        "nome": "EQUASYM",
+        "descrizione": "20 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 10 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889092",
+        "nome": "EQUASYM",
+        "descrizione": "20 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889104",
+        "nome": "EQUASYM",
+        "descrizione": "20 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889116",
+        "nome": "EQUASYM",
+        "descrizione": "20 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 60 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889128",
+        "nome": "EQUASYM",
+        "descrizione": "20 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 100 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889130",
+        "nome": "EQUASYM",
+        "descrizione": "30 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 10 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889142",
+        "nome": "EQUASYM",
+        "descrizione": "30 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889155",
+        "nome": "EQUASYM",
+        "descrizione": "30 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889167",
+        "nome": "EQUASYM",
+        "descrizione": "30 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 60 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889179",
+        "nome": "EQUASYM",
+        "descrizione": "40 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889181",
+        "nome": "EQUASYM",
+        "descrizione": "40 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889193",
+        "nome": "EQUASYM",
+        "descrizione": "50 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889205",
+        "nome": "EQUASYM",
+        "descrizione": "50 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889217",
+        "nome": "EQUASYM",
+        "descrizione": "60 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 28 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "041889229",
+        "nome": "EQUASYM",
+        "descrizione": "60 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 30 CAPSULE IN BLISTER PVC/ACLAR/AL",
+        "produttore": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH"
+    },
+    {
+        "aic": "044176016",
+        "nome": "EQUINGAM",
+        "descrizione": "50 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "PFIZER S.R.L."
+    },
+    {
+        "aic": "044225011",
+        "nome": "EQUIVERA",
+        "descrizione": "1,5% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 DOPPIE SACCHE STAY SAFE IN PP/ELASTOMERO DA 2000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225023",
+        "nome": "EQUIVERA",
+        "descrizione": "1,5% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 DOPPIE SACCHE STAY SAFE IN PP/ELASTOMERO DA 2500 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225035",
+        "nome": "EQUIVERA",
+        "descrizione": "1,5% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 SACCHE SLEEP SAFE IN PP/ELASTOMERO DA 3000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225047",
+        "nome": "EQUIVERA",
+        "descrizione": "1,5% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 2 SACCHE SLEEP SAFE IN PP/ELASTOMERO DA 5000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225050",
+        "nome": "EQUIVERA",
+        "descrizione": "2,3% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 DOPPIE SACCHE STAY SAFE IN PP/ELASTOMERO DA 2000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225062",
+        "nome": "EQUIVERA",
+        "descrizione": "2,3% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 DOPPIE SACCHE STAY SAFE IN PP/ELASTOMERO DA 2500 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225074",
+        "nome": "EQUIVERA",
+        "descrizione": "2,3% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 SACCHE SLEEP SAFE IN PP/ELASTOMERO DA 3000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225086",
+        "nome": "EQUIVERA",
+        "descrizione": "2,3% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 2 SACCHE SLEEP SAFE IN PP/ELASTOMERO DA 5000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225098",
+        "nome": "EQUIVERA",
+        "descrizione": "4,25% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 DOPPIE SACCHE STAY SAFE IN PP/ELASTOMERO DA 2000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225100",
+        "nome": "EQUIVERA",
+        "descrizione": "4,25% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 DOPPIE SACCHE STAY SAFE IN PP/ELASTOMERO DA 2500 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225112",
+        "nome": "EQUIVERA",
+        "descrizione": "4,25% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 4 SACCHE SLEEP SAFE IN PP/ELASTOMERO DA 3000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225124",
+        "nome": "EQUIVERA",
+        "descrizione": "4,25% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 2 SACCHE SLEEP SAFE IN PP/ELASTOMERO DA 5000 ML",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225136",
+        "nome": "EQUIVERA",
+        "descrizione": "1,5% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 2 SACCHE  IN PP/ELASTOMERO DA 5000 ML + SET SLEEP SAFE + TAPPO DI DISINFEZIONE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225148",
+        "nome": "EQUIVERA",
+        "descrizione": "2,3% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 2 SACCHE  IN PP/ELASTOMERO DA 5000 ML + SET SLEEP SAFE + TAPPO DI DISINFEZIONE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "044225151",
+        "nome": "EQUIVERA",
+        "descrizione": "4,25% GLUCOSIO, 1,25 MMOL/L CALCIO SOLUZIONE PER DIALISI PERITONEALE- 2 SACCHE  IN PP/ELASTOMERO DA 5000 ML + SET SLEEP SAFE + TAPPO DI DISINFEZIONE",
+        "produttore": "FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "047329014",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329026",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329038",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329040",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329053",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329065",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329077",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329089",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329091",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329103",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329115",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329127",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329139",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "XM CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329141",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329154",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329166",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329178",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329180",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329192",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329204",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329216",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329228",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329230",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047329242",
+        "nome": "EQUISETUM ARVENSE",
+        "descrizione": "5M CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO SODINI S.R.L."
+    },
+    {
+        "aic": "047680018",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680020",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680032",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680044",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680057",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680069",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680071",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680083",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680095",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680107",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680119",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680121",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680133",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680145",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680158",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680160",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680172",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680184",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680196",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680208",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680210",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680222",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680234",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680246",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680259",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680261",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680273",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680285",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680297",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680309",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680311",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680323",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680335",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680347",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PS",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680350",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680362",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "7 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680374",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "8 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680386",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "9 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680398",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "10 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680400",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680412",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "15 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680424",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "18 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680436",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "30 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680448",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "200 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680451",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "1000 DH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680463",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680475",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680487",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680499",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680501",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680513",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680525",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680537",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "1000 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680549",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "7K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680552",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "9K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680564",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "15K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680576",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680588",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680590",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "1000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680602",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "10000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680614",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "50000K GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680626",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "06 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680638",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "09 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680640",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "012 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680653",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "015 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680665",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "030 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680677",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "050 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    },
+    {
+        "aic": "047680689",
+        "nome": "EQUISETUM ARVENSIS",
+        "descrizione": "060 LM GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
+        "produttore": "LABORATORIO OMEOPATICO HERING DI BELLINO MARIA ANNA & C S.N.C."
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "aic": "029153018",
+        "nome": "TYPHIM VI",
+        "descrizione": "SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA CON AGO PRESALDATO DA 0,5 ML",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "029153020",
+        "nome": "TYPHIM VI",
+        "descrizione": "SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA SENZA AGO DA 0,5 ML CON 2 AGHI SEPARATI",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "029153032",
+        "nome": "TYPHIM VI",
+        "descrizione": "SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 SIRINGA PRERIEMPITA SENZA AGO DA 0,5 ML CON 1 AGO SEPARATO",
+        "produttore": "SANOFI WINTHROP INDUSTRIE"
+    },
+    {
+        "aic": "037046012",
+        "nome": "TYGACIL",
+        "descrizione": "50 MG POLVERE PER SOLUZIONE PER INFUSIONE 10 FLACONCINI DI VETRO 5 ML",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "037150012",
+        "nome": "TYSABRI",
+        "descrizione": "300 MG CONCENTRATO PER SOLUZIONE PER INFUSIONE USO ENDOVENOSO 1 FLACONCINO DA 15 ML (20 MG/ML)",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "037150024",
+        "nome": "TYSABRI",
+        "descrizione": "150 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) 1 ML (150 MG / ML) - 2 SIRINGHE PRERIEMPITE",
+        "produttore": "BIOGEN NETHERLANDS BV"
+    },
+    {
+        "aic": "038633018",
+        "nome": "TYVERB",
+        "descrizione": "250 MG COMPRESSA RIVESTITA CON FILM - USO ORALE BLISTER (PA/ALU/PVC/ALU)-  70 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038633020",
+        "nome": "TYVERB",
+        "descrizione": "250 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PA/ALU/PVC/ALU)- 2 X 70 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038633032",
+        "nome": "TYVERB",
+        "descrizione": "250 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER(PA/ALU/PVC/ALU)- 84 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038633044",
+        "nome": "TYVERB",
+        "descrizione": "250 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE)- 70 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038633057",
+        "nome": "TYVERB",
+        "descrizione": "250 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE)- 140 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "038633069",
+        "nome": "TYVERB",
+        "descrizione": "250 MG COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE)- 84 COMPRESSE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "048285011",
+        "nome": "TYOMOL",
+        "descrizione": "500MG/2MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "048285023",
+        "nome": "TYOMOL",
+        "descrizione": "500MG/2MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC-AL",
+        "produttore": "BRUNO FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "050762018",
+        "nome": "TYRUKO",
+        "descrizione": "300 mg -  Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 15 ml (20 mg/ml) - 1 flaconcino",
+        "produttore": "SANDOZ GMBH"
+    },
+    {
+        "aic": "050880018",
+        "nome": "TYENNE",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 4 ml - 1 flaconcino",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880020",
+        "nome": "TYENNE",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 4 ml - 4 (4 x 1) flaconcini (confezione multipla)",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880032",
+        "nome": "TYENNE",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 10 ml - 1 flaconcino",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880044",
+        "nome": "TYENNE",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 10 ml - 4 (4 x 1) flaconcini (confezione multipla)",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880057",
+        "nome": "TYENNE",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 20 ml - 1 flaconcino",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880069",
+        "nome": "TYENNE",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - flaconcino (vetro) 20 ml - 4 (4 x 1) flaconcini (confezione multipla)",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880071",
+        "nome": "TYENNE",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,9 ml (180 mg/ml) - 1 siringa preriempita",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880083",
+        "nome": "TYENNE",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,9 ml (180 mg/ml) - 4 siringhe preriempite",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880095",
+        "nome": "TYENNE",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,9 ml (180 mg/ml) - 12 siringhe preriempite",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880107",
+        "nome": "TYENNE",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna pre-riempita 0,9 ml (180 mg/ml) - 1 penna preriempita",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880119",
+        "nome": "TYENNE",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna pre-riempita 0,9 ml (180 mg/ml) - 4 penne preriempite",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "050880121",
+        "nome": "TYENNE",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna pre-riempita 0,9 ml (180 mg/ml) - 12 (3 x 4) penne pre-riempite (confezione multipla)",
+        "produttore": "FRESENIUS KABI DEUTSCHLAND GMBH"
+    }
+]

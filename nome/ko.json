@@ -1,0 +1,626 @@
+[
+    {
+        "aic": "008776015",
+        "nome": "KONAKION",
+        "descrizione": "10 MG/ML SOLUZIONE ORALE E INIETTABILE PER USO ENDOVENOSO- 3 FIALE DA 1 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "008776066",
+        "nome": "KONAKION",
+        "descrizione": "PRIMA INFANZIA 2 MG/0,2 ML SOLUZIONE ORALE ED INIETTABILE'' 5 FIALE DA 0,2 ML CON SIRINGA PER SOMMINISTRAZIONE ORALE",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "008776078",
+        "nome": "KONAKION",
+        "descrizione": "10 MG/ML SOLUZIONE ORALE E INIETTABILE- 5 FIALE DA 1 ML",
+        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH"
+    },
+    {
+        "aic": "035965019",
+        "nome": "KOCEFAN",
+        "descrizione": "250 MG/ 2 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - 1 FLACONE POLVERE + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "035965021",
+        "nome": "KOCEFAN",
+        "descrizione": "500 MG/ 2 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - 1 FLACONE POLVERE + 1 FIALA SOLVENTE 2 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "035965033",
+        "nome": "KOCEFAN",
+        "descrizione": "1 G/ 3,5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE - 1 FLACONE POLVERE + 1 FIALA SOLVENTE 3,5 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "035965045",
+        "nome": "KOCEFAN",
+        "descrizione": "1 G/ 10 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONE POLVERE + 1 FIALA SOLVENTE 10 ML",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "035965058",
+        "nome": "KOCEFAN",
+        "descrizione": "2 G  POLVERE  PER SOLUZIONE PER INFUSIONE - 1 FLACONE POLVERE",
+        "produttore": "NEOPHARMED GENTILI S.P.A."
+    },
+    {
+        "aic": "036993018",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993020",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE RIVESTITE CON FILM - 16 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993032",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993044",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993057",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE RIVESTITE CON FILM - 60 COMPRESSE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993069",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993071",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE IN BLISTER",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993083",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "036993095",
+        "nome": "KOLIBRI",
+        "descrizione": "37,5 MG/325 MG COMPRESSE EFFERVESCENTI- 40 COMPRESSE IN BLISTER",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "037759014",
+        "nome": "KOMEZOL",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "037759026",
+        "nome": "KOMEZOL",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER PVC-AL-PA/AL-AL",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "037948015",
+        "nome": "KOFITUSS MUCOLITICO",
+        "descrizione": "2,7 G GRANULATO PER SOLUZIONE ORALE - 30 BUSTINE",
+        "produttore": "POOL PHARMA SRL"
+    },
+    {
+        "aic": "037948027",
+        "nome": "KOFITUSS MUCOLITICO",
+        "descrizione": "2,7 G/ 10 ML SCIROPPO- 6 CONTENITORI MONODOSE DA 10 ML",
+        "produttore": "POOL PHARMA SRL"
+    },
+    {
+        "aic": "037948039",
+        "nome": "KOFITUSS MUCOLITICO",
+        "descrizione": "90 MG/ML SCIROPPO - FLACONE DA 200 ML",
+        "produttore": "POOL PHARMA SRL"
+    },
+    {
+        "aic": "039516012",
+        "nome": "KOFITUSS SEDATIVO TOSSE",
+        "descrizione": "60 MG/ML GOCCE ORALI,  SOLUZIONE- FLACONE DA 30 ML",
+        "produttore": "POOL PHARMA SRL"
+    },
+    {
+        "aic": "039516024",
+        "nome": "KOFITUSS SEDATIVO TOSSE",
+        "descrizione": "30 MG/5 ML SCIROPPO- FLACONE DA 200 ML CON MISURINO CON DOSATORE",
+        "produttore": "POOL PHARMA SRL"
+    },
+    {
+        "aic": "040665010",
+        "nome": "KOLESTER",
+        "descrizione": "10 MG COMPRESSE- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "040665022",
+        "nome": "KOLESTER",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "040665034",
+        "nome": "KOLESTER",
+        "descrizione": "20 MG COMPRESSE- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "040665046",
+        "nome": "KOLESTER",
+        "descrizione": "20 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "040665059",
+        "nome": "KOLESTER",
+        "descrizione": "40 MG COMPRESSE- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "040665061",
+        "nome": "KOLESTER",
+        "descrizione": "40 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "040665073",
+        "nome": "KOLESTER",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/OPA/PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041211018",
+        "nome": "KOFIMUCIL MUCOLITICO",
+        "descrizione": "200 MG GRANULATO PER SOLUZIONE ORALE- 30 BUSTINE",
+        "produttore": "POOL PHARMA SRL"
+    },
+    {
+        "aic": "041689011",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689023",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689035",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689047",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 112 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689050",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 196 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689062",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/850 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 X 1 COMPRESSA (BLISTER MONODOSE)",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689074",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 28 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689086",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 56 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689098",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689100",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 112 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689112",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 196 COMPRESSE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "041689124",
+        "nome": "KOMBOGLYZE",
+        "descrizione": "2,5 MG/1000 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (ALU/ALU)- 60 X 1 COMPRESSA (BLISTER MONODOSE)",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "044115018",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115020",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115032",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115044",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115057",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115069",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115071",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115083",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115095",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115107",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 300 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115119",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 7 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115121",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 10 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115133",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115145",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 20 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115158",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115160",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115172",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115184",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 98 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115196",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115208",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 300 COMPRESSE IN BLISTER AL/PVC/ACLAR",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115210",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044115222",
+        "nome": "KOBEY",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "044366019",
+        "nome": "KODIAK",
+        "descrizione": "40 MG GRANULATO- 12 BUSTINE IN CARTA/AL/PE",
+        "produttore": "PHARMEG S.R.L."
+    },
+    {
+        "aic": "044366021",
+        "nome": "KODIAK",
+        "descrizione": "40 MG GRANULATO- 24 BUSTINE IN CARTA/AL/PE",
+        "produttore": "PHARMEG S.R.L."
+    },
+    {
+        "aic": "044366033",
+        "nome": "KODIAK",
+        "descrizione": "40 MG GRANULATO- 30 BUSTINE IN CARTA/AL/PE",
+        "produttore": "PHARMEG S.R.L."
+    },
+    {
+        "aic": "044726026",
+        "nome": "KOVALTRY",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 250 UI, SOLVENTE: 2,5 ML (100 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA + 1 ADATTATORE PER FLACONCINO + 1 SET PER L''INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726040",
+        "nome": "KOVALTRY",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 500 UI, SOLVENTE: 2,5 ML (200 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA + 1 ADATTATORE PER FLACONCINO + 1 SET PER L''INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726065",
+        "nome": "KOVALTRY",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2,5 ML (400 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA + 1 ADATTATORE PER FLACONCINO + 1 SET PER L''INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726089",
+        "nome": "KOVALTRY",
+        "descrizione": "2000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 2000 UI, SOLVENTE: 5,0 ML (400 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA + 1 ADATTATORE PER FLACONCINO + 1 SET PER L''INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726103",
+        "nome": "KOVALTRY",
+        "descrizione": "3000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 3000 UI, SOLVENTE: 5,0 ML (600 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA + 1 ADATTATORE PER FLACONCINO + 1 SET PER L''INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726115",
+        "nome": "KOVALTRY",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 250 UI, SOLVENTE: 2,5 ML (100 UI/ML) - 1 FLACONCINO CON CAPSULA DI RICOSTITUZIONE + 1 SIRINGA PRERIEMPITA (5 ML) + 1 SET PER L'INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726127",
+        "nome": "KOVALTRY",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 250 UI, SOLVENTE: 2,5 ML (100 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L'INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726139",
+        "nome": "KOVALTRY",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 500 UI, SOLVENTE: 2,5 ML (200 UI/ML) - 1 FLACONCINO CON CAPSULA DI RICOSTITUZIONE + 1 SIRINGA PRERIEMPITA (5 ML) + 1 SET PER L'INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726141",
+        "nome": "KOVALTRY",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 500 UI, SOLVENTE: 2,5 ML (200 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) +  1 ADATTATORE PER FLACONCINO + 1 SET PER L'INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726154",
+        "nome": "KOVALTRY",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2,5 ML (400 UI/ML) - 1 FLACONCINO CON CAPSULA DI RICOSTITUZIONE + 1 SIRINGA PRERIEMPITA (5 ML) + 1 SET PER L'INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726166",
+        "nome": "KOVALTRY",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2,5 ML (400 UI/ML) - 1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L'INFUSIONE IN VENA",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726178",
+        "nome": "KOVALTRY",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 250 UI, SOLVENTE: 2,5 ML (100 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (3 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726180",
+        "nome": "KOVALTRY",
+        "descrizione": "250 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 250 UI, SOLVENTE: 2,5 ML (100 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726192",
+        "nome": "KOVALTRY",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 500 UI, SOLVENTE: 2,5 ML (200 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (3 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726204",
+        "nome": "KOVALTRY",
+        "descrizione": "500 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 500 UI, SOLVENTE: 2,5 ML (200 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726216",
+        "nome": "KOVALTRY",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2,5 ML (400 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (3 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726228",
+        "nome": "KOVALTRY",
+        "descrizione": "1000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 1000 UI, SOLVENTE: 2,5 ML (400 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726230",
+        "nome": "KOVALTRY",
+        "descrizione": "2000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 2000 UI, SOLVENTE: 5 ML (400 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "044726242",
+        "nome": "KOVALTRY",
+        "descrizione": "3000 UI - POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), SOLVENTE: SIRINGA PRERIEMPITA (VETRO) - POLVERE: 3000 UI, SOLVENTE: 5 ML (600 UI / ML) - 30 (30 X (1 FLACONCINO + 1 SIRINGA PRERIEMPITA (5 ML) + 1 ADATTATORE PER FLACONCINO + 1 SET PER L?INFUSIONE IN VENA)) (CONFEZIONE MULTIPLA)",
+        "produttore": "BAYER AG"
+    },
+    {
+        "aic": "045194014",
+        "nome": "KOLEKLIN",
+        "descrizione": "5 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "045194026",
+        "nome": "KOLEKLIN",
+        "descrizione": "10 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "045194038",
+        "nome": "KOLEKLIN",
+        "descrizione": "20 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "045194040",
+        "nome": "KOLEKLIN",
+        "descrizione": "40 MG COMPRESSA RIVESTITA CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "045246016",
+        "nome": "KOLEROS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "045246028",
+        "nome": "KOLEROS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "045246030",
+        "nome": "KOLEROS",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "045246042",
+        "nome": "KOLEROS",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "KONPHARMA S.R.L."
+    },
+    {
+        "aic": "047312018",
+        "nome": "KOMOREBI",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE CONTAGOCCE IN LDPE DA 10 ML",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "047345018",
+        "nome": "KOLOSYX",
+        "descrizione": "SOLUZIONE ORALE- 10 FIALE IN VETRO IN SOLUZIONE FISIOLOGICA DA 2 ML",
+        "produttore": "HOMEOSYN ITALIA S.R.L."
+    },
+    {
+        "aic": "049540014",
+        "nome": "KOSELUGO",
+        "descrizione": "10 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE)  - 60 CAPSULE RIGIDE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "049540026",
+        "nome": "KOSELUGO",
+        "descrizione": "25 MG - CAPSULA RIGIDA - USO ORALE - FLACONE (HDPE) - 60 CAPSULE RIGIDE",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "049540038",
+        "nome": "KOSELUGO",
+        "descrizione": "5 mg - Granulato in capsula da aprire - Uso orale - Flacone (HDPE) - 60 capsule",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "049540040",
+        "nome": "KOSELUGO",
+        "descrizione": "7,5 mg - Granulato in capsula da aprire - Uso orale - Flacone (HDPE) - 60 capsule",
+        "produttore": "ASTRAZENECA AB"
+    },
+    {
+        "aic": "051198012",
+        "nome": "KORTANT",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 Flacone In Vetro Da 23 g/120 Erogazioni Con Pompa Spray E Applicatore",
+        "produttore": "FARMA GROUP S.R.L."
+    },
+    {
+        "aic": "052010016",
+        "nome": "KOSTAIVE",
+        "descrizione": "5 mcg - Polvere per dispersione per preparazione iniettabile - Uso intramuscolare - Flaconcino (vetro) 16 dosi - 20 flaconcini multidose (320 dosi)",
+        "produttore": "SEQIRUS NETHERLANDS B.V."
+    }
+]

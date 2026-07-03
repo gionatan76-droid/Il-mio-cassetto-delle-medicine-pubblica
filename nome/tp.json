@@ -1,0 +1,20 @@
+[
+    {
+        "aic": "029189040",
+        "nome": "TPH",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 25 FLACONI 100 ML",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "029189053",
+        "nome": "TPH",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 30 FLACONI 250 ML",
+        "produttore": "BAXTER S.P.A."
+    },
+    {
+        "aic": "029189065",
+        "nome": "TPH",
+        "descrizione": "SOLUZIONE PER INFUSIONE- 20 FLACONI 500 ML",
+        "produttore": "BAXTER S.P.A."
+    }
+]

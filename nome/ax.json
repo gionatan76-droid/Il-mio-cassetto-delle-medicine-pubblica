@@ -1,0 +1,728 @@
+[
+    {
+        "aic": "027633039",
+        "nome": "AXIL",
+        "descrizione": "800 MG GRANULATO PER SOLUZIONE ORALE- 10 BUSTINE",
+        "produttore": "POLICHEM S.R.L."
+    },
+    {
+        "aic": "027633041",
+        "nome": "AXIL",
+        "descrizione": "400 MG/7 ML SOLUZIONE ORALE- 10 CONTENITORI MONODOSE DA 7 ML",
+        "produttore": "POLICHEM S.R.L."
+    },
+    {
+        "aic": "035035017",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 2 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035029",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 5 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035031",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 7 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035043",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035056",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 15 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035068",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035070",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035082",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035094",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 60 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035106",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 100 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035118",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 140 (28X5) COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035120",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 3 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035132",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035144",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 7X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035157",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035169",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035171",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 25X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035183",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035195",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035207",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 50X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035219",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035221",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035233",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035245",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035258",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 100X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035260",
+        "nome": "AXAGON",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 140 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035423",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 2 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035435",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 5 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035447",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 7 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035450",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035462",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 15 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035474",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035486",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035498",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035500",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 60 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035512",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 100 COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035524",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 140 (28X5) COMPRESSE IN FLACONE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035536",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 3 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035548",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 7 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035551",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 7X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035563",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035575",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035587",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 25X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035599",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035601",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035613",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 50X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035625",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035637",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035649",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035652",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 98 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035664",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 100X1 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035676",
+        "nome": "AXAGON",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 140 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "035035702",
+        "nome": "AXAGON",
+        "descrizione": "10 MG GRANULATO GASTRORESISTENTE PER SOSPENSIONE ORALE- 28 BUSTINE PET/AL/LDPE",
+        "produttore": "GRUNENTHAL ITALIA S.R.L."
+    },
+    {
+        "aic": "036149019",
+        "nome": "AXILIUM",
+        "descrizione": "2,5 MG/ML GOCCE ORALI, SOLUZIONE - FLACONE 20 ML",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L."
+    },
+    {
+        "aic": "037639010",
+        "nome": "AXERAMIS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE DIVISIBILI",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "037639022",
+        "nome": "AXERAMIS",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE - FLACONE DA 20 ML",
+        "produttore": "DOMPE' FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040012015",
+        "nome": "AXELTA",
+        "descrizione": "25 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
+        "produttore": "ISTITUTO GENTILI S.R.L."
+    },
+    {
+        "aic": "045431018",
+        "nome": "AXUMIN",
+        "descrizione": "1600 MBQ/ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 10 ML - 1 FLACONCINO",
+        "produttore": "BLUE EARTH DIAGNOSTICS IRELAND LTD"
+    },
+    {
+        "aic": "045431020",
+        "nome": "AXUMIN",
+        "descrizione": "3200 MBQ/ML - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 10 ML - 1 FLACONCINO",
+        "produttore": "BLUE EARTH DIAGNOSTICS IRELAND LTD"
+    },
+    {
+        "aic": "045431032",
+        "nome": "AXUMIN",
+        "descrizione": "1600 MBQ - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 1,0 - 10ML - 1 FLACONCINO DA 15 ML",
+        "produttore": "BLUE EARTH DIAGNOSTICS IRELAND LTD"
+    },
+    {
+        "aic": "045431044",
+        "nome": "AXUMIN",
+        "descrizione": "3200 MBQ - SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) 1,0 - 10ML - 1 FLACONCINO DA 15 ML",
+        "produttore": "BLUE EARTH DIAGNOSTICS IRELAND LTD"
+    },
+    {
+        "aic": "050215019",
+        "nome": "AXHIDROX",
+        "descrizione": "2.2 MG/EROGAZIONE CREMA- 1 CONTENITORE MULTIDOSE IN LDPE/PET/AL DA 50 MG/124 EROGAZIONI/31 APPLICAZIONI CON POMPA IN PP",
+        "produttore": "DIFA COOPER S.P.A."
+    },
+    {
+        "aic": "050510015",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510027",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510039",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510041",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510054",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510066",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510078",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510080",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510092",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510104",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510116",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510128",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510130",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510142",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510155",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510167",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510179",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050510181",
+        "nome": "AXITINIB SANDOZ",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "050518012",
+        "nome": "AXITINIB EG",
+        "descrizione": "1 mg COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518024",
+        "nome": "AXITINIB EG",
+        "descrizione": "1 mg COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518036",
+        "nome": "AXITINIB EG",
+        "descrizione": "3 mg COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518048",
+        "nome": "AXITINIB EG",
+        "descrizione": "3 mg COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518051",
+        "nome": "AXITINIB EG",
+        "descrizione": "5 mg COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518063",
+        "nome": "AXITINIB EG",
+        "descrizione": "5 mg COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNIATRIA OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518075",
+        "nome": "AXITINIB EG",
+        "descrizione": "7 mg COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050518087",
+        "nome": "AXITINIB EG",
+        "descrizione": "7 mg COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "050790017",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790029",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790031",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790043",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790056",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790068",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790070",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790082",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "3 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790094",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790106",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790118",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790120",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790132",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790144",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790157",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050790169",
+        "nome": "AXITINIB TEVA",
+        "descrizione": "7 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051603013",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "1 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 28 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603025",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "1 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 28 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603037",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "1 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 56 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603049",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "1 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 56 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603052",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "1 mg - Compressa rivestita con film - Uso orale - flacone (HDPE) - 180 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603064",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "3 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 28 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603076",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "3 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 28 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603088",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "3 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 56 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603090",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "3 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 56 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603102",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "3 mg - Compressa rivestita con film - Uso orale - flacone (HDPE) - 60 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603114",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 28 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603126",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 28 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603138",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 56 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603140",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 56 x 1 compresse (dose unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "051603153",
+        "nome": "AXITINIB ACCORD",
+        "descrizione": "5 mg - Compressa rivestita con film - Uso orale - flacone (HDPE) - 60 compresse",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    }
+]

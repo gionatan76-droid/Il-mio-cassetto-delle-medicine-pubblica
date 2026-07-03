@@ -1,0 +1,548 @@
+[
+    {
+        "aic": "023913015",
+        "nome": "ITALPRID",
+        "descrizione": "20 COMPRESSE 100 MG",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "026929024",
+        "nome": "ITRIN",
+        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "026929036",
+        "nome": "ITRIN",
+        "descrizione": "5 MG COMPRESSE-14 COMPRESSE",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "035482013",
+        "nome": "ITAMI",
+        "descrizione": "140 MG CEROTTO MEDICATO- 5 CEROTTI",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "035482025",
+        "nome": "ITAMI",
+        "descrizione": "140 MG CEROTTO MEDICATO - 10 CEROTTI",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "035482037",
+        "nome": "ITAMI",
+        "descrizione": "140 MG CEROTTO MEDICATO- 15 CEROTTI",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "035874015",
+        "nome": "ITRACONAZOLO DOC GENERICI",
+        "descrizione": "100 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "035899018",
+        "nome": "ITRACONAZOLO SANDOZ",
+        "descrizione": "100 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036377012",
+        "nome": "ITRACONAZOLO TEVA",
+        "descrizione": "100 MG CAPSULE RIGIDE- 8 CAPSULE",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "036786010",
+        "nome": "ITAMIDOL",
+        "descrizione": "3 % SCHIUMA CUTANEA- CONTENITORE SOTTO PRESSIONE 50 G",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "037080013",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 4 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080025",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 6 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080037",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 8 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080049",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080052",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 15 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080064",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 18 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080076",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080088",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080090",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 50 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080102",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037080114",
+        "nome": "ITRACONAZOLO EG",
+        "descrizione": "100 MG CAPSULE RIGIDE- 84 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "037122013",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 4 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122025",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 6 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122037",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 7 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122049",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 8 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122052",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 10 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122064",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122076",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 15 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122088",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 18 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122090",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 20 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122102",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122114",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122126",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 50 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122138",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 56 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122140",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122153",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 84 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122165",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122177",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 140 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122189",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 150 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122191",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 200 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122203",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 250 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122215",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 280 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122227",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 300 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122239",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 500 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037122241",
+        "nome": "ITRACONAZOLO MYLAN GENERICS",
+        "descrizione": "100 MG CAPSULE RIGIDE- 1000 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "039135013",
+        "nome": "ITTRIO (90Y) CITRATO CURIUM ITALY",
+        "descrizione": "167 MBQ/ML SOSPENSIONE INIETTABILE - 1 FLACONCINO MULTIDOSE DA 0,3 ML A 10 ML",
+        "produttore": "CURIUM ITALY S.R.L."
+    },
+    {
+        "aic": "039135025",
+        "nome": "ITTRIO (90Y) CITRATO CURIUM ITALY",
+        "descrizione": "200 MBQ/ML SOSPENSIONE INIETTABILE- 1 FLACONCINO MULTIDOSE DA 0,3 ML  A 10 ML",
+        "produttore": "CURIUM ITALY S.R.L."
+    },
+    {
+        "aic": "039135037",
+        "nome": "ITTRIO (90Y) CITRATO CURIUM ITALY",
+        "descrizione": "235 MBQ/ML SOSPENSIONE INIETTABILE- 1 FLACONCINO MULTIDOSE DA 0,3 ML  A 10 ML",
+        "produttore": "CURIUM ITALY S.R.L."
+    },
+    {
+        "aic": "039135049",
+        "nome": "ITTRIO (90Y) CITRATO CURIUM ITALY",
+        "descrizione": "280 MBQ/ML SOSPENSIONE INIETTABILE- 1 FLACONCINO MULTIDOSE DA 0,3 ML  A 10 ML",
+        "produttore": "CURIUM ITALY S.R.L."
+    },
+    {
+        "aic": "039135052",
+        "nome": "ITTRIO (90Y) CITRATO CURIUM ITALY",
+        "descrizione": "336 MBQ/ML SOSPENSIONE INIETTABILE- 1 FLACONCINO MULTIDOSE DA 0,3 ML  A 10 ML",
+        "produttore": "CURIUM ITALY S.R.L."
+    },
+    {
+        "aic": "040273017",
+        "nome": "ITALEPT",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "040273029",
+        "nome": "ITALEPT",
+        "descrizione": "1000 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "040273031",
+        "nome": "ITALEPT",
+        "descrizione": "100 MG/ML SOLUZIONE ORALE- 1 FLACONE DA 300 ML + 1 SIRINGA ORALE DA 10 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "041736012",
+        "nome": "ITAMIFAST",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/PVC/AL",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "041736024",
+        "nome": "ITAMIFAST",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/PVC/AL",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "041736036",
+        "nome": "ITAMIFAST",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/PVC/AL",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "041736048",
+        "nome": "ITAMIFAST",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/PVC/AL",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "044757019",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 4 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757021",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 6 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757033",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 7 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757045",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 8 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757058",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757060",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 15 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757072",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 18 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757084",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757096",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757108",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PVC/PE/PVDC/AL (TRIPLEX)",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757110",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 4 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757122",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 6 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757134",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 7 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757146",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 8 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757159",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 14 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757161",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 15 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757173",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 18 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757185",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 28 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757197",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757209",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 60 CAPSULE IN BLISTER OPA/AL/PVC",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757211",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 15 CAPSULE IN FLACONE HDPE",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757223",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 30 CAPSULE IN FLACONE HDPE",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757235",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 60 CAPSULE IN FLACONE HDPE",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "044757247",
+        "nome": "ITRAGERM",
+        "descrizione": "50 MG CAPSULE RIGIDE- 90 CAPSULE IN FLACONE HDPE",
+        "produttore": "ISDIN S.R.L."
+    },
+    {
+        "aic": "050400011",
+        "nome": "ITAMI UNIDIE",
+        "descrizione": "140 mg CEROTTO MEDICATO- 2 CEROTTI IN BUSTINA CARTA/PE/Al/EAA",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "050400023",
+        "nome": "ITAMI UNIDIE",
+        "descrizione": "140 mg CEROTTO MEDICATO- 5 CEROTTI IN BUSTINA CARTA/PE/Al/EAA",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "050400035",
+        "nome": "ITAMI UNIDIE",
+        "descrizione": "140 mg CEROTTO MEDICATO- 7 CEROTTI IN BUSTINA CARTA/PE/Al/EAA",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "050400047",
+        "nome": "ITAMI UNIDIE",
+        "descrizione": "140 mg CEROTTO MEDICATO- 10 CEROTTI IN BUSTINA CARTA/PE/Al/EAA",
+        "produttore": "FIDIA FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051567016",
+        "nome": "ITUXREDI",
+        "descrizione": "100 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 ml (10 mg/ml) - 1 flaconcino",
+        "produttore": "REDDY HOLDING GMBH"
+    },
+    {
+        "aic": "051567028",
+        "nome": "ITUXREDI",
+        "descrizione": "100 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 ml (10 mg/ml) - 2 flaconcini",
+        "produttore": "REDDY HOLDING GMBH"
+    },
+    {
+        "aic": "051567030",
+        "nome": "ITUXREDI",
+        "descrizione": "500 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 50 ml (10 mg/ml) - 1 flaconcino",
+        "produttore": "REDDY HOLDING GMBH"
+    },
+    {
+        "aic": "051567042",
+        "nome": "ITUXREDI",
+        "descrizione": "500 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 50 ml (10 mg/ml) - 2 flaconcini",
+        "produttore": "REDDY HOLDING GMBH"
+    },
+    {
+        "aic": "052380019",
+        "nome": "ITOVEBI",
+        "descrizione": "3 mg - Compresse rivestite con film - Uso orale blister (alu/alu) - 28 x 1 compresse (dose unitaria)",
+        "produttore": "ROCHE REGISTRATION GMBH"
+    },
+    {
+        "aic": "052380021",
+        "nome": "ITOVEBI",
+        "descrizione": "9 mg - Compresse rivestite con film - Uso orale blister (alu/alu) - 28 x 1 compresse (dose unitaria)",
+        "produttore": "ROCHE REGISTRATION GMBH"
+    }
+]

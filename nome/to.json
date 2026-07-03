@@ -1,0 +1,5360 @@
+[
+    {
+        "aic": "005982020",
+        "nome": "TOCALFA",
+        "descrizione": "<50.000 UI + 50 MG  CAPSULE  MOLLI>  20 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DIFA COOPER S.P.A."
+    },
+    {
+        "aic": "012373039",
+        "nome": "TONOGEN VITAMINICO",
+        "descrizione": "POLVERE E SOLVENTE PER SOLUZIONE ORALE- FLACONE CON TAPPO SERBATOIO",
+        "produttore": "ICE S.P.A"
+    },
+    {
+        "aic": "022535013",
+        "nome": "TOLIMAN",
+        "descrizione": "25 MG COMPRESSE- 50 COMPRESSE",
+        "produttore": "SCHARPER S.P.A."
+    },
+    {
+        "aic": "022535037",
+        "nome": "TOLIMAN",
+        "descrizione": "100 MG CAPSULE RIGIDE- 30 CAPSULE",
+        "produttore": "SCHARPER S.P.A."
+    },
+    {
+        "aic": "022535052",
+        "nome": "TOLIMAN",
+        "descrizione": "67 MG/ML GOCCE ORALI, SOSPENSIONE- FLACONE 30 ML",
+        "produttore": "SCHARPER S.P.A."
+    },
+    {
+        "aic": "022556029",
+        "nome": "TOPSYN",
+        "descrizione": "15 MG/30 G CREMA- TUBO 30 G",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "022556068",
+        "nome": "TOPSYN",
+        "descrizione": "15 MG/30 G LIQUIDO SOLUZIONE CUTANEA- FLACONE 30 ML",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "022556070",
+        "nome": "TOPSYN",
+        "descrizione": "15 MG/30 G GEL- TUBO 30 G",
+        "produttore": "TEOFARMA S.R.L."
+    },
+    {
+        "aic": "025860026",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "025860053",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% GOCCE AURICOLARI, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "025860077",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "027253018",
+        "nome": "TORA-DOL",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE- 6 FIALE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "027253020",
+        "nome": "TORA-DOL",
+        "descrizione": "30 MG/ML SOLUZIONE INIETTABILE- 3 FIALE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "027253032",
+        "nome": "TORA-DOL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "027253069",
+        "nome": "TORA-DOL",
+        "descrizione": "20 MG/ML GOCCE ORALI, SOLUZIONE-  FLACONE 10 ML",
+        "produttore": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A."
+    },
+    {
+        "aic": "027457011",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "027457023",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "027457035",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% GOCCE AURICOLARI, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "028252017",
+        "nome": "TORADIUR",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "028304018",
+        "nome": "TOLEP",
+        "descrizione": "300 MG COMPRESSE- 50 COMPRESSE DIVISIBILI BLISTER PVC",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "028304020",
+        "nome": "TOLEP",
+        "descrizione": "600 MG COMPRESSE- 50 COMPRESSE DIVISIBILI BLISTER PVC",
+        "produttore": "NOVARTIS FARMA S.P.A."
+    },
+    {
+        "aic": "031115013",
+        "nome": "TOPSTER",
+        "descrizione": "42 MG SCHIUMA RETTALE-CONTENITORE SOTTOPRESSIONE + 14 CANNULE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "031115025",
+        "nome": "TOPSTER",
+        "descrizione": "3 MG SUPPOSTE - 10 SUPPOSTE",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "031115049",
+        "nome": "TOPSTER",
+        "descrizione": "3 MG SOSPENSIONE RETTALE - 10 FLACONI CON CANNULA",
+        "produttore": "ALFASIGMA S.P.A."
+    },
+    {
+        "aic": "031251010",
+        "nome": "TOMUDEX",
+        "descrizione": "2 MG POLVERE PER SOLUZIONE PER INFUSIONE - 1 FLACONCINO",
+        "produttore": "PFIZER ITALIA S.R.L."
+    },
+    {
+        "aic": "032023020",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023032",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023044",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023071",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023083",
+        "nome": "TOPAMAX",
+        "descrizione": "15 MG CAPSULE RIGIDE- 60 CAPSULE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023095",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG CAPSULE RIGIDE- 60 CAPSULE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023119",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023121",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023133",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023145",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023158",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023160",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023172",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023184",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023196",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023208",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023210",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023222",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023234",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023246",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023259",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023261",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023273",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023285",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023297",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023309",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023311",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023323",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023335",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023347",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023350",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023362",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023374",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023386",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023398",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023400",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023412",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023424",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023436",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023448",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023451",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023463",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023475",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023487",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023499",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023501",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023513",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023525",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023537",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023549",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023552",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023564",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023576",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023588",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023590",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023602",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023614",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023626",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023638",
+        "nome": "TOPAMAX",
+        "descrizione": "15 MG CAPULE RIGIDE- 20 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023640",
+        "nome": "TOPAMAX",
+        "descrizione": "15 MG CAPULE RIGIDE- 28 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023653",
+        "nome": "TOPAMAX",
+        "descrizione": "15 MG CAPULE RIGIDE- 100 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023665",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG CAPULE RIGIDE- 20 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023677",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG CAPULE RIGIDE- 28 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023689",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG CAPULE RIGIDE- 100 CAPSULE IN CONTENITORE HDPE",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023727",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023739",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023741",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023754",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN CONTENITORE DI PLASTICA",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023766",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023778",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023780",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023792",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023804",
+        "nome": "TOPAMAX",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023816",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023828",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "032023830",
+        "nome": "TOPAMAX",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "JANSSEN CILAG S.P.A."
+    },
+    {
+        "aic": "033006014",
+        "nome": "TOTALIP",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006026",
+        "nome": "TOTALIP",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006038",
+        "nome": "TOTALIP",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006040",
+        "nome": "TOTALIP",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006053",
+        "nome": "TOTALIP",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006065",
+        "nome": "TOTALIP",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006242",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006255",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006267",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006279",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006281",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006293",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006305",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006317",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006329",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006331",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006343",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006356",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006368",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 200(10X20) COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006370",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006432",
+        "nome": "TOTALIP",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006444",
+        "nome": "TOTALIP",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006457",
+        "nome": "TOTALIP",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033006469",
+        "nome": "TOTALIP",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "LABORATORI GUIDOTTI S.P.A."
+    },
+    {
+        "aic": "033007016",
+        "nome": "TORVAST",
+        "descrizione": "10- 10 COMPRESSE 10 MG",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007028",
+        "nome": "TORVAST",
+        "descrizione": "10- 30 COMPRESSE 10 MG",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007030",
+        "nome": "TORVAST",
+        "descrizione": "20- 10 COMPRESSE 20 MG",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007042",
+        "nome": "TORVAST",
+        "descrizione": "20- 30 COMPRESSE 20 MG",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007055",
+        "nome": "TORVAST",
+        "descrizione": "40- 10 COMPRESSE 40 MG",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007067",
+        "nome": "TORVAST",
+        "descrizione": "40- 30 COMPRESSE 40 MG",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007079",
+        "nome": "TORVAST",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007081",
+        "nome": "TORVAST",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007093",
+        "nome": "TORVAST",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007244",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007257",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007269",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007271",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007283",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007295",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007307",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007319",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007321",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007333",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007345",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007358",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007360",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 200 (10X20) COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007372",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007384",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM - 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007408",
+        "nome": "TORVAST",
+        "descrizione": "10 MG COMPRESSE MASTICABILI- 30  COMPRESSE IN BLISTER  PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007410",
+        "nome": "TORVAST",
+        "descrizione": "20 MG COMPRESSE MASTICABILI- 30  COMPRESSE IN BLISTER  PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007434",
+        "nome": "TORVAST",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007446",
+        "nome": "TORVAST",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007459",
+        "nome": "TORVAST",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "033007461",
+        "nome": "TORVAST",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "VIATRIS PHARMA S.R.L."
+    },
+    {
+        "aic": "034932018",
+        "nome": "TONACAL D3",
+        "descrizione": "600 MG/400 U.I. COMPRESSE MASTICABILI- 60 COMPRESSE",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "035703014",
+        "nome": "TOBRASTILL",
+        "descrizione": "0,3%  COLLIRIO, SOLUZIONE - FLACONE 5 ML",
+        "produttore": "BRUSCHETTINI S.R.L."
+    },
+    {
+        "aic": "035827017",
+        "nome": "TOBRAMICINA OMNIVISION",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "OMNIVISION ITALIA SRL"
+    },
+    {
+        "aic": "036350015",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "10 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350027",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "14 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350039",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "20 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350041",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "28 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350054",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "30 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350066",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "50 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350078",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "56 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350080",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "100 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350092",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "400 COMPRESSE IN BLISTER PVC/PVDC/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350104",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "10 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350116",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "14 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350128",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "20 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350130",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "28 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350142",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "30 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350155",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "50 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350167",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "56 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350179",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "100 COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036350181",
+        "nome": "TORASEMIDE MYLAN GENERICS",
+        "descrizione": "400 (20X20) COMPRESSE IN BLISTER AL/AL DA 10 MG",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "036487015",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 10 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487027",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 14 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487039",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 20 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487041",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 28 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487054",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487066",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 50 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487078",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 56 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487080",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 100 COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487092",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 400 (20X20) COMPRESSE IN  BLISTER PVC/PVDC/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487104",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 10 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487116",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 14 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487128",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 20 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487130",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 28 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487142",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487155",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 50 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487167",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 56 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487179",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 100 COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487181",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE - 400 (20X20) COMPRESSE IN  BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036487193",
+        "nome": "TORASEMIDE HEXAL",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "036501017",
+        "nome": "TOTTIZIM",
+        "descrizione": "500 MG/1,5 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO POLVERE +1  FIALA SOLVENTE 1,5 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036501029",
+        "nome": "TOTTIZIM",
+        "descrizione": "1 G/3 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE 3 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036501031",
+        "nome": "TOTTIZIM",
+        "descrizione": "1 G/10 ML POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE PER USO ENDOVENOSO- 1 FLACONCINO POLVERE + 1 FIALA SOLVENTE 10 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036501043",
+        "nome": "TOTTIZIM",
+        "descrizione": "2 G POLVERE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO POLVERE",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036501056",
+        "nome": "TOTTIZIM",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO- 10 FLACONCINI DI POLVERE DA 1 G",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "036647016",
+        "nome": "TOBRINEB",
+        "descrizione": "300 MG/4 ML SOLUZIONE PER NEBULIZZATORE - 16 CONTENITORI MONODOSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "036647028",
+        "nome": "TOBRINEB",
+        "descrizione": "300 MG/4 ML SOLUZIONE PER NEBULIZZATORE - 28 CONTENITORI MONODOSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "036647030",
+        "nome": "TOBRINEB",
+        "descrizione": "300 MG/4 ML SOLUZIONE PER NEBULIZZATORE - 56 CONTENITORI MONODOSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "036647042",
+        "nome": "TOBRINEB",
+        "descrizione": "300 MG/4 ML SOLUZIONE PER NEBULIZZATORE - 4 CONTENITORI MONODOSE",
+        "produttore": "PROMEDICA S.R.L."
+    },
+    {
+        "aic": "037314010",
+        "nome": "TOSTREX",
+        "descrizione": "20  mg/g  gel  transdermico>   -   1  contenitore multidose da 60 g con pompa dosatrice",
+        "produttore": "ADVANZ PHARMA LIMITED"
+    },
+    {
+        "aic": "037314022",
+        "nome": "TOSTREX",
+        "descrizione": "20  mg/g  gel  transdermico>   -   3  contenitori multidose da 60 g con pompa dosatrice",
+        "produttore": "ADVANZ PHARMA LIMITED"
+    },
+    {
+        "aic": "037314034",
+        "nome": "TOSTREX",
+        "descrizione": "20 mg/g gel transdermico> - 2 contenitori  multidose da 60 g con pompa dosatrice",
+        "produttore": "ADVANZ PHARMA LIMITED"
+    },
+    {
+        "aic": "037707015",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707027",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707039",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707041",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707054",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707104",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707116",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707128",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707130",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707142",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707193",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707205",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707217",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707229",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707231",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707282",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707294",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707306",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707318",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707320",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707371",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707383",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707395",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707407",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707419",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707421",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707433",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707445",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707458",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707460",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707472",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707484",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707496",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707508",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707510",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707522",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707534",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707546",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707559",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707561",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707573",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707585",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707597",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707609",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707611",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707623",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707635",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037707647",
+        "nome": "TOPIRAMATO SANDOZ",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A."
+    },
+    {
+        "aic": "037755016",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755028",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755030",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755042",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755055",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755067",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755079",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755081",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755093",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755105",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755117",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755129",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755131",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755143",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755156",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755168",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755170",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755182",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755194",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755206",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755218",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755220",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755232",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755244",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755257",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755269",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755271",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755283",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755295",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755307",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755319",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755321",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755333",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755345",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755358",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755360",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755372",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755384",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755396",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037755408",
+        "nome": "TOPIRAMATO MYLAN GENERICS",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "MYLAN S.P.A."
+    },
+    {
+        "aic": "037936010",
+        "nome": "TONOCIAN",
+        "descrizione": "5000 MICROGRAMMI/ 2 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 5 FIALE DA 2 ML",
+        "produttore": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARMACEUTICA ED AFFINI"
+    },
+    {
+        "aic": "038314011",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314023",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314035",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314047",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314050",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314062",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314074",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314086",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314098",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314100",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314112",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314124",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314136",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314148",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314151",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314163",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314175",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314187",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314199",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314201",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314213",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314225",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314237",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314249",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 200 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314252",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314264",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314276",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314288",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314290",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 150 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314302",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314314",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314338",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314340",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314353",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 150 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314365",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314377",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314391",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 150 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314403",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314415",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314427",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314439",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 150 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038314441",
+        "nome": "TOPIRAMATO EG",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "038327019",
+        "nome": "TORISEL",
+        "descrizione": "30 MG CONCENTRATO E DILUENTE PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO- 1 FLACONCINO DI 1,2 ML DI CONCENTRATO + 1 FLACONCINO DI 2,2 ML DI DILUENTE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038340016",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340028",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM-60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340067",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340079",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340117",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340129",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340168",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038340170",
+        "nome": "TOPIRAMATO DOC GENERICI",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "038569012",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO , SOLUZIONE - FLACONE 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038569024",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038569036",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038569048",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038569051",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038569087",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE- FLACONE CONTAGOCCE IN LDPE DA 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038569099",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "038699017",
+        "nome": "TOVIAZ",
+        "descrizione": "4 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 7 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699029",
+        "nome": "TOVIAZ",
+        "descrizione": "4MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE-BLISTER (ALU/ALU) 14 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699031",
+        "nome": "TOVIAZ",
+        "descrizione": "4MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 28 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699043",
+        "nome": "TOVIAZ",
+        "descrizione": "4MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 56 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699056",
+        "nome": "TOVIAZ",
+        "descrizione": "4MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 98 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699068",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 7 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699070",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 14 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699082",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 28 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699094",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 56 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699106",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 98 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699118",
+        "nome": "TOVIAZ",
+        "descrizione": "4MG - COMPRESSE A RILASCIO PROLUNGATO - USO ORALE - BLISTER (ALU/ALU)- 84 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699120",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG - COMPRESSE A RILASCIO PROLUNGATO - USO ORALE - BLISTER (ALU/ALU)- 84 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699195",
+        "nome": "TOVIAZ",
+        "descrizione": "4 MG - COMPRESSE A RILASCIO PROLUNGATO- USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038699207",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG - COMPRESSE A RILASCIO PROLUNGATO- USO ORALE - BLISTER (ALU/ALU) - 30 COMPRESSE",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "038849016",
+        "nome": "TOCTINO",
+        "descrizione": "10 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD"
+    },
+    {
+        "aic": "038849030",
+        "nome": "TOCTINO",
+        "descrizione": "30 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD"
+    },
+    {
+        "aic": "038861011",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO SOSPENSIONE- FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038861035",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038861047",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038861050",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038861062",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO TUBO 3,5 G",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038861074",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991016",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE- FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991028",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE  5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991030",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991042",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991055",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991067",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "038991079",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L."
+    },
+    {
+        "aic": "039335043",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335056",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335068",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335070",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335082",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335094",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335106",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335118",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039335120",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "039882016",
+        "nome": "TOLTERODINA DOC GENERICI",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "039882030",
+        "nome": "TOLTERODINA DOC GENERICI",
+        "descrizione": "1 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "039882093",
+        "nome": "TOLTERODINA DOC GENERICI",
+        "descrizione": "2 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "039882117",
+        "nome": "TOLTERODINA DOC GENERICI",
+        "descrizione": "2 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "040327013",
+        "nome": "TOPOTECAN HOSPIRA",
+        "descrizione": "4MG/4ML-CONCENTRATO PER SOLUZIONE PER INFUSIONE-USO ENDOVENOSO-FLACONCINO(VETRO)-4ML- 1 FLACONCINO",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "040327025",
+        "nome": "TOPOTECAN HOSPIRA",
+        "descrizione": "4MG/4ML-CONCENTRATO PER SOLUZIONE PER INFUSIONE-USO ENDOVENOSO-FLACONCINO(VETRO)-4ML- 5 FLACONCINI",
+        "produttore": "PFIZER EUROPE MA EEIG"
+    },
+    {
+        "aic": "040378010",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "040378046",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "040666012",
+        "nome": "TORVACOL",
+        "descrizione": "<10 mg compresse rivestite con film>  10  compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666024",
+        "nome": "TORVACOL",
+        "descrizione": "<10 mg compresse rivestite con film>  30  compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666036",
+        "nome": "TORVACOL",
+        "descrizione": "<20 mg compresse rivestite con film>  10  compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666048",
+        "nome": "TORVACOL",
+        "descrizione": "<20 mg compresse rivestite con film>  30  compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666051",
+        "nome": "TORVACOL",
+        "descrizione": "<40 mg compresse rivestite con film>  30  compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666063",
+        "nome": "TORVACOL",
+        "descrizione": "<40 mg compresse rivestite con film>  10  compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666087",
+        "nome": "TORVACOL",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666099",
+        "nome": "TORVACOL",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666101",
+        "nome": "TORVACOL",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666113",
+        "nome": "TORVACOL",
+        "descrizione": "10 mg compresse rivestite con film- 60 compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666125",
+        "nome": "TORVACOL",
+        "descrizione": "20 mg compresse rivestite con film- 60 compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040666137",
+        "nome": "TORVACOL",
+        "descrizione": "40 mg compresse rivestite con film- 60 compresse in blister OPA/Al/PVC/Al",
+        "produttore": "EBERLIFE FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "040824017",
+        "nome": "TOLTERODINA DOC",
+        "descrizione": "2 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 14 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "040824029",
+        "nome": "TOLTERODINA DOC",
+        "descrizione": "2 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "040824082",
+        "nome": "TOLTERODINA DOC",
+        "descrizione": "4 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 14 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "040824094",
+        "nome": "TOLTERODINA DOC",
+        "descrizione": "4 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 28 CAPSULE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "040877019",
+        "nome": "TOPOTECAN AHCL",
+        "descrizione": "1 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 1 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "040877021",
+        "nome": "TOPOTECAN AHCL",
+        "descrizione": "1 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI IN VETRO DA 1 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "040877033",
+        "nome": "TOPOTECAN AHCL",
+        "descrizione": "1 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "040877045",
+        "nome": "TOPOTECAN AHCL",
+        "descrizione": "1 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FLACONCINI IN VETRO DA 4 ML",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "041199011",
+        "nome": "TOVANIRA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199023",
+        "nome": "TOVANIRA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199035",
+        "nome": "TOVANIRA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199047",
+        "nome": "TOVANIRA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199050",
+        "nome": "TOVANIRA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199062",
+        "nome": "TOVANIRA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199074",
+        "nome": "TOVANIRA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199086",
+        "nome": "TOVANIRA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199098",
+        "nome": "TOVANIRA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199100",
+        "nome": "TOVANIRA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199112",
+        "nome": "TOVANIRA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199124",
+        "nome": "TOVANIRA",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199136",
+        "nome": "TOVANIRA",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199148",
+        "nome": "TOVANIRA",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199151",
+        "nome": "TOVANIRA",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041199163",
+        "nome": "TOVANIRA",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "S.F. GROUP S.R.L."
+    },
+    {
+        "aic": "041334018",
+        "nome": "TOBI PODHALER",
+        "descrizione": "28 mg polvere per inalazione capsula rigida  uso  inalatorio  blister (ALU/ALU)- 56 capsule + 1 inalatore",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "041334020",
+        "nome": "TOBI PODHALER",
+        "descrizione": "28 mg polvere per inalazione  capsula  rigida  uso  inalatorio  blister (ALU/ALU)-  224  (4x56)  capsule  +  5  inalatori  (confezione  multipla mensile)",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "041334032",
+        "nome": "TOBI PODHALER",
+        "descrizione": "28 mg polvere per inalazione  capsula  rigida  uso  inalatorio  blister (ALU/ALU)- 448  (8x56)  capsule  +  10  inalatori  (confezioni  multiple mensili)",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "041399015",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399027",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399039",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399041",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399054",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399066",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399078",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399080",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399092",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 96 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399104",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399116",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399128",
+        "nome": "TORASTIN",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/ALL/PVC-AL CONFEZIONE OSPEDALIERA",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399130",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399142",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399155",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399167",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399179",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399181",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399193",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399205",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399217",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 96 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399229",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399231",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399243",
+        "nome": "TORASTIN",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/ALL/PVC-AL CONFEZIONE OSPEDALIERA",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399256",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399268",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399270",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399282",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399294",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399306",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399318",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399320",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399332",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 96 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399344",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399357",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399369",
+        "nome": "TORASTIN",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/ALL/PVC-AL CONFEZIONE OSPEDALIERA",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399371",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399383",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399395",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399407",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399419",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399421",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399433",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399445",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399458",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 96 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399460",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399472",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER PA/ALL/PVC-AL",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041399484",
+        "nome": "TORASTIN",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER PA/ALL/PVC-AL CONFEZIONE OSPEDALIERA",
+        "produttore": "I.B.N. SAVIO S.R.L"
+    },
+    {
+        "aic": "041665011",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041665035",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041665050",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "041670047",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041670050",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041670062",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041670074",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041670086",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041670100",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041670112",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE- FLACONE CONTAGOCCE IN LDPE DA 5 ML",
+        "produttore": "FARMA 1000 S.R.L."
+    },
+    {
+        "aic": "041683032",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683044",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683057",
+        "nome": "TOBRADEX",
+        "descrizione": "0.3% + 0.1% UNGUENTO OFTALMICO- TUBO DA 3.5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683069",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683071",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONEFLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683083",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO TUBO 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683095",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683107",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683119",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE- FLACONE CONTAGOCCE IN LDPE DA 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683121",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683133",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683145",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683158",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO-  TUBO IN AL DA 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "041683160",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "042231011",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 14 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "042231023",
+        "nome": "TOVIAZ",
+        "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO - USO ORALE- BLISTER (ALU/ALU) 28 COMPRESSE",
+        "produttore": "BB FARMA S.R.L."
+    },
+    {
+        "aic": "042284012",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284024",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 28 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284036",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284048",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 56 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284051",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 84 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284063",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 90 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284075",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284087",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284099",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 28 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284101",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284113",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 56 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284125",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 84 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284137",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 90 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284149",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284152",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284164",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 28 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284176",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284188",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 56 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284190",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 84 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284202",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 90 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284214",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284226",
+        "nome": "TOLURA",
+        "descrizione": "20 MG - COMPRESSE - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 100 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284238",
+        "nome": "TOLURA",
+        "descrizione": "40 MG - COMPRESSE - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 100 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042284240",
+        "nome": "TOLURA",
+        "descrizione": "80 MG - COMPRESSE - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 100 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042313015",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA-USO INALATORIO-BLISTER(ALU/ALU)-6X1 CAPSULA(DOSE UNITARIA)+ 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313027",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44  MICROGRAMMI-POLVERE PER INALAZIONE,CAPSULA RIGIDA-USO INALATORIO- BLISTER (ALU/ALU) - 12X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313039",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44  MICROGRAMMI-POLVERE PER INALAZIONE,CAPSULA RIGIDA-USO INALATORIO- BLISTER (ALU/ALU) - 30X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313041",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44  MICROGRAMMI-POLVERE PER INALAZIONE,CAPSULA RIGIDA-USO INALATORIO- BLISTER (ALU/ALU) - 90 (3X30X1) CAPSULE (DOSE UNITARIA) (CONFEZIONE MULTIPLA) + 3 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313054",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44  MICROGRAMMI-POLVERE PER INALAZIONE,CAPSULA RIGIDA-USO INALATORIO- BLISTER (ALU/ALU) - 96 (4X24X1) CAPSULE (DOSE UNITARIA) (CONFEZIONE MULTIPLA) + 4 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313066",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44  MICROGRAMMI-POLVERE PER INALAZIONE,CAPSULA RIGIDA-USO INALATORIO-BLISTER (ALU/ALU) -150 (6X25X1) CAPSULE (DOSE UNIT.) (CONF MULTIPLA)+25 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313078",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) - 10X1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042313080",
+        "nome": "TOVANOR BREEZHALER",
+        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) - 150 (15X10X1) CAPSULE (DOSE UNITARIA) (CONFEZIONE MULTIPLA) + 15 INALATORI",
+        "produttore": "NOVARTIS EUROPHARM LIMITED"
+    },
+    {
+        "aic": "042517021",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042517033",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042517045",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE- FLACONE CONTAGOCCE 5 ML",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042517058",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "MEDIFARM S.R.L."
+    },
+    {
+        "aic": "042564029",
+        "nome": "TORASEMIDE TEVA ITALIA",
+        "descrizione": "10 MG COMPRESSE- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042564031",
+        "nome": "TORASEMIDE TEVA ITALIA",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042564043",
+        "nome": "TORASEMIDE TEVA ITALIA",
+        "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042564056",
+        "nome": "TORASEMIDE TEVA ITALIA",
+        "descrizione": "10 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042564068",
+        "nome": "TORASEMIDE TEVA ITALIA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042564070",
+        "nome": "TORASEMIDE TEVA ITALIA",
+        "descrizione": "10 MG COMPRESSE- 112 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L."
+    },
+    {
+        "aic": "042715019",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PE+DES/AL) - 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715021",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PE+DES/AL) - 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715033",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715045",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 28 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715058",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715060",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 56 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715072",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715084",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 84 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715096",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715108",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715110",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PE+DES/AL) - 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715122",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PE+DES/AL) - 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715134",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715146",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 28 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715159",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715161",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 56 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715173",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715185",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 84 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715197",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715209",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/12.5MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715211",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PE+DES/AL) - 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715223",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PE+DES/AL) - 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715235",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 14 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715247",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 28 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715250",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 30 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715262",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 56 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715274",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 60 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715286",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 84 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715298",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 90 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715300",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80 MG/25MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 98 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715312",
+        "nome": "TOLUCOMBI",
+        "descrizione": "40MG/12,5 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 100 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715324",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80MG/12,5 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 100 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042715336",
+        "nome": "TOLUCOMBI",
+        "descrizione": "80MG/25 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC/AL) - 100 COMPRESSE",
+        "produttore": "KRKA D.D. NOVO MESTO"
+    },
+    {
+        "aic": "042775015",
+        "nome": "TOBRAMICINA EG",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE- 1 FLACONE DA 5 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "042778011",
+        "nome": "TOBRAMICINA E DESAMETASONE EG",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOLUZIONE- FLACONE CONTAGOCCE IN LDPE CON CAPSULA A VITE IN PP DA 5 ML",
+        "produttore": "EG S.P.A."
+    },
+    {
+        "aic": "042832016",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE- FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042832030",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042832055",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GEKOFAR S.R.L."
+    },
+    {
+        "aic": "042845014",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845026",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845038",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845040",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845053",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845065",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845091",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845115",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845127",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845139",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042845141",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846016",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846028",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846030",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846042",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846055",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846067",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846105",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846117",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846129",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846131",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846143",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846156",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846168",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "042846170",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "043081013",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081025",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081037",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081049",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081052",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081064",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081076",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081088",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081090",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081102",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043081114",
+        "nome": "TOPIRAMATO AUROBINDO",
+        "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L."
+    },
+    {
+        "aic": "043192018",
+        "nome": "TOUJEO",
+        "descrizione": "100IU/ML - SOLUZIONE INIETTABILE IN FLACONCINO - USO SOTTOCUTANEO -  FLACONCINO (VETRO) 5ML - 1 FLACONCINO",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192020",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN FLACONCINO - USO SOTTOCUTANEO - FLACONCINO (VETRO) 5 ML - 2 FLACONCINI",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192032",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN FLACONCINO - USO SOTTOCUTANEO - FLACONCINO (VETRO) 5 ML - 5 FLACONCINI",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192044",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN FLACONCINO - USO SOTTOCUTANEO - FLACONCINO (VETRO) 5 ML - 10 FLACONCINI",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192057",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN CARTUCCIA - USO SOTTOCUTANEO - CARTUCCE (VETRO) 3 ML - 4 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192069",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN CARTUCCIA - USO SOTTOCUTANEO - CARTUCCE (VETRO) 3 ML - 5 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192071",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN CARTUCCIA - USO SOTTOCUTANEO - CARTUCCE (VETRO) 3 ML - 10 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192083",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE IN FLACONCINO - USO SOTTOCUTANEO - FLACONCINO (VETRO) 10 ML - 1 FLACONCINO",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192095",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 1 PENNA PRERIEMPITA",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192107",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 3 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192119",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 4 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192133",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 5 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192145",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 6 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192158",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 8 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192160",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 9 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192172",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (OPTISET) - 3 ML - 10 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192184",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 1 CARTUCCIA",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192196",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 3 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192208",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 4 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192210",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 5 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192222",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 6 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192234",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 8 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192246",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 9 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192259",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) PER OPTICLIK - 3 ML - 10 CARTUCCE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192261",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 1 PENNA PRERIEMPITA",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192273",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 3 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192285",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 4 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192297",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 5 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192309",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 6 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192311",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 8 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192323",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 9 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192335",
+        "nome": "TOUJEO",
+        "descrizione": "100 UI/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA (SOLOSTAR) - 3 ML - 10 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192347",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA 1,5 ML - 3 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192350",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA 1,5 ML - 5 PENNE PRERIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192362",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRERIEMPITA 1,5 ML - 1 PENNA PRERIEMPITA",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192374",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRE-RIEMPITA (SOLOSTAR) - 1.5 ML - 10 PENNE PRE-RIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192386",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRE-RIEMPITA (DOUBLESTAR) 3 ML - 1 PENNA PRE-RIEMPITA",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192398",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRE-RIEMPITA (DOUBLESTAR) 3 ML - 3 PENNE PRE-RIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192400",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRE-RIEMPITA (DOUBLESTAR) 3 ML - CONFEZIONI MULTIPLE 6 (2X3) PENNE PRE-RIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192412",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRE-RIEMPITA (DOUBLESTAR) 3 ML - CONFEZIONI MULTIPLE 9 (3X3) PENNE PRE-RIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043192424",
+        "nome": "TOUJEO",
+        "descrizione": "300 UNITA'/ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - CARTUCCIA (VETRO) IN PENNA PRE-RIEMPITA (DOUBLESTAR) 3 ML - 10 PENNE PRE-RIEMPITE",
+        "produttore": "SANOFI-AVENTIS DEUTSCHLAND GMBH"
+    },
+    {
+        "aic": "043225010",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225022",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225034",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225046",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225059",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225061",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225073",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225085",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225097",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043225109",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226012",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226024",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226036",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226048",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226051",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226063",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226075",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043226087",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "043316013",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316025",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316037",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316049",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316052",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316064",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316076",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043316088",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043317039",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE- FLACONE CONTAGOCCE 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043317041",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043317054",
+        "nome": "TOBRAL",
+        "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043318017",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043318029",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043318031",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043318043",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043318056",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043318068",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043318070",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "GENERAL PHARMA SOLUTIONS SPA"
+    },
+    {
+        "aic": "043319033",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043319058",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043319060",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043319072",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043319084",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE IN LDPE DA 5 ML",
+        "produttore": "NEW PHARMASHOP S.R.L."
+    },
+    {
+        "aic": "043324019",
+        "nome": "TOBRAMICINA DOC GENERICI",
+        "descrizione": "3 MG/ML COLLIRIO, SOLUZIONE- FLACONE CONTAGOCCE IN LDPE DA 5 ML",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "043354012",
+        "nome": "TOBRAMICINA E DESAMETASONE DOC GENERICI",
+        "descrizione": "3 MG/ML + 1 MG/ML  COLLIRIO, SOLUZIONE- FLACONE CONTAGOCCE DA 5 ML IN LDPE",
+        "produttore": "DOC GENERICI SRL"
+    },
+    {
+        "aic": "043901014",
+        "nome": "TOMAINO",
+        "descrizione": "10.000 UI/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 10 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "043901026",
+        "nome": "TOMAINO",
+        "descrizione": "25.000 UI/2,5 ML SOLUZIONE ORALE- 1 CONTENITORE MONODOSE IN VETRO DA 2,5 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "043901038",
+        "nome": "TOMAINO",
+        "descrizione": "25.000 UI/2,5 ML SOLUZIONE ORALE- 2 CONTENITORI MONODOSE IN VETRO DA 2,5 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "043901040",
+        "nome": "TOMAINO",
+        "descrizione": "25.000 UI/2,5 ML SOLUZIONE ORALE- 4 CONTENITORI MONODOSE IN VETRO DA 2,5 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "043901053",
+        "nome": "TOMAINO",
+        "descrizione": "50.000 U.I./2,5 ML SOLUZIONE ORALE- 1 CONTENITORE MONODOSE IN VETRO DA 2,5 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "043901065",
+        "nome": "TOMAINO",
+        "descrizione": "50.000 U.I./2,5 ML SOLUZIONE ORALE- 2 CONTENITORI MONODOSE IN VETRO DA 2,5 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "043901077",
+        "nome": "TOMAINO",
+        "descrizione": "50.000 U.I./2,5 ML SOLUZIONE ORALE- 4 CONTENITORI MONODOSE IN VETRO DA 2,5 ML",
+        "produttore": "EPIFARMA S.R.L"
+    },
+    {
+        "aic": "044611010",
+        "nome": "TOBRAMICINA SUN",
+        "descrizione": "300 MG/5 ML SOLUZIONE PER NEBULIZZATORE- 56 FIALE IN LDPE DA 5 ML",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "044611022",
+        "nome": "TOBRAMICINA SUN",
+        "descrizione": "300 MG/5 ML SOLUZIONE PER NEBULIZZATORE- 112 FIALE IN LDPE DA 5 ML",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "044611034",
+        "nome": "TOBRAMICINA SUN",
+        "descrizione": "300 MG/5 ML SOLUZIONE PER NEBULIZZATORE- 168 FIALE IN LDPE DA 5 ML",
+        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V."
+    },
+    {
+        "aic": "045774015",
+        "nome": "TOOKAD",
+        "descrizione": "183 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "STEBA BIOTECH S.A."
+    },
+    {
+        "aic": "045774027",
+        "nome": "TOOKAD",
+        "descrizione": "366 MG - POLVERE PER SOLUZIONE INIETTABILE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
+        "produttore": "STEBA BIOTECH S.A."
+    },
+    {
+        "aic": "046491015",
+        "nome": "TOLERAK",
+        "descrizione": "40 MG/G CREMA- 1 TUBO IN AL DA 20 G",
+        "produttore": "PIERRE FABRE ITALIA S.P.A."
+    },
+    {
+        "aic": "046491027",
+        "nome": "TOLERAK",
+        "descrizione": "40 MG/G CREMA- 1 TUBO IN AL DA 40 G",
+        "produttore": "PIERRE FABRE ITALIA S.P.A."
+    },
+    {
+        "aic": "046514016",
+        "nome": "TORMENTILLA-HEEL",
+        "descrizione": "COMPRESSE- 1 CONTENITORE PER COMPRESSE IN PP DA 50 COMPRESSE",
+        "produttore": "BIOLOGISCHE HEILMITTEL HEEL GMBH"
+    },
+    {
+        "aic": "048024018",
+        "nome": "TOTYLEM",
+        "descrizione": "60 MG/0,4 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "LABORATOIRE INNOTECH INTERNATIONAL"
+    },
+    {
+        "aic": "048669016",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669028",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669030",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 7 COMPRESSE IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669042",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 28 COMPRESSE IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669055",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 7 COMPRESSE IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669067",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669079",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG COMPRESSE- 7X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669081",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 7 COMPRESSE DA 15 MG + 7 COMPRESSE DA 45 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669093",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 14 COMPRESSE DA 15 MG + 14 COMPRESSE DA 45 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669105",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 28 COMPRESSE DA 15 MG + 28 COMPRESSE DA 45 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669117",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 7 COMPRESSE DA 15 MG + 7 COMPRESSE DA 45 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669129",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 14 COMPRESSE DA 15 MG + 14 COMPRESSE DA 45 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669131",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 28 COMPRESSE DA 15 MG + 28 COMPRESSE DA 45 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669143",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 7 COMPRESSE DA 15 MG + 7 COMPRESSE DA 45 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669156",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 14 COMPRESSE DA 15 MG + 14 COMPRESSE DA 45 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669168",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 28 COMPRESSE DA 15 MG + 28 COMPRESSE DA 45 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669170",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "15 MG + 45 MG COMPRESSE- 28 COMPRESSE DA 15 MG + 28 COMPRESSE DA 45 MG IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669182",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 7 COMPRESSE DA 30 MG + 7 COMPRESSE DA 60 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669194",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 14 COMPRESSE DA 30 MG + 14 COMPRESSE DA 60 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669206",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 60 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669218",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 7 COMPRESSE DA 30 MG + 7 COMPRESSE DA 60 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669220",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 14 COMPRESSE DA 30 MG + 14 COMPRESSE DA 60 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669232",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 60 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669244",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 7 COMPRESSE DA 30 MG + 7 COMPRESSE DA 60 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669257",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 14 COMPRESSE DA 30 MG + 14 COMPRESSE DA 60 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669269",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 60 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669271",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 60 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 60 MG IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669283",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 7 COMPRESSE DA 30 MG + 7 COMPRESSE DA 90 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669295",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 14 COMPRESSE DA 30 MG + 14 COMPRESSE DA 90 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669307",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 90 MG IN BLISTER PVC/ACLAR/PVC - PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669319",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 7 COMPRESSE DA 30 MG + 7 COMPRESSE DA 90 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669321",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 14 COMPRESSE DA 30 MG + 14 COMPRESSE DA 90 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669333",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 90 MG IN BLISTER OPA/AL/PVC -PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669345",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 7 COMPRESSE DA 30 MG + 7 COMPRESSE DA 90 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669358",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 14 COMPRESSE DA 30 MG + 14 COMPRESSE DA 90 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669360",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 90 MG IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "048669372",
+        "nome": "TOLVAPTAN TEVA",
+        "descrizione": "30 MG + 90 MG COMPRESSE- 28 COMPRESSE DA 30 MG + 28 COMPRESSE DA 90 MG IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "049138011",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "5 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138023",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "6 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138035",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "12 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138047",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "4 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138050",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138062",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "6 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138074",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "7 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138086",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "9 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138098",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "12 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138100",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "15 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138112",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138124",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "6K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138136",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "12K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138148",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "30K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138151",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "35K GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138163",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138175",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138187",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "5 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138199",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "30 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138201",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "200 CH GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138213",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "200K GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138225",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "MK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138237",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "XMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138249",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "LMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138252",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "CMK GRANULI- 1 CONTENITORE MONODOSE IN VETRO/PP DA 2 G",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138264",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "4 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138276",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "5 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138288",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "6 DH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138290",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "4 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138302",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "5 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138314",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "6 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138326",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "7 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138338",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "9 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138340",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "12 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138353",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "15 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138365",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "30 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138377",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "200 CH GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138389",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "6K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138391",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "12K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138403",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "30K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138415",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "35K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138427",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "200K GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138439",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "MK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049138441",
+        "nome": "TORMENTILLA DYNAMIS",
+        "descrizione": "XMK GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO IN SOLUZIONE IDROALCOLICA AL 50% V/V DA 10 ML",
+        "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L."
+    },
+    {
+        "aic": "049746011",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746023",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746035",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746047",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746050",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746062",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746074",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746086",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746098",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746100",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746112",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746124",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746136",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746148",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746151",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 90 (45x2) COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746163",
+        "nome": "TOVASTIBE",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 100 (2x50) COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746175",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746187",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746199",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049746201",
+        "nome": "TOVASTIBE",
+        "descrizione": "10MG/80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "Viatris Healthcare Limited"
+    },
+    {
+        "aic": "049788019",
+        "nome": "TONSINO",
+        "descrizione": "1,5 MG/ML SOLUZIONE PER MUCOSA ORALE- 1 FLACONE IN VETRO DA 120 ML",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "049788021",
+        "nome": "TONSINO",
+        "descrizione": "1,5 MG/ML SOLUZIONE PER MUCOSA ORALE- 1 FLACONE IN VETRO DA 240 ML",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "049788033",
+        "nome": "TONSINO",
+        "descrizione": "1,5 MG/ML SOLUZIONE PER MUCOSA ORALE- 1 FLACONE IN VETRO DA 300 ML",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "049788045",
+        "nome": "TONSINO",
+        "descrizione": "1,5 MG/ML SPRAY PER MUCOSA ORALE, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML",
+        "produttore": "ARISTO PHARMA GMBH"
+    },
+    {
+        "aic": "050327016",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
+        "produttore": "SM PHARMA S.R.L."
+    },
+    {
+        "aic": "050446018",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 10 COMPRESSE IN BLISTER PVC/ACLAR/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446020",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446057",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 10 COMPRESSE IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446069",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446071",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 10X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446083",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 30X1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446095",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 10 COMPRESSE IN BLISTER OPA/AL/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446107",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "15 mg COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446133",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 10 COMPRESSE IN BLISTER PVC/ACLAR/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446145",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446172",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 10 COMPRESSE IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446184",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446196",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 10X1 COMPRESSE IN BLISTER DIVISIBILEPER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446208",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 30X1 COMPRESSE IN BLISTER DIVISIBILEPER DOSE UNITARIA PVC/ACLAR/PVC-AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446210",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 10 COMPRESSE IN BLISTER OPA/AL/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050446222",
+        "nome": "TOLVAPTAN TEVA ITALIA",
+        "descrizione": "30 mg COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC-PAP/PET/AL",
+        "produttore": "TEVA B.V."
+    },
+    {
+        "aic": "050637014",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "7,5 mg - Compressa - Uso orale - blister (PVC/alu) - 7 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637026",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "7,5 mg - Compressa - Uso orale - blister (PVC/alu) - 10 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637038",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "7,5 mg - Compressa - Uso orale - blister (PVC/alu) - 28 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637040",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "7,5 mg - Compressa - Uso orale - blister (PVC/alu) - 30 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637053",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "15 mg - Compressa - Uso orale - blister (PVC/alu) - 7 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637065",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "15 mg - Compressa - Uso orale - blister (PVC/alu) - 10 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637077",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "15 mg - Compressa - Uso orale - blister (PVC/alu) - 28 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637089",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "15 mg - Compressa - Uso orale - blister (PVC/alu) - 30 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637091",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "30 mg - Compressa - Uso orale - blister (PVC/alu) - 7 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637103",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "30 mg - Compressa - Uso orale - blister (PVC/alu) - 10 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637115",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "30 mg - Compressa - Uso orale - blister (PVC/alu) - 28 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050637127",
+        "nome": "TOLVAPTAN ACCORD",
+        "descrizione": "30 mg - Compressa - Uso orale - blister (PVC/alu) - 30 ? 1 compresse (dose  unitaria)",
+        "produttore": "ACCORD HEALTHCARE, S.L.U."
+    },
+    {
+        "aic": "050852019",
+        "nome": "TORASEMIDE ZENTIVA",
+        "descrizione": "10 mg COMPRESSE- 14 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "050852021",
+        "nome": "TORASEMIDE ZENTIVA",
+        "descrizione": "10 mg COMPRESSE- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L."
+    },
+    {
+        "aic": "051039016",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "051039028",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO DA 3,5 G",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "051178010",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO 3,5 G",
+        "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL"
+    },
+    {
+        "aic": "051302014",
+        "nome": "TOFIDENCE",
+        "descrizione": "20 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 mL - 1 flaconcino",
+        "produttore": "STADA ARZNEIMITTEL AG"
+    },
+    {
+        "aic": "051302026",
+        "nome": "TOFIDENCE",
+        "descrizione": "20 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 mL - 4 flaconcini",
+        "produttore": "STADA ARZNEIMITTEL AG"
+    },
+    {
+        "aic": "051302038",
+        "nome": "TOFIDENCE",
+        "descrizione": "20 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 mL - 1 flaconcino",
+        "produttore": "STADA ARZNEIMITTEL AG"
+    },
+    {
+        "aic": "051302040",
+        "nome": "TOFIDENCE",
+        "descrizione": "20 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 mL - 4 flaconcini",
+        "produttore": "STADA ARZNEIMITTEL AG"
+    },
+    {
+        "aic": "051302053",
+        "nome": "TOFIDENCE",
+        "descrizione": "20 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 mL - 1 flaconcino",
+        "produttore": "STADA ARZNEIMITTEL AG"
+    },
+    {
+        "aic": "051302065",
+        "nome": "TOFIDENCE",
+        "descrizione": "20 mg/mL - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 mL - 4 flaconcini",
+        "produttore": "STADA ARZNEIMITTEL AG"
+    },
+    {
+        "aic": "051429013",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429025",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429037",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429049",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429052",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429064",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429076",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429088",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429090",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429102",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429114",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429126",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429138",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429140",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429153",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "051429165",
+        "nome": "TOREZ",
+        "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "PIAM FARMACEUTICI S.P.A."
+    },
+    {
+        "aic": "052066014",
+        "nome": "TOPAMAX",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE",
+        "produttore": "FARMED S.R.L."
+    },
+    {
+        "aic": "052968017",
+        "nome": "TOPAMAX",
+        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GMM FARMA S.R.L."
+    },
+    {
+        "aic": "053054019",
+        "nome": "TOTALIP",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "FARMED S.R.L."
+    }
+]
