@@ -401,28 +401,84 @@
     {
         "aic": "028775070",
         "nome": "ZOTON",
-        "descrizione": "15 MG COMPRESSE ORODISPERSIBILI - 14 COMPRESSE",
+        "descrizione": "<15  mg  compresse  orodispersibili>  14 compresse in blister OPA/Al/PVC/Al",
         "produttore": "PFIZER ITALIA S.R.L.",
         "forma": "Compressa dispersibile"
     },
     {
         "aic": "028775082",
         "nome": "ZOTON",
-        "descrizione": "15 MG COMPRESSE ORODISPERSIBILI -  28 COMPRESSE",
+        "descrizione": "<15  mg  compresse  orodispersibili>  28 compresse in blister OPA/Al/PVC/Al",
         "produttore": "PFIZER ITALIA S.R.L.",
         "forma": "Compressa dispersibile"
     },
     {
         "aic": "028775094",
         "nome": "ZOTON",
-        "descrizione": "30 MG COMPRESSE ORODISPERSIBILI - 14 COMPRESSE",
+        "descrizione": "<30  mg  compresse  orodispersibili>  14 compresse in blister OPA/Al/PVC/Al",
         "produttore": "PFIZER ITALIA S.R.L.",
         "forma": "Compressa dispersibile"
     },
     {
         "aic": "028775106",
         "nome": "ZOTON",
-        "descrizione": "30 MG COMPRESSE ORODISPERSIBILI - 28 COMPRESSE",
+        "descrizione": "<30  mg  compresse  orodispersibili>  28 compresse in blister OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775118",
+        "nome": "ZOTON",
+        "descrizione": "15 MG COMPRESSE ORODISPERSIBILI- 2 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775120",
+        "nome": "ZOTON",
+        "descrizione": "15 MG COMPRESSE ORODISPERSIBILI- 7 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775132",
+        "nome": "ZOTON",
+        "descrizione": "15 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775144",
+        "nome": "ZOTON",
+        "descrizione": "15 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775157",
+        "nome": "ZOTON",
+        "descrizione": "30 MG COMPRESSE ORODISPERSIBILI- 2 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775169",
+        "nome": "ZOTON",
+        "descrizione": "30 MG COMPRESSE ORODISPERSIBILI- 7 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775171",
+        "nome": "ZOTON",
+        "descrizione": "30 MG COMPRESSE ORODISPERSIBILI- 56 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "PFIZER ITALIA S.R.L.",
+        "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "028775183",
+        "nome": "ZOTON",
+        "descrizione": "30 MG COMPRESSE ORODISPERSIBILI- 98 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
         "produttore": "PFIZER ITALIA S.R.L.",
         "forma": "Compressa dispersibile"
     },

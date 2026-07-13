@@ -28,6 +28,55 @@
         "forma": "Dispersione per preparazione iniettabile"
     },
     {
+        "aic": "053004014",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 1 siringa preriempita",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004026",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 1 siringa preriempita + 1 ago",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004038",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 1 siringa preriempita + 2 aghi",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004040",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 10 siringhe preriempite",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004053",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 10 siringhe preriempite + 10 aghi",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004065",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 10 siringhe preriempite + 20 aghi",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004077",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 50 (5x10) siringhe preriempite (confezione multipla)",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
         "aic": "053007011",
         "nome": "RINOCLENIL",
         "descrizione": "100 MCG SPRAY NASALE, SOSPENSIONE - FLACONE 30 ML  DA 200 EROGAZIONI",
@@ -98,6 +147,13 @@
         "forma": "Sospensione orale"
     },
     {
+        "aic": "053059010",
+        "nome": "AERIUS",
+        "descrizione": "5 MG 20 COMPRESSE RIVESTITE CON FILM USO ORALE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "053060012",
         "nome": "SAXENDA",
         "descrizione": "6 MG/ML - SOLUZIONE INIETTABILE - PENNA PRERIEMPITA - USO SOTTOCUTANEO - 5 X 3 ML",
@@ -105,11 +161,32 @@
         "forma": "Soluzione iniettabile"
     },
     {
+        "aic": "053070025",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "053071015",
+        "nome": "PLAVIX",
+        "descrizione": "75- 28 COMPRESSE FILMRIVESTITE 75 MG IN BLISTER",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "053074011",
         "nome": "TECENTRIQ",
         "descrizione": "1200 MG - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 20 ML (60 MG/ML) - 1 FLACONCINO",
         "produttore": "GMM FARMA S.R.L.",
         "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053076016",
+        "nome": "FLUIMUCIL MUCOLITICO",
+        "descrizione": "600 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER AL/PE-PA/AL/PE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa effervescente"
     },
     {
         "aic": "053087019",

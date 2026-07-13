@@ -31516,14 +31516,28 @@
     {
         "aic": "038881013",
         "nome": "PANTOPRAZOLO ZENTIVA",
-        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI-  14 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "<40 mg compresse gastroresistenti> 14 compresse in blister OPA/Al/PVC/Al",
         "produttore": "ZENTIVA ITALIA S.R.L.",
         "forma": "Compressa gastroresistente"
     },
     {
         "aic": "038881025",
         "nome": "PANTOPRAZOLO ZENTIVA",
-        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "<40 mg compresse gastroresistenti> 28 compresse in blister OPA/Al/PVC/Al",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "038881037",
+        "nome": "PANTOPRAZOLO ZENTIVA",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI-  14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "038881049",
+        "nome": "PANTOPRAZOLO ZENTIVA",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI-  28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "ZENTIVA ITALIA S.R.L.",
         "forma": "Compressa gastroresistente"
     },
@@ -31551,7 +31565,14 @@
     {
         "aic": "038894010",
         "nome": "ORMICTON",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 15 COMPRESSE",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM - 15 compresse  in  blister PVC/PE/PVDC/Al",
+        "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "038894022",
+        "nome": "ORMICTON",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "DYMALIFE PHARMACEUTICAL S.R.L.",
         "forma": "Compressa rivestita con film"
     },

@@ -6865,5 +6865,54 @@
         "descrizione": "100 MG - POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 1 FLACONCINO",
         "produttore": "NEW PHARMASHOP S.R.L.",
         "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053004014",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 1 siringa preriempita",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004026",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 1 siringa preriempita + 1 ago",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004038",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 1 siringa preriempita + 2 aghi",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004040",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 10 siringhe preriempite",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004053",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 10 siringhe preriempite + 10 aghi",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004065",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 10 siringhe preriempite + 20 aghi",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053004077",
+        "nome": "ENFLONSIA",
+        "descrizione": "105 mg - Soluzione iniettabile - Uso intramuscolare - Siringa preriempita (vetro) 0,7 mL (150 mg/mL) - 50 (5x10) siringhe preriempite (confezione multipla)",
+        "produttore": "MERCK SHARP & DOHME B.V.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     }
 ]

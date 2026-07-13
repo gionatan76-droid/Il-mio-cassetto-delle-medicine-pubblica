@@ -4545,14 +4545,28 @@
     {
         "aic": "038881013",
         "nome": "PANTOPRAZOLO ZENTIVA",
-        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI-  14 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "<40 mg compresse gastroresistenti> 14 compresse in blister OPA/Al/PVC/Al",
         "produttore": "ZENTIVA ITALIA S.R.L.",
         "forma": "Compressa gastroresistente"
     },
     {
         "aic": "038881025",
         "nome": "PANTOPRAZOLO ZENTIVA",
-        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "<40 mg compresse gastroresistenti> 28 compresse in blister OPA/Al/PVC/Al",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "038881037",
+        "nome": "PANTOPRAZOLO ZENTIVA",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI-  14 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "038881049",
+        "nome": "PANTOPRAZOLO ZENTIVA",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI-  28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "ZENTIVA ITALIA S.R.L.",
         "forma": "Compressa gastroresistente"
     },
@@ -8123,6 +8137,13 @@
         "aic": "043170075",
         "nome": "PANTORC",
         "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "043170087",
+        "nome": "PANTORC",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER OPA/AL/PE/AL",
         "produttore": "FARMED S.R.L.",
         "forma": "Compressa gastroresistente"
     },

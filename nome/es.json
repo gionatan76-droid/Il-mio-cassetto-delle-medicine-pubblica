@@ -8587,5 +8587,47 @@
         "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 100 COMPRESSE IN FLACONE HDPE",
         "produttore": "EG S.P.A.",
         "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "052696010",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696022",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696034",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "40 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696046",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "40 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696059",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 56 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696061",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "40 MG CAPSULE RIGIDE GASTRORESISTENTI- 56 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
     }
 ]

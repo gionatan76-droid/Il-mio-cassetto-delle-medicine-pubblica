@@ -5955,5 +5955,12 @@
         "descrizione": "2,6-57 GBq GENERATORE DI RADIONUCLIDI- 1 GENERATORE DA 57 GBq CON 16 FLACONCINI IN VETRO PER L' ELUIZIONE DA 10 ML",
         "produttore": "NATIONAL CENTRE FOR NUCLEAR RESEARCH",
         "forma": "Generatore di radionuclidi"
+    },
+    {
+        "aic": "052677010",
+        "nome": "PONLIMSI",
+        "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (60 mg/mL) - 1 siringa preriempita",
+        "produttore": "TEVA GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     }
 ]

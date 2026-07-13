@@ -1678,26 +1678,5 @@
         "descrizione": "25MG COMPRESSE- 50 COMPRESSE",
         "produttore": "NOVARTIS FARMA S.P.A.",
         "forma": "Compressa"
-    },
-    {
-        "aic": "022999039",
-        "nome": "LIORESAL",
-        "descrizione": "10MG/20ML  SOLUZIONE INIETTABILE PER USO INTRATECALE- 1 FIALA 20 ML",
-        "produttore": "NOVARTIS FARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "022999041",
-        "nome": "LIORESAL",
-        "descrizione": "10MG/5ML SOLUZIONE INIETTABILE PER USO INTRATECALE- 1 FIALA 5 ML",
-        "produttore": "NOVARTIS FARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "022999054",
-        "nome": "LIORESAL",
-        "descrizione": "0,05MG/1ML SOLUZIONE INIETTABILE PER USO INTRATECALE- 1 FIALA 1 ML",
-        "produttore": "NOVARTIS FARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
     }
 ]

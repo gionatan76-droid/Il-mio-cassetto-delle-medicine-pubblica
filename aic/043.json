@@ -4053,6 +4053,90 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "043065667",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065679",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065681",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065693",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065705",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065717",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 105 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065729",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 105 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065731",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 105 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065743",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 105 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065756",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 105 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065768",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 105 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043065770",
+        "nome": "ROSUVASTATINA TEVA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 105 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "043066012",
         "nome": "DEFITELIO",
         "descrizione": "80 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) 2,5 ML - 10 FLACONCINI",
@@ -6793,6 +6877,13 @@
         "aic": "043170075",
         "nome": "PANTORC",
         "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "043170087",
+        "nome": "PANTORC",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER OPA/AL/PE/AL",
         "produttore": "FARMED S.R.L.",
         "forma": "Compressa gastroresistente"
     },

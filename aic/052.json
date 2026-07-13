@@ -763,6 +763,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052018330",
+        "nome": "VORTIOXETINA VIATRIS",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/-AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052018342",
         "nome": "VORTIOXETINA VIATRIS",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/-AL",
@@ -3171,6 +3178,13 @@
         "forma": "Compressa"
     },
     {
+        "aic": "052138029",
+        "nome": "BRILADONA",
+        "descrizione": "0,25 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "052139019",
         "nome": "AKYNZEO",
         "descrizione": "300 MG/0,50 MG - CAPSULA RIGIDA - USO ORALE - BLISTER (ALLUMINIO/ALLUMINIO) - 1 CAPSULA",
@@ -4303,6 +4317,244 @@
         "descrizione": "?150 MG CAPSULE MOLLI? 120X1 CAPSULE IN BLISTER OPA/AL/PVC-AL DIVISIBILE PER DOSE UNITARIA",
         "produttore": "DR. REDDY'S S.R.L.",
         "forma": "Capsula molle"
+    },
+    {
+        "aic": "052208016",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208028",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208030",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208042",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208055",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208067",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 168 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208079",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208081",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 10x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208093",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 20x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208105",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 56x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208117",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208129",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 100x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208131",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 168x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208143",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208156",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208168",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 180 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208170",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208182",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208194",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208206",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208218",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208220",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208232",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 168 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208244",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208257",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 10x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208269",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 20x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208271",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 56x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208283",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208295",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 100x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208307",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 168x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208319",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208321",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208333",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 180 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208345",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052209018",
@@ -8272,6 +8524,20 @@
         "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL CON ESSICANTE",
         "produttore": "DOC GENERICI SRL",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052411016",
+        "nome": "CEFTRIAXONE HAMELN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "052411028",
+        "nome": "CEFTRIAXONE HAMELN",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "052413010",
@@ -12250,6 +12516,13 @@
         "forma": "Concentrato per soluzione per infusione"
     },
     {
+        "aic": "052677010",
+        "nome": "PONLIMSI",
+        "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (60 mg/mL) - 1 siringa preriempita",
+        "produttore": "TEVA GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
         "aic": "052683012",
         "nome": "LYNKUET",
         "descrizione": "60 mg - Capsula molle - Uso orale - Blister (PVC/PCTFEalluminio/PET/carta) - 12 ? 2 capsule (dose unitaria)",
@@ -12360,6 +12633,20 @@
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
         "produttore": "FIDIA FARMACEUTICI S.P.A.",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052689015",
+        "nome": "ANTERNATY",
+        "descrizione": "50 UI/ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE IN VETRO DA 500 UI E 1 FLACONCINO DI SOLVENTE IN VETRO DA 10 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A.",
+        "forma": "Polvere e solvente per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "052689027",
+        "nome": "ANTERNATY",
+        "descrizione": "50 UI/ML POLVERE E SOLVENTE PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO DI POLVERE IN VETRO DA 1000 UI E 1 FLACONCINO DI SOLVENTE IN VETRO DA 20 ML",
+        "produttore": "OCTAPHARMA ITALY S.P.A.",
+        "forma": "Polvere e solvente per soluzione per infusione endovenosa"
     },
     {
         "aic": "052690017",
@@ -12614,6 +12901,48 @@
         "forma": "Compressa masticabile"
     },
     {
+        "aic": "052696010",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696022",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696034",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "40 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696046",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "40 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696059",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 56 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
+        "aic": "052696061",
+        "nome": "ESOMEPRAZOLO LABORATORI ALTER",
+        "descrizione": "40 MG CAPSULE RIGIDE GASTRORESISTENTI- 56 CAPSULE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "LABORATORI ALTER S.R.L.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
         "aic": "052698014",
         "nome": "LINAGLIPTIN MACLEODS",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC",
@@ -12863,6 +13192,27 @@
         "nome": "KLAIRA",
         "descrizione": "COMPRESSE RIVESTITE CON FILM- 1X28 COMPRESSE RIVESTITE CON FILM IN BLISTER PVC/AL",
         "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052759014",
+        "nome": "WAYRILZ",
+        "descrizione": "400 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/alu) - 28 compresse",
+        "produttore": "SANOFI B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052759026",
+        "nome": "WAYRILZ",
+        "descrizione": "400 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/alu) - 56 compresse",
+        "produttore": "SANOFI B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052759038",
+        "nome": "WAYRILZ",
+        "descrizione": "400 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/alu) - 196 compresse",
+        "produttore": "SANOFI B.V.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -13774,6 +14124,27 @@
         "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052895012",
+        "nome": "AZEFLUXIN",
+        "descrizione": "137 MICROGRAMMI/50 MICROGRAMMI/EROGAZIONE SPRAY NASALE, SOSPENSIONE- 1 FLACONE IN VETRO DA 23G (120 EROGAZIONI) CON POMPA SPRAY E APPLICATORE",
+        "produttore": "SCHARPER S.P.A.",
+        "forma": "Spray nasale, sospensione"
+    },
+    {
+        "aic": "052897016",
+        "nome": "RANLUSPEC",
+        "descrizione": "10 mg/ml - Soluzione iniettabile - Uso intravitreo - Flaconcino (vetro) 0,23 ml - 1 flaconcino",
+        "produttore": "LUPIN EUROPE GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052897028",
+        "nome": "RANLUSPEC",
+        "descrizione": "10 mg/ml - Soluzione iniettabile - Uso intravitreo - Siringa preriempita (COP) 0,165 ml - 1 siringa preriempita",
+        "produttore": "LUPIN EUROPE GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "052899010",

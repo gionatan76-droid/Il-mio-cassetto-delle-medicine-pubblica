@@ -8050,6 +8050,90 @@
         "forma": "Soluzione iniettabile"
     },
     {
+        "aic": "051238018",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 7 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238020",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 10 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238032",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238044",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 20 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238057",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238069",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238071",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238083",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 56 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238095",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 60 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238107",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 90 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238119",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051238121",
+        "nome": "NEBIVOLOLO TECNIGEN ITALIA",
+        "descrizione": "5 MG COMPRESSE- 120 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "TECNIGEN S.R.L.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "051240012",
         "nome": "DALBAVANCINA BAXTER",
         "descrizione": "500 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
@@ -10015,6 +10099,13 @@
         "descrizione": "90 mg - Soluzione iniettabile - Uso sottocutaneo - Penna preriempita (vetro) 1,0 mL (90 mg/mL) - 1 penna preriempita",
         "produttore": "AMGEN TECHNOLOGY (IRELAND) UC",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "051282010",
+        "nome": "DALBAVANCINA TILLOMED",
+        "descrizione": "500 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "TILLOMED ITALIA SRL",
+        "forma": "Polvere per concentrato per soluzione per infusione"
     },
     {
         "aic": "051283012",
@@ -18683,6 +18774,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "051502134",
+        "nome": "APIXABAN GRINDEKS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AS GRINDEKS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "051504013",
         "nome": "ISOTRETINOINA DOC",
         "descrizione": "10 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/TE/PVDC-AL",
@@ -20615,6 +20713,20 @@
         "forma": "Polvere per concentrato per soluzione per infusione"
     },
     {
+        "aic": "051554018",
+        "nome": "SOMIREL",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "051554020",
+        "nome": "SOMIREL",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
         "aic": "051556013",
         "nome": "RELPAX",
         "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/ACLAR/AL",
@@ -22067,6 +22179,48 @@
         "aic": "051621062",
         "nome": "SIGROLEM",
         "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051621074",
+        "nome": "SIGROLEM",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051621086",
+        "nome": "SIGROLEM",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051621098",
+        "nome": "SIGROLEM",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051621100",
+        "nome": "SIGROLEM",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051621112",
+        "nome": "SIGROLEM",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "S.F. GROUP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051621124",
+        "nome": "SIGROLEM",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC-AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -28364,6 +28518,34 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "051809010",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "50 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051809022",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "100 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051809034",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "150 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051809046",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "200 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
         "aic": "051811014",
         "nome": "MINALIX",
         "descrizione": "20 MG CAPSULE RIGIDE- 10 CAPSULE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
@@ -29869,6 +30051,20 @@
         "forma": "Compressa"
     },
     {
+        "aic": "051857011",
+        "nome": "MICAFUNGINA PHARMA D&S",
+        "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "PHARMACEUTICAL DEVELOPMENT AND SERVICES S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051857023",
+        "nome": "MICAFUNGINA PHARMA D&S",
+        "descrizione": "100 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "PHARMACEUTICAL DEVELOPMENT AND SERVICES S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
         "aic": "051858013",
         "nome": "MIDAZOLAM EIGNAPHARMA",
         "descrizione": "5 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 3 ML",
@@ -29951,6 +30147,13 @@
         "descrizione": "200 MICROGRAMMI/6 MICROGRAMMI/EROGAZIONE SOLUZIONE PRESSURIZZATA PER INALAZIONE- 3 CONTENITORI SOTTO PRESSIONE IN AL DA 180 EROGAZIONI CON VALVOLA DOSATRICE",
         "produttore": "EG S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
+    },
+    {
+        "aic": "051860017",
+        "nome": "DECITABINA EUGIA",
+        "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited",
+        "forma": "Polvere per concentrato per soluzione per infusione"
     },
     {
         "aic": "051861019",

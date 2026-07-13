@@ -15678,5 +15678,19 @@
         "descrizione": "10 MG/1,5 MG CAPSULE RIGIDE A RILASCIO MODIFICATO- 112 CAPSULE IN BLISTER OPA/Al/PVC-AL",
         "produttore": "EGIS PHARMACEUTICALS PLC",
         "forma": "Capsula rigida a rilascio modificato"
+    },
+    {
+        "aic": "052897016",
+        "nome": "RANLUSPEC",
+        "descrizione": "10 mg/ml - Soluzione iniettabile - Uso intravitreo - Flaconcino (vetro) 0,23 ml - 1 flaconcino",
+        "produttore": "LUPIN EUROPE GMBH",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "052897028",
+        "nome": "RANLUSPEC",
+        "descrizione": "10 mg/ml - Soluzione iniettabile - Uso intravitreo - Siringa preriempita (COP) 0,165 ml - 1 siringa preriempita",
+        "produttore": "LUPIN EUROPE GMBH",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     }
 ]

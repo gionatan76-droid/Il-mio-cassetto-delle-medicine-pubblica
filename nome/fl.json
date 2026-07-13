@@ -5768,34 +5768,6 @@
         "forma": "Soluzione per nebulizzatore"
     },
     {
-        "aic": "044608014",
-        "nome": "FLECTORGO",
-        "descrizione": "12,5 MG CAPSULE MOLLI- 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Capsula molle"
-    },
-    {
-        "aic": "044608026",
-        "nome": "FLECTORGO",
-        "descrizione": "12,5 MG CAPSULE MOLLI- 20 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Capsula molle"
-    },
-    {
-        "aic": "044608038",
-        "nome": "FLECTORGO",
-        "descrizione": "12,5 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Capsula molle"
-    },
-    {
-        "aic": "044608040",
-        "nome": "FLECTORGO",
-        "descrizione": "12,5 MG CAPSULE MOLLI- 40 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Capsula molle"
-    },
-    {
         "aic": "044608053",
         "nome": "FLECTORGO",
         "descrizione": "25 MG CAPSULE MOLLI- 10 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
@@ -7903,6 +7875,34 @@
         "forma": "Compressa effervescente"
     },
     {
+        "aic": "051809010",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "50 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051809022",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "100 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051809034",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "150 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
+        "aic": "051809046",
+        "nome": "FLECAINIDE AUROBINDO ITALIA",
+        "descrizione": "200 MG CAPSULE RIGIDE A RILASCIO PROLUNGATO- 30 CAPSULE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Capsula rigida a rilascio prolungato"
+    },
+    {
         "aic": "052413010",
         "nome": "FLURBIPROFENE EG STADA",
         "descrizione": "8,75 MG PASTIGLIE- 8 PASTIGLIE IN BLISTER PVC-PVDC/AL",
@@ -7957,5 +7957,12 @@
         "descrizione": "8,75 MG PASTIGLIE- 36 PASTIGLIE IN BLISTER PVC-PVDC/AL",
         "produttore": "EG S.P.A.",
         "forma": "Pastiglia"
+    },
+    {
+        "aic": "053076016",
+        "nome": "FLUIMUCIL MUCOLITICO",
+        "descrizione": "600 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER AL/PE-PA/AL/PE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa effervescente"
     }
 ]

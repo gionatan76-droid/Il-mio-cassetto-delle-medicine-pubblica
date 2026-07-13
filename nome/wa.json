@@ -47,5 +47,26 @@
         "descrizione": "45 mg - Soluzione Iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.8 ml (56 mg/ml) - 1 penna preriempita",
         "produttore": "ASTRAZENECA AB",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052759014",
+        "nome": "WAYRILZ",
+        "descrizione": "400 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/alu) - 28 compresse",
+        "produttore": "SANOFI B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052759026",
+        "nome": "WAYRILZ",
+        "descrizione": "400 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/alu) - 56 compresse",
+        "produttore": "SANOFI B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052759038",
+        "nome": "WAYRILZ",
+        "descrizione": "400 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/alu) - 196 compresse",
+        "produttore": "SANOFI B.V.",
+        "forma": "Compressa rivestita con film"
     }
 ]

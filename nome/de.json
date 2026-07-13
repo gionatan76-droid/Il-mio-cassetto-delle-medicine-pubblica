@@ -3712,28 +3712,28 @@
     {
         "aic": "046838013",
         "nome": "DESIRETT",
-        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 1 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "75 microgrammi compresse rivestite con film- 1 x 28 compresse in blister PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "046838025",
         "nome": "DESIRETT",
-        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 3 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "75 microgrammi compresse rivestite con film- 3 x 28 compresse in blister PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "046838037",
         "nome": "DESIRETT",
-        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 6 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "75 microgrammi compresse rivestite con film- 6 x 28 compresse in blister PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "046838049",
         "nome": "DESIRETT",
-        "descrizione": "75 MICROGRAMMI COMPRESSE RIVESTITE CON FILM- 13 X 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "75 microgrammi compresse rivestite con film- 13 x 28 compresse in blister PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -5856,6 +5856,13 @@
         "nome": "DECITABINA TEVA",
         "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
         "produttore": "TEVA B.V.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051860017",
+        "nome": "DECITABINA EUGIA",
+        "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Polvere per concentrato per soluzione per infusione"
     },
     {

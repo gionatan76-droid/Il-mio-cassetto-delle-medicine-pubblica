@@ -6893,5 +6893,19 @@
         "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/AL",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052411016",
+        "nome": "CEFTRIAXONE HAMELN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "052411028",
+        "nome": "CEFTRIAXONE HAMELN",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
     }
 ]

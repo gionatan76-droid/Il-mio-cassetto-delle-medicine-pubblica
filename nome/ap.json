@@ -5327,6 +5327,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "051502134",
+        "nome": "APIXABAN GRINDEKS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AS GRINDEKS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "051558017",
         "nome": "APIXABAN SUN",
         "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PVC/PVDC/A",
@@ -5646,6 +5653,244 @@
         "nome": "APREMILAST SANDOZ GMBH",
         "descrizione": "10 MG + 20 MG + 30 MG COMPRESSE RIVESTITE CON FILM- CONFEZIONE DI INIZIO TRATTAMENTO 4 COMPRESSE DA10 MG + 4 COMPRESSE DA 20 MG + 19 COMPRESSE DA 30 MG IN BLISTER PVC/PE/PVDC-AL",
         "produttore": "SANDOZ GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208016",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208028",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208030",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208042",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208055",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208067",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 168 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208079",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208081",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 10x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208093",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 20x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208105",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 56x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208117",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208129",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 100x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208131",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 168x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208143",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208156",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208168",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 180 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208170",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208182",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208194",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208206",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208218",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208220",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 100 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208232",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 168 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208244",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208257",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 10x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208269",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 20x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208271",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 56x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208283",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208295",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 100x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208307",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 168x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208319",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200x1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208321",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208333",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 180 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052208345",
+        "nome": "APIXABAN VIATRIS PHARMA",
+        "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {

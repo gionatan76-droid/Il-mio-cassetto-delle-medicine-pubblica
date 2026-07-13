@@ -10409,6 +10409,20 @@
         "forma": "Capsula rigida"
     },
     {
+        "aic": "051554018",
+        "nome": "SOMIREL",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 5 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "051554020",
+        "nome": "SOMIREL",
+        "descrizione": "10 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 10 ML",
+        "produttore": "S.A.L.F. SPA  LABORATORIO FARMACOLOGICO",
+        "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
         "aic": "052950019",
         "nome": "SOLIAN",
         "descrizione": "200 MG COMPRESSE- 30 COMPRESSE in blister PVC/Al",

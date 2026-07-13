@@ -8029,6 +8029,20 @@
         "forma": "Capsula rigida"
     },
     {
+        "aic": "051857011",
+        "nome": "MICAFUNGINA PHARMA D&S",
+        "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "PHARMACEUTICAL DEVELOPMENT AND SERVICES S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "051857023",
+        "nome": "MICAFUNGINA PHARMA D&S",
+        "descrizione": "100 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "PHARMACEUTICAL DEVELOPMENT AND SERVICES S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
         "aic": "051858013",
         "nome": "MIDAZOLAM EIGNAPHARMA",
         "descrizione": "5 MG/ML SOLUZIONE INIETTABILE O PER INFUSIONE- 5 FIALE IN VETRO DA 3 ML",
