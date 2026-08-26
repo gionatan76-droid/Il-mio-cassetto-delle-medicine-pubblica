@@ -2121,6 +2121,13 @@
         "forma": "Compressa masticabile"
     },
     {
+        "aic": "038856062",
+        "nome": "MAALOX",
+        "descrizione": "400 MG+ 400 MG COMPRESSE MASTICABILI SENZA ZUCCHERO AROMA LIMONE- 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa masticabile"
+    },
+    {
         "aic": "038857049",
         "nome": "MAALOX",
         "descrizione": "400 MG + 400 MG COMPRESSE MASTICABILI- 40 COMPRESSE",
@@ -16905,6 +16912,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "051252029",
+        "nome": "MALARONE",
+        "descrizione": "250 MG/100 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/AL/carta",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "051410013",
         "nome": "MACITENTAN VIATRIS",
         "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
@@ -17206,6 +17220,20 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052591017",
+        "nome": "MACITENTAN ABDI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "Abdi Farma GmbH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052591029",
+        "nome": "MACITENTAN ABDI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "Abdi Farma GmbH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052642016",
         "nome": "MACITENTAN SANDOZ",
         "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER AL/PVC/PE/PVDC",
@@ -17234,10 +17262,31 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052669013",
+        "nome": "MACITENTAN VIVANTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "VIVANTA GENERICS S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052669025",
+        "nome": "MACITENTAN VIVANTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "VIVANTA GENERICS S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052806015",
         "nome": "MALARONE",
         "descrizione": "250 MG/100 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/AL",
         "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053162018",
+        "nome": "MALARONE",
+        "descrizione": "250 MG/100 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/AL/carta",
+        "produttore": "FARMA 1000 S.R.L.",
         "forma": "Compressa rivestita con film"
     }
 ]

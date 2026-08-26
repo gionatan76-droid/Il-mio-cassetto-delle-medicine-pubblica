@@ -427,13 +427,6 @@
         "forma": "Soluzione per infusione"
     },
     {
-        "aic": "036925016",
-        "nome": "DUAC",
-        "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 6 G",
-        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
-        "forma": "Gel"
-    },
-    {
         "aic": "036925028",
         "nome": "DUAC",
         "descrizione": "1% +  5%  GEL - 1 TUBO IN ALLUMINIO AL DA 25 G",
@@ -444,13 +437,6 @@
         "aic": "036925030",
         "nome": "DUAC",
         "descrizione": "1% +  5%  GEL - 1 TUBO IN ALLUMINIO DA 30 G",
-        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
-        "forma": "Gel"
-    },
-    {
-        "aic": "036925042",
-        "nome": "DUAC",
-        "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 55 G",
         "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
         "forma": "Gel"
     },
@@ -472,13 +458,6 @@
         "aic": "036925079",
         "nome": "DUAC",
         "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 15 G",
-        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
-        "forma": "Gel"
-    },
-    {
-        "aic": "036925081",
-        "nome": "DUAC",
-        "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 70 G",
         "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
         "forma": "Gel"
     },
@@ -7836,56 +7815,56 @@
         "aic": "051676017",
         "nome": "DUOBEXON",
         "descrizione": "?100 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 1 CONTENITORE PRESSURIZZATO CHE FORNISCE 120 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676029",
         "nome": "DUOBEXON",
         "descrizione": "?100 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 2 CONTENITORI PRESSURIZZATI CHE FORNISCONO 120 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676031",
         "nome": "DUOBEXON",
         "descrizione": "?100 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 3 CONTENITORI PRESSURIZZATI CHE FORNISCONO 120 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676043",
         "nome": "DUOBEXON",
         "descrizione": "?100 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 1 CONTENITORE PRESSURIZZATO CHE FORNISCE 180 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676056",
         "nome": "DUOBEXON",
         "descrizione": "?200 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 1 CONTENITORE PRESSURIZZATO CHE FORNISCE 120 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676068",
         "nome": "DUOBEXON",
         "descrizione": "?200 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 2 CONTENITORI PRESSURIZZATI CHE FORNISCONO 120 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676070",
         "nome": "DUOBEXON",
         "descrizione": "?200 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 3 CONTENITORI PRESSURIZZATI CHE FORNISCONO 120 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
         "aic": "051676082",
         "nome": "DUOBEXON",
         "descrizione": "?200 MICROGRAMMI/6 MICROGRAMMI PER EROGAZIONE, SOLUZIONE PRESSURIZZATA PER INALAZIONE? 1 CONTENITORE PRESSURIZZATO CHE FORNISCE 180 EROGAZIONI",
-        "produttore": "GENETIC S.P.A.",
+        "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione pressurizzata per inalazione"
     },
     {
@@ -7964,5 +7943,33 @@
         "descrizione": "<5 MG COMPRESSE RIVESTITE> 40 COMPRESSE RIVESTITE  IN BLISTER PVC/PVDC/AL",
         "produttore": "ISTITUTO FARMACEUTICO TOSCANO SRL",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053139010",
+        "nome": "DUCRESSA",
+        "descrizione": "1 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053140012",
+        "nome": "DUCRESSA",
+        "descrizione": "1 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053142016",
+        "nome": "DUOTRAV",
+        "descrizione": "40 MICROGRAMMI/ML / 5  MG/ML- COLLIRIO, SOLUZIONE - USO OFTALMICO - FLACONE (LDPE) 2,5 ML (40 MCG/ML + 5 MG/ML) - 1 FLACONE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053143018",
+        "nome": "DUOTRAV",
+        "descrizione": "40 MICROGRAMMI/ML / 5  MG/ML- COLLIRIO, SOLUZIONE - USO OFTALMICO - FLACONE (LDPE) 2,5 ML (40 MCG/ML + 5 MG/ML) - 1 FLACONE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
     }
 ]

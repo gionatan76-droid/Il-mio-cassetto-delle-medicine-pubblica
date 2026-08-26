@@ -217,6 +217,13 @@
         "forma": "Polvere per soluzione per infusione endovenosa"
     },
     {
+        "aic": "029026022",
+        "nome": "RESURMIDE",
+        "descrizione": "3 MG POLVERE PER SOLUZIONE PER INFUSIONE ENDOVENOSA- 1 FLACONCINO IN VETRO",
+        "produttore": "BENDALIS GMBH",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
         "aic": "029444116",
         "nome": "REMERON",
         "descrizione": "6 COMPRESSE ORODISPERSIBILI DA 15 MG",
@@ -3934,132 +3941,6 @@
         "forma": "Compressa"
     },
     {
-        "aic": "041890017",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890029",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890031",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890043",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 270 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890056",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 100 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890068",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890070",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890082",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890094",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 270 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890106",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 100 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890118",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890120",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890132",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890144",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 270 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890157",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 100 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890169",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0,5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 180 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890171",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 180 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890183",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 180 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "042246013",
         "nome": "REPAGLINIDE KRKA",
         "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (OPA/AL/PVC-AL)- 30 COMPRESSE",
@@ -4303,6 +4184,76 @@
         "descrizione": "120 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) IN PENNA PRERIEMPITA 1 ML (120 MG / ML) - 6 PENNE PRERIEMPITE + 6 TAMPONI IMBEVUTI DI ALCOOL",
         "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "042942185",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942197",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 2 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942209",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 3 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942211",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942223",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 5 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942235",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942247",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 2 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942250",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 3 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942262",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942274",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 5 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
     },
     {
         "aic": "043154018",
@@ -5740,6 +5691,41 @@
         "forma": "Soluzione iniettabile"
     },
     {
+        "aic": "051555011",
+        "nome": "RELINEX",
+        "descrizione": "8,75 MG PASTIGLIE- 8 PASTIGLIE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "051555023",
+        "nome": "RELINEX",
+        "descrizione": "8,75 MG PASTIGLIE- 12 PASTIGLIE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "051555035",
+        "nome": "RELINEX",
+        "descrizione": "8,75 MG PASTIGLIE- 16 PASTIGLIE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "051555047",
+        "nome": "RELINEX",
+        "descrizione": "8,75 MG PASTIGLIE- 20 PASTIGLIE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Pastiglia"
+    },
+    {
+        "aic": "051555050",
+        "nome": "RELINEX",
+        "descrizione": "8,75 MG PASTIGLIE- 24 PASTIGLIE IN BLISTER PVC/PVDC/AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Pastiglia"
+    },
+    {
         "aic": "051556013",
         "nome": "RELPAX",
         "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER PVC/ACLAR/AL",
@@ -5794,6 +5780,20 @@
         "descrizione": "30 MG COMPRESSE ORODISPERSIBILI? 30 COMPRESSE IN BLISTER Al/PVC-PA-PE",
         "produttore": "FARMED S.R.L.",
         "forma": "Compressa dispersibile"
+    },
+    {
+        "aic": "052893017",
+        "nome": "REZUROCK",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 28 compresse",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052893029",
+        "nome": "REZUROCK",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 30 compresse",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052945019",

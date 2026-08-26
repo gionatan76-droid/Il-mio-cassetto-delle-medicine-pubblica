@@ -646,28 +646,49 @@
     {
         "aic": "045246016",
         "nome": "KOLEROS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "5 mg compresse rivestite con  film>  28  compresse  in blister PA/Al/PVC/Al",
         "produttore": "KONPHARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045246028",
         "nome": "KOLEROS",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "10 mg compresse rivestite con  film>  28  compresse  in blister PA/Al/PVC/Al",
         "produttore": "KONPHARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045246030",
         "nome": "KOLEROS",
-        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "20 mg compresse rivestite  con  film>  28  compresse  in blister PA/Al/PVC/Al",
         "produttore": "KONPHARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045246042",
         "nome": "KOLEROS",
-        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL/AL",
+        "descrizione": "40 mg compresse rivestite con  film>  28  compresse  in blister PA/Al/PVC/Al",
+        "produttore": "KONPHARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045246055",
+        "nome": "KOLEROS",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "KONPHARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045246067",
+        "nome": "KOLEROS",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "KONPHARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045246079",
+        "nome": "KOLEROS",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
         "produttore": "KONPHARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },

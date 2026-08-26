@@ -119,11 +119,137 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "053042014",
+        "nome": "OJEMDA",
+        "descrizione": "100 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/PVC/alu) - 16 compresse",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053042026",
+        "nome": "OJEMDA",
+        "descrizione": "100 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/PVC/alu) - 20 compresse",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053042038",
+        "nome": "OJEMDA",
+        "descrizione": "100 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/PVC/alu) - 24 compresse",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053042040",
+        "nome": "OJEMDA",
+        "descrizione": "25 mg/ml - Polvere per sospensione orale - Uso orale - Flacone (vetro) 300 mg - 1 flacone, 1 adattatore per flacone, 1 siringa per somministrazione orale",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Polvere per sospensione orale"
+    },
+    {
         "aic": "053047015",
         "nome": "DULCOLAX",
         "descrizione": "<5 MG COMPRESSE RIVESTITE> 40 COMPRESSE RIVESTITE  IN BLISTER PVC/PVDC/AL",
         "produttore": "ISTITUTO FARMACEUTICO TOSCANO SRL",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053048017",
+        "nome": "POHERDY",
+        "descrizione": "420 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 14 ml (30 mg/ml) - 1 flaconcino",
+        "produttore": "N.V. ORGANON",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053049019",
+        "nome": "RHAPSIDO",
+        "descrizione": "25 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 30 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053049021",
+        "nome": "RHAPSIDO",
+        "descrizione": "25 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 60 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053049033",
+        "nome": "RHAPSIDO",
+        "descrizione": "25 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 180 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053050011",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 ml - 1 Flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050023",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 ml - 4 Flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050035",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 ml - 1 Flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050047",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 ml - 4 Flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050050",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 ml - 1 Flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050062",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 ml - 4 Flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050074",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0.9 ml (180 mg/ml) - 4 siringhe preriempite",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053050086",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0.9 ml (180 mg/ml) - 12 (3 x 4) siringhe preriempite (confezione multipla)",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053050098",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.9 ml (180 mg/ml) - 4 penne preriempite",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053050100",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.9 ml (180 mg/ml) - 12 (3 x 4) penne preriempite (confezione multipla)",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "053054019",
@@ -138,6 +264,13 @@
         "descrizione": "0.075 + 0.030 COMPRESSE RIVESTITE- 1X21 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "GMM FARMA S.R.L.",
         "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "053057016",
+        "nome": "ARLEVERTAN",
+        "descrizione": "20 MG/40 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa"
     },
     {
         "aic": "053058018",
@@ -161,6 +294,41 @@
         "forma": "Soluzione iniettabile"
     },
     {
+        "aic": "053066015",
+        "nome": "PALSONIFY",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 60 compresse",
+        "produttore": "CRINETICS PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053066027",
+        "nome": "PALSONIFY",
+        "descrizione": "30 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 60 compresse",
+        "produttore": "CRINETICS PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053067017",
+        "nome": "DAZPARDA",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3,0 mL - 1 penna preriempita",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053067029",
+        "nome": "DAZPARDA",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3,0 mL - 5 penne preriempite",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053070013",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "053070025",
         "nome": "EFFIMIA",
         "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
@@ -173,6 +341,20 @@
         "descrizione": "75- 28 COMPRESSE FILMRIVESTITE 75 MG IN BLISTER",
         "produttore": "ABACUS MEDICINE A/S",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053072017",
+        "nome": "PADCEV",
+        "descrizione": "20 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053073019",
+        "nome": "YERVOY",
+        "descrizione": "5 MG/ML - CONCENTRATO PER SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 10 ML- 1 FLACONCINO",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Concentrato per soluzione per infusione"
     },
     {
         "aic": "053074011",
@@ -189,10 +371,192 @@
         "forma": "Compressa effervescente"
     },
     {
+        "aic": "053077018",
+        "nome": "COVERLAM",
+        "descrizione": "5 MG/5 MG COMPRESSE- 1 CONTENITORE PP DA 30 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "053086017",
+        "nome": "ZANDORIAH",
+        "descrizione": "20 ?g/80 ?l - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita 2,4 ml - 1 penna preriempita",
+        "produttore": "CINNAGEN CO UNIPESSOAL LDA.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
         "aic": "053087019",
         "nome": "RYALTRIS",
         "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone da 240 erogazioni in HDPE con pompa dosatrice",
         "produttore": "NEW PHARMASHOP S.R.L.",
         "forma": "Spray nasale, sospensione"
+    },
+    {
+        "aic": "053104016",
+        "nome": "MIRENA",
+        "descrizione": "20  microgrammi/24  ore   sistema   a   rilascio intrauterino> 1 sistema a rilascio intrauterino",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Sistema a rilascio intrauterino"
+    },
+    {
+        "aic": "053106011",
+        "nome": "BYSUMLOG",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3 mL (3,5 mg/mL) - 1 penna preriempita",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053106023",
+        "nome": "BYSUMLOG",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3 mL (3,5 mg/mL) - 5 penne preriempite",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053113015",
+        "nome": "KLAIRA",
+        "descrizione": "COMPRESSE RIVESTITE CON FILM- 1X28 COMPRESSE RIVESTITE CON FILM IN BLISTER PVC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053115010",
+        "nome": "HIZAAR",
+        "descrizione": "50 + 12,5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
+        "aic": "053116012",
+        "nome": "MINOXIDIL BAILLEUL",
+        "descrizione": "5% SOLUZIONE CUTANEA- 3 FLACONI IN HDPE DA 60 ML CON POMPA SPRAY ED APPLICATORE",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Soluzione cutanea"
+    },
+    {
+        "aic": "053117014",
+        "nome": "MINOXIDIL BIORGA",
+        "descrizione": "5% SOLUZIONE CUTANEA- 3 FLACONI IN HDPE DA 60 ML  CON POMPA SPRAY ED APPLICATORE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Soluzione cutanea"
+    },
+    {
+        "aic": "053118016",
+        "nome": "NEXIUM",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "053130011",
+        "nome": "NUSTENDI",
+        "descrizione": "180 MG/10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053131013",
+        "nome": "NILEMDO",
+        "descrizione": "180 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053132015",
+        "nome": "DROVELIS",
+        "descrizione": "3 MG / 14.2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 28 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053133017",
+        "nome": "DROVELIS",
+        "descrizione": "3 MG / 14.2 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALU) - 28 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053138018",
+        "nome": "WEGOVY",
+        "descrizione": "1 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (1,34 mg / ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "053138020",
+        "nome": "WEGOVY",
+        "descrizione": "2,4 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (3,2 mg / ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "053139010",
+        "nome": "DUCRESSA",
+        "descrizione": "1 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053140012",
+        "nome": "DUCRESSA",
+        "descrizione": "1 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 5 ML CON CONTAGOCCE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053142016",
+        "nome": "DUOTRAV",
+        "descrizione": "40 MICROGRAMMI/ML / 5  MG/ML- COLLIRIO, SOLUZIONE - USO OFTALMICO - FLACONE (LDPE) 2,5 ML (40 MCG/ML + 5 MG/ML) - 1 FLACONE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053143018",
+        "nome": "DUOTRAV",
+        "descrizione": "40 MICROGRAMMI/ML / 5  MG/ML- COLLIRIO, SOLUZIONE - USO OFTALMICO - FLACONE (LDPE) 2,5 ML (40 MCG/ML + 5 MG/ML) - 1 FLACONE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "053144010",
+        "nome": "JANUVIA",
+        "descrizione": "50 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PE/PVDC/ALU) 28 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053160014",
+        "nome": "ZARONTIN",
+        "descrizione": "250 MG/5 ML SCIROPPO- 1 FLACONE DA 200 ML",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
+        "aic": "053161016",
+        "nome": "CEMISIANA",
+        "descrizione": "0,030 MG/2MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053162018",
+        "nome": "MALARONE",
+        "descrizione": "250 MG/100 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/AL/carta",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053169013",
+        "nome": "ALMOTREX",
+        "descrizione": "12,5 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053193013",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE- FLACONE CONTAGOCCE IN PE DA 5 ML",
+        "produttore": "ISTITUTO FARMACEUTICO TOSCANO SRL",
+        "forma": "Collirio, sospensione"
     }
 ]

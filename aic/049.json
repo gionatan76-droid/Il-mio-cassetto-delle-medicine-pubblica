@@ -3024,20 +3024,6 @@
         "forma": "Capsula rigida"
     },
     {
-        "aic": "049043019",
-        "nome": "BIMATOPROST E TIMOLOLO ZENTIVA",
-        "descrizione": "0,3 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 3 ML CON CONTAGOCCE",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Collirio, soluzione"
-    },
-    {
-        "aic": "049043021",
-        "nome": "BIMATOPROST E TIMOLOLO ZENTIVA",
-        "descrizione": "0,3 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI IN LDPE DA 3 ML CON CONTAGOCCE",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Collirio, soluzione"
-    },
-    {
         "aic": "049044011",
         "nome": "AMLODIPINA/VALSARTAN/IDROCLOROTIAZIDE MYLAN PHARMA",
         "descrizione": "5 MG/160 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
@@ -29089,174 +29075,6 @@
         "nome": "AUROZEB",
         "descrizione": "40MG/10MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
         "produttore": "AURORA BIOFARMA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229014",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229026",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229038",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229040",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229053",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229065",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229077",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229089",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229091",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229103",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229115",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229127",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229139",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229141",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229154",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229166",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL  DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229178",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229180",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229192",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229204",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229216",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229228",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229230",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229242",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -58712,14 +58530,14 @@
         "aic": "049605013",
         "nome": "IMCIVREE",
         "descrizione": "10 MG / ML - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - FLACONCINO (IN VETRO) 1 ML - 1 FLACONCINO",
-        "produttore": "Rhythm Pharmaceuticals Netherlands B.V.",
+        "produttore": "RHYTHM PHARMACEUTICALS NETHERLANDS B.V.",
         "forma": "Soluzione iniettabile"
     },
     {
         "aic": "049605025",
         "nome": "IMCIVREE",
         "descrizione": "10 mg / ml - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 1 ml - 10 flaconcini",
-        "produttore": "Rhythm Pharmaceuticals Netherlands B.V.",
+        "produttore": "RHYTHM PHARMACEUTICALS NETHERLANDS B.V.",
         "forma": "Soluzione iniettabile"
     },
     {
@@ -63400,30 +63218,30 @@
     },
     {
         "aic": "049676012",
-        "nome": "MIRTILLO ROSSO FRUTTI ESTRATTO SECCO LABORATOIRE PHARMACEUTIQUE PHARMATOKA",
+        "nome": "IURIX",
         "descrizione": "CAPSULE RIGIDE- 15 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
-        "produttore": "LABORATOIRE PHARMACEUTIQUE PHARMATOKA S.A.S.RMATOKA S.A.S.",
+        "produttore": "SCHARPER S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "049676024",
-        "nome": "MIRTILLO ROSSO FRUTTI ESTRATTO SECCO LABORATOIRE PHARMACEUTIQUE PHARMATOKA",
+        "nome": "IURIX",
         "descrizione": "CAPSULE RIGIDE- 30 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
-        "produttore": "LABORATOIRE PHARMACEUTIQUE PHARMATOKA S.A.S.RMATOKA S.A.S.",
+        "produttore": "SCHARPER S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "049676036",
-        "nome": "MIRTILLO ROSSO FRUTTI ESTRATTO SECCO LABORATOIRE PHARMACEUTIQUE PHARMATOKA",
+        "nome": "IURIX",
         "descrizione": "CAPSULE RIGIDE- 60 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
-        "produttore": "LABORATOIRE PHARMACEUTIQUE PHARMATOKA S.A.S.RMATOKA S.A.S.",
+        "produttore": "SCHARPER S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "049676048",
-        "nome": "MIRTILLO ROSSO FRUTTI ESTRATTO SECCO LABORATOIRE PHARMACEUTIQUE PHARMATOKA",
+        "nome": "IURIX",
         "descrizione": "CAPSULE RIGIDE- 90 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
-        "produttore": "LABORATOIRE PHARMACEUTIQUE PHARMATOKA S.A.S.RMATOKA S.A.S.",
+        "produttore": "SCHARPER S.P.A.",
         "forma": "Capsula rigida"
     },
     {
@@ -64299,7 +64117,7 @@
         "nome": "TRESIBA",
         "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-PENNA PRE-RIEMPITA (VETRO)(FLEXTOUCH)- 3 ML - 5 PENNE PRERIEMPITE",
         "produttore": "ABACUS MEDICINE A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049710015",
@@ -65685,21 +65503,21 @@
         "nome": "LIFOG",
         "descrizione": "50 microgrammi/ml collirio, soluzione- 1 flacone in HDPE da 2,5 ml con contagocce",
         "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
-        "forma": "COLLIRIO"
+        "forma": "Collirio, soluzione"
     },
     {
         "aic": "049747025",
         "nome": "LIFOG",
         "descrizione": "50 microgrammi/ml collirio, soluzione- 1 flacone in HDPE da 7,5 ml con contagocce",
         "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
-        "forma": "COLLIRIO"
+        "forma": "Collirio, soluzione"
     },
     {
         "aic": "049747049",
         "nome": "LIFOG",
         "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 2 FLACONI IN HDPE DA 7,5 ML CON CONTAGOCCE",
         "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
-        "forma": "COLLIRIO"
+        "forma": "Collirio, soluzione"
     },
     {
         "aic": "049748015",
@@ -67333,6 +67151,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "049793654",
+        "nome": "RIVAROXABAN VIATRIS",
+        "descrizione": "10mg - Compresse rivestite con film - Uso orale - Blister (PVC/PVdC/alu) - 5 compresse",
+        "produttore": "VIATRIS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "049794011",
         "nome": "DIFFERIN",
         "descrizione": "0,1% GEL -TUBO 30 G",
@@ -68215,6 +68040,20 @@
         "forma": "Compressa gastroresistente"
     },
     {
+        "aic": "049818053",
+        "nome": "ABIGERD",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "AURORA BIOFARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "049818065",
+        "nome": "ABIGERD",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "AURORA BIOFARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
         "aic": "049819016",
         "nome": "ESOPIR",
         "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
@@ -68239,6 +68078,20 @@
         "aic": "049819042",
         "nome": "ESOPIR",
         "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "AURORA LICENSING SRL",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "049819055",
+        "nome": "ESOPIR",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "AURORA LICENSING SRL",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "049819067",
+        "nome": "ESOPIR",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
         "produttore": "AURORA LICENSING SRL",
         "forma": "Compressa gastroresistente"
     },
@@ -68437,20 +68290,6 @@
         "descrizione": "3520 mg - Soluzione iniettabile - Uso sottocutaneo - Flaconcino (vetro) 22 ml (160 mg/ml) - 1 flaconcino",
         "produttore": "JANSSEN-CILAG INTERNATIONAL N.V.",
         "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "049824016",
-        "nome": "ICATIBANT GP-PHARM",
-        "descrizione": "30 mg soluzione iniettabile in siringa preriempita- 1 siringa in vetro da 3 ml + 1 ago",
-        "produttore": "GP-PHARM S.A.",
-        "forma": "Soluzione iniettabile in siringa pre-riempita"
-    },
-    {
-        "aic": "049824028",
-        "nome": "ICATIBANT GP-PHARM",
-        "descrizione": "30 mg soluzione iniettabile in siringa preriempita- 3 siringhe in vetro da 3 ml + 3 aghi",
-        "produttore": "GP-PHARM S.A.",
-        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "049825019",
@@ -69917,147 +69756,147 @@
     },
     {
         "aic": "049865013",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "5 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865025",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "5 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865037",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "5 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865049",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "10 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865052",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "10 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865064",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "10 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865076",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "15 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865088",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "15 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865090",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "15 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865102",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "20 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865114",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "20 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865126",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "20 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865138",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "25 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865140",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "25 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865153",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "25 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865165",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "30 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865177",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "30 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865189",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "30 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865191",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "40 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865203",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "40 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
     },
     {
         "aic": "049865215",
-        "nome": "PANUP",
+        "nome": "BUPRENORFINA SANDOZ",
         "descrizione": "40 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Cerotto transdermico"
@@ -70819,27 +70658,6 @@
         "forma": "Polvere e solvente per soluzione iniettabile"
     },
     {
-        "aic": "049881016",
-        "nome": "TAVNEOS",
-        "descrizione": "10 mg - Capsula rigida - Uso orale - flacone (HDPE) - 30 capsule",
-        "produttore": "VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "049881028",
-        "nome": "TAVNEOS",
-        "descrizione": "10 mg - Capsula rigida - Uso orale - flacone (HDPE) - 180 capsule",
-        "produttore": "VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "049881030",
-        "nome": "TAVNEOS",
-        "descrizione": "10 mg - Capsula rigida - Uso orale - Flacone (HDPE) - 540 (3 x 180) capsule (confezione multipla)",
-        "produttore": "VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE",
-        "forma": "Capsula rigida"
-    },
-    {
         "aic": "049882018",
         "nome": "VORAXAZE",
         "descrizione": "1000 IU / ml - Polvere per soluzione per iniezione - Uso endovenoso - flaconcino (vetro) - 1 flaconcino",
@@ -70851,84 +70669,84 @@
         "nome": "WEGOVY",
         "descrizione": "0,25 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,5 ml (0,5 mg / ml) - 4 penne preriempite",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883022",
         "nome": "WEGOVY",
         "descrizione": "0,5 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,5 ml (1 mg / ml) - 4 penne preriempite",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883034",
         "nome": "WEGOVY",
         "descrizione": "1 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,5 ml (2 mg / ml) - 4 penne preriempite",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883046",
         "nome": "WEGOVY",
         "descrizione": "1,7 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,75 ml (2,27 mg / ml) - 4 penne preriempite",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883059",
         "nome": "WEGOVY",
         "descrizione": "2,4 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,75 ml (3,2 mg / ml) - 4 penne preriempite",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883061",
         "nome": "WEGOVY",
         "descrizione": "0,25 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1,5 ml (0,68 mg / ml) - 1 penna preriempita + 4 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883073",
         "nome": "WEGOVY",
         "descrizione": "0,5 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1,5 ml (1,34 mg / ml) - 1 penna preriempita + 4 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883085",
         "nome": "WEGOVY",
         "descrizione": "1 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (1,34 mg / ml) - 1 penna preriempita + 4 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883097",
         "nome": "WEGOVY",
         "descrizione": "1,7 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (2,27 mg / ml) - 1 penna preriempita + 4 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883109",
         "nome": "WEGOVY",
         "descrizione": "2,4 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (3,2 mg / ml) - 1 penna preriempita + 4 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883111",
         "nome": "WEGOVY",
         "descrizione": "2,4 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (3,2 mg / ml) - 3 penne preriempite + 12 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049883123",
         "nome": "WEGOVY",
         "descrizione": "0,5 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (0,68 mg/ml) - 1 penna preriempita + 4 aghi",
         "produttore": "NOVO NORDISK A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049884012",
@@ -72425,6 +72243,34 @@
         "aic": "049927104",
         "nome": "KERENDIA",
         "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tflacone (HDPE) - 100 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927116",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 14 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927128",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 28 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927130",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 98 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927142",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 100 x 1 compressa (dose unitaria)",
         "produttore": "BAYER AG",
         "forma": "Compressa rivestita con film"
     },

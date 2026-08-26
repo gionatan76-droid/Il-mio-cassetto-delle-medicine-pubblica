@@ -8718,42 +8718,42 @@
         "aic": "045005016",
         "nome": "OLMEDIE",
         "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "produttore": "ELLEVA PHARMA SRL",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045005028",
         "nome": "OLMEDIE",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "produttore": "ELLEVA PHARMA SRL",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045005030",
         "nome": "OLMEDIE",
         "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "produttore": "ELLEVA PHARMA SRL",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045005042",
         "nome": "OLMEDIE",
         "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "produttore": "ELLEVA PHARMA SRL",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045005055",
         "nome": "OLMEDIE",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "produttore": "ELLEVA PHARMA SRL",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "045005067",
         "nome": "OLMEDIE",
         "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+        "produttore": "ELLEVA PHARMA SRL",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -9553,6 +9553,20 @@
         "descrizione": "1 mg - Compresse rivestite con film - Uso orale - blister (PVC/PE/PCTFE/alu) - 28 x 1 compresse (monodose)",
         "produttore": "ELI LILLY NEDERLAND B.V.",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045260205",
+        "nome": "OLUMIANT",
+        "descrizione": "2 mg/ml - Sospensione orale - Uso orale - Flacone (vetro) 7,5 ml - 1 flacone + 1 siringa per somministrazione orale + 1 adattatore del flacone",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Sospensione orale"
+    },
+    {
+        "aic": "045260217",
+        "nome": "OLUMIANT",
+        "descrizione": "2 mg/ml - Sospensione orale - Uso orale - Flacone (vetro) 30 ml - 1 flacone + 1 siringa per somministrazione orale + 1 adattatore del flacone",
+        "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Sospensione orale"
     },
     {
         "aic": "045340015",

@@ -20037,35 +20037,35 @@
         "aic": "052007010",
         "nome": "SAREX",
         "descrizione": "20 MG/5 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007022",
         "nome": "SAREX",
         "descrizione": "40 MG/5 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007034",
         "nome": "SAREX",
         "descrizione": "40 MG/10 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007046",
         "nome": "SAREX",
         "descrizione": "40 MG/5 MG/25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007059",
         "nome": "SAREX",
         "descrizione": "40 MG/10 MG/25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -20962,6 +20962,111 @@
         "nome": "SACUBITRIL E VALSARTAN DOC",
         "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL CON ESSICANTE",
         "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577018",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577020",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577032",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577044",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577057",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 196 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577069",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577071",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577083",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577095",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577107",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 196 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577119",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577121",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577133",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577145",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577158",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 196 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
         "forma": "Compressa rivestita con film"
     },
     {

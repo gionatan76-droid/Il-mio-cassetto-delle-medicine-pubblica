@@ -1125,5 +1125,33 @@
         "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 3 (3 x 1) siringhe preriempite (confezione multipla)",
         "produttore": "ADVANZ PHARMA LIMITED",
         "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884018",
+        "nome": "GOTENFIA",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884020",
+        "nome": "GOTENFIA",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (100 mg/ml) - 3 siringhe preriempite",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884032",
+        "nome": "GOTENFIA",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884044",
+        "nome": "GOTENFIA",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 3 siringhe preriempite",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     }
 ]

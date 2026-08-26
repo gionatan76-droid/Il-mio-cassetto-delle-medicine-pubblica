@@ -4221,13 +4221,6 @@
         "forma": "Capsula rigida"
     },
     {
-        "aic": "042483014",
-        "nome": "CELLUVISC",
-        "descrizione": "10 MG/ML COLLIRIO- 30 FLACONI MONODOSE DA 0,4 ML",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Collirio, soluzione"
-    },
-    {
         "aic": "042533012",
         "nome": "CELECOXIB MYLAN",
         "descrizione": "100 MG CAPSULE RIGIDE - 500 CAPSULE IN FLACONE HDPE",
@@ -6448,30 +6441,30 @@
     },
     {
         "aic": "050632013",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "050632025",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 100 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "050632037",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "050632049",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 100 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
@@ -6846,6 +6839,48 @@
         "forma": "POLVERE PER CONCENTRATO E SOLUZIONE PER SOLUZIONE PER INFUSIONE"
     },
     {
+        "aic": "051870018",
+        "nome": "CEFAZOLINA NORIDEM",
+        "descrizione": "1G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051870020",
+        "nome": "CEFAZOLINA NORIDEM",
+        "descrizione": "1G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051870032",
+        "nome": "CEFAZOLINA NORIDEM",
+        "descrizione": "1G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 50 FLACONCINI IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051870044",
+        "nome": "CEFAZOLINA NORIDEM",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051870057",
+        "nome": "CEFAZOLINA NORIDEM",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051870069",
+        "nome": "CEFAZOLINA NORIDEM",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 50 FLACONCINI IN VETRO",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
         "aic": "051925016",
         "nome": "CEFIXIMA MYLAN",
         "descrizione": "?400 MG COMPRESSE RIVESTITE CON FILM? 5 COMPRESSE IN BLISTER PVC-AL",
@@ -6907,5 +6942,40 @@
         "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
         "produttore": "HAMELN PHARMA GMBH",
         "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "052418011",
+        "nome": "CEFTAZIDIMA HAMELN",
+        "descrizione": "500 MG POLVERE PER SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "052418023",
+        "nome": "CEFTAZIDIMA HAMELN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "052418035",
+        "nome": "CEFTAZIDIMA HAMELN",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PR INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "052930017",
+        "nome": "CEFAZOLINA HAMELN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "053161016",
+        "nome": "CEMISIANA",
+        "descrizione": "0,030 MG/2MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
+        "forma": "Compressa rivestita con film"
     }
 ]

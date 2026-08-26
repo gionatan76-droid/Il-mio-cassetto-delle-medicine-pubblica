@@ -7497,6 +7497,13 @@
         "forma": "Compressa gastroresistente"
     },
     {
+        "aic": "041972201",
+        "nome": "PANTORC",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
         "aic": "042360014",
         "nome": "PARACETAMOLO SANDOZ",
         "descrizione": "500 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/AL",
@@ -15421,153 +15428,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "049865013",
-        "nome": "PANUP",
-        "descrizione": "5 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865025",
-        "nome": "PANUP",
-        "descrizione": "5 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865037",
-        "nome": "PANUP",
-        "descrizione": "5 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865049",
-        "nome": "PANUP",
-        "descrizione": "10 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865052",
-        "nome": "PANUP",
-        "descrizione": "10 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865064",
-        "nome": "PANUP",
-        "descrizione": "10 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865076",
-        "nome": "PANUP",
-        "descrizione": "15 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865088",
-        "nome": "PANUP",
-        "descrizione": "15 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865090",
-        "nome": "PANUP",
-        "descrizione": "15 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865102",
-        "nome": "PANUP",
-        "descrizione": "20 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865114",
-        "nome": "PANUP",
-        "descrizione": "20 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865126",
-        "nome": "PANUP",
-        "descrizione": "20 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865138",
-        "nome": "PANUP",
-        "descrizione": "25 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865140",
-        "nome": "PANUP",
-        "descrizione": "25 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865153",
-        "nome": "PANUP",
-        "descrizione": "25 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865165",
-        "nome": "PANUP",
-        "descrizione": "30 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865177",
-        "nome": "PANUP",
-        "descrizione": "30 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865189",
-        "nome": "PANUP",
-        "descrizione": "30 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865191",
-        "nome": "PANUP",
-        "descrizione": "40 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 4 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865203",
-        "nome": "PANUP",
-        "descrizione": "40 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 8 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
-        "aic": "049865215",
-        "nome": "PANUP",
-        "descrizione": "40 MICROGRAMMI/ORA CEROTTO TRANSDERMICO- 12 CEROTTI TRANSDERMICI IN BUSTINA PET/AL/PE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Cerotto transdermico"
-    },
-    {
         "aic": "049925011",
         "nome": "PARACETAMOLO ZENTIVA S.R.L.",
         "descrizione": "500 MG COMPRESSA- 12 COMPRESSE IN BLISTER PVC/AL",
@@ -17470,5 +17330,26 @@
         "descrizione": "150 MG SOSPENSIONE INIETTABILE A RILASCIO PROLUNGATO IN SIRINGA PRERIEMPITA- 1 SIRINGA PRERIEMPITA IN VETRO CON 2 AGHI",
         "produttore": "SANDOZ GMBH",
         "forma": "Sospensione iniettabile a rilascio prolungato in siringa pre-riempita"
+    },
+    {
+        "aic": "053066015",
+        "nome": "PALSONIFY",
+        "descrizione": "20 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 60 compresse",
+        "produttore": "CRINETICS PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053066027",
+        "nome": "PALSONIFY",
+        "descrizione": "30 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 60 compresse",
+        "produttore": "CRINETICS PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053072017",
+        "nome": "PADCEV",
+        "descrizione": "20 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
     }
 ]

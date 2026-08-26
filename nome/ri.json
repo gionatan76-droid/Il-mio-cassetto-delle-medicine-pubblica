@@ -10542,6 +10542,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "049793654",
+        "nome": "RIVAROXABAN VIATRIS",
+        "descrizione": "10mg - Compresse rivestite con film - Uso orale - Blister (PVC/PVdC/alu) - 5 compresse",
+        "produttore": "VIATRIS LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "049833015",
         "nome": "RINOCLENIL",
         "descrizione": "100 MCG SPRAY NASALE, SOSPENSIONE - FLACONE 30 ML  DA 200 EROGAZIONI",
@@ -13079,6 +13086,76 @@
         "aic": "052289182",
         "nome": "RIVAROXABAN OLPHA",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289194",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289206",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289218",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289220",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289232",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289244",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289257",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289269",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289271",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289283",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
         "produttore": "OLPHA AS",
         "forma": "Compressa rivestita con film"
     },

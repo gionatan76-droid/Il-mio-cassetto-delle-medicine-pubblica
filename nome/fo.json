@@ -135,49 +135,49 @@
     {
         "aic": "028878078",
         "nome": "FORTRADOL",
-        "descrizione": "50 MG CAPSULE RIGIDE- 20 CAPSULE",
+        "descrizione": "<50 mg capsule rigide> 20 capsule",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "028878080",
         "nome": "FORTRADOL",
-        "descrizione": "100 MG/ML GOCCE ORALI SOLUZIONE",
+        "descrizione": "<100 mg/ml gocce orali soluzione, flacone 10 ml>",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Gocce orali, soluzione"
     },
     {
         "aic": "028878092",
         "nome": "FORTRADOL",
-        "descrizione": "100 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE",
+        "descrizione": "<100  mg  compresse  a  rilascio  prolungato>  20 compresse",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Compressa a rilascio prolungato"
     },
     {
         "aic": "028878116",
         "nome": "FORTRADOL",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE- 5 FIALE 1 ML",
+        "descrizione": "<50 mg/ml soluzione iniettabile> 5 fiale 1 ml",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Soluzione iniettabile"
     },
     {
         "aic": "028878128",
         "nome": "FORTRADOL",
-        "descrizione": "100 MG/2 ML SOLUZIONE INIETTABILE- 5 FIALE 2 ML",
+        "descrizione": "<100 mg/2 ml soluzione iniettabile> 5 fiale 2 ml",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Soluzione iniettabile"
     },
     {
         "aic": "028878142",
         "nome": "FORTRADOL",
-        "descrizione": "150 MG COMPRESSE A  RILASCIO PROLUNGATO -10 COMPRESSE",
+        "descrizione": "<150  mg  compresse  a  rilascio  prolungato>  10 compresse",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Compressa a rilascio prolungato"
     },
     {
         "aic": "028878155",
         "nome": "FORTRADOL",
-        "descrizione": "200 MG COMPRESSE A RILASCIO PROLUNGATO-10 COMPRESSE",
+        "descrizione": "<200  mg  compresse  a  rilascio  prolungato>  10 compresse",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Compressa a rilascio prolungato"
     },
@@ -382,14 +382,14 @@
         "nome": "FORSTEO",
         "descrizione": "20 MCG/80 MCL SOLUZIONE INIETTABILE IN PENNA PREMPITA 2,4 ML 1 PENNA USO SOTTOCUTANEO",
         "produttore": "ELI LILLY NEDERLAND B.V.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "035926029",
         "nome": "FORSTEO",
         "descrizione": "20 MCG/80 MCL SOLUZIONE INIETTABILE IN PENNA PREMPITA 2,4 ML 3 PENNE USO SOTTOCUTANEO",
         "produttore": "ELI LILLY NEDERLAND B.V.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "036213015",
@@ -2027,7 +2027,7 @@
         "nome": "FORTISOC",
         "descrizione": "?20 MG/ML COLLIRIO, SOLUZIONE A RILASCIO PROLUNGATO? 1 FLACONE MULTIDOSE IN LDPE DA 8 ML CON DOSATORE OFTALMICO",
         "produttore": "BAUSCH + LOMB IRELAND LIMITED",
-        "forma": "Collirio, soluzione a rilascio prolungato in contenitori monodose"
+        "forma": "Collirio, soluzione a rilascio prolungato"
     },
     {
         "aic": "051267019",

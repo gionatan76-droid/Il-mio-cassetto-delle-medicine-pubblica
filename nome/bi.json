@@ -21,32 +21,11 @@
         "forma": "Granulato effervescente"
     },
     {
-        "aic": "015784022",
-        "nome": "BIOCHETASI",
-        "descrizione": "6 SUPPOSTE",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Supposta"
-    },
-    {
         "aic": "015784034",
         "nome": "BIOCHETASI",
         "descrizione": "GRANULATO EFFERVESCENTE-20 BUSTINE",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Granulato effervescente"
-    },
-    {
-        "aic": "015784059",
-        "nome": "BIOCHETASI",
-        "descrizione": "COMPRESSE EFFERVESCENTI- 10 COMPRESSE",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Compressa effervescente"
-    },
-    {
-        "aic": "015784061",
-        "nome": "BIOCHETASI",
-        "descrizione": "COMPRESSE EFFERVESCENTI- 20 COMPRESSE",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Compressa effervescente"
     },
     {
         "aic": "015784073",
@@ -7511,20 +7490,6 @@
         "forma": "Compressa effervescente"
     },
     {
-        "aic": "049043019",
-        "nome": "BIMATOPROST E TIMOLOLO ZENTIVA",
-        "descrizione": "0,3 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 3 ML CON CONTAGOCCE",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Collirio, soluzione"
-    },
-    {
-        "aic": "049043021",
-        "nome": "BIMATOPROST E TIMOLOLO ZENTIVA",
-        "descrizione": "0,3 MG/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 3 FLACONI IN LDPE DA 3 ML CON CONTAGOCCE",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Collirio, soluzione"
-    },
-    {
         "aic": "049256011",
         "nome": "BISKUS",
         "descrizione": "50 MICROGRAMMI/100 MICROGRAMMI/DOSE POLVERE PER INALAZIONE, PRE-DOSATA- 1 INALATORE DA 60 DOSI IN BLISTER OPA/PVC/AL-PETP/CARTA/PVC",
@@ -8144,14 +8109,14 @@
         "aic": "050950017",
         "nome": "BINOFENKID",
         "descrizione": "20 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 100 ML CON SIRINGA PER SOMMINISTRAZIONE ORALE",
-        "produttore": "DR. MAX PHARMA S.R.O.",
+        "produttore": "MEDREG S.R.O.",
         "forma": "Sospensione orale"
     },
     {
         "aic": "050950029",
         "nome": "BINOFENKID",
         "descrizione": "20 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 100 ML CON CHIUSURA A PROVA DI BAMBINO CON SIRINGA PER SOMMINISTRAZIONE ORALE",
-        "produttore": "DR. MAX PHARMA S.R.O.",
+        "produttore": "MEDREG S.R.O.",
         "forma": "Sospensione orale"
     },
     {

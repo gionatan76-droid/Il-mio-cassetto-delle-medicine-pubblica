@@ -6055,69 +6055,6 @@
         "forma": "Concentrato per soluzione per infusione"
     },
     {
-        "aic": "048267013",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267025",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267037",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267049",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267052",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267064",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267076",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267088",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "048267102",
-        "nome": "LINAGLIPTIN INTAS",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
         "aic": "048767014",
         "nome": "LITHIUM CARBONICUM DYNAMIS",
         "descrizione": "4 DH GRANULI- 1 CONTENITORE MULTIDOSE IN VETRO/PP DA 6 G (140 GRANULI) CON TAPPO DISPENSATORE IN PP",
@@ -6787,21 +6724,21 @@
         "nome": "LIFOG",
         "descrizione": "50 microgrammi/ml collirio, soluzione- 1 flacone in HDPE da 2,5 ml con contagocce",
         "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
-        "forma": "COLLIRIO"
+        "forma": "Collirio, soluzione"
     },
     {
         "aic": "049747025",
         "nome": "LIFOG",
         "descrizione": "50 microgrammi/ml collirio, soluzione- 1 flacone in HDPE da 7,5 ml con contagocce",
         "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
-        "forma": "COLLIRIO"
+        "forma": "Collirio, soluzione"
     },
     {
         "aic": "049747049",
         "nome": "LIFOG",
         "descrizione": "50 MICROGRAMMI/ML COLLIRIO, SOLUZIONE- 2 FLACONI IN HDPE DA 7,5 ML CON CONTAGOCCE",
         "produttore": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
-        "forma": "COLLIRIO"
+        "forma": "Collirio, soluzione"
     },
     {
         "aic": "049796016",
@@ -7973,6 +7910,454 @@
         "forma": "Soluzione per infusione"
     },
     {
+        "aic": "052037013",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037025",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037037",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037049",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037052",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037064",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037076",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037088",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2.,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037090",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037102",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037114",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037126",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120 (2x60) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037138",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (2x90) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037140",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037153",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 200 (2x100) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037165",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037177",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 14X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037189",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037191",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037203",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037215",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 60X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037227",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 84X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037239",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037241",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037254",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037266",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2.5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037278",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120 (2X60X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037280",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (2X90X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037292",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037304",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 200 (2X100X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037316",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037328",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037330",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037342",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037355",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037367",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037379",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037381",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037393",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037405",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037417",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037429",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037431",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037443",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120 (2X60) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037456",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (2X90) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037468",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037470",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 200 (2X100) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037482",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037494",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 14X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037506",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037518",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037520",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037532",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 60X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037544",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 84X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037557",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037569",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037571",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037583",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037595",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120 (2X60X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037607",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (2X90X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037619",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037621",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 200 (2X100X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037633",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037645",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052117013",
         "nome": "LIPOPLUS(SYNERGIPLUS N.517)",
         "descrizione": "GOCCE ORALI, SOLUZIONE- 1 FLACONE CONTAGOCCE IN VETRO DA 30 ML",
@@ -8069,6 +8454,48 @@
         "descrizione": "6 MG/ML SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 10 PENNE PRERIEMPITE IN VETRO DA 3 ML",
         "produttore": "MYLAN S.P.A.",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052646015",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646027",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646039",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646041",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646054",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646066",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052698014",

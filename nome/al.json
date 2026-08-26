@@ -217,13 +217,6 @@
         "forma": "Compressa"
     },
     {
-        "aic": "026419010",
-        "nome": "ALTAN",
-        "descrizione": "30 MG COMPRESSA RIVESTITA CON FILM- 20 COMPRESSE",
-        "produttore": "FARMAKA S.R.L.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "026837017",
         "nome": "ALAPRIL",
         "descrizione": "5 MG COMPRESSE- 14 COMPRESSE",
@@ -5197,6 +5190,20 @@
         "aic": "045054071",
         "nome": "ALLOPURINOLO MYLAN",
         "descrizione": "300 MG COMPRESSE - 100 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045054083",
+        "nome": "ALLOPURINOLO MYLAN",
+        "descrizione": "100 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVDC/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045054095",
+        "nome": "ALLOPURINOLO MYLAN",
+        "descrizione": "300 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVDC/PVC/AL",
         "produttore": "MYLAN S.P.A.",
         "forma": "Compressa"
     },
@@ -16317,6 +16324,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052508013",
+        "nome": "ALTEA E TIMO OPELLA HEALTHCARE",
+        "descrizione": "SCIROPPO- 1 FLACONE IN VETRO DA 100 ML CON CHIUSURA A PROVA DI BAMBINO CON CUCCHIAIO DOSATORE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
         "aic": "052559010",
         "nome": "ALLOPURINOLO EG STADA",
         "descrizione": "100 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
@@ -16343,5 +16357,12 @@
         "descrizione": "300 MG COMPRESSE- 100 COMPRESSE IN BLISTER PVC/AL",
         "produttore": "EG S.P.A.",
         "forma": "Compressa"
+    },
+    {
+        "aic": "053169013",
+        "nome": "ALMOTREX",
+        "descrizione": "12,5 MG COMPRESSE RIVESTITE CON FILM- 6 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
     }
 ]

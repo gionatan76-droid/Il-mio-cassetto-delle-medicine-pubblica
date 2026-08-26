@@ -15204,90 +15204,6 @@
         "forma": "Compressa"
     },
     {
-        "aic": "051225011",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "250 MG CAPSULE RIGIDE- 30 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "051225023",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "250 MG CAPSULE RIGIDE- 60 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "051225035",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "250 MG CAPSULE RIGIDE- 90 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "051225047",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "500 MG CAPSULE RIGIDE- 30 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "051225050",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "500 MG CAPSULE RIGIDE- 60 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "051225062",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "500 MG CAPSULE RIGIDE- 90 CAPSULE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "051225074",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "250 MG POLVERE PER SOSPENSIONE ORALE IN BUSTINA- 30 BUSTINE IN CARTA/AL/PE",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Polvere per sospensione orale in bustina"
-    },
-    {
-        "aic": "051225086",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "250 MG POLVERE PER SOSPENSIONE ORALE IN BUSTINA- 60 BUSTINE IN CARTA/AL/PE",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Polvere per sospensione orale in bustina"
-    },
-    {
-        "aic": "051225098",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "250 MG POLVERE PER SOSPENSIONE ORALE IN BUSTINA- 90 BUSTINE IN CARTA/AL/PE",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Polvere per sospensione orale in bustina"
-    },
-    {
-        "aic": "051225100",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "500 MG POLVERE PER SOSPENSIONE ORALE IN BUSTINA- 30 BUSTINE IN CARTA/AL/PE",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Polvere per sospensione orale in bustina"
-    },
-    {
-        "aic": "051225112",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "500 MG POLVERE PER SOSPENSIONE ORALE IN BUSTINA- 60 BUSTINE IN CARTA/AL/PE",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Polvere per sospensione orale in bustina"
-    },
-    {
-        "aic": "051225124",
-        "nome": "STIRIPENTOLO BILLEV",
-        "descrizione": "500 MG POLVERE PER SOSPENSIONE ORALE IN BUSTINA- 90 BUSTINE IN CARTA/AL/PE",
-        "produttore": "BILLEV PHARMA APS",
-        "forma": "Polvere per sospensione orale in bustina"
-    },
-    {
         "aic": "051456010",
         "nome": "STEQEYMA",
         "descrizione": "45 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (90 mg/ml) - 1 siringa preriempita",
@@ -15440,6 +15356,13 @@
         "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (60 mg/mL) - 1 siringa preriempita",
         "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
         "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052190016",
+        "nome": "STEROVIS",
+        "descrizione": "3,35 MG/ML (0,335%) COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 30 CONTENITORI MONODOSE IN LDPE DA 0,3 ML",
+        "produttore": "HORUS PHARMA",
+        "forma": "Collirio, soluzione in contenitore monodose"
     },
     {
         "aic": "052711013",

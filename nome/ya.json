@@ -847,6 +847,20 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "048736021",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048736033",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "049562010",
         "nome": "YAYOI",
         "descrizione": "2 MG COMPRESSE A RILASCIO PROLUNGATO-  30 COMPRESSE IN BLISTER PVC/PVDC/AL",

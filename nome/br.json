@@ -798,13 +798,6 @@
         "forma": "Granulato per soluzione orale"
     },
     {
-        "aic": "037945021",
-        "nome": "BRONCOLIB",
-        "descrizione": "2,7 G/10 ML SCIROPPO - 6 CONTENITORI MONODOSE",
-        "produttore": "IPSO PHARMA S.R.L.",
-        "forma": "Sciroppo"
-    },
-    {
         "aic": "037945033",
         "nome": "BRONCOLIB",
         "descrizione": "90 MG/ ML SCIROPPO - FLACONE DA 200 ML",
@@ -8694,6 +8687,27 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052073210",
+        "nome": "BRIVARACETAM GLENMARK",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 168 (3 X 56) COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/OPA/AL/PVC",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052073222",
+        "nome": "BRIVARACETAM GLENMARK",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 168 (3 X 56) COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/OPA/AL/PVC",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052073234",
+        "nome": "BRIVARACETAM GLENMARK",
+        "descrizione": "75 MG COMPRESSE RIVESTITE CON FILM- 168 (3 X 56) COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/OPA/AL/PVC",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052097019",
         "nome": "BRIVARACETAM DOC",
         "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/OPA/AL/PVC",
@@ -9147,13 +9161,6 @@
         "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 168 (3X56) COMPRESSE IN BLISTER AL/OPA/AL/PVC",
         "produttore": "EG S.P.A.",
         "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "052138017",
-        "nome": "BRILADONA",
-        "descrizione": "0,25 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Compressa"
     },
     {
         "aic": "052138029",

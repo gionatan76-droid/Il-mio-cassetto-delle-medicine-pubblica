@@ -215,5 +215,19 @@
         "descrizione": "?6 MG/ML SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA? 10 PENNE (2X5) DA 3 ML",
         "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053106011",
+        "nome": "BYSUMLOG",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3 mL (3,5 mg/mL) - 1 penna preriempita",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053106023",
+        "nome": "BYSUMLOG",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3 mL (3,5 mg/mL) - 5 penne preriempite",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     }
 ]

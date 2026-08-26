@@ -2779,6 +2779,20 @@
         "forma": "Compressa gastroresistente"
     },
     {
+        "aic": "049818053",
+        "nome": "ABIGERD",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "AURORA BIOFARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "049818065",
+        "nome": "ABIGERD",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "AURORA BIOFARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
         "aic": "050048014",
         "nome": "ABIRATERONE QILU",
         "descrizione": "250 MG COMPRESSE- 120 COMPRESSE IN FLACONE HDPE",
@@ -2880,6 +2894,13 @@
         "aic": "050831080",
         "nome": "ABRYSVO",
         "descrizione": "0.5 ml - Polvere e solvente per soluzione iniettabile - Uso intramuscolare - polvere: flaconcino (vetro), solvente: flaconcino (vetro) 0.5 ml - 10 flaconcini + 10 flaconcini",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "050831092",
+        "nome": "ABRYSVO",
+        "descrizione": "0.5 ml - Polvere e solvente per soluzione iniettabile - Uso intramuscolare - polvere: flaconcino (vetro), solvente: flaconcino (vetro) 2 mL (3 dosi) - 10 flaconcini multidose + 10 flaconcini multidose (30 dosi)",
         "produttore": "PFIZER EUROPE MA EEIG",
         "forma": "Polvere e solvente per soluzione iniettabile"
     },

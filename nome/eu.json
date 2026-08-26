@@ -21,6 +21,13 @@
         "forma": "Compressa masticabile"
     },
     {
+        "aic": "022941088",
+        "nome": "EUCHESSINA C.M.",
+        "descrizione": "3,5 MG COMPRESSE MASTICABILI-40 COMPRESSE IN BLISTER PVC/PVDC/Al",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Compressa masticabile"
+    },
+    {
         "aic": "024402048",
         "nome": "EUTIROX",
         "descrizione": "25 MICROGRAMMI COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
@@ -4329,6 +4336,20 @@
         "aic": "051483028",
         "nome": "EURNEFFY",
         "descrizione": "2 mg - Spray nasale, soluzione - Uso nasale - Flaconcino (vetro) in flacone nebulizzatore 0,1 mL - 2 flaconi nebulizzatori monodose",
+        "produttore": "ALK-ABELLO A/S",
+        "forma": "Spray nasale, soluzione"
+    },
+    {
+        "aic": "051483030",
+        "nome": "EURNEFFY",
+        "descrizione": "1 mg - Spray nasale, soluzione - Uso nasale - Flaconcino (vetro) in flacone nebulizzatore 0,1 ml - 1 flacone nebulizzatore monodose",
+        "produttore": "ALK-ABELLO A/S",
+        "forma": "Spray nasale, soluzione"
+    },
+    {
+        "aic": "051483042",
+        "nome": "EURNEFFY",
+        "descrizione": "1 mg - Spray nasale, soluzione - Uso nasale - Flaconcino (vetro) in flacone nebulizzatore 0,1 ml - 2 flaconi nebulizzatori monodose",
         "produttore": "ALK-ABELLO A/S",
         "forma": "Spray nasale, soluzione"
     }

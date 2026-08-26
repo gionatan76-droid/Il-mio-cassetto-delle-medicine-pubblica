@@ -581,13 +581,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "026109049",
-        "nome": "IPNOVEL",
-        "descrizione": "15 MG/3 ML SOLUZIONE INIETTABILE- 1 FIALA DA 3 ML",
-        "produttore": "CHEPLAPHARM ARZNEIMITTEL GMBH",
-        "forma": "Soluzione iniettabile"
-    },
-    {
         "aic": "026114013",
         "nome": "DIPRIVAN",
         "descrizione": "10 MG/ML EMULSIONE INIETTABILE PER USO ENDOVENOSO- 5 FIALE DA 20 ML",
@@ -1356,13 +1349,6 @@
         "descrizione": "400 MG COMPRESSE GASTRORESISTENTE - 60 COMPRESSE",
         "produttore": "GIULIANI SPA",
         "forma": "Compressa gastroresistente"
-    },
-    {
-        "aic": "026419010",
-        "nome": "ALTAN",
-        "descrizione": "30 MG COMPRESSA RIVESTITA CON FILM- 20 COMPRESSE",
-        "produttore": "FARMAKA S.R.L.",
-        "forma": "Compressa"
     },
     {
         "aic": "026420048",
@@ -2473,28 +2459,28 @@
     {
         "aic": "026752016",
         "nome": "LEVOTUSS",
-        "descrizione": "30 MG/5 ML SCIROPPO- 1 FLACONE 200 ML",
+        "descrizione": "<30 mg/5 ml sciroppo> 1 flacone in vetro  da  200 ml con chiusura a prova di bambino e bicchiere dosatore",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Sciroppo"
     },
     {
         "aic": "026752055",
         "nome": "LEVOTUSS",
-        "descrizione": "60 MG COMPRESSE- 10 COMPRESSE",
+        "descrizione": "<60 mg compresse> 10 compresse in blister pvc/al",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Compressa"
     },
     {
         "aic": "026752067",
         "nome": "LEVOTUSS",
-        "descrizione": "60 MG COMPRESSE- 20 COMPRESSE",
+        "descrizione": "<60 mg compresse> 20 compresse in blister pvc/al",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Compressa"
     },
     {
         "aic": "026752079",
         "nome": "LEVOTUSS",
-        "descrizione": "60 MG/10 ML SCIROPPO- 10 BUSTINE PET/PE/ALLUMINIO/PE DA 10 ML",
+        "descrizione": "<60 mg/10 ml sciroppo> 10 bustine pet/pe/al/pe da 10 ml",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Sciroppo"
     },

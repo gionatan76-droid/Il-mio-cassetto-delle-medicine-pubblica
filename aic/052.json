@@ -178,35 +178,35 @@
         "aic": "052007010",
         "nome": "SAREX",
         "descrizione": "20 MG/5 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007022",
         "nome": "SAREX",
         "descrizione": "40 MG/5 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007034",
         "nome": "SAREX",
         "descrizione": "40 MG/10 MG/12.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007046",
         "nome": "SAREX",
         "descrizione": "40 MG/5 MG/25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052007059",
         "nome": "SAREX",
         "descrizione": "40 MG/10 MG/25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
-        "produttore": "DAY ZERO EHF",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -1050,6 +1050,454 @@
         "forma": "Polvere per soluzione per infusione endovenosa"
     },
     {
+        "aic": "052037013",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037025",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037037",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037049",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037052",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037064",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037076",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037088",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2.,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037090",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037102",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037114",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037126",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120 (2x60) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037138",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (2x90) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037140",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037153",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 200 (2x100) COMPRESSE IN BLISTER  AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037165",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037177",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 14X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037189",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037191",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037203",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037215",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 60X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037227",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 84X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037239",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037241",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037254",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037266",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2.5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120X1 COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037278",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 120 (2X60X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037280",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (2X90X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037292",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037304",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 200 (2X100X1) COMPRESSE IN BLISTER  AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037316",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037328",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/850 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037330",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037342",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037355",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037367",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037379",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037381",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037393",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037405",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037417",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037429",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037431",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037443",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120 (2X60) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037456",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (2X90) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037468",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037470",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 200 (2X100) COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037482",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037494",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 14X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037506",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 28X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037518",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037520",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 56X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037532",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 60X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037544",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 84X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037557",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 90X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037569",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 98X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037571",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 100X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037583",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120X1 COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037595",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 120 (2X60X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037607",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (2X90X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037619",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 (3X60X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037621",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 200 (2X100X1) COMPRESSE IN BLISTER AL-OPA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037633",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052037645",
+        "nome": "LINAGLIPTIN E METFORMINA EG",
+        "descrizione": "2,5 MG/1000 MG COMPRESSE RIVESTITE CON FILM- 180 COMPRESSE FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "EG S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052044017",
         "nome": "PARACETAMOLO E CODEINA EG",
         "descrizione": "500 MG/30 MG COMPRESSE- 16 COMPRESSE IN BLISTER PVC/AL",
@@ -1708,6 +2156,27 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052073210",
+        "nome": "BRIVARACETAM GLENMARK",
+        "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 168 (3 X 56) COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/OPA/AL/PVC",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052073222",
+        "nome": "BRIVARACETAM GLENMARK",
+        "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 168 (3 X 56) COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/OPA/AL/PVC",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052073234",
+        "nome": "BRIVARACETAM GLENMARK",
+        "descrizione": "75 MG COMPRESSE RIVESTITE CON FILM- 168 (3 X 56) COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA AL/OPA/AL/PVC",
+        "produttore": "GLENMARK ARZNEIMITTEL GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052074010",
         "nome": "ELTROMBOPAG MEDAC",
         "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
@@ -2005,7 +2474,7 @@
         "aic": "052091016",
         "nome": "DYRUPEG",
         "descrizione": "6 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,6 ml (10 mg/ml) - 1 siringa preriempita",
-        "produttore": "CURATEQ BIOLOGICS S.R.O",
+        "produttore": "CURATEQ BIOLOGICS (MALTA) LIMITED",
         "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
@@ -3171,13 +3640,6 @@
         "forma": "Compressa a rilascio modificato"
     },
     {
-        "aic": "052138017",
-        "nome": "BRILADONA",
-        "descrizione": "0,25 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "052138029",
         "nome": "BRILADONA",
         "descrizione": "0,25 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
@@ -3295,6 +3757,48 @@
         "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 120 COMPRESSE IN BLISTER PVC/PVDC-AL",
         "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052151014",
+        "nome": "ZOLPIDEM PHARMACARE",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052152016",
+        "nome": "ZOLPIDEM P-CARE",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052153018",
+        "nome": "BELIREM",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052154010",
+        "nome": "ZOLPIDEM PHARMACARE ITALIA",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052155013",
+        "nome": "PIUREM",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052156015",
+        "nome": "QUIEM",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
     },
     {
         "aic": "052157017",
@@ -3960,6 +4464,13 @@
         "descrizione": "1 mg - Polvere per concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) - 1 flaconcino",
         "produttore": "ACCORD HEALTHCARE, S.L.U.",
         "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052190016",
+        "nome": "STEROVIS",
+        "descrizione": "3,35 MG/ML (0,335%) COLLIRIO, SOLUZIONE IN CONTENITORE MONODOSE- 30 CONTENITORI MONODOSE IN LDPE DA 0,3 ML",
+        "produttore": "HORUS PHARMA",
+        "forma": "Collirio, soluzione in contenitore monodose"
     },
     {
         "aic": "052191018",
@@ -4634,6 +5145,174 @@
         "forma": "Gel"
     },
     {
+        "aic": "052226014",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226026",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226038",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226040",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226053",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226065",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226077",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226089",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226091",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226103",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226115",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226127",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226139",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226141",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226154",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226166",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226178",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226180",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226192",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226204",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226216",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226228",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226230",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226242",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052227016",
         "nome": "BRUFEN ANALGESICO",
         "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
@@ -5139,14 +5818,14 @@
     },
     {
         "aic": "052235013",
-        "nome": "LACOSAMIDE EUGIA",
+        "nome": "LACOSAMIDE AUROBINDO ITALIA",
         "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
         "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Soluzione per infusione"
     },
     {
         "aic": "052235025",
-        "nome": "LACOSAMIDE EUGIA",
+        "nome": "LACOSAMIDE AUROBINDO ITALIA",
         "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 5 FLACONCINI IN VETRO DA 20 ML",
         "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Soluzione per infusione"
@@ -6076,6 +6755,76 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052289194",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289206",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289218",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289220",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "2.5 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289232",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289244",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289257",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289269",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "15 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289271",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052289283",
+        "nome": "RIVAROXABAN OLPHA",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052290018",
         "nome": "MYLATABI",
         "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER AL/PVC/AL/OPA",
@@ -6751,6 +7500,13 @@
         "aic": "052321015",
         "nome": "VICKS VAPORUB",
         "descrizione": "vapore per inalazione, unguento> vasetto in pp  da 100 g",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
+        "aic": "052321027",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "VAPORE PER INALAZIONE, UNGUENTO? VASETTO IN PP DA 50 G",
         "produttore": "NEW PHARMASHOP S.R.L.",
         "forma": "Unguento nasale"
     },
@@ -8722,6 +9478,27 @@
         "forma": "Soluzione per dialisi peritoneale"
     },
     {
+        "aic": "052418011",
+        "nome": "CEFTAZIDIMA HAMELN",
+        "descrizione": "500 MG POLVERE PER SOLUZIONE INIETTABILE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "052418023",
+        "nome": "CEFTAZIDIMA HAMELN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "052418035",
+        "nome": "CEFTAZIDIMA HAMELN",
+        "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PR INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
         "aic": "052425016",
         "nome": "LIFODUO",
         "descrizione": "50 MICROGRAMMI/ML + 5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE HDPE DA 2,5 ML CON APPLICATORE CONTAGOCCE E POMPA",
@@ -9063,6 +9840,13 @@
         "descrizione": "3 mcg - Concentrato per dispersione iniettabile - Via intramuscolare - Flaconcino (vetro) 0,48 mL (3 dosi) - 10 flaconcini multidose (30 dosi)",
         "produttore": "BIONTECH MANUFACTURING GMBH",
         "forma": "Concentrato per dispersione iniettabile"
+    },
+    {
+        "aic": "052448077",
+        "nome": "COMIRNATY LP.8.1",
+        "descrizione": "30 mcg - Dispersione per preparazione iniettabile - Via intramuscolare - Siringa preriempita (vetro) 0,418 mL (1 dose) - 1 siringa preriempita (1 dose), solo refrigerata",
+        "produttore": "BIONTECH MANUFACTURING GMBH",
+        "forma": "Dispersione per preparazione iniettabile"
     },
     {
         "aic": "052449016",
@@ -10150,6 +10934,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052508013",
+        "nome": "ALTEA E TIMO OPELLA HEALTHCARE",
+        "descrizione": "SCIROPPO- 1 FLACONE IN VETRO DA 100 ML CON CHIUSURA A PROVA DI BAMBINO CON CUCCHIAIO DOSATORE",
+        "produttore": "OPELLA HEALTHCARE ITALY S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
         "aic": "052510017",
         "nome": "XELLTEMPRA",
         "descrizione": "?350 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 1 FLACONCINO IN VETRO DA 20 ML",
@@ -11228,6 +12019,111 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052577018",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577020",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577032",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577044",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577057",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "24 MG/26 MG COMPRESSE RIVESTITE CON FILM- 196 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577069",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577071",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577083",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577095",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577107",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "49 MG/51 MG COMPRESSE RIVESTITE CON FILM- 196 COMPRESSE IN BLISTER OPA-AL-PVC/ AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577119",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577121",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577133",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577145",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052577158",
+        "nome": "SACUBITRIL E VALSARTAN AXUNIO",
+        "descrizione": "97 MG/103 MG COMPRESSE RIVESTITE CON FILM- 196 COMPRESSE IN BLISTER OPA-AL-PVC/AL",
+        "produttore": "AXUNIO PHARMA GMBH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052582018",
         "nome": "DESMOPRESSINA MYLAN",
         "descrizione": "60 MICROGRAMMI LIOFILIZZATO SUBLINGUALE- 30 LIOFILIZZATI SUBLINGUALI IN BLISTER PVC/PA/AL/PA/PVC-AL/PET/CARTA",
@@ -11436,6 +12332,20 @@
         "descrizione": "400 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/PVDC/AL",
         "produttore": "MYLAN S.P.A.",
         "forma": "Capsula molle"
+    },
+    {
+        "aic": "052591017",
+        "nome": "MACITENTAN ABDI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 15 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "Abdi Farma GmbH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052591029",
+        "nome": "MACITENTAN ABDI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "Abdi Farma GmbH",
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052593011",
@@ -11830,6 +12740,20 @@
         "forma": "Unguento nasale"
     },
     {
+        "aic": "052610021",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "vapore per inalazione, unguento> vasetto in pp  da 100 g",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
+        "aic": "052610033",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "vapore per inalazione, unguento> vasetto in pp  da 100 g",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
         "aic": "052611011",
         "nome": "RYALTRIS",
         "descrizione": "?25 microgrammi/600 microgrammi/erogazione spray nasale, sospensione- 1 flacone  da 240 erogazioni in HDPE con pompa dosatrice",
@@ -11987,6 +12911,13 @@
         "aic": "052636038",
         "nome": "SIBILLETTE",
         "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1X28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052636040",
+        "nome": "SIBILLETTE",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 3X28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "BB FARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -12383,6 +13314,48 @@
         "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
+        "aic": "052646015",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646027",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646039",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646041",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646054",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052646066",
+        "nome": "LINAGLIPTIN DOC",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052647017",
         "nome": "FRIPASS",
         "descrizione": "100 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/AL",
@@ -12479,6 +13452,20 @@
         "descrizione": "150 MG CAPSULE RIGIDE- 20 CAPSULE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
         "produttore": "ZIM LABORATORIES LIMITED SIA",
         "forma": "Capsula rigida"
+    },
+    {
+        "aic": "052669013",
+        "nome": "MACITENTAN VIVANTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "VIVANTA GENERICS S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052669025",
+        "nome": "MACITENTAN VIVANTA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
+        "produttore": "VIVANTA GENERICS S.R.O.",
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "052673011",
@@ -12901,6 +13888,27 @@
         "forma": "Compressa masticabile"
     },
     {
+        "aic": "052694015",
+        "nome": "TROSARUM",
+        "descrizione": "?CONCENTRATO PER SOLUZIONE PER INFUSIONE? 1 FIALA IN PP DA 10 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052694027",
+        "nome": "TROSARUM",
+        "descrizione": "?CONCENTRATO PER SOLUZIONE PER INFUSIONE? 10 FIALE IN PP DA 10 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052694039",
+        "nome": "TROSARUM",
+        "descrizione": "?CONCENTRATO PER SOLUZIONE PER INFUSIONE? 20 FIALE IN PP DA 10 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
         "aic": "052696010",
         "nome": "ESOMEPRAZOLO LABORATORI ALTER",
         "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER OPA/AL/PVC-AL",
@@ -13216,6 +14224,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052761018",
+        "nome": "CASPOFUNGIN ELC",
+        "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "ELC GROUP S.R.O.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
         "aic": "052762010",
         "nome": "AROMASIN",
         "descrizione": "25 MG COMPRESSE RIVESTITE- 30 COMPRESSE IN BLISTER AL-PVDC/PVC-PVDC",
@@ -13380,63 +14395,63 @@
         "aic": "052808019",
         "nome": "GALENVITA",
         "descrizione": "0,74 GBq - Generatore di radionuclidi - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808021",
         "nome": "GALENVITA",
         "descrizione": "1,11 GBq - Generatore di radionuclide - Via di somministrazione non specificabile -Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808033",
         "nome": "GALENVITA",
         "descrizione": "1,48 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808045",
         "nome": "GALENVITA",
         "descrizione": "1,85 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808058",
         "nome": "GALENVITA",
         "descrizione": "2,22 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808060",
         "nome": "GALENVITA",
         "descrizione": "2,59 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808072",
         "nome": "GALENVITA",
         "descrizione": "2,96 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808084",
         "nome": "GALENVITA",
         "descrizione": "3,33 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808096",
         "nome": "GALENVITA",
         "descrizione": "3,70 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
@@ -13790,6 +14805,174 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052839014",
+        "nome": "EZETIMIBE OLPHA",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052839026",
+        "nome": "EZETIMIBE OLPHA",
+        "descrizione": "10 MG COMPRESSE- 56 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052839038",
+        "nome": "EZETIMIBE OLPHA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052848013",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848025",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848037",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848049",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848052",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848064",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848076",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848088",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848090",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848102",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848114",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848126",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848138",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848140",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848153",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848165",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848177",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848189",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848191",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848203",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848215",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "052850017",
         "nome": "KLAIRA",
         "descrizione": "COMPRESSE RIVESTITE CON FILM- 1X28 COMPRESSE RIVESTITE CON FILM IN BLISTER PVC/AL",
@@ -14098,6 +15281,34 @@
         "forma": "Dispersione per preparazione iniettabile"
     },
     {
+        "aic": "052884018",
+        "nome": "GOTENFIA",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884020",
+        "nome": "GOTENFIA",
+        "descrizione": "50 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0,5 ml (100 mg/ml) - 3 siringhe preriempite",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884032",
+        "nome": "GOTENFIA",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 1 siringa preriempita",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "052884044",
+        "nome": "GOTENFIA",
+        "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (100 mg/ml) - 3 siringhe preriempite",
+        "produttore": "STADA ARZNEIMITTEL AG",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
         "aic": "052890011",
         "nome": "EXDENSUR",
         "descrizione": "100 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 1 ml (100 mg/ml) - 1 penna preriempita",
@@ -14123,6 +15334,20 @@
         "nome": "BRUFEN ANALGESICO",
         "descrizione": "400 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "DIFARMED SOCIEDAD LIMITADA UNIPERSONAL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052893017",
+        "nome": "REZUROCK",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 28 compresse",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052893029",
+        "nome": "REZUROCK",
+        "descrizione": "200 mg - Compressa rivestita con film - Uso orale - Flacone (HDPE) - 30 compresse",
+        "produttore": "SANOFI WINTHROP INDUSTRIE",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -14236,6 +15461,13 @@
         "descrizione": "19,5 MG SISTEMA A RILASCIO INTRAUTERINO- 1 SISTEMA A RILASCIO INTRAUTERINO IN BLISTER PETG/PE",
         "produttore": "GMM FARMA S.R.L.",
         "forma": "Sistema a rilascio intrauterino"
+    },
+    {
+        "aic": "052930017",
+        "nome": "CEFAZOLINA HAMELN",
+        "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
+        "produttore": "HAMELN PHARMA GMBH",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "052935018",
@@ -14378,10 +15610,178 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052963016",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 1 flaconcino",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963028",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 2 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963030",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 3 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963042",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 4 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963055",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 1 flaconcino",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963067",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 2 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963079",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 3 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963081",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 4 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052965011",
+        "nome": "EPINEN",
+        "descrizione": "150 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 1 SIRINGA IN VETRO IN AUTOINIETTORE DA 150 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052965023",
+        "nome": "EPINEN",
+        "descrizione": "150 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 2 SIRINGHE IN VETRO IN AUTOINIETTORE DA 150 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052965035",
+        "nome": "EPINEN",
+        "descrizione": "300 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA-  1 SIRINGA IN VETRO IN AUTOINIETTORE DA 300 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052965047",
+        "nome": "EPINEN",
+        "descrizione": "300 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA-  2 SIRINGHE IN VETRO IN AUTOINIETTORE DA 300 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052966013",
+        "nome": "KYGEVVI",
+        "descrizione": "2 g / 2 g - Polvere per soluzione orale - Uso orale - Bustina (LDPE/alu/PET) - 30 bustine",
+        "produttore": "UCB PHARMA S.A.",
+        "forma": "Polvere per soluzione orale"
+    },
+    {
+        "aic": "052967015",
+        "nome": "KAYSHILD",
+        "descrizione": "0,25 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1,5 ml (0,68 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967027",
+        "nome": "KAYSHILD",
+        "descrizione": "0,5 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (0,68 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967039",
+        "nome": "KAYSHILD",
+        "descrizione": "1 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (1,34 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967041",
+        "nome": "KAYSHILD",
+        "descrizione": "1,7 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (2,27 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967054",
+        "nome": "KAYSHILD",
+        "descrizione": "2,4 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (3,2 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
         "aic": "052968017",
         "nome": "TOPAMAX",
         "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER AL/AL",
         "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969019",
+        "nome": "FYLREVY",
+        "descrizione": "14,2 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 28 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969021",
+        "nome": "FYLREVY",
+        "descrizione": "14,2 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 84 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969033",
+        "nome": "FYLREVY",
+        "descrizione": "14,2 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 168 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969045",
+        "nome": "FYLREVY",
+        "descrizione": "18,9 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 28 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969058",
+        "nome": "FYLREVY",
+        "descrizione": "18,9 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 84 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969060",
+        "nome": "FYLREVY",
+        "descrizione": "18,9 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 168 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
         "forma": "Compressa rivestita con film"
     },
     {

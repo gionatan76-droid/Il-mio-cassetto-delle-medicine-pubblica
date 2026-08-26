@@ -28,6 +28,27 @@
         "forma": "Compressa"
     },
     {
+        "aic": "050825052",
+        "nome": "AQUIPTA",
+        "descrizione": "10 mg - Compressa - Uso orale - blister (PVC/PE/PCTFE/alu) - 7 compresse",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050825064",
+        "nome": "AQUIPTA",
+        "descrizione": "60 mg - Compressa - Uso orale - blister (PVC/PE/PCTFE/alu) - 2 compresse",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050825076",
+        "nome": "AQUIPTA",
+        "descrizione": "60 mg - Compressa - Uso orale - blister (PVC/PE/PCTFE/alu) - 7 compresse",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Compressa"
+    },
+    {
         "aic": "050963014",
         "nome": "AQUMELDI",
         "descrizione": "0,25 mg - Compressa orodispersibile - Uso orale - Flacone (HDPE) - 50 compresse + 1 misurino",

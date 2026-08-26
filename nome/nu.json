@@ -525,6 +525,13 @@
         "forma": "Compressa rivestita"
     },
     {
+        "aic": "039500071",
+        "nome": "NUROFEN",
+        "descrizione": "400 MG COMPRESSE RIVESTITE - 12 COMPRESSE IN PVC-PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
         "aic": "040416048",
         "nome": "NUTRIPLUS OMEGA",
         "descrizione": "<32/64/40 periferico  emulsione  per  infusione>  5 sacche in Pp a 3 comparti da 1250 ml",
@@ -12268,6 +12275,13 @@
         "nome": "NUSTENDI",
         "descrizione": "180 MG/10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/ALLUMINIO) - 28 COMPRESSE",
         "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053130011",
+        "nome": "NUSTENDI",
+        "descrizione": "180 MG/10 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ACLAR/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S",
         "forma": "Compressa rivestita con film"
     }
 ]

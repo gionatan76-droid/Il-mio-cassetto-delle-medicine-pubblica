@@ -201,5 +201,75 @@
         "descrizione": "40 mg - Compressa masticabile a rilascio prolungato - Uso orale - Flacone (HDPE) - 30 compresse",
         "produttore": "NEURAXPHARM PHARMACEUTICALS, S.L",
         "forma": "Compressa masticabile a rilascio prolungato"
+    },
+    {
+        "aic": "053050011",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 ml - 1 Flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050023",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 4 ml - 4 Flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050035",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 ml - 1 Flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050047",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 10 ml - 4 Flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050050",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 ml - 1 Flaconcino",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050062",
+        "nome": "TUYORY",
+        "descrizione": "20 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 20 ml - 4 Flaconcini",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "053050074",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0.9 ml (180 mg/ml) - 4 siringhe preriempite",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053050086",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 0.9 ml (180 mg/ml) - 12 (3 x 4) siringhe preriempite (confezione multipla)",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053050098",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.9 ml (180 mg/ml) - 4 penne preriempite",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053050100",
+        "nome": "TUYORY",
+        "descrizione": "162 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0.9 ml (180 mg/ml) - 12 (3 x 4) penne preriempite (confezione multipla)",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     }
 ]

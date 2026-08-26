@@ -11312,6 +11312,13 @@
         "forma": "Compressa a rilascio prolungato"
     },
     {
+        "aic": "038264053",
+        "nome": "CIRCADIN",
+        "descrizione": "2 mg - Compressa a rilascio prolungato - Uso orale - Blister (PVC/PVDC/alu) - 30 x 1 compresse (dose unitaria)",
+        "produttore": "RAD NEURIM PHARMACEUTICALS EEC SARL",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
         "aic": "038271019",
         "nome": "ECLIPSE",
         "descrizione": "2,5 MG COMPRESSE - 28 COMPRESSE DIVISIBILI",
@@ -18429,20 +18436,6 @@
         "descrizione": "1 MG COMPRESSE-20 COMPRESSE",
         "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
         "forma": "Compressa"
-    },
-    {
-        "aic": "038482129",
-        "nome": "XANAX",
-        "descrizione": "0,25 MG COMPRESSE-20 COMPRESSE",
-        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "038482131",
-        "nome": "XANAX",
-        "descrizione": "0,50 MG COMPRESSE-20 COMPRESSE",
-        "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
-        "forma": "Capsula rigida a rilascio prolungato"
     },
     {
         "aic": "038483018",
@@ -30156,69 +30149,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "038831018",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831020",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831032",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831044",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831057",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 42 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831069",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831071",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831083",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831095",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
         "aic": "038833012",
         "nome": "METRONIDAZOLO B. BRAUN",
         "descrizione": "5 MG/ML SOLUZIONE PER INFUSIONE - 10 FLACONI  DA 100 ML IN LDPE",
@@ -30912,6 +30842,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "038848115",
+        "nome": "TAVOR",
+        "descrizione": "?1 MG COMPRESSE? 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "038849016",
         "nome": "TOCTINO",
         "descrizione": "10 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/PE/PVDC/AL",
@@ -30971,6 +30908,13 @@
         "aic": "038856050",
         "nome": "MAALOX",
         "descrizione": "4% + 3,5% SOSPENSIONE ORALE AROMA MENTA- FLACONE IN PET DA 250 ML",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "038856062",
+        "nome": "MAALOX",
+        "descrizione": "400 MG+ 400 MG COMPRESSE MASTICABILI SENZA ZUCCHERO AROMA LIMONE- 30 COMPRESSE IN BLISTER PVC/AL",
         "produttore": "FARMA 1000 S.R.L.",
         "forma": "Compressa masticabile"
     },
@@ -34966,378 +34910,378 @@
     },
     {
         "aic": "038944017",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 2 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944029",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 3 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944031",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 5 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944043",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 7 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944056",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 10 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944068",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 14 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944070",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 20 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944082",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICIN ALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE DA 27 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944106",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ALLUMINIO CON VALVOLA RIDUTTRICE DA 5 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944118",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 0,5 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944120",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 1 LITRO",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944132",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 2 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944144",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 3 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944157",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 5 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944169",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 7 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944171",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 10 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944183",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 14 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944195",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 20 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944207",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 27 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944219",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 30 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944221",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 33 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944233",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 40 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944245",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ACCIAIO CON VALVOLA VI O VP DA 50 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944258",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ALLUMINIO CON VALVOLA VI O VP DA 3 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944260",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ALLUMINIO CON VALVOLA VI O VP DA 5 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944272",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - BOMBOLA IN ALLUMINIO CON VALVOLA VI O VP DA 14 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944284",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - PACCO BOMBOLE DA 12 BOMBOLE DA 40 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944296",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - PACCO BOMBOLE DA 12 BOMBOLE DA 50 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944308",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - PACCO BOMBOLE DA 16 BOMBOLE DA 40 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944310",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "200 BAR, GAS MEDICINALE COMPRESSO - PACCO BOMBOLE DA 16 BOMBOLE DA 50 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944322",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO MOBILE, 15 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944334",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO MOBILE, 25 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944346",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO MOBILE, 31 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944359",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO MOBILE, 37 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944361",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO MOBILE, 45 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944373",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO FISSO,  1500LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944385",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO FISSO,  3000 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944397",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO FISSO,  5000 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944409",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO FISSO,  10000  LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944411",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO FISSO,  15000  LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944423",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO - CONTENITORE CRIOGENICO FISSO,  20000  LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944435",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "124 BAR GAS MEDICINALE COMPRESSO- BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE INTEGRATA DA 8,75 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944450",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "124 BAR GAS MEDICINALE COMPRESSO- BOMBOLA IN ACCIAIO CON VALVOLA RIDUTTRICE INTEGRATA DA 23,6 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale compresso"
     },
     {
         "aic": "038944462",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 1000 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944474",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 2000 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944486",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO MOBILE OSPEDALIERO 200 LT",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944498",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO MOBILE OSPEDALIERO 220 LT",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944500",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE FISSO DA 6000 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944512",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE FISSO DA 12000 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944524",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA  30000  LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944536",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 40000  LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944548",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO FISSO DA 50000  LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944551",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO MOBILE DA 21 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"
     },
     {
         "aic": "038944563",
-        "nome": "OSSIGENO NIPPON GASES",
+        "nome": "OSSIGENO NIPPON SANSO",
         "descrizione": "GAS MEDICINALE CRIOGENICO- CONTENITORE CRIOGENICO MOBILE DA 41 LITRI",
         "produttore": "NIPPON SANSO PHARMA S.R.L.",
         "forma": "Gas medicinale criogenico"

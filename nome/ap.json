@@ -4866,58 +4866,58 @@
     },
     {
         "aic": "051037012",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037024",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037036",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037048",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?2,5 MG COMPRESSE RIVESTITE CON FILM? 500 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037051",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 20 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037063",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037075",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051037087",
-        "nome": "APIXABAN TORRENT",
+        "nome": "APIXABAN EVER PHARMA",
         "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 500 COMPRESSE IN FLACONE HDPE CON TAPPO A PROVA DI BAMBINO",
-        "produttore": "TORRENT PHARMA (MALTA) LIMITED",
+        "produttore": "EVER PHARMA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -5394,6 +5394,48 @@
         "nome": "APIXABAN ABDI",
         "descrizione": "?5 MG COMPRESSE RIVESTITE CON FILM? 200 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
         "produttore": "Abdi Farma GmbH",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051652016",
+        "nome": "APREMILAST REIG JOFRE",
+        "descrizione": "10 MG + 20 MG + 30 MG COMPRESSE RIVESTITE CON FILM- 27 COMPRESSE (4 X 10 MG, 4 X 20 MG, 19 X 30 MG) IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO REIG JOFRE, S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051652028",
+        "nome": "APREMILAST REIG JOFRE",
+        "descrizione": "10 MG + 20 MG + 30 MG COMPRESSE RIVESTITE CON FILM- 27 COMPRESSE (4 X 10 MG, 4 X 20 MG, 19 X 30 MG) IN BLISTER AL/AL",
+        "produttore": "LABORATORIO REIG JOFRE, S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051652030",
+        "nome": "APREMILAST REIG JOFRE",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO REIG JOFRE, S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051652042",
+        "nome": "APREMILAST REIG JOFRE",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 168 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "LABORATORIO REIG JOFRE, S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051652055",
+        "nome": "APREMILAST REIG JOFRE",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "LABORATORIO REIG JOFRE, S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051652067",
+        "nome": "APREMILAST REIG JOFRE",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 168 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "LABORATORIO REIG JOFRE, S.A.",
         "forma": "Compressa rivestita con film"
     },
     {

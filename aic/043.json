@@ -12817,6 +12817,13 @@
         "forma": "Collirio, soluzione"
     },
     {
+        "aic": "043317066",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Unguento"
+    },
+    {
         "aic": "043318017",
         "nome": "TOBRADEX",
         "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE-FLACONE CONTAGOCCE 5 ML",
@@ -18627,6 +18634,13 @@
         "forma": "Capsula rigida gastroresistente"
     },
     {
+        "aic": "043490313",
+        "nome": "OMEPRAZOLO MYLAN PHARMA",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 250 CAPSULE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
         "aic": "043494018",
         "nome": "PANTOPRAZOLO AUROBINDO",
         "descrizione": "20 MG COMPRESSE GASTRO RESISTENTI - 7 COMPRESSE IN BLISTER PA/AL/PVC/AL",
@@ -23418,168 +23432,168 @@
         "aic": "043665013",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE - 14 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665025",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE - 28 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665037",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE - 98 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665049",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE - 14 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665052",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE - 28 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665064",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE - 98 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665076",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE - 14 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665088",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE - 28 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665090",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE - 98 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665138",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE - 49 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665140",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE - 49 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665153",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE - 49 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665177",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE- 56 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665189",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE- 56 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665191",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE- 56 COMPRESSE IN BLISTER PA/ALL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665215",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE- 42 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665227",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE- 84 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665239",
         "nome": "ARPOYA",
         "descrizione": "5 MG COMPRESSE- 91 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665241",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE- 42 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665254",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE- 84 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665266",
         "nome": "ARPOYA",
         "descrizione": "10 MG COMPRESSE- 91 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665278",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE- 42 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665280",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE- 84 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "043665292",
         "nome": "ARPOYA",
         "descrizione": "15 MG COMPRESSE- 91 COMPRESSE IN BLISTER PA/AL/PVC/AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Compressa"
     },
     {
@@ -31657,7 +31671,7 @@
         "aic": "043909011",
         "nome": "HOLOCLAR",
         "descrizione": "79.000-316.000 CELLULE/CM2- TESSUTO VIVENTE DA COLTURA DI CELLULE-IMPIANTO-CONTENITORE CON TAPPO A VITE (ACCIAIO INOSSIDABILE)-3,8 CM2 - 1 IMPIANTO",
-        "produttore": "Holostem S.r.l.",
+        "produttore": "HOLOSTEM S.R.L.",
         "forma": "Tessuto vivente da coltura di cellule"
     },
     {
@@ -33029,6 +33043,13 @@
         "aic": "043931070",
         "nome": "TADALAFIL AUROBINDO",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "043931082",
+        "nome": "TADALAFIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
         "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
         "forma": "Compressa rivestita con film"
     },

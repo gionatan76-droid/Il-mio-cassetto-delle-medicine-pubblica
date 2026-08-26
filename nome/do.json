@@ -952,13 +952,6 @@
         "forma": "Compressa"
     },
     {
-        "aic": "035812015",
-        "nome": "DOMPERIDONE EG",
-        "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "036109015",
         "nome": "DOMPERIDONE DOC GENERICI",
         "descrizione": "10 MG COMPRESSE - 30 COMPRESSE",
@@ -1306,83 +1299,6 @@
         "nome": "DOXAZOSINA ALMUS",
         "descrizione": "4 MG COMPRESSE - 30 COMPRESSE DIVISIBILI IN BLISTER PVC/PVDC/AL",
         "produttore": "ALMUS S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750015",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750027",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750039",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750041",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750054",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750066",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750078",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750080",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750092",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750104",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750116",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
         "forma": "Compressa"
     },
     {
@@ -2789,13 +2705,6 @@
         "aic": "040577037",
         "nome": "DOCETAXEL RATIOPHARM ITALIA",
         "descrizione": "20MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 140MG/7ML",
-        "produttore": "TEVA B.V.",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "040577049",
-        "nome": "DOCETAXEL RATIOPHARM ITALIA",
-        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 160 MG/8 ML",
         "produttore": "TEVA B.V.",
         "forma": "Concentrato per soluzione per infusione"
     },

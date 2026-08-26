@@ -98,6 +98,20 @@
         "forma": "Soluzione iniettabile"
     },
     {
+        "aic": "020197012",
+        "nome": "CARIN",
+        "descrizione": "200 MG + 330 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "020197051",
+        "nome": "CARIN",
+        "descrizione": "200 MG + 330 MG COMPRESSE EFFERVESCENTI - 20 COMPRESSE",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
         "aic": "021473018",
         "nome": "CARDIAZOL PARACODINA",
         "descrizione": "20 MG/ML+100 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE CONTAGOCCE 10 ML",
@@ -424,7 +438,7 @@
         "nome": "CARDIRENE",
         "descrizione": "160 MG POLVERE PER SOLUZIONE ORALE-30 BUSTINE",
         "produttore": "SUBSTIPHARM",
-        "forma": "Polvere orale"
+        "forma": "Polvere per soluzione orale"
     },
     {
         "aic": "028717027",
@@ -5537,13 +5551,6 @@
         "forma": "Granulato per soluzione orale"
     },
     {
-        "aic": "037944028",
-        "nome": "CARBOCISTEINA IPSO PHARMA",
-        "descrizione": "2,7 G/ 10 ML SCIROPPO - 6 CONTENITORI MONODOSE",
-        "produttore": "IPSO PHARMA S.R.L.",
-        "forma": "Granulato per soluzione orale"
-    },
-    {
         "aic": "037944030",
         "nome": "CARBOCISTEINA IPSO PHARMA",
         "descrizione": "90 MG/ ML SCIROPPO - 1 FLACONE DA 200 ML",
@@ -8599,6 +8606,20 @@
         "aic": "041145739",
         "nome": "CANDESARTAN E IDROCLOROTIAZIDE SANDOZ",
         "descrizione": "32 MG/25 MG COMPRESSE- 56 COMPRESSE IN FLACONE HDPE",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041145741",
+        "nome": "CANDESARTAN E IDROCLOROTIAZIDE SANDOZ",
+        "descrizione": "8 MG/12.5 MG COMPRESSE- 105 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041145754",
+        "nome": "CANDESARTAN E IDROCLOROTIAZIDE SANDOZ",
+        "descrizione": "16 MG/12.5 MG COMPRESSE- 105 COMPRESSE IN BLISTER AL/AL",
         "produttore": "SANDOZ S.P.A.",
         "forma": "Compressa"
     },
@@ -48881,6 +48902,13 @@
         "forma": "Sospensione iniettabile a rilascio prolungato in siringa pre-riempita"
     },
     {
+        "aic": "050122023",
+        "nome": "CAMCEVI",
+        "descrizione": "21 mg - Sospensione iniettabile a rilascio prolungato - Uso sottocutaneo - Siringa preriempita (COC) - 1 siringa preriempita + 1 ago di sicurezza",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Sospensione iniettabile a rilascio prolungato in siringa pre-riempita"
+    },
+    {
         "aic": "050128014",
         "nome": "CARVYKTI",
         "descrizione": "3,2 ? 10 alla sesta ?1,0 ? 10 alla ottava cellule - Dispersione per infusione - Uso endovenoso - Sacca (EVA) 30 ml o 70 ml - 1 sacca",
@@ -50111,5 +50139,12 @@
         "descrizione": "16 MG/10 MG COMPRESSE- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "DOC GENERICI SRL",
         "forma": "Compressa"
+    },
+    {
+        "aic": "052761018",
+        "nome": "CASPOFUNGIN ELC",
+        "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
+        "produttore": "ELC GROUP S.R.O.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
     }
 ]

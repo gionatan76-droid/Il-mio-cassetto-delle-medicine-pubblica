@@ -3808,6 +3808,13 @@
         "forma": "Compressa a rilascio prolungato"
     },
     {
+        "aic": "038264053",
+        "nome": "CIRCADIN",
+        "descrizione": "2 mg - Compressa a rilascio prolungato - Uso orale - Blister (PVC/PVDC/alu) - 30 x 1 compresse (dose unitaria)",
+        "produttore": "RAD NEURIM PHARMACEUTICALS EEC SARL",
+        "forma": "Compressa a rilascio prolungato"
+    },
+    {
         "aic": "038279016",
         "nome": "CIPROFLOXACINA BIOINDUSTRIA L.I.M.",
         "descrizione": "200 MG/ 100 ML  SOLUZIONE PER INFUSIONE - 5 FLACONI DA 100 ML",
@@ -6989,6 +6996,13 @@
         "aic": "047407010",
         "nome": "CIPRALEX",
         "descrizione": "10 MG COMPRESSE- 28 COMPRESSE RIVESTITE CON FILM IN BLISTER PVC/PE/PVDC/AL TRASPARENTE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047407022",
+        "nome": "CIPRALEX",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL CHIARO",
         "produttore": "GMM FARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },

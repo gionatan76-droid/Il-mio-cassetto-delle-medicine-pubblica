@@ -606,14 +606,14 @@
         "nome": "JAYDESS",
         "descrizione": "13,5 mg sistema a rilascio intrauterino> 1 sistema a rilascio intrauterino in blister PTEG/PE",
         "produttore": "BAYER S.P.A.",
-        "forma": "Soluzione vaginale"
+        "forma": "Sistema a rilascio intrauterino"
     },
     {
         "aic": "042522021",
         "nome": "JAYDESS",
         "descrizione": "13,5 mg sistema a rilascio  intrauterino>  5  x  1 sistema a rilascio intrauterino in blister PTEG/PE",
         "produttore": "BAYER S.P.A.",
-        "forma": "Soluzione vaginale"
+        "forma": "Sistema a rilascio intrauterino"
     },
     {
         "aic": "043443011",
@@ -1138,6 +1138,13 @@
         "nome": "JAYPIRCA",
         "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (PCTFE/PVC/alu) - 168 compresse",
         "produttore": "ELI LILLY NEDERLAND B.V.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053144010",
+        "nome": "JANUVIA",
+        "descrizione": "50 MG COMPRESSA RIVESTITA CON FILM - USO ORALE- BLISTER (PVC/PE/PVDC/ALU) 28 COMPRESSE",
+        "produttore": "GMM FARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     }
 ]

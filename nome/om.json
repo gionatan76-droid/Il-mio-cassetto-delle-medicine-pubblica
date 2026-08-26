@@ -4277,6 +4277,13 @@
         "forma": "Capsula rigida gastroresistente"
     },
     {
+        "aic": "043490313",
+        "nome": "OMEPRAZOLO MYLAN PHARMA",
+        "descrizione": "20 MG CAPSULE RIGIDE GASTRORESISTENTI- 250 CAPSULE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Capsula rigida gastroresistente"
+    },
+    {
         "aic": "043498017",
         "nome": "OMEPRAZOLO ALMUS PHARMA",
         "descrizione": "10 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE IN BLISTER AL/AL",
@@ -5794,6 +5801,34 @@
         "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 2 ml (150 mg/ml) - 6 (6 x 1) siringhe preriempite (confezione multipla)",
         "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
         "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051249187",
+        "nome": "OMLYCLO",
+        "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo siringa preriempita (vetro) in penna preriempita 2 ml (150 mg/ml) - 1 penna preriempita",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "051249199",
+        "nome": "OMLYCLO",
+        "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo siringa preriempita (vetro) in penna preriempita 2 ml (150 mg/ml) - 2 (2 x 1) penne preriempite (confezione multipla)",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "051249201",
+        "nome": "OMLYCLO",
+        "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo siringa preriempita (vetro) in penna preriempita 2 ml (150 mg/ml) - 3 (3 x 1) penne preriempite (confezione multipla)",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "051249213",
+        "nome": "OMLYCLO",
+        "descrizione": "300 mg - Soluzione iniettabile - Uso sottocutaneo siringa preriempita (vetro) in penna preriempita 2 ml (150 mg/ml) - 6 (6 x 1) penne preriempite (confezione multipla)",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "051491013",

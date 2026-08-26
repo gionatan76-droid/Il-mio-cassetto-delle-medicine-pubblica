@@ -1536,7 +1536,7 @@
         "aic": "022907036",
         "nome": "ORAP",
         "descrizione": "4 MG COMPRESSE- 20 COMPRESSE",
-        "produttore": "EUMEDICA N.V./S.A.",
+        "produttore": "EUMEDICA PHARMACEUTICALS GMBH",
         "forma": "Compressa"
     },
     {
@@ -1606,6 +1606,13 @@
         "aic": "022941076",
         "nome": "EUCHESSINA C.M.",
         "descrizione": "3,5 MG COMPRESSE MASTICABILI-18 COMPRESSE",
+        "produttore": "CHIESI FARMACEUTICI S.P.A.",
+        "forma": "Compressa masticabile"
+    },
+    {
+        "aic": "022941088",
+        "nome": "EUCHESSINA C.M.",
+        "descrizione": "3,5 MG COMPRESSE MASTICABILI-40 COMPRESSE IN BLISTER PVC/PVDC/Al",
         "produttore": "CHIESI FARMACEUTICI S.P.A.",
         "forma": "Compressa masticabile"
     },

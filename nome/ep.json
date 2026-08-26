@@ -2128,6 +2128,34 @@
         "forma": "Soluzione iniettabile"
     },
     {
+        "aic": "052965011",
+        "nome": "EPINEN",
+        "descrizione": "150 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 1 SIRINGA IN VETRO IN AUTOINIETTORE DA 150 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052965023",
+        "nome": "EPINEN",
+        "descrizione": "150 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA- 2 SIRINGHE IN VETRO IN AUTOINIETTORE DA 150 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052965035",
+        "nome": "EPINEN",
+        "descrizione": "300 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA-  1 SIRINGA IN VETRO IN AUTOINIETTORE DA 300 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052965047",
+        "nome": "EPINEN",
+        "descrizione": "300 MICROGRAMMI SOLUZIONE INIETTABILE IN PENNA PRERIEMPITA-  2 SIRINGHE IN VETRO IN AUTOINIETTORE DA 300 MICROGRAMMI/0,3 ML",
+        "produttore": "Viatris Healthcare Limited",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
         "aic": "053058018",
         "nome": "EPACLOB",
         "descrizione": "<1 MG/ML SOSPENSIONE ORALE> 1 FLACONE IN VETRO DA 250 ML",

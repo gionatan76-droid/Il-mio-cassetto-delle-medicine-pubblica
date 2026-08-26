@@ -408,21 +408,21 @@
     {
         "aic": "029791011",
         "nome": "SODIO FOSFATO SELLA",
-        "descrizione": "ADULTI 16%/6% SOLUZIONE RETTALE- 1 FLACONE 120 ML",
+        "descrizione": "<16% / 6% soluzione rettale> 1 flacone in  PE da 120 ml",
         "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
         "forma": "Soluzione rettale"
     },
     {
         "aic": "029791023",
         "nome": "SODIO FOSFATO SELLA",
-        "descrizione": "16%/6% SOLUZIONE RETTALE- 4 FLACONI DA 120 ML",
+        "descrizione": "<16% / 6% soluzione rettale> 4 flaconi in  PE da 120 ml",
         "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
         "forma": "Soluzione rettale"
     },
     {
         "aic": "029791035",
         "nome": "SODIO FOSFATO SELLA",
-        "descrizione": "16%/6% SOLUZIONE RETTALE- 20 FLACONI DA 120 ML",
+        "descrizione": "<16% / 6% soluzione rettale> 20 flaconi in PE da 120 ml",
         "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
         "forma": "Soluzione rettale"
     },
@@ -1363,6 +1363,20 @@
         "descrizione": "15 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 19 ML CON CHIUSURA A PROVA DI BAMBINO",
         "produttore": "PHARM@IDEA S.R.L.",
         "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "030305015",
+        "nome": "SODIO FOSFATO FARMAKOPEA",
+        "descrizione": "ADULTI 16%/6% SOLUZIONE RETTALE- 1 FLACONE 120 ML",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Soluzione rettale"
+    },
+    {
+        "aic": "030305027",
+        "nome": "SODIO FOSFATO FARMAKOPEA",
+        "descrizione": "BAMBINI 16%/6% SOLUZIONE RETTALE- 1 FLACONE 60 ML",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Soluzione rettale"
     },
     {
         "aic": "030330017",
@@ -8186,7 +8200,7 @@
         "aic": "045231014",
         "nome": "SOMAKIT TOC",
         "descrizione": "40 MCG - KIT PER PREPARAZIONE RADIOFARMACEUTICA - USO ENDOVENOSO - POLVERE: FLACONCINO (VETRO), TAMPONE DI REAZIONE: FLACONCINO (COP) - POLVERE PER SOLUZIONE INIETTABILE: 40 MCG, TAMPONE DI REAZIONE: 1 ML - 1 FLACONCINO + 1 FLACONCINO",
-        "produttore": "ADVANCED ACCELERATOR APPLICATIONS",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
         "forma": "Kit per preparazione radiofarmaceutica"
     },
     {
@@ -8241,42 +8255,42 @@
     {
         "aic": "045261017",
         "nome": "SOFLON",
-        "descrizione": "5 MG COMPRESSA- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "5 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "045261029",
         "nome": "SOFLON",
-        "descrizione": "5 MG COMPRESSA- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "5 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "045261031",
         "nome": "SOFLON",
-        "descrizione": "5 MG COMPRESSA- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "045261043",
         "nome": "SOFLON",
-        "descrizione": "20 MG COMPRESSA- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "20 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "045261056",
         "nome": "SOFLON",
-        "descrizione": "25 MG COMPRESSA- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "25 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa"
     },
     {
         "aic": "045261068",
         "nome": "SOFLON",
-        "descrizione": "25 MG COMPRESSA- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "25 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa"
     },

@@ -343,62 +343,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "033635475",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 2 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635487",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 4 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635499",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 10 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635501",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 20 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635513",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 30 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635525",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 50 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635537",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635549",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 5X100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
         "aic": "033635552",
         "nome": "KETESSE",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER AL/AL",
@@ -887,20 +831,6 @@
         "descrizione": "600 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE",
         "produttore": "EG S.P.A.",
         "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "036468015",
-        "nome": "KETOPROFENE EG STADA",
-        "descrizione": "100 MG/2,5 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 6 FIALE 2,5 ML",
-        "produttore": "EG S.P.A.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "036468027",
-        "nome": "KETOPROFENE EG STADA",
-        "descrizione": "5% GEL- TUBO DA 50 G",
-        "produttore": "EG S.P.A.",
-        "forma": "Gel"
     },
     {
         "aic": "037466012",
@@ -1774,6 +1704,34 @@
         "aic": "049927104",
         "nome": "KERENDIA",
         "descrizione": "20 mg - Compressa rivestita con film - Uso orale -\tflacone (HDPE) - 100 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927116",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 14 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927128",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 28 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927130",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 98 compresse",
+        "produttore": "BAYER AG",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "049927142",
+        "nome": "KERENDIA",
+        "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 100 x 1 compressa (dose unitaria)",
         "produttore": "BAYER AG",
         "forma": "Compressa rivestita con film"
     },

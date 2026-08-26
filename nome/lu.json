@@ -1088,7 +1088,7 @@
         "aic": "045677010",
         "nome": "LUTATHERA",
         "descrizione": "370 MBQ/ML - SOLUZIONE PER INFUSIONE - USO ENDOVENOSO - FLACONCINO (VETRO) - 20,5 - 25 ML - 1 FLACONCINO",
-        "produttore": "ADVANCED ACCELERATOR APPLICATIONS",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
         "forma": "Soluzione per infusione"
     },
     {
@@ -2082,14 +2082,14 @@
         "aic": "048286013",
         "nome": "LUXOMER",
         "descrizione": "500 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "048286025",
         "nome": "LUXOMER",
         "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO DA 20 ML",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
@@ -3386,13 +3386,6 @@
         "descrizione": "GRANULI IN CAPSULE RIGIDE- 9 CAPSULE 7 LM, 9 CAPSULE 8 LM, 9 CAPSULE 9 LM, 3 CAPSULE 35K - CAPSULE DA 800 MG",
         "produttore": "CE.M.O.N. CENTRO DI MEDICINA OMEOPATICA NAPOLETANOS.R.L.",
         "forma": "Granuli"
-    },
-    {
-        "aic": "048994014",
-        "nome": "LUMEBLUE",
-        "descrizione": "25 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (POLIAMMIDE/ALLUMINIO/PVC/ ALLUMINIO) - 8 COMPRESSE",
-        "produttore": "COSMO TECHNOLOGIES LIMITED",
-        "forma": "Compressa a rilascio prolungato"
     },
     {
         "aic": "049643012",

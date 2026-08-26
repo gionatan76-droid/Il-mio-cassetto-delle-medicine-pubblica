@@ -7100,21 +7100,42 @@
     {
         "aic": "045136013",
         "nome": "VARCODES",
-        "descrizione": "2 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER PA/ALU/PVC - AL",
+        "descrizione": "2 mg  compresse  effervescenti>  30  compresse  in blister PA/AL/PVC AL",
         "produttore": "EPIONPHARMA GROUP SRL",
         "forma": "Compressa effervescente"
     },
     {
         "aic": "045136025",
         "nome": "VARCODES",
-        "descrizione": "4 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER PA/ALU/PVC - AL",
+        "descrizione": "4 mg  compresse  effervescenti>  30  compresse  in blister PA/AL/PVC-AL",
         "produttore": "EPIONPHARMA GROUP SRL",
         "forma": "Compressa effervescente"
     },
     {
         "aic": "045136037",
         "nome": "VARCODES",
-        "descrizione": "8 MG COMPRESSE EFFERVESCENTI- 30 COMPRESSE IN BLISTER PA/ALU/PVC - AL",
+        "descrizione": "8 mg  compresse  effervescenti>  30  compresse  in blister PA/AL/PVC-AL",
+        "produttore": "EPIONPHARMA GROUP SRL",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "045136049",
+        "nome": "VARCODES",
+        "descrizione": "2 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "EPIONPHARMA GROUP SRL",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "045136052",
+        "nome": "VARCODES",
+        "descrizione": "4 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "EPIONPHARMA GROUP SRL",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "045136064",
+        "nome": "VARCODES",
+        "descrizione": "8 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE IN BLISTER PA/AL/PVC-AL",
         "produttore": "EPIONPHARMA GROUP SRL",
         "forma": "Compressa effervescente"
     },

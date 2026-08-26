@@ -378,6 +378,13 @@
         "forma": "Compressa effervescente"
     },
     {
+        "aic": "037113127",
+        "nome": "EFFERALGAN   .",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE AROMA POMPELMO E ARANCIA IN STRIP AL/PE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
         "aic": "038150102",
         "nome": "EFFERALGAN",
         "descrizione": "ADULTI 1000 MG COMPRESSE RIVESTITE CON FILM - 16 COMPRESSE",
@@ -1141,20 +1148,6 @@
         "forma": "Compressa effervescente"
     },
     {
-        "aic": "045495013",
-        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL ZENTIVA",
-        "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
-        "produttore": "ZENTIVA K.S.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "045495025",
-        "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL ZENTIVA",
-        "descrizione": "600 MG - 200 MG - 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 90 (3 X 30) COMPRESSE",
-        "produttore": "ZENTIVA K.S.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
         "aic": "045670015",
         "nome": "EFAVIRENZ / EMTRICITABINA / TENOFOVIR DISOPROXIL MYLAN",
         "descrizione": "600 MG / 200 MG / 245 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - FLACONE (HDPE) - 30 COMPRESSE",
@@ -1880,6 +1873,13 @@
         "nome": "EFFIMIA",
         "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARMED S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "053070013",
+        "nome": "EFFIMIA",
+        "descrizione": "0,250 MG/0,035 MG COMPRESSE- 21 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
         "forma": "Compressa"
     },
     {

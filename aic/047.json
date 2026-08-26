@@ -57029,6 +57029,13 @@
         "forma": "Collirio, soluzione"
     },
     {
+        "aic": "047383029",
+        "nome": "OFTAQUIX",
+        "descrizione": "5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 5 ML",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
         "aic": "047384019",
         "nome": "CAPILLAREMA",
         "descrizione": "75 MG CAPSULE RIGIDE- 30 CAPSULE",
@@ -57872,6 +57879,13 @@
         "aic": "047407010",
         "nome": "CIPRALEX",
         "descrizione": "10 MG COMPRESSE- 28 COMPRESSE RIVESTITE CON FILM IN BLISTER PVC/PE/PVDC/AL TRASPARENTE",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "047407022",
+        "nome": "CIPRALEX",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL CHIARO",
         "produttore": "GMM FARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -59221,6 +59235,13 @@
     },
     {
         "aic": "047454057",
+        "nome": "FLUIMUCIL",
+        "descrizione": "600 MG COMPRESSE EFFERVESCENTI - 30 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "047454069",
         "nome": "FLUIMUCIL",
         "descrizione": "600 MG COMPRESSE EFFERVESCENTI - 30 COMPRESSE",
         "produttore": "FARMED S.R.L.",
@@ -89621,6 +89642,13 @@
         "forma": "Collirio, soluzione"
     },
     {
+        "aic": "047636028",
+        "nome": "SURFEDEX",
+        "descrizione": "1MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 6 ML",
+        "produttore": "BRUSCHETTINI S.R.L.",
+        "forma": "Collirio, soluzione"
+    },
+    {
         "aic": "047637018",
         "nome": "PRAZENE",
         "descrizione": "10 MG COMPRESSE- 30 COMPRESSE",
@@ -97898,42 +97926,42 @@
         "aic": "047660016",
         "nome": "ATANTO",
         "descrizione": "80 MG CAPSULE RIGIDE- 1 CAPSULA IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660028",
         "nome": "ATANTO",
         "descrizione": "80 MG CAPSULE RIGIDE- 2 CAPSULE IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660030",
         "nome": "ATANTO",
         "descrizione": "80 MG CAPSULE RIGIDE- 5 CAPSULE IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660042",
         "nome": "ATANTO",
         "descrizione": "125 MG CAPSULE RIGIDE- 1 CAPSULA IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660055",
         "nome": "ATANTO",
         "descrizione": "125 MG CAPSULE RIGIDE + 80 MG CAPSULE RIGIDE- 1 CAPSULA DA 125 MG IN BLISTER OPA/AL/PVC-AL + 2 CAPSULE DA 80 MG IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660067",
         "nome": "ATANTO",
         "descrizione": "125 MG CAPSULE RIGIDE- 5 CAPSULE IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
@@ -136847,28 +136875,28 @@
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 60 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047812033",
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 30 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047812045",
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 30 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047812058",
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 60 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047813011",

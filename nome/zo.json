@@ -3542,6 +3542,27 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "052151014",
+        "nome": "ZOLPIDEM PHARMACARE",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052152016",
+        "nome": "ZOLPIDEM P-CARE",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "052154010",
+        "nome": "ZOLPIDEM PHARMACARE ITALIA",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
         "aic": "052393016",
         "nome": "ZOCOR",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM - 28 COMPRESSE",

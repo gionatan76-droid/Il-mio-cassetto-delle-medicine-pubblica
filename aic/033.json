@@ -2856,13 +2856,6 @@
         "forma": "Polvere per sospensione orale"
     },
     {
-        "aic": "033294012",
-        "nome": "NAPROSSENE EG",
-        "descrizione": "500 MG COMPRESSE- 30 COMPRESSE",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "033295015",
         "nome": "TICLOPIDINA PENSA",
         "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE",
@@ -5238,7 +5231,7 @@
     {
         "aic": "033609013",
         "nome": "MIOZAC",
-        "descrizione": "250 MG/20 ML SOLUZIONE PER INFUSIONE- FLACONE 20 ML",
+        "descrizione": "250 MG/20 ML SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
         "produttore": "FISIOPHARMA S.R.L.",
         "forma": "Soluzione per infusione"
     },
@@ -5542,62 +5535,6 @@
         "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN BLISTER ACLAR/AL",
         "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
         "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "033635475",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 2 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635487",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 4 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635499",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 10 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635501",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 20 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635513",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 30 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635525",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 50 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635537",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033635549",
-        "nome": "KETESSE",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 5X100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
-        "forma": "Granulato in bustina"
     },
     {
         "aic": "033635552",
@@ -6832,62 +6769,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "033656481",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 2 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656493",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 4 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656505",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 10 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656517",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 20 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656529",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 30 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656531",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 50 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656543",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656556",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 5X100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
         "aic": "033656568",
         "nome": "ENANTYUM",
         "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER AL/AL",
@@ -7360,7 +7241,7 @@
         "aic": "033819020",
         "nome": "SEFAL",
         "descrizione": "1 MICROGRAMMO CAPSULE MOLLI- 30 CAPSULE MOLLI",
-        "produttore": "FARMA GROUP S.R.L.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Capsula molle"
     },
     {

@@ -469,6 +469,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "040488138",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 mg/125 mg compresse rivestite  con  film>  12 compresse in blister PVC/AL/PA-AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "041267030",
         "nome": "AUGMENTIN",
         "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
@@ -528,6 +535,13 @@
         "aic": "042902041",
         "nome": "AUGMENTIN",
         "descrizione": "875 MG/125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "042902054",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 mg/125 mg compresse rivestite  con  film>  12 compresse in blister PVC/AL/PA-AL",
         "produttore": "NEW PHARMASHOP S.R.L.",
         "forma": "Compressa rivestita con film"
     },

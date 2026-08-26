@@ -7812,6 +7812,76 @@
         "forma": "Compressa"
     },
     {
+        "aic": "046073351",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073363",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073375",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073387",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073399",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073401",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073413",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073425",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073437",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073449",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "046074011",
         "nome": "IDROSSICLOROCHINA DOC",
         "descrizione": "200 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/AL",
@@ -42756,34 +42826,6 @@
         "forma": "Capsula rigida"
     },
     {
-        "aic": "046270017",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE IN VETRO DA 2 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "046270029",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 25 FIALE IN VETRO DA 2 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "046270031",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "?100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE? 4 FLACONCINI IN VETRO DA 4 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "046270043",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "?100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE? 4 FLACONCINI IN VETRO DA 10 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
         "aic": "046271019",
         "nome": "SILODOSINA DOC",
         "descrizione": "4 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
@@ -45397,7 +45439,7 @@
     {
         "aic": "046355018",
         "nome": "AMOXICILLINA E ACIDO CLAVULANICO TECNIGEN ITALIA",
-        "descrizione": "875 MG + 125 MG COMPRESSA RIVESTITA CON FILM- 12 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
         "produttore": "TECNIGEN S.R.L.",
         "forma": "Compressa rivestita con film"
     },

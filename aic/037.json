@@ -5075,6 +5075,13 @@
         "forma": "Compressa effervescente"
     },
     {
+        "aic": "037113127",
+        "nome": "EFFERALGAN   .",
+        "descrizione": "ADULTI 1000 MG COMPRESSE EFFERVESCENTI- 20 COMPRESSE AROMA POMPELMO E ARANCIA IN STRIP AL/PE",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
         "aic": "037114016",
         "nome": "BETADINE",
         "descrizione": "10 % SOLUZIONE CUTANEA- FLACONE 125 ML",
@@ -6734,6 +6741,13 @@
         "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
+        "aic": "037150036",
+        "nome": "TYSABRI",
+        "descrizione": "150 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 ml (150 mg/ml) - 6 (3x2) siringhe preriempite (confezione multipla)",
+        "produttore": "BIOGEN NETHERLANDS BV",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
         "aic": "037151014",
         "nome": "CUBICIN",
         "descrizione": "350 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE INTRAVENOSA 10 ML (50 MG/ML) 1 FIALA",
@@ -7772,30 +7786,30 @@
     {
         "aic": "037186018",
         "nome": "LEVOGENIX",
-        "descrizione": "15 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "descrizione": "15 MG CAPSULE RIGIDE - 14 CAPSULE",
         "produttore": "GENETIC S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "037186020",
         "nome": "LEVOGENIX",
-        "descrizione": "30 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "descrizione": "30 MG CAPSULE RIGIDE - 14 CAPSULE",
         "produttore": "GENETIC S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "037186032",
         "nome": "LEVOGENIX",
-        "descrizione": "15 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER AL/PVC",
+        "descrizione": "15 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER AL/PVC",
         "produttore": "GENETIC S.P.A.",
-        "forma": "Capsula rigida gastroresistente"
+        "forma": "Capsula rigida"
     },
     {
         "aic": "037186044",
         "nome": "LEVOGENIX",
-        "descrizione": "30 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER AL/PVC",
+        "descrizione": "30 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER AL/PVC",
         "produttore": "GENETIC S.P.A.",
-        "forma": "Capsula rigida gastroresistente"
+        "forma": "Capsula rigida"
     },
     {
         "aic": "037187010",
@@ -11190,21 +11204,21 @@
         "nome": "TOSTREX",
         "descrizione": "20  mg/g  gel  transdermico>   -   1  contenitore multidose da 60 g con pompa dosatrice",
         "produttore": "ADVANZ PHARMA LIMITED",
-        "forma": "Gel"
+        "forma": "Gel transdermico"
     },
     {
         "aic": "037314022",
         "nome": "TOSTREX",
         "descrizione": "20  mg/g  gel  transdermico>   -   3  contenitori multidose da 60 g con pompa dosatrice",
         "produttore": "ADVANZ PHARMA LIMITED",
-        "forma": "Gel"
+        "forma": "Gel transdermico"
     },
     {
         "aic": "037314034",
         "nome": "TOSTREX",
         "descrizione": "20 mg/g gel transdermico> - 2 contenitori  multidose da 60 g con pompa dosatrice",
         "produttore": "ADVANZ PHARMA LIMITED",
-        "forma": "Gel"
+        "forma": "Gel transdermico"
     },
     {
         "aic": "037316015",
@@ -29820,83 +29834,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "037750015",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750027",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750039",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750041",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750054",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "2 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750066",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750078",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 50X1 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750080",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 30 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750092",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 100 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750104",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 500 COMPRESSE IN CONTENITORE HDPE",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "037750116",
-        "nome": "DOXAZOSINA HEXAL",
-        "descrizione": "4 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "037751017",
         "nome": "BICALUTAMIDE IBIGEN",
         "descrizione": "50 MG COMPRESSE RIVESTITE CON FILM- 5 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
@@ -36176,13 +36113,6 @@
         "forma": "Granulato per soluzione orale"
     },
     {
-        "aic": "037944028",
-        "nome": "CARBOCISTEINA IPSO PHARMA",
-        "descrizione": "2,7 G/ 10 ML SCIROPPO - 6 CONTENITORI MONODOSE",
-        "produttore": "IPSO PHARMA S.R.L.",
-        "forma": "Granulato per soluzione orale"
-    },
-    {
         "aic": "037944030",
         "nome": "CARBOCISTEINA IPSO PHARMA",
         "descrizione": "90 MG/ ML SCIROPPO - 1 FLACONE DA 200 ML",
@@ -36202,13 +36132,6 @@
         "descrizione": "2,7 G GRANULATO PER SOLUZIONE ORALE - 30 BUSTINE",
         "produttore": "IPSO PHARMA S.R.L.",
         "forma": "Granulato per soluzione orale"
-    },
-    {
-        "aic": "037945021",
-        "nome": "BRONCOLIB",
-        "descrizione": "2,7 G/10 ML SCIROPPO - 6 CONTENITORI MONODOSE",
-        "produttore": "IPSO PHARMA S.R.L.",
-        "forma": "Sciroppo"
     },
     {
         "aic": "037945033",

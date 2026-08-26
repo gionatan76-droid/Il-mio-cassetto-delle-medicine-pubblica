@@ -23037,6 +23037,62 @@
         "forma": "Soluzione per infusione"
     },
     {
+        "aic": "051525018",
+        "nome": "METAVION",
+        "descrizione": "2 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 10 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051525020",
+        "nome": "METAVION",
+        "descrizione": "2 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051525032",
+        "nome": "METAVION",
+        "descrizione": "4 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 10 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051525044",
+        "nome": "METAVION",
+        "descrizione": "4 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051526010",
+        "nome": "METAFLAIR",
+        "descrizione": "2 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 10 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051526022",
+        "nome": "METAFLAIR",
+        "descrizione": "2 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051526034",
+        "nome": "METAFLAIR",
+        "descrizione": "4 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 10 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
+        "aic": "051526046",
+        "nome": "METAFLAIR",
+        "descrizione": "4 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Gocce orali, soluzione"
+    },
+    {
         "aic": "051566014",
         "nome": "METOCLOPRAMIDE CLORIDRATO NORIDEM",
         "descrizione": "5 MG/ML SOLUZIONE INIETTABILE- 5 FIALE IN PP DA 2 ML",

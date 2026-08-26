@@ -189,32 +189,11 @@
         "forma": "Sciroppo"
     },
     {
-        "aic": "015784022",
-        "nome": "BIOCHETASI",
-        "descrizione": "6 SUPPOSTE",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Supposta"
-    },
-    {
         "aic": "015784034",
         "nome": "BIOCHETASI",
         "descrizione": "GRANULATO EFFERVESCENTE-20 BUSTINE",
         "produttore": "ALFASIGMA S.P.A.",
         "forma": "Granulato effervescente"
-    },
-    {
-        "aic": "015784059",
-        "nome": "BIOCHETASI",
-        "descrizione": "COMPRESSE EFFERVESCENTI- 10 COMPRESSE",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Compressa effervescente"
-    },
-    {
-        "aic": "015784061",
-        "nome": "BIOCHETASI",
-        "descrizione": "COMPRESSE EFFERVESCENTI- 20 COMPRESSE",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Compressa effervescente"
     },
     {
         "aic": "015784073",

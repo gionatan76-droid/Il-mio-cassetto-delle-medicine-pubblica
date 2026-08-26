@@ -3150,6 +3150,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "038848115",
+        "nome": "TAVOR",
+        "descrizione": "?1 MG COMPRESSE? 30 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "038860021",
         "nome": "TAVOR",
         "descrizione": "2,5 MG COMPRESSE- 20 COMPRESSE",
@@ -5719,6 +5726,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "043931082",
+        "nome": "TADALAFIL AUROBINDO",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC-AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "043990011",
         "nome": "TAVOR",
         "descrizione": "2,5 MG COMPRESSE- 20 COMPRESSE",
@@ -7570,6 +7584,62 @@
         "aic": "045617572",
         "nome": "TADALAFIL TEVA",
         "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 36 X 1 COMPRESSE IN BLISTER DIVISIBIILE PER DOSE UNITARIA PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617584",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 COMPRESSE IN BLISTER PVC/ACLAR/PVDC/PVC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617596",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 COMPRESSE IN BLISTER PVC/ACLAR/PVC-Al",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617608",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 COMPRESSE IN BLISTER OPA/Al/PVC/Al",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617610",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617622",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA  PVC/ACLAR/PVDC/PVC-Al",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617634",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/ACLAR/PVC-Al",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617646",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/Al/PVC/Al",
+        "produttore": "TEVA ITALIA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "045617659",
+        "nome": "TADALAFIL TEVA",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 8 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
         "produttore": "TEVA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -13067,27 +13137,6 @@
         "descrizione": "32 MG/ML + 9.6 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN PET DA 200 ML CON SIRINGA DOSATRICE DA 5 ML",
         "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
         "forma": "Sospensione orale"
-    },
-    {
-        "aic": "049881016",
-        "nome": "TAVNEOS",
-        "descrizione": "10 mg - Capsula rigida - Uso orale - flacone (HDPE) - 30 capsule",
-        "produttore": "VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "049881028",
-        "nome": "TAVNEOS",
-        "descrizione": "10 mg - Capsula rigida - Uso orale - flacone (HDPE) - 180 capsule",
-        "produttore": "VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE",
-        "forma": "Capsula rigida"
-    },
-    {
-        "aic": "049881030",
-        "nome": "TAVNEOS",
-        "descrizione": "10 mg - Capsula rigida - Uso orale - Flacone (HDPE) - 540 (3 x 180) capsule (confezione multipla)",
-        "produttore": "VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE",
-        "forma": "Capsula rigida"
     },
     {
         "aic": "049998014",

@@ -2720,63 +2720,63 @@
         "nome": "TREOJECT",
         "descrizione": "0,05 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 5 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100021",
         "nome": "TREOJECT",
         "descrizione": "0,05 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 6 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100033",
         "nome": "TREOJECT",
         "descrizione": "0,05 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 30 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100045",
         "nome": "TREOJECT",
         "descrizione": "0,1 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 5 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100058",
         "nome": "TREOJECT",
         "descrizione": "0,1 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 6 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100060",
         "nome": "TREOJECT",
         "descrizione": "0,1 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 30 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100072",
         "nome": "TREOJECT",
         "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 5 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100084",
         "nome": "TREOJECT",
         "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 6 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100096",
         "nome": "TREOJECT",
         "descrizione": "0,5 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 30 SIRINGHE PRE-RIEMPITE DA 1ML",
         "produttore": "LIFEPHARMA S.P.A.",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
         "aic": "039100110",
@@ -2929,6 +2929,13 @@
         "aic": "040710081",
         "nome": "TRISCUDIL",
         "descrizione": "1000 MG CAPSULE MOLLI- 3 FLACONI HDPE DA 100 CAPSULE",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "040710093",
+        "nome": "TRISCUDIL",
+        "descrizione": "1000 MG CAPSULE MOLLI- 30 CAPSULE IN FLACONE HDPE",
         "produttore": "PIAM FARMACEUTICI S.P.A.",
         "forma": "Capsula molle"
     },
@@ -6647,7 +6654,7 @@
         "nome": "TRESIBA",
         "descrizione": "100 U/ML-SOLUZIONE INIETTABILE-USO SOTTOCUTANEO-PENNA PRE-RIEMPITA (VETRO)(FLEXTOUCH)- 3 ML - 5 PENNE PRERIEMPITE",
         "produttore": "ABACUS MEDICINE A/S",
-        "forma": "Soluzione iniettabile"
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     },
     {
         "aic": "049780012",
@@ -6959,51 +6966,51 @@
     },
     {
         "aic": "051153017",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 100 CAPSULE IN FLACONE HDPE CON CHIUSURA A PROVA DI BAMBINO",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
         "aic": "051153029",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 30 CAPSULE IN BLISTER AL-AL",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
         "aic": "051153031",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 72 CAPSULE IN BLISTER AL-AL",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
         "aic": "051153043",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 96 CAPSULE IN BLISTER AL-AL",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
         "aic": "051153056",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 100 CAPSULE IN BLISTER AL-AL",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
         "aic": "051153068",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 240 CAPSULE IN BLISTER AL-AL",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
         "aic": "051153070",
-        "nome": "TRIENTINA TILLOMED",
+        "nome": "TRIENTINA IDEOGEN",
         "descrizione": "167 MG CAPSULE RIGIDE- 300 CAPSULE IN BLISTER AL-AL",
-        "produttore": "TILLOMED ITALIA SRL",
+        "produttore": "IDEOGEN GMBH",
         "forma": "Capsula rigida"
     },
     {
@@ -7018,6 +7025,104 @@
         "nome": "TRUQAP",
         "descrizione": "200 mg - Compressa rivestita con film - Uso orale - blister (alu/alu) - 64 compresse",
         "produttore": "ASTRAZENECA AB",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708016",
+        "nome": "TROSKEMES",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708028",
+        "nome": "TROSKEMES",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708030",
+        "nome": "TROSKEMES",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708042",
+        "nome": "TROSKEMES",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708055",
+        "nome": "TROSKEMES",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708067",
+        "nome": "TROSKEMES",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708079",
+        "nome": "TROSKEMES",
+        "descrizione": "30 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708081",
+        "nome": "TROSKEMES",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708093",
+        "nome": "TROSKEMES",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708105",
+        "nome": "TROSKEMES",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708117",
+        "nome": "TROSKEMES",
+        "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708129",
+        "nome": "TROSKEMES",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708131",
+        "nome": "TROSKEMES",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051708143",
+        "nome": "TROSKEMES",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DAY ZERO EHF",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -7138,6 +7243,27 @@
         "descrizione": "80 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) in penna preriempita 0,8 mL (100 mg/mL) - 1 penna preriempita",
         "produttore": "SWEDISH ORPHAN BIOVITRUM  AB  (PUBL)",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052694015",
+        "nome": "TROSARUM",
+        "descrizione": "?CONCENTRATO PER SOLUZIONE PER INFUSIONE? 1 FIALA IN PP DA 10 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052694027",
+        "nome": "TROSARUM",
+        "descrizione": "?CONCENTRATO PER SOLUZIONE PER INFUSIONE? 10 FIALE IN PP DA 10 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052694039",
+        "nome": "TROSARUM",
+        "descrizione": "?CONCENTRATO PER SOLUZIONE PER INFUSIONE? 20 FIALE IN PP DA 10 ML",
+        "produttore": "NORIDEM ENTERPRISES LTD",
+        "forma": "Concentrato per soluzione per infusione"
     },
     {
         "aic": "052900014",

@@ -1,0 +1,30 @@
+[
+    {
+        "aic": "049676012",
+        "nome": "IURIX",
+        "descrizione": "CAPSULE RIGIDE- 15 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SCHARPER S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049676024",
+        "nome": "IURIX",
+        "descrizione": "CAPSULE RIGIDE- 30 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SCHARPER S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049676036",
+        "nome": "IURIX",
+        "descrizione": "CAPSULE RIGIDE- 60 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SCHARPER S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
+        "aic": "049676048",
+        "nome": "IURIX",
+        "descrizione": "CAPSULE RIGIDE- 90 CAPSULE IN BLISTER AL/PVC/PE/PVDC",
+        "produttore": "SCHARPER S.P.A.",
+        "forma": "Capsula rigida"
+    }
+]

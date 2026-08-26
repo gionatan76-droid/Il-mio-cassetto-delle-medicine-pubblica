@@ -4961,5 +4961,173 @@
         "descrizione": "10 MG COMPRESSE- 30 COMPRESSE IN BLISTER PCTFE/PVC/AL",
         "produttore": "PROGRAMMI SANITARI INTEGRATI S.R.L.",
         "forma": "Compressa"
+    },
+    {
+        "aic": "052839014",
+        "nome": "EZETIMIBE OLPHA",
+        "descrizione": "10 MG COMPRESSE- 28 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052839026",
+        "nome": "EZETIMIBE OLPHA",
+        "descrizione": "10 MG COMPRESSE- 56 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052839038",
+        "nome": "EZETIMIBE OLPHA",
+        "descrizione": "10 MG COMPRESSE- 100 COMPRESSE IN BLISTER AL-OPA/AL/PVC",
+        "produttore": "OLPHA AS",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "052848013",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848025",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848037",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848049",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848052",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848064",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848076",
+        "nome": "EZERDENCE",
+        "descrizione": "?2,5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848088",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848090",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848102",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848114",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848126",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848138",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848140",
+        "nome": "EZERDENCE",
+        "descrizione": "?5 MG/5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848153",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848165",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848177",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848189",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848191",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848203",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052848215",
+        "nome": "EZERDENCE",
+        "descrizione": "?10 MG/5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.",
+        "forma": "Compressa rivestita con film"
     }
 ]

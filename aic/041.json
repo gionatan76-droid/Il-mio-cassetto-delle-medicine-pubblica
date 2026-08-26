@@ -5376,6 +5376,97 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "041100254",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100266",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100278",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 90 (3 X30) IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100280",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100292",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100304",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100316",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100328",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100330",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100342",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100355",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100367",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100379",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "041101015",
         "nome": "SOPAVI",
         "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM - 4 COMPRESSE IN BLISTER AL/AL",
@@ -9149,6 +9240,20 @@
         "forma": "Compressa"
     },
     {
+        "aic": "041145741",
+        "nome": "CANDESARTAN E IDROCLOROTIAZIDE SANDOZ",
+        "descrizione": "8 MG/12.5 MG COMPRESSE- 105 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "041145754",
+        "nome": "CANDESARTAN E IDROCLOROTIAZIDE SANDOZ",
+        "descrizione": "16 MG/12.5 MG COMPRESSE- 105 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "041147012",
         "nome": "LEVETIRACETAM ZENTIVA",
         "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE IN BLISTER PVC/AL",
@@ -11961,6 +12066,13 @@
         "descrizione": "2 mg - Granulato rivestito - Uso orale - bustina (alu) - 28 bustine",
         "produttore": "BRISTOL-MYERS SQUIBB / PFIZER EEIG",
         "forma": "Granulato rivestito"
+    },
+    {
+        "aic": "041225208",
+        "nome": "ELIQUIS",
+        "descrizione": "2,5 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PVDC/alu) - 56 compresse",
+        "produttore": "BRISTOL-MYERS SQUIBB / PFIZER EEIG",
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "041230018",
@@ -35763,132 +35875,6 @@
         "forma": "Capsula rigida a rilascio modificato"
     },
     {
-        "aic": "041890017",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890029",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890031",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890043",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 270 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890056",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0.5 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 100 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890068",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890070",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890082",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890094",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 270 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890106",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 100 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890118",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 30 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890120",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 90 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890132",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 120 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890144",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU)- 270 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890157",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - FLACONE (HDPE)- 100 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890169",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "0,5 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 180 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890171",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "1 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 180 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "041890183",
-        "nome": "REPAGLINIDE ACCORD",
-        "descrizione": "2 MG - COMPRESSA - USO ORALE - BLISTER (ALU/ALU) - 180 COMPRESSE",
-        "produttore": "ACCORD HEALTHCARE, S.L.U.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "041894015",
         "nome": "ZIRTEC",
         "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 20 ML",
@@ -37922,6 +37908,13 @@
         "aic": "041972199",
         "nome": "PANTORC",
         "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 28 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "041972201",
+        "nome": "PANTORC",
+        "descrizione": "40 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
         "produttore": "BB FARMA S.R.L.",
         "forma": "Compressa gastroresistente"
     },

@@ -612,14 +612,14 @@
         "aic": "028962013",
         "nome": "LACTEOL",
         "descrizione": "5 MILIARDI CAPSULE RIGIDE- 20 CAPSULE",
-        "produttore": "BRUSCHETTINI S.R.L.",
+        "produttore": "DSM-FIRMENICH HOUDAN SAS",
         "forma": "Capsula rigida"
     },
     {
         "aic": "028962025",
         "nome": "LACTEOL",
         "descrizione": "10 MILIARDI POLVERE ORALE- 10 BUSTINE",
-        "produttore": "BRUSCHETTINI S.R.L.",
+        "produttore": "DSM-FIRMENICH HOUDAN SAS",
         "forma": "Polvere orale"
     },
     {
@@ -11347,6 +11347,27 @@
         "forma": "Soluzione iniettabile in siringa pre-riempita"
     },
     {
+        "aic": "051647079",
+        "nome": "LANREOTIDE ZENTIVA",
+        "descrizione": "60 MG SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 3 (3 X 1) SIRINGHE PRERIEMPITE IN PP CON AGO CONFEZIONE MULTIPLA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051647081",
+        "nome": "LANREOTIDE ZENTIVA",
+        "descrizione": "90 MG SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 3 (3 X 1) SIRINGHE PRERIEMPITE IN PP CON AGO CONFEZIONE MULTIPLA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "051647093",
+        "nome": "LANREOTIDE ZENTIVA",
+        "descrizione": "120 MG SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 3 (3 X 1) SIRINGHE PRERIEMPITE IN PP CON AGO CONFEZIONE MULTIPLA",
+        "produttore": "ZENTIVA ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
         "aic": "051648018",
         "nome": "LANRENET",
         "descrizione": "60 MG SOLUZIONE INIETTABILE IN SIRINGA PRE-RIEMPITA- 1 SIRINGA PRERIEMPITA IN PP CON AGO",
@@ -11530,14 +11551,14 @@
     },
     {
         "aic": "052235013",
-        "nome": "LACOSAMIDE EUGIA",
+        "nome": "LACOSAMIDE AUROBINDO ITALIA",
         "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
         "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Soluzione per infusione"
     },
     {
         "aic": "052235025",
-        "nome": "LACOSAMIDE EUGIA",
+        "nome": "LACOSAMIDE AUROBINDO ITALIA",
         "descrizione": "10 MG/ML SOLUZIONE PER INFUSIONE- 5 FLACONCINI IN VETRO DA 20 ML",
         "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Soluzione per infusione"

@@ -2632,6 +2632,13 @@
         "forma": "Polvere per soluzione per infusione endovenosa"
     },
     {
+        "aic": "036931018",
+        "nome": "CLOTRIMAZOLO FARMAKOPEA",
+        "descrizione": "1 %  CREMA - TUBO 30 G",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Crema"
+    },
+    {
         "aic": "036934014",
         "nome": "CLOTRIMAZOLO DOC GENERICI",
         "descrizione": "1 % CREMA - TUBO 30 G",
@@ -6042,14 +6049,14 @@
     },
     {
         "aic": "044629018",
-        "nome": "CLODRONATO DISODICO PHARMACARE",
+        "nome": "CLIDIX",
         "descrizione": "100 MG/3,3 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 6 FIALE IN VETRO",
         "produttore": "PHARMACARE S.R.L.",
         "forma": "Soluzione iniettabile"
     },
     {
         "aic": "044629020",
-        "nome": "CLODRONATO DISODICO PHARMACARE",
+        "nome": "CLIDIX",
         "descrizione": "200 MG/4 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE CON LIDOCAINA 1%- 3 FIALE IN VETRO",
         "produttore": "PHARMACARE S.R.L.",
         "forma": "Soluzione iniettabile"
@@ -8321,6 +8328,20 @@
         "descrizione": "1 g SUPPOSTE- 90 SUPPOSTE IN STRIP PVC/PE",
         "produttore": "DR. FALK PHARMA GMBH",
         "forma": "Supposta"
+    },
+    {
+        "aic": "050572015",
+        "nome": "CLODRONATO DISODICO IBSA",
+        "descrizione": "100 MG + 33 MG SOLUZIONE INIETTABILE CON LIDOCAINA- - USO INTRAMUSCOLARE - 6 FIALE IN VETRO DA 3,3 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "050572027",
+        "nome": "CLODRONATO DISODICO IBSA",
+        "descrizione": "200 MG + 40 MG SOLUZIONE INIETTABILE CON LIDOCAINA- - USO INTRAMUSCOLARE - 3 FIALE IN VETRO DA 4 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
     },
     {
         "aic": "050671015",

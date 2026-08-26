@@ -17976,6 +17976,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "040488138",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 mg/125 mg compresse rivestite  con  film>  12 compresse in blister PVC/AL/PA-AL",
+        "produttore": "FARMA 1000 S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "040492011",
         "nome": "ENTEROGERMINA",
         "descrizione": "2 MILIARDI/5 ML SOSPENSIONE ORALE- 10 FLACONCINI 5 ML",
@@ -20123,69 +20130,6 @@
         "descrizione": "8 MG COMPRESSE A RILASCIO PROLUNGATO- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
         "produttore": "KRKA D.D. NOVO MESTO",
         "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "040528287",
-        "nome": "FLECTORIN",
-        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO + 1 AGO PER INIEZIONE SOTTOCUTANEA + 1 AGO PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528299",
-        "nome": "FLECTORIN",
-        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 SIRINGHE IN VETRO + 3 AGHI PER INIEZIONE SOTTOCUTANEA + 3 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528301",
-        "nome": "FLECTORIN",
-        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO + 5 AGHI PER INIEZIONE SOTTOCUTANEA + 5 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528313",
-        "nome": "FLECTORIN",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO + 1 AGO PER INIEZIONE SOTTOCUTANEA + 1 AGO PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528325",
-        "nome": "FLECTORIN",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 SIRINGHE IN VETRO + 3 AGHI PER INIEZIONE SOTTOCUTANEA + 3 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528337",
-        "nome": "FLECTORIN",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO + 5 AGHI PER INIEZIONE SOTTOCUTANEA + 5 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528349",
-        "nome": "FLECTORIN",
-        "descrizione": "75 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO + 1 AGO PER INIEZIONE SOTTOCUTANEA + 1 AGO PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528352",
-        "nome": "FLECTORIN",
-        "descrizione": "75 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 SIRINGHE IN VETRO + 3 AGHI PER INIEZIONE SOTTOCUTANEA + 3 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528364",
-        "nome": "FLECTORIN",
-        "descrizione": "75 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO + 5 AGHI PER INIEZIONE SOTTOCUTANEA + 5 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
     },
     {
         "aic": "040529012",
@@ -22403,13 +22347,6 @@
         "aic": "040577037",
         "nome": "DOCETAXEL RATIOPHARM ITALIA",
         "descrizione": "20MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 140MG/7ML",
-        "produttore": "TEVA B.V.",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "040577049",
-        "nome": "DOCETAXEL RATIOPHARM ITALIA",
-        "descrizione": "20 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO DA 160 MG/8 ML",
         "produttore": "TEVA B.V.",
         "forma": "Concentrato per soluzione per infusione"
     },
@@ -25014,6 +24951,13 @@
         "aic": "040645347",
         "nome": "LETROZOLO MYLAN GENERICS",
         "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 500 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "040645350",
+        "nome": "LETROZOLO MYLAN GENERICS",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA  PVC/PVDC/AL",
         "produttore": "MYLAN S.P.A.",
         "forma": "Compressa rivestita con film"
     },
@@ -27793,6 +27737,13 @@
         "aic": "040710081",
         "nome": "TRISCUDIL",
         "descrizione": "1000 MG CAPSULE MOLLI- 3 FLACONI HDPE DA 100 CAPSULE",
+        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "forma": "Capsula molle"
+    },
+    {
+        "aic": "040710093",
+        "nome": "TRISCUDIL",
+        "descrizione": "1000 MG CAPSULE MOLLI- 30 CAPSULE IN FLACONE HDPE",
         "produttore": "PIAM FARMACEUTICI S.P.A.",
         "forma": "Capsula molle"
     },

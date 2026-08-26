@@ -1925,76 +1925,6 @@
         "forma": "Gocce orali, soluzione"
     },
     {
-        "aic": "036081014",
-        "nome": "SINCROVER",
-        "descrizione": "50 COMPRESSE DA 8 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081026",
-        "nome": "SINCROVER",
-        "descrizione": "100 COMPRESSE DA 8 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081038",
-        "nome": "SINCROVER",
-        "descrizione": "120 COMPRESSE DA 8 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081040",
-        "nome": "SINCROVER",
-        "descrizione": "20 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081053",
-        "nome": "SINCROVER",
-        "descrizione": "42 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081065",
-        "nome": "SINCROVER",
-        "descrizione": "50 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081077",
-        "nome": "SINCROVER",
-        "descrizione": "60 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081089",
-        "nome": "SINCROVER",
-        "descrizione": "84 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081091",
-        "nome": "SINCROVER",
-        "descrizione": "8 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/PVC/PVDC",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081103",
-        "nome": "SINCROVER",
-        "descrizione": "16 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/PVC/PVDC",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "036083018",
         "nome": "ISOTRETINOINA DIFA COOPER",
         "descrizione": "20 CAPSULE MOLLI DA 10 MG",
@@ -7686,20 +7616,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "036468015",
-        "nome": "KETOPROFENE EG STADA",
-        "descrizione": "100 MG/2,5 ML SOLUZIONE INIETTABILE PER USO INTRAMUSCOLARE- 6 FIALE 2,5 ML",
-        "produttore": "EG S.P.A.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "036468027",
-        "nome": "KETOPROFENE EG STADA",
-        "descrizione": "5% GEL- TUBO DA 50 G",
-        "produttore": "EG S.P.A.",
-        "forma": "Gel"
-    },
-    {
         "aic": "036470019",
         "nome": "COLVER",
         "descrizione": "6,25 MG COMPRESSE- 28 COMPRESSE DIVISIBILI",
@@ -12775,6 +12691,13 @@
         "forma": "Soluzione orale"
     },
     {
+        "aic": "036635338",
+        "nome": "DIBASE",
+        "descrizione": "4.000 UI CAPSULE RIGIDE- 30 CAPSULE IN BLISTER PVC/PVDC/AL",
+        "produttore": "ABIOGEN PHARMA S.P.A.",
+        "forma": "Capsula rigida"
+    },
+    {
         "aic": "036635377",
         "nome": "DIBASE",
         "descrizione": "?25.000 U.I./2,5 ML SOLUZIONE ORALE IN CONTENITORE MONODOSE? 3 CONTENITORI MONODOSE IN VETRO",
@@ -17363,14 +17286,14 @@
         "aic": "036743019",
         "nome": "NIFEREX",
         "descrizione": "100 MG CAPSULE RIGIDE GASTRORESISTENTI- 50 CAPSULE IN BLISTER PP/AL/CARTA",
-        "produttore": "UCB PHARMA S.P.A.",
+        "produttore": "TEOFARMA S.R.L.",
         "forma": "Capsula rigida gastroresistente"
     },
     {
         "aic": "036743058",
         "nome": "NIFEREX",
         "descrizione": "100 MG CAPSULE RIGIDE GASTRORESISTENTI- 100 CAPSULE IN BLISTER PP/AL/CARTA",
-        "produttore": "UCB PHARMA S.P.A.",
+        "produttore": "TEOFARMA S.R.L.",
         "forma": "Capsula rigida gastroresistente"
     },
     {
@@ -20504,7 +20427,7 @@
     },
     {
         "aic": "036829024",
-        "nome": "AMOXICILLINA E ACIDO CLAVULANICO MYLAN",
+        "nome": "XINAMOD",
         "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM - 12 COMPRESSE",
         "produttore": "PHARMACARE S.R.L.",
         "forma": "Compressa rivestita con film"
@@ -23422,13 +23345,6 @@
         "forma": "Sospensione da nebulizzare"
     },
     {
-        "aic": "036925016",
-        "nome": "DUAC",
-        "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 6 G",
-        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
-        "forma": "Gel"
-    },
-    {
         "aic": "036925028",
         "nome": "DUAC",
         "descrizione": "1% +  5%  GEL - 1 TUBO IN ALLUMINIO AL DA 25 G",
@@ -23439,13 +23355,6 @@
         "aic": "036925030",
         "nome": "DUAC",
         "descrizione": "1% +  5%  GEL - 1 TUBO IN ALLUMINIO DA 30 G",
-        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
-        "forma": "Gel"
-    },
-    {
-        "aic": "036925042",
-        "nome": "DUAC",
-        "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 55 G",
         "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
         "forma": "Gel"
     },
@@ -23467,13 +23376,6 @@
         "aic": "036925079",
         "nome": "DUAC",
         "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 15 G",
-        "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
-        "forma": "Gel"
-    },
-    {
-        "aic": "036925081",
-        "nome": "DUAC",
-        "descrizione": "1% + 5%  GEL - 1 TUBO IN  ALLUMINIO  DA 70 G",
         "produttore": "STIEFEL LABORATORIES LEGACY (IRELAND) LTD",
         "forma": "Gel"
     },
@@ -23504,6 +23406,13 @@
         "descrizione": "5mg/ml polvere per soluzione iniettabile- 5 flaconcini di vetro da 50 mg",
         "produttore": "Diagnostic Green Ltd.",
         "forma": "Polvere per soluzione iniettabile"
+    },
+    {
+        "aic": "036931018",
+        "nome": "CLOTRIMAZOLO FARMAKOPEA",
+        "descrizione": "1 %  CREMA - TUBO 30 G",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Crema"
     },
     {
         "aic": "036932010",
@@ -23840,62 +23749,6 @@
         "descrizione": "50 MG CAPSULA RIGIDA USO ORALE BLISTER (PVC/ALL) 14 CAPSULE",
         "produttore": "AMDIPHARM LTD",
         "forma": "Capsula rigida"
-    },
-    {
-        "aic": "036962013",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962025",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962037",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962049",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962052",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962064",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962076",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 120 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962088",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 15 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
     },
     {
         "aic": "036964017",

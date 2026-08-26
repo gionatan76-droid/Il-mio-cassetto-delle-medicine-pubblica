@@ -1432,21 +1432,21 @@
         "nome": "TOSTREX",
         "descrizione": "20  mg/g  gel  transdermico>   -   1  contenitore multidose da 60 g con pompa dosatrice",
         "produttore": "ADVANZ PHARMA LIMITED",
-        "forma": "Gel"
+        "forma": "Gel transdermico"
     },
     {
         "aic": "037314022",
         "nome": "TOSTREX",
         "descrizione": "20  mg/g  gel  transdermico>   -   3  contenitori multidose da 60 g con pompa dosatrice",
         "produttore": "ADVANZ PHARMA LIMITED",
-        "forma": "Gel"
+        "forma": "Gel transdermico"
     },
     {
         "aic": "037314034",
         "nome": "TOSTREX",
         "descrizione": "20 mg/g gel transdermico> - 2 contenitori  multidose da 60 g con pompa dosatrice",
         "produttore": "ADVANZ PHARMA LIMITED",
-        "forma": "Gel"
+        "forma": "Gel transdermico"
     },
     {
         "aic": "037707015",
@@ -4228,6 +4228,13 @@
         "forma": "Unguento"
     },
     {
+        "aic": "042845154",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Unguento"
+    },
+    {
         "aic": "042846016",
         "nome": "TOBRAL",
         "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
@@ -4891,6 +4898,13 @@
         "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE  CONTAGOCCE 5 ML",
         "produttore": "NEW PHARMASHOP S.R.L.",
         "forma": "Collirio, soluzione"
+    },
+    {
+        "aic": "043317066",
+        "nome": "TOBRAL",
+        "descrizione": "0,3 % UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Unguento"
     },
     {
         "aic": "043318017",
@@ -6121,112 +6135,112 @@
         "aic": "051429013",
         "nome": "TOREZ",
         "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429025",
         "nome": "TOREZ",
         "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429037",
         "nome": "TOREZ",
         "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429049",
         "nome": "TOREZ",
         "descrizione": "10 MG/10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429052",
         "nome": "TOREZ",
         "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429064",
         "nome": "TOREZ",
         "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429076",
         "nome": "TOREZ",
         "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429088",
         "nome": "TOREZ",
         "descrizione": "10 MG/20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429090",
         "nome": "TOREZ",
         "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429102",
         "nome": "TOREZ",
         "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429114",
         "nome": "TOREZ",
         "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429126",
         "nome": "TOREZ",
         "descrizione": "10 MG/40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429138",
         "nome": "TOREZ",
         "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429140",
         "nome": "TOREZ",
         "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429153",
         "nome": "TOREZ",
         "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051429165",
         "nome": "TOREZ",
         "descrizione": "10 MG/80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "PIAM FARMACEUTICI S.P.A.",
+        "produttore": "S.F. GROUP S.R.L.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -6249,5 +6263,12 @@
         "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
         "produttore": "FARMED S.R.L.",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053193013",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% COLLIRIO, SOSPENSIONE- FLACONE CONTAGOCCE IN PE DA 5 ML",
+        "produttore": "ISTITUTO FARMACEUTICO TOSCANO SRL",
+        "forma": "Collirio, sospensione"
     }
 ]

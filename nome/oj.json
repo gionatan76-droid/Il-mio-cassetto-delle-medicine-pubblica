@@ -1,0 +1,30 @@
+[
+    {
+        "aic": "053042014",
+        "nome": "OJEMDA",
+        "descrizione": "100 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/PVC/alu) - 16 compresse",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053042026",
+        "nome": "OJEMDA",
+        "descrizione": "100 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/PVC/alu) - 20 compresse",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053042038",
+        "nome": "OJEMDA",
+        "descrizione": "100 mg - Compresse rivestite con film - Uso orale - Blister (PVC/PCTFE/PVC/alu) - 24 compresse",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053042040",
+        "nome": "OJEMDA",
+        "descrizione": "25 mg/ml - Polvere per sospensione orale - Uso orale - Flacone (vetro) 300 mg - 1 flacone, 1 adattatore per flacone, 1 siringa per somministrazione orale",
+        "produttore": "IPSEN PHARMA",
+        "forma": "Polvere per sospensione orale"
+    }
+]

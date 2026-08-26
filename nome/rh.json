@@ -6991,5 +6991,26 @@
         "descrizione": "400 DH GRANULI- 3 CONTENITORI MULTIDOSE IN PP DA 4 G (80 GRANULI) CON TAPPO DISPENSATORE IN PP",
         "produttore": "BOIRON",
         "forma": "Granuli"
+    },
+    {
+        "aic": "053049019",
+        "nome": "RHAPSIDO",
+        "descrizione": "25 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 30 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053049021",
+        "nome": "RHAPSIDO",
+        "descrizione": "25 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 60 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053049033",
+        "nome": "RHAPSIDO",
+        "descrizione": "25 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 180 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
     }
 ]

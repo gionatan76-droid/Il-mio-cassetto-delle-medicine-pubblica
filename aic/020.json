@@ -126,6 +126,20 @@
         "forma": "Capsula rigida"
     },
     {
+        "aic": "020197012",
+        "nome": "CARIN",
+        "descrizione": "200 MG + 330 MG COMPRESSE EFFERVESCENTI- 10 COMPRESSE",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "020197051",
+        "nome": "CARIN",
+        "descrizione": "200 MG + 330 MG COMPRESSE EFFERVESCENTI - 20 COMPRESSE",
+        "produttore": "FARMAKOPEA S.P.A.",
+        "forma": "Compressa effervescente"
+    },
+    {
         "aic": "020213144",
         "nome": "BENEXOL",
         "descrizione": "COMPRESSE GASTRORESISTENTI- 20 COMPRESSE IN FLACONE HDPE",

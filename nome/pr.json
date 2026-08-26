@@ -12971,6 +12971,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "048943132",
+        "nome": "PROURSAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PRO.MED.CS Praha a.s.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "049020011",
         "nome": "PREKISAN",
         "descrizione": "2 MG COMPRESSE SUBLINGUALI- 7 COMPRESSE IN BLISTER PVC/PVDC/PVC/AL",
@@ -13664,6 +13671,13 @@
         "forma": "Compressa rivestita"
     },
     {
+        "aic": "050025030",
+        "nome": "PROGYNOVA",
+        "descrizione": "2 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
         "aic": "050070010",
         "nome": "PROSCAR",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM-15 COMPRESSE",
@@ -13804,6 +13818,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "051542037",
+        "nome": "PROSCAR",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM-15 COMPRESSE IN BLISTER PVC/PE/PVDC-AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "051569010",
         "nome": "PROTOX",
         "descrizione": "50%/50 % GAS MEDICINALE COMPRESSO- 1 BOMBOLA IN AL DA 5 L A 135 BAR CON VALVOLA RIDUTTRICE FLUSSOMETRICA",
@@ -13842,6 +13863,13 @@
         "aic": "051939015",
         "nome": "PRETERAX",
         "descrizione": "5 MG+1.25 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE PP",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051939027",
+        "nome": "PRETERAX",
+        "descrizione": "2.5 MG+0.625 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN CONTENITORE PP",
         "produttore": "FARMED S.R.L.",
         "forma": "Compressa rivestita con film"
     },

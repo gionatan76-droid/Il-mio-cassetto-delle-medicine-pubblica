@@ -557,21 +557,21 @@
         "nome": "GAVISCON ADVANCE",
         "descrizione": "<500mg/100mg compresse masticabili> 60 compresse masticabili in tubo PP",
         "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A.",
-        "forma": "Compressa"
+        "forma": "Compressa masticabile"
     },
     {
         "aic": "034248397",
         "nome": "GAVISCON ADVANCE",
         "descrizione": "<500mg/100mg compresse masticabili> 12 compresse masticabili in blister PVC/PE/PVdC",
         "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A.",
-        "forma": "Compressa"
+        "forma": "Compressa masticabile"
     },
     {
         "aic": "034248409",
         "nome": "GAVISCON ADVANCE",
         "descrizione": "<500mg/100mg compresse masticabili> 12 compresse masticabili in blister PVC/PE/PVdC",
         "produttore": "RECKITT BENCKISER HEALTHCARE (ITALIA) S.P.A.",
-        "forma": "Compressa"
+        "forma": "Compressa masticabile"
     },
     {
         "aic": "034248411",
@@ -5211,63 +5211,63 @@
         "aic": "052808019",
         "nome": "GALENVITA",
         "descrizione": "0,74 GBq - Generatore di radionuclidi - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808021",
         "nome": "GALENVITA",
         "descrizione": "1,11 GBq - Generatore di radionuclide - Via di somministrazione non specificabile -Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808033",
         "nome": "GALENVITA",
         "descrizione": "1,48 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808045",
         "nome": "GALENVITA",
         "descrizione": "1,85 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di  soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808058",
         "nome": "GALENVITA",
         "descrizione": "2,22 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808060",
         "nome": "GALENVITA",
         "descrizione": "2,59 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808072",
         "nome": "GALENVITA",
         "descrizione": "2,96 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808084",
         "nome": "GALENVITA",
         "descrizione": "3,33 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     },
     {
         "aic": "052808096",
         "nome": "GALENVITA",
         "descrizione": "3,70 GBq - Generatore di radionuclide - Via di somministrazione non specificabile - Colonna di vetro con tappi in PEEK, posizionata all?interno di una schermatura in piombo e dentro a una cassetta in acciaio inossidabile con porte di entrata ?IN? e di uscita ?OUT? in PEEK - 1 generatore di radionuclidi + 1 contenitore con 220 mL di soluzione per l?eluizione di acido cloridrico sterile ultra puro 0,1 mol/L + accessori per l?eluizione",
-        "produttore": "CURIUM ROMANIA SRL",
+        "produttore": "CURIUM ROMANIA S.R.L.",
         "forma": "Generatore di radionuclidi"
     }
 ]

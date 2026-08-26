@@ -2552,28 +2552,28 @@
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 60 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047812033",
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 30 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047812045",
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 30 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047812058",
         "nome": "DAFLON",
         "descrizione": "500 mg compresse rivestite  con  film> 60 compresse in blister PVC/Al",
         "produttore": "GMM FARMA S.R.L.",
-        "forma": "Compressa rivestita"
+        "forma": "Compressa rivestita con film"
     },
     {
         "aic": "047966015",
@@ -7245,6 +7245,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "051829012",
+        "nome": "DALBAVANCINA DR. REDDY?S",
+        "descrizione": "?500 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE? 1 FLACONCINO IN VETRO",
+        "produttore": "DR. REDDY'S S.R.L.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
         "aic": "051830014",
         "nome": "DAMSEL",
         "descrizione": "COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE (2 COMPRESSE DA 3 MG ESTRADIOLO + 5 COMPRESSE DA 2MG ESTRADIOLO/2 MG DIENOGEST + 17 COMPRESSE DA 2 MG ESTRADIOLO/3 MG DIENOGEST + 2 COMPRESSE DA 1 MG ESTRADIOLO + 2 COMPRESSE PLACEBO) IN BLISTER PVC/PVDC/AL",
@@ -7733,5 +7740,19 @@
         "descrizione": "150 MG CAPSULE RIGIDE- 180 (3X60) CAPSULE IN BLISTER OPA/AL/PE/ESSICANTE/AL",
         "produttore": "GEDEON RICHTER PLC",
         "forma": "Capsula rigida"
+    },
+    {
+        "aic": "053067017",
+        "nome": "DAZPARDA",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3,0 mL - 1 penna preriempita",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053067029",
+        "nome": "DAZPARDA",
+        "descrizione": "100 unita/mL - Soluzione per iniezione - Uso sottocutaneo - Cartuccia (vetro) in una penna preriempita (VitaClick) 3,0 mL - 5 penne preriempite",
+        "produttore": "GAN & LEE PHARMACEUTICALS EUROPE GMBH",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     }
 ]

@@ -56,13 +56,6 @@
         "forma": "Compressa effervescente"
     },
     {
-        "aic": "004901031",
-        "nome": "NEO BOROCILLINA ANTISETTICO OROFARINGEO",
-        "descrizione": "6,4 MG + 52 MG COMPRESSE OROSOLUBILI- 30 COMPRESSE SENZA ZUCCHERO",
-        "produttore": "ALFASIGMA S.P.A.",
-        "forma": "Compressa orosolubile"
-    },
-    {
         "aic": "004901043",
         "nome": "NEO BOROCILLINA ANTISETTICO OROFARINGEO",
         "descrizione": "6,4 MG + 52 MG PASTIGLIE GUSTO MENTOLO EUCALIPTOLO- 20 PASTIGLIE",
@@ -5388,5 +5381,12 @@
         "descrizione": "100 MG/50 MG/1 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "PROCTER & GAMBLE S.R.L.",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "053118016",
+        "nome": "NEXIUM",
+        "descrizione": "20 MG COMPRESSE GASTRORESISTENTI- 14 COMPRESSE IN BLISTER AL/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa gastroresistente"
     }
 ]

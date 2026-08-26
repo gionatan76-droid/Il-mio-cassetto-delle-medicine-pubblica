@@ -6408,42 +6408,42 @@
         "aic": "047660016",
         "nome": "ATANTO",
         "descrizione": "80 MG CAPSULE RIGIDE- 1 CAPSULA IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660028",
         "nome": "ATANTO",
         "descrizione": "80 MG CAPSULE RIGIDE- 2 CAPSULE IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660030",
         "nome": "ATANTO",
         "descrizione": "80 MG CAPSULE RIGIDE- 5 CAPSULE IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660042",
         "nome": "ATANTO",
         "descrizione": "125 MG CAPSULE RIGIDE- 1 CAPSULA IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660055",
         "nome": "ATANTO",
         "descrizione": "125 MG CAPSULE RIGIDE + 80 MG CAPSULE RIGIDE- 1 CAPSULA DA 125 MG IN BLISTER OPA/AL/PVC-AL + 2 CAPSULE DA 80 MG IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "047660067",
         "nome": "ATANTO",
         "descrizione": "125 MG CAPSULE RIGIDE- 5 CAPSULE IN BLISTER OPA/AL/PVC-AL",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Capsula rigida"
     },
     {
@@ -8684,6 +8684,174 @@
         "nome": "ATORVASTATINA ABC FARMACEUTICI",
         "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
         "produttore": "PHARMACARE S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226014",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226026",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226038",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226040",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226053",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226065",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226077",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226089",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226091",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226103",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226115",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226127",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226139",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226141",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226154",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226166",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226178",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226180",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226192",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226204",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "80 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226216",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226228",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226230",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 50 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052226242",
+        "nome": "ATORVASTATINA MEDREG",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER OPA//PVC//AL",
+        "produttore": "MEDREG S.R.O.",
         "forma": "Compressa rivestita con film"
     },
     {

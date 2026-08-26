@@ -453,5 +453,47 @@
         "descrizione": "130 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 26 mL (5 mg/mL) - 1 flaconcino",
         "produttore": "FORMYCON AG",
         "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "052969019",
+        "nome": "FYLREVY",
+        "descrizione": "14,2 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 28 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969021",
+        "nome": "FYLREVY",
+        "descrizione": "14,2 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 84 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969033",
+        "nome": "FYLREVY",
+        "descrizione": "14,2 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 168 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969045",
+        "nome": "FYLREVY",
+        "descrizione": "18,9 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 28 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969058",
+        "nome": "FYLREVY",
+        "descrizione": "18,9 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 84 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052969060",
+        "nome": "FYLREVY",
+        "descrizione": "18,9 mg - Compressa rivestita con film - Uso orale - Blister (PVC/Alu) - 168 compresse + 1 astuccio di conservazione",
+        "produttore": "GEDEON RICHTER PLC",
+        "forma": "Compressa rivestita con film"
     }
 ]

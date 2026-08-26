@@ -6314,62 +6314,6 @@
         "forma": "Soluzione per infusione"
     },
     {
-        "aic": "036962013",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962025",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962037",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962049",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 50 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962052",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 60 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962064",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 90 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962076",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 120 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036962088",
-        "nome": "GLIMEPIRIDE EG",
-        "descrizione": "2 MG COMPRESSE- 15 COMPRESSE IN BLISTER PVC/AL",
-        "produttore": "EG S.P.A.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "036990012",
         "nome": "GLEXAR",
         "descrizione": "1500  MG POLVERE PER SOLUZIONE ORALE - 20 BUSTINE",
@@ -11638,6 +11582,27 @@
         "nome": "GLICOPIRRONIO DOC",
         "descrizione": "44 MICROGRAMMI POLVERE PER INALAZIONE, CAPSULE RIGIDE- 60 CAPSULE IN BLISTER PA/AL/PVC DIVISIBILE PER DOSE UNITARIA",
         "produttore": "DOC GENERICI SRL",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "051380018",
+        "nome": "GLINDESIA",
+        "descrizione": "85 MICROGRAMMI/43 MICROGRAMMI POLVERE PER INALAZIONE, CAPSULE RIGIDE- 10 X 1 CAPSULE IN BLISTER OPA/AL/PVC-AL DIVISIBILE PER DOSE UNITARIA CON INALATORE",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "051380020",
+        "nome": "GLINDESIA",
+        "descrizione": "85 MICROGRAMMI/43 MICROGRAMMI POLVERE PER INALAZIONE, CAPSULE RIGIDE- 30 X 1 CAPSULE IN BLISTER OPA/AL/PVC-AL DIVISIBILE PER DOSE UNITARIA CON INALATORE",
+        "produttore": "GENETIC S.P.A.",
+        "forma": "Polvere per inalazione, capsula rigida"
+    },
+    {
+        "aic": "051380032",
+        "nome": "GLINDESIA",
+        "descrizione": "85 MICROGRAMMI/43 MICROGRAMMI POLVERE PER INALAZIONE, CAPSULE RIGIDE- 90 X 1 CAPSULE IN BLISTER OPA/AL/PVC-AL DIVISIBILE PER DOSE UNITARIA CON INALATORE",
+        "produttore": "GENETIC S.P.A.",
         "forma": "Polvere per inalazione, capsula rigida"
     },
     {

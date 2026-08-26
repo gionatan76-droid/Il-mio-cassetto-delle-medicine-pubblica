@@ -553,6 +553,13 @@
         "forma": "Compressa rivestita"
     },
     {
+        "aic": "050025030",
+        "nome": "PROGYNOVA",
+        "descrizione": "2 MG COMPRESSE RIVESTITE- 20 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita"
+    },
+    {
         "aic": "050027010",
         "nome": "EFEXOR",
         "descrizione": "75 MG CAPSULE RIGIDE  A RILASCIO PROLUNGATO- 14 CAPSULE",
@@ -1234,7 +1241,7 @@
     {
         "aic": "050045018",
         "nome": "AMLODIPINA PENSA PHARMA",
-        "descrizione": "5 mg COMPRESSA- 28 COMPRESSE IN BLISTER PVC-PVDC/AL",
+        "descrizione": "5 mg COMPRESSE- 28 COMPRESSE IN BLISTER PVC-PVDC/AL",
         "produttore": "TOWA PHARMACEUTICAL S.P.A.",
         "forma": "Compressa"
     },
@@ -3332,6 +3339,13 @@
         "forma": "Sospensione iniettabile a rilascio prolungato in siringa pre-riempita"
     },
     {
+        "aic": "050122023",
+        "nome": "CAMCEVI",
+        "descrizione": "21 mg - Sospensione iniettabile a rilascio prolungato - Uso sottocutaneo - Siringa preriempita (COC) - 1 siringa preriempita + 1 ago di sicurezza",
+        "produttore": "ACCORD HEALTHCARE, S.L.U.",
+        "forma": "Sospensione iniettabile a rilascio prolungato in siringa pre-riempita"
+    },
+    {
         "aic": "050123013",
         "nome": "AMIFAMPRIDINA SERB",
         "descrizione": "10 mg - Compressa - Uso orale - blister (alu/PVC/PVDC) - 90 x 1 compresse (dose unitaria)",
@@ -4819,6 +4833,20 @@
         "aic": "050185053",
         "nome": "SCEMBLIX",
         "descrizione": "40 mg - Compressa rivestita con film - Uso orale - Blister (PCTFE/PVC/Alu) - 180 (3 x 60) compresse (confezione multipla)",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050185065",
+        "nome": "SCEMBLIX",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 60 compresse",
+        "produttore": "NOVARTIS EUROPHARM LIMITED",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "050185077",
+        "nome": "SCEMBLIX",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (PA/Al/PVC/Al) - 120 compresse",
         "produttore": "NOVARTIS EUROPHARM LIMITED",
         "forma": "Compressa rivestita con film"
     },
@@ -16975,6 +17003,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "050445079",
+        "nome": "PYRUKYND",
+        "descrizione": "100 mg - Compressa rivestita con film - Uso orale - Blister (PVC/PCTFE/alu) - 56 compresse",
+        "produttore": "agios netherlands bv",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "050446018",
         "nome": "TOLVAPTAN TEVA ITALIA",
         "descrizione": "15 mg COMPRESSE- 10 COMPRESSE IN BLISTER PVC/ACLAR/PVC-PAP/PET/AL",
@@ -27958,6 +27993,20 @@
         "forma": "Granulato in bustina"
     },
     {
+        "aic": "050572015",
+        "nome": "CLODRONATO DISODICO IBSA",
+        "descrizione": "100 MG + 33 MG SOLUZIONE INIETTABILE CON LIDOCAINA- - USO INTRAMUSCOLARE - 6 FIALE IN VETRO DA 3,3 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
+        "aic": "050572027",
+        "nome": "CLODRONATO DISODICO IBSA",
+        "descrizione": "200 MG + 40 MG SOLUZIONE INIETTABILE CON LIDOCAINA- - USO INTRAMUSCOLARE - 3 FIALE IN VETRO DA 4 ML",
+        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
+        "forma": "Soluzione iniettabile"
+    },
+    {
         "aic": "050574019",
         "nome": "DICLOFENAC EG STADA ITALIA",
         "descrizione": "20 mg/g Gel- 1 tubo in Al da 30 g",
@@ -30668,30 +30717,30 @@
     },
     {
         "aic": "050632013",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "050632025",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 100 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "050632037",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "050632049",
-        "nome": "CEFAZOLINA PHAGECON",
+        "nome": "CEFAZOLINA INCA-PHARM",
         "descrizione": "2 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 100 FLACONCINI IN VETRO",
-        "produttore": "PHAGECON SERVICOS E CONSULTORIA FARMACEUTICA LDA",
+        "produttore": "INCA-PHARM S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
@@ -36337,6 +36386,20 @@
         "forma": "Polvere e sospensione per sospensione iniettabile"
     },
     {
+        "aic": "050751039",
+        "nome": "AREXVY",
+        "descrizione": "0,5 mL - Polvere e sospensione per sospensione iniettabile in siringa preriempita - Uso intramuscolare - Polvere: flacone (vetro), sospensione: siringa preriempita (vetro) polvere: 120 ?g, sospensione: 0,5 ml - 1 flacone di polvere + 1 siringa preriempita  di sospensione",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Polvere e sospensione per sospensione iniettabile"
+    },
+    {
+        "aic": "050751041",
+        "nome": "AREXVY",
+        "descrizione": "0,5 mL - Polvere e sospensione per sospensione iniettabile in siringa preriempita - Uso intramuscolare - Polvere: flacone (vetro), sospensione: siringa preriempita (vetro) polvere: 120 ?g, sospensione: 0,5 ml - 10 flaconi di polvere + 10 siringhe preriempite di sospensione",
+        "produttore": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "forma": "Polvere e sospensione per sospensione iniettabile"
+    },
+    {
         "aic": "050752017",
         "nome": "IBUPROFENE PENSA ITALIA",
         "descrizione": "?200 MG COMPRESSE RIVESTITE CON FILM? 12 COMPRESSE IN BLISTER AL-PVC/PVDC",
@@ -39872,6 +39935,27 @@
         "forma": "Compressa"
     },
     {
+        "aic": "050825052",
+        "nome": "AQUIPTA",
+        "descrizione": "10 mg - Compressa - Uso orale - blister (PVC/PE/PCTFE/alu) - 7 compresse",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050825064",
+        "nome": "AQUIPTA",
+        "descrizione": "60 mg - Compressa - Uso orale - blister (PVC/PE/PCTFE/alu) - 2 compresse",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "050825076",
+        "nome": "AQUIPTA",
+        "descrizione": "60 mg - Compressa - Uso orale - blister (PVC/PE/PCTFE/alu) - 7 compresse",
+        "produttore": "ABBVIE DEUTSCHLAND GMBH & CO. KG",
+        "forma": "Compressa"
+    },
+    {
         "aic": "050826015",
         "nome": "ENTEROGERMINA",
         "descrizione": "2 MILIARDI/5 ML  SOSPENSIONE ORALE- 10 FLACONCINI 5 ML",
@@ -39987,6 +40071,13 @@
         "aic": "050831080",
         "nome": "ABRYSVO",
         "descrizione": "0.5 ml - Polvere e solvente per soluzione iniettabile - Uso intramuscolare - polvere: flaconcino (vetro), solvente: flaconcino (vetro) 0.5 ml - 10 flaconcini + 10 flaconcini",
+        "produttore": "PFIZER EUROPE MA EEIG",
+        "forma": "Polvere e solvente per soluzione iniettabile"
+    },
+    {
+        "aic": "050831092",
+        "nome": "ABRYSVO",
+        "descrizione": "0.5 ml - Polvere e solvente per soluzione iniettabile - Uso intramuscolare - polvere: flaconcino (vetro), solvente: flaconcino (vetro) 2 mL (3 dosi) - 10 flaconcini multidose + 10 flaconcini multidose (30 dosi)",
         "produttore": "PFIZER EUROPE MA EEIG",
         "forma": "Polvere e solvente per soluzione iniettabile"
     },
@@ -45962,6 +46053,69 @@
         "forma": "Soluzione iniettabile o per infusione"
     },
     {
+        "aic": "050902016",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "60 MICROGRAMMI LIOFILIZZATO ORALE- 10 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902028",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "60 MICROGRAMMI LIOFILIZZATO ORALE- 30 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902030",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "60 MICROGRAMMI LIOFILIZZATO ORALE- 100 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902042",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "120 MICROGRAMMI LIOFILIZZATO ORALE- 10 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902055",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "120 MICROGRAMMI LIOFILIZZATO ORALE- 30 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902067",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "120 MICROGRAMMI LIOFILIZZATO ORALE- 100 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902079",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "240 MICROGRAMMI LIOFILIZZATO ORALE- 10 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902081",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "240 MICROGRAMMI LIOFILIZZATO ORALE- 30 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902093",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "240 MICROGRAMMI LIOFILIZZATO ORALE- 100 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
         "aic": "050904010",
         "nome": "TICAGRELOR MENARINI",
         "descrizione": "60 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER PVC/PVDC/AL",
@@ -47911,14 +48065,14 @@
         "aic": "050950017",
         "nome": "BINOFENKID",
         "descrizione": "20 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 100 ML CON SIRINGA PER SOMMINISTRAZIONE ORALE",
-        "produttore": "DR. MAX PHARMA S.R.O.",
+        "produttore": "MEDREG S.R.O.",
         "forma": "Sospensione orale"
     },
     {
         "aic": "050950029",
         "nome": "BINOFENKID",
         "descrizione": "20 MG/ML SOSPENSIONE ORALE- 1 FLACONE IN VETRO DA 100 ML CON CHIUSURA A PROVA DI BAMBINO CON SIRINGA PER SOMMINISTRAZIONE ORALE",
-        "produttore": "DR. MAX PHARMA S.R.O.",
+        "produttore": "MEDREG S.R.O.",
         "forma": "Sospensione orale"
     },
     {

@@ -88,14 +88,14 @@
         "nome": "PORTOLAC EPS",
         "descrizione": "200 G POLVERE PER SOLUZIONE ORALE- BARATTOLO",
         "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
-        "forma": "Polvere orale"
+        "forma": "Polvere per soluzione orale"
     },
     {
         "aic": "029563020",
         "nome": "PORTOLAC EPS",
         "descrizione": "10 G POLVERE PER SOLUZIONE ORALE- 20 BUSTINE",
         "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
-        "forma": "Polvere orale"
+        "forma": "Polvere per soluzione orale"
     },
     {
         "aic": "029563044",
@@ -431,13 +431,6 @@
         "nome": "POTASSIO CANRENOATO SANDOZ",
         "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM - 20 COMPRESSE",
         "produttore": "SANDOZ S.P.A.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "035557014",
-        "nome": "POTASSIO CANRENOATO EG",
-        "descrizione": "100 MG COMPRESSE RIVESTITE CON FILM - 20 CPR",
-        "produttore": "EG S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -5962,5 +5955,12 @@
         "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (60 mg/mL) - 1 siringa preriempita",
         "produttore": "TEVA GMBH",
         "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053048017",
+        "nome": "POHERDY",
+        "descrizione": "420 mg - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 14 ml (30 mg/ml) - 1 flaconcino",
+        "produttore": "N.V. ORGANON",
+        "forma": "Concentrato per soluzione per infusione"
     }
 ]

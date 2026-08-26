@@ -39277,6 +39277,13 @@
         "forma": "Compressa a rilascio modificato"
     },
     {
+        "aic": "048235028",
+        "nome": "EMLA",
+        "descrizione": "25 MG/G + 25 MG/GCREMA- 1 TUBO IN AL DA 5 G + 2 CEROTTI OCCLUSIVI",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Crema"
+    },
+    {
         "aic": "048236018",
         "nome": "EVRA",
         "descrizione": "6,0 MG/CEROTTO NORELGESTROMINA 600 MCG/CEROTTO ETINILESTRADIOLO 3 CEROTTI TRASDERMICI IN BUSTINA USO TRASDERMICO",
@@ -40076,65 +40083,65 @@
     },
     {
         "aic": "048267013",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267025",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 14 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267037",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267049",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267052",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 56 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267064",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267076",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 84 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267088",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "048267102",
-        "nome": "LINAGLIPTIN INTAS",
+        "nome": "ZIREVA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PVC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "INTAS THIRD PARTY SALES 2005, S.L.",
+        "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Compressa rivestita con film"
     },
     {
@@ -45510,14 +45517,14 @@
         "aic": "048286013",
         "nome": "LUXOMER",
         "descrizione": "500 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "048286025",
         "nome": "LUXOMER",
         "descrizione": "1 G POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE- 10 FLACONCINI IN VETRO DA 20 ML",
-        "produttore": "SINTESY PHARMA S.R.L.",
+        "produttore": "GLENMARK PHARMA S.R.L.",
         "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
@@ -57069,90 +57076,6 @@
         "descrizione": "5 MG/1000 MG CAPSULE MOLLI- 30 CAPSULE IN BLISTER PVC/AL",
         "produttore": "SPA SOCIETA' PRODOTTI ANTIBIOTICI S.P.A.",
         "forma": "Capsula molle"
-    },
-    {
-        "aic": "048419016",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 1 SACCA DA 180 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419028",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 1 SACCA DA 200 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419030",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 1 SACCA DA 220 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419042",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 1 SACCA DA 240 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419055",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 5 SACCHE DA 180 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419067",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 5 SACCHE DA 200 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419079",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 5 SACCHE DA 220 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419081",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 5 SACCHE DA 240 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419093",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 10 SACCHE DA 180 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419105",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 10 SACCHE DA 200 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419117",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 10 SACCHE DA 220 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
-    },
-    {
-        "aic": "048419129",
-        "nome": "IRINOTECAN SUN **",
-        "descrizione": "1,5 MG/ML SOLUZIONE PER INFUSIONE- 10 SACCHE DA 240 ML",
-        "produttore": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V.",
-        "forma": "Soluzione per infusione"
     },
     {
         "aic": "048420018",
@@ -89285,13 +89208,6 @@
         "forma": "Granuli"
     },
     {
-        "aic": "048628010",
-        "nome": "BETABIOPTAL",
-        "descrizione": "0,2% + 0,5% COLLIRIO, SOSPENSIONE- FLACONE 5 ML",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Collirio, sospensione"
-    },
-    {
         "aic": "048629012",
         "nome": "VIGAMOX",
         "descrizione": "5 MG/ML COLLIRIO,SOLUZIONE - 1 FLACONE DA 5 ML",
@@ -108997,6 +108913,20 @@
         "forma": "Soluzione iniettabile o per infusione"
     },
     {
+        "aic": "048736021",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "048736033",
+        "nome": "YAZ",
+        "descrizione": "0.02 MG/3 MG COMPRESSE RIVESTITE CON FILM- 3X28 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
         "aic": "048737011",
         "nome": "SIRDALUD",
         "descrizione": "4 MG COMPRESSE- 30 COMPRESSE",
@@ -119035,6 +118965,13 @@
         "forma": "Polvere e solvente per soluzione iniettabile/ per infusione"
     },
     {
+        "aic": "048798021",
+        "nome": "FIBRYGA",
+        "descrizione": "2 G POLVERE E SOLVENTE PER SOLUZIONE INIETTABILE/ PER INFUSIONE- 1 FLACONE IN VETRO DA 150 ML E 1 FLACONCINO IN VETRO DI SOLVENTE DA 100 ML",
+        "produttore": "OCTAPHARMA (IP) SPRL",
+        "forma": "Polvere e solvente per soluzione iniettabile/ per infusione"
+    },
+    {
         "aic": "048801017",
         "nome": "BEMRIST BREEZHALER",
         "descrizione": "125 MCG / 62,5 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC - ALU) - 10 X 1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
@@ -119404,6 +119341,13 @@
         "descrizione": "UNGUENTO PER USO INALATORIO VASETTO 50 G",
         "produttore": "GMM FARMA S.R.L.",
         "forma": "Unguento"
+    },
+    {
+        "aic": "048817035",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "VAPORE PER INALAZIONE, UNGUENTO> VASETTO IN PP  DA 50 G",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Unguento nasale"
     },
     {
         "aic": "048818013",
@@ -139713,6 +139657,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "048943132",
+        "nome": "PROURSAN",
+        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "PRO.MED.CS Praha a.s.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "048944019",
         "nome": "TABACUM",
         "descrizione": "4 CH GRANULI- 1 CONTENITORE MONODOSE IN PP DA 1 G",
@@ -145353,13 +145304,6 @@
         "descrizione": "20 MICROGRAMMI/80 MICROLITRI SOLUZIONE INIETTABILE IN PENNA PRE-RIEMPITA- 3 CARTUCCE IN VETRO DA 28 DOSI (2,4 ML SOLUZIONE) IN PENNA PRE-RIEMPITA",
         "produttore": "NEOPHARMED GENTILI S.P.A.",
         "forma": "Soluzione iniettabile in penna pre-riempita"
-    },
-    {
-        "aic": "048994014",
-        "nome": "LUMEBLUE",
-        "descrizione": "25 MG - COMPRESSA A RILASCIO PROLUNGATO - USO ORALE - BLISTER (POLIAMMIDE/ALLUMINIO/PVC/ ALLUMINIO) - 8 COMPRESSE",
-        "produttore": "COSMO TECHNOLOGIES LIMITED",
-        "forma": "Compressa a rilascio prolungato"
     },
     {
         "aic": "048996019",

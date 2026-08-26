@@ -3584,34 +3584,6 @@
         "forma": "Compressa a rilascio prolungato"
     },
     {
-        "aic": "046270017",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 5 FIALE IN VETRO DA 2 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "046270029",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 25 FIALE IN VETRO DA 2 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "046270031",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "?100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE? 4 FLACONCINI IN VETRO DA 4 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
-        "aic": "046270043",
-        "nome": "DEXMEDETOMIDINA ALTAN",
-        "descrizione": "?100 MICROGRAMMI/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE? 4 FLACONCINI IN VETRO DA 10 ML",
-        "produttore": "ALTAN PHARMA LIMITED",
-        "forma": "Concentrato per soluzione per infusione"
-    },
-    {
         "aic": "046307017",
         "nome": "DEVICIUS",
         "descrizione": "2 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PET/AL/PE",
@@ -5775,6 +5747,69 @@
         "forma": "Polvere e solvente per soluzione iniettabile"
     },
     {
+        "aic": "050902016",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "60 MICROGRAMMI LIOFILIZZATO ORALE- 10 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902028",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "60 MICROGRAMMI LIOFILIZZATO ORALE- 30 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902030",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "60 MICROGRAMMI LIOFILIZZATO ORALE- 100 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902042",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "120 MICROGRAMMI LIOFILIZZATO ORALE- 10 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902055",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "120 MICROGRAMMI LIOFILIZZATO ORALE- 30 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902067",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "120 MICROGRAMMI LIOFILIZZATO ORALE- 100 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902079",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "240 MICROGRAMMI LIOFILIZZATO ORALE- 10 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902081",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "240 MICROGRAMMI LIOFILIZZATO ORALE- 30 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
+        "aic": "050902093",
+        "nome": "DESMOPRESSINA LYODIS",
+        "descrizione": "240 MICROGRAMMI LIOFILIZZATO ORALE- 100 BLISTER PVC-PA-AL/AL",
+        "produttore": "pharmholding sa",
+        "forma": "Liofilizzato orale"
+    },
+    {
         "aic": "050975010",
         "nome": "DESMOPRESSINA DOC",
         "descrizione": "60 MICROGRAMMI COMPRESSE SUBLINGUALI- 10 COMPRESSE IN BLISTER OPA/AL/PVC/PE-AL",
@@ -5859,8 +5894,15 @@
         "forma": "Polvere per concentrato per soluzione per infusione"
     },
     {
+        "aic": "051585014",
+        "nome": "DECITABINA SANDOZ",
+        "descrizione": "?50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE? 1 FLACONCINO IN VETRO",
+        "produttore": "SANDOZ S.P.A.",
+        "forma": "Polvere per concentrato per soluzione per infusione"
+    },
+    {
         "aic": "051860017",
-        "nome": "DECITABINA EUGIA",
+        "nome": "DECITABINA AUROBINDO",
         "descrizione": "50 MG POLVERE PER CONCENTRATO PER SOLUZIONE PER INFUSIONE- 1 FLACONCINO IN VETRO",
         "produttore": "Eugia Pharma (Malta) Limited",
         "forma": "Polvere per concentrato per soluzione per infusione"

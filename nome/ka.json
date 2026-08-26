@@ -28803,5 +28803,40 @@
         "descrizione": "300 mg - Soluzione iniettabile o per infusione - Uso intramuscolare, Uso endovenoso - flaconcino (vetro) 2 mL (150 mg/mL) - 1 flaconcino",
         "produttore": "ASTRAZENECA AB",
         "forma": "Soluzione iniettabile o per infusione"
+    },
+    {
+        "aic": "052967015",
+        "nome": "KAYSHILD",
+        "descrizione": "0,25 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 1,5 ml (0,68 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967027",
+        "nome": "KAYSHILD",
+        "descrizione": "0,5 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (0,68 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967039",
+        "nome": "KAYSHILD",
+        "descrizione": "1 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (1,34 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967041",
+        "nome": "KAYSHILD",
+        "descrizione": "1,7 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (2,27 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "052967054",
+        "nome": "KAYSHILD",
+        "descrizione": "2,4 mg - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita (FlexTouch) 3 ml (3,2 mg/ml) - 1 penna preriempita + 4 aghi",
+        "produttore": "NOVO NORDISK A/S",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
     }
 ]

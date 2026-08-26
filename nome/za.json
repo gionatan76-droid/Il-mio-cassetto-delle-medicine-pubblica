@@ -353,7 +353,7 @@
         "aic": "035798014",
         "nome": "ZAVESCA",
         "descrizione": "100 MG CAPSULE RIGIDE- 84 CAPSULE IN BLISTER USO ORALE",
-        "produttore": "JANSSEN-CILAG INTERNATIONAL N.V.",
+        "produttore": "ADVANZ PHARMA LIMITED",
         "forma": "Capsula rigida"
     },
     {
@@ -1988,10 +1988,31 @@
         "forma": "Sciroppo"
     },
     {
+        "aic": "051711024",
+        "nome": "ZARONTIN",
+        "descrizione": "250 MG/5 ML SCIROPPO- 1 FLACONE DA 200 ML",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Sciroppo"
+    },
+    {
         "aic": "052330014",
         "nome": "ZADENVI",
         "descrizione": "60 mg - Soluzione iniettabile - Uso sottocutaneo - Siringa preriempita (vetro) 1 mL (60 mg/mL) - 1 siringa preriempita",
         "produttore": "ZENTIVA K.S.",
         "forma": "Soluzione iniettabile in siringa pre-riempita"
+    },
+    {
+        "aic": "053086017",
+        "nome": "ZANDORIAH",
+        "descrizione": "20 ?g/80 ?l - Soluzione iniettabile - Uso sottocutaneo - Cartuccia (vetro) in penna preriempita 2,4 ml - 1 penna preriempita",
+        "produttore": "CINNAGEN CO UNIPESSOAL LDA.",
+        "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "053160014",
+        "nome": "ZARONTIN",
+        "descrizione": "250 MG/5 ML SCIROPPO- 1 FLACONE DA 200 ML",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Sciroppo"
     }
 ]

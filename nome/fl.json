@@ -3696,69 +3696,6 @@
         "forma": "Compressa a rilascio prolungato"
     },
     {
-        "aic": "038831018",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 10 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831020",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 20 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831032",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 28 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831044",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 30 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831057",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 42 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831069",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 50 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831071",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 56 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831083",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 98 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
-        "aic": "038831095",
-        "nome": "FLUVASTATINA ZENTIVA",
-        "descrizione": "80 MG COMPRESSE A RILASCIO PROLUNGATO- 100 COMPRESSE IN BLISTER AL/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa a rilascio prolungato"
-    },
-    {
         "aic": "038838013",
         "nome": "FLUCONAZOLO B. BRAUN",
         "descrizione": "2 MG/ML SOLUZIONE PER INFUSIONE- 10 FLACONI IN LDPE DA 50 ML",
@@ -3827,6 +3764,13 @@
         "descrizione": "50 MCG/ EROGAZIONE SPRAY NASALE, SOSPENSIONE- FLACONE 120 EROGAZIONI",
         "produttore": "BB FARMA S.R.L.",
         "forma": "Spray nasale, sospensione"
+    },
+    {
+        "aic": "039654037",
+        "nome": "FLUIMUCIL",
+        "descrizione": "600 MG COMPRESSE EFFERVESCENTI - 30 COMPRESSE",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa effervescente"
     },
     {
         "aic": "039657010",
@@ -4134,69 +4078,6 @@
         "nome": "FLUORODOPA (18F) CURIUM ITALY",
         "descrizione": "90 MBQ/ML SOLUZIONE INIETTABILE- 1 FLACONCINO MULTIDOSE CONTENENTE DA 1 A 10 ML DI SOLUZIONE CORRISPONDENTI A 90-900 MBQ AL TEMPO DI CALIBRAZIONE",
         "produttore": "CURIUM ITALY S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528287",
-        "nome": "FLECTORIN",
-        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO + 1 AGO PER INIEZIONE SOTTOCUTANEA + 1 AGO PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528299",
-        "nome": "FLECTORIN",
-        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 SIRINGHE IN VETRO + 3 AGHI PER INIEZIONE SOTTOCUTANEA + 3 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528301",
-        "nome": "FLECTORIN",
-        "descrizione": "25 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO + 5 AGHI PER INIEZIONE SOTTOCUTANEA + 5 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528313",
-        "nome": "FLECTORIN",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO + 1 AGO PER INIEZIONE SOTTOCUTANEA + 1 AGO PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528325",
-        "nome": "FLECTORIN",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 SIRINGHE IN VETRO + 3 AGHI PER INIEZIONE SOTTOCUTANEA + 3 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528337",
-        "nome": "FLECTORIN",
-        "descrizione": "50 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO + 5 AGHI PER INIEZIONE SOTTOCUTANEA + 5 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528349",
-        "nome": "FLECTORIN",
-        "descrizione": "75 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 1 SIRINGA IN VETRO + 1 AGO PER INIEZIONE SOTTOCUTANEA + 1 AGO PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528352",
-        "nome": "FLECTORIN",
-        "descrizione": "75 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 3 SIRINGHE IN VETRO + 3 AGHI PER INIEZIONE SOTTOCUTANEA + 3 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
-        "forma": "Soluzione iniettabile"
-    },
-    {
-        "aic": "040528364",
-        "nome": "FLECTORIN",
-        "descrizione": "75 MG/ML SOLUZIONE INIETTABILE IN SIRINGA PRERIEMPITA- 5 SIRINGHE IN VETRO + 5 AGHI PER INIEZIONE SOTTOCUTANEA + 5 AGHI PER INIEZIONE INTRAMUSCOLARE E ENDOVENOSA",
-        "produttore": "IBSA FARMACEUTICI ITALIA S.R.L.",
         "forma": "Soluzione iniettabile"
     },
     {
@@ -5979,6 +5860,13 @@
     },
     {
         "aic": "047454057",
+        "nome": "FLUIMUCIL",
+        "descrizione": "600 MG COMPRESSE EFFERVESCENTI - 30 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
+        "forma": "Compressa effervescente"
+    },
+    {
+        "aic": "047454069",
         "nome": "FLUIMUCIL",
         "descrizione": "600 MG COMPRESSE EFFERVESCENTI - 30 COMPRESSE",
         "produttore": "FARMED S.R.L.",

@@ -588,62 +588,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "033656481",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 2 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656493",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 4 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656505",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 10 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656517",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 20 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656529",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 30 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656531",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 50 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656543",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
-        "aic": "033656556",
-        "nome": "ENANTYUM",
-        "descrizione": "25 MG GRANULATO IN BUSTINA- 5X100 BUSTINE MONODOSE IN PET/AL/PE",
-        "produttore": "LABORATORIOS MENARINI S.A.",
-        "forma": "Granulato in bustina"
-    },
-    {
         "aic": "033656568",
         "nome": "ENANTYUM",
         "descrizione": "25 MG COMPRESSE RIVESTITE CON FILM- 4 COMPRESSE IN BLISTER AL/AL",
@@ -3297,62 +3241,6 @@
         "forma": "Compressa"
     },
     {
-        "aic": "042304016",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 6X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304028",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 12X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304030",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 30X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304042",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 90 (3X30X1) CAPSULE (DOSE UNIT.) (CONF. MULTIPLA) + 3 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304055",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 96 (4X24X1) CAPSULE (DOSE UNIT.) (CONF. MULTIPLA) + 4 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304067",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 150 (6X25X1) CAPSULE (DOSE UNIT.)(CONF.MULTIPLA) + 25 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304079",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) - 10X1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304081",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) - 150 (15X10X1) CAPSULE (DOSE UNITARIA) (CONFEZIONE MULTIPLA) + 15 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
         "aic": "042829034",
         "nome": "ENTEROGERMINA",
         "descrizione": "2 MILIARDI/5 ML SOSPENSIONE ORALE- 20 FLACONCINI 5 ML",
@@ -5372,6 +5260,76 @@
         "aic": "046073348",
         "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
         "descrizione": "20 MG COMPRESSE- 56 COMPRESSE IN BLISTER PVC/AL",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073351",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073363",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 250 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073375",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073387",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073399",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073401",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "5 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073413",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073425",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 50 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073437",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 90 COMPRESSE IN FLACONE HDPE",
+        "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "046073449",
+        "nome": "ENALAPRIL AUROBINDO PHARMA ITALIA",
+        "descrizione": "20 MG COMPRESSE- 100 COMPRESSE IN FLACONE HDPE",
         "produttore": "AUROBINDO PHARMA (ITALIA) S.R.L.",
         "forma": "Compressa"
     },

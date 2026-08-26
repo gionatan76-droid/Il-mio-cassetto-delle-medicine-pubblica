@@ -184,28 +184,28 @@
     {
         "aic": "026752016",
         "nome": "LEVOTUSS",
-        "descrizione": "30 MG/5 ML SCIROPPO- 1 FLACONE 200 ML",
+        "descrizione": "<30 mg/5 ml sciroppo> 1 flacone in vetro  da  200 ml con chiusura a prova di bambino e bicchiere dosatore",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Sciroppo"
     },
     {
         "aic": "026752055",
         "nome": "LEVOTUSS",
-        "descrizione": "60 MG COMPRESSE- 10 COMPRESSE",
+        "descrizione": "<60 mg compresse> 10 compresse in blister pvc/al",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Compressa"
     },
     {
         "aic": "026752067",
         "nome": "LEVOTUSS",
-        "descrizione": "60 MG COMPRESSE- 20 COMPRESSE",
+        "descrizione": "<60 mg compresse> 20 compresse in blister pvc/al",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Compressa"
     },
     {
         "aic": "026752079",
         "nome": "LEVOTUSS",
-        "descrizione": "60 MG/10 ML SCIROPPO- 10 BUSTINE PET/PE/ALLUMINIO/PE DA 10 ML",
+        "descrizione": "<60 mg/10 ml sciroppo> 10 bustine pet/pe/al/pe da 10 ml",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Sciroppo"
     },
@@ -1451,30 +1451,30 @@
     {
         "aic": "037186018",
         "nome": "LEVOGENIX",
-        "descrizione": "15 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "descrizione": "15 MG CAPSULE RIGIDE - 14 CAPSULE",
         "produttore": "GENETIC S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "037186020",
         "nome": "LEVOGENIX",
-        "descrizione": "30 MG CAPSULE RIGIDE GASTRORESISTENTI- 14 CAPSULE",
+        "descrizione": "30 MG CAPSULE RIGIDE - 14 CAPSULE",
         "produttore": "GENETIC S.P.A.",
         "forma": "Capsula rigida"
     },
     {
         "aic": "037186032",
         "nome": "LEVOGENIX",
-        "descrizione": "15 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER AL/PVC",
+        "descrizione": "15 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER AL/PVC",
         "produttore": "GENETIC S.P.A.",
-        "forma": "Capsula rigida gastroresistente"
+        "forma": "Capsula rigida"
     },
     {
         "aic": "037186044",
         "nome": "LEVOGENIX",
-        "descrizione": "30 MG CAPSULE RIGIDE GASTRORESISTENTI- 28 CAPSULE IN BLISTER AL/PVC",
+        "descrizione": "30 MG CAPSULE RIGIDE - 28 CAPSULE IN BLISTER AL/PVC",
         "produttore": "GENETIC S.P.A.",
-        "forma": "Capsula rigida gastroresistente"
+        "forma": "Capsula rigida"
     },
     {
         "aic": "037237056",
@@ -4154,83 +4154,6 @@
         "aic": "039686100",
         "nome": "LEVOFLOXACINA TEVA",
         "descrizione": "250 MG COMPRESSE RIVESTITE CON FILM - 200 (20X10) COMPRESSA IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686112",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 1 COMPRESSA IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686124",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 2 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686136",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 5 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686148",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686151",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686163",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686175",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 50 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686187",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 50  (5X10) COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686199",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 200  (20X10) COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686201",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 500  (50X10) COMPRESSE IN BLISTER PVC/PVDC/AL CONFEZIONE OSPEDALIERA",
-        "produttore": "TEVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "039686213",
-        "nome": "LEVOFLOXACINA TEVA",
-        "descrizione": "500 MG COMPRESSE RIVESTITE CON FILM - 14 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "TEVA ITALIA S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -6979,6 +6902,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "040645350",
+        "nome": "LETROZOLO MYLAN GENERICS",
+        "descrizione": "2,5 MG COMPRESSE RIVESTITE CON FILM- 30 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA  PVC/PVDC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "040809016",
         "nome": "LEVOCETIRIZINA KRKA",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 7 COMPRESSE IN BLISTER PVC/PVDC/AL",
@@ -8983,7 +8913,7 @@
     {
         "aic": "042005013",
         "nome": "LEVOTUSS TOSSE",
-        "descrizione": "60 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 30 ML",
+        "descrizione": "<60 mg/ml gocce orali, soluzione> flacone in PE  da 30 ml con chiusura a prova di bambino",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Gocce orali, soluzione"
     },
@@ -19710,6 +19640,13 @@
         "descrizione": "10 MG CAPSULE RIGIDE- 90X1 CAPSULE IN BLISTER DIVISIBILE PER DOSE UNITARIA OPA/AL/PVC/PE/AL",
         "produttore": "TEVA ITALIA S.R.L.",
         "forma": "Capsula rigida"
+    },
+    {
+        "aic": "051869016",
+        "nome": "LEVETIRACETAM KALCEKS",
+        "descrizione": "100 MG/ML CONCENTRATO PER SOLUZIONE PER INFUSIONE- 10 FLACONCINI IN VETRO DA 5 ML",
+        "produttore": "AS KALCEKS",
+        "forma": "Concentrato per soluzione per infusione"
     },
     {
         "aic": "051960019",

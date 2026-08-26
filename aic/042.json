@@ -58,7 +58,7 @@
     {
         "aic": "042005013",
         "nome": "LEVOTUSS TOSSE",
-        "descrizione": "60 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE DA 30 ML",
+        "descrizione": "<60 mg/ml gocce orali, soluzione> flacone in PE  da 30 ml con chiusura a prova di bambino",
         "produttore": "DOMPE' FARMACEUTICI S.P.A.",
         "forma": "Gocce orali, soluzione"
     },
@@ -10815,62 +10815,6 @@
         "forma": "Spray per mucosa orale, soluzione"
     },
     {
-        "aic": "042304016",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 6X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304028",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 12X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304030",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 30X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304042",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 90 (3X30X1) CAPSULE (DOSE UNIT.) (CONF. MULTIPLA) + 3 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304055",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 96 (4X24X1) CAPSULE (DOSE UNIT.) (CONF. MULTIPLA) + 4 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304067",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 150 (6X25X1) CAPSULE (DOSE UNIT.)(CONF.MULTIPLA) + 25 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304079",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) - 10X1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
-        "aic": "042304081",
-        "nome": "ENUREV BREEZHALER",
-        "descrizione": "44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) - 150 (15X10X1) CAPSULE (DOSE UNITARIA) (CONFEZIONE MULTIPLA) + 15 INALATORI",
-        "produttore": "NOVARTIS EUROPHARM LIMITED",
-        "forma": "Polvere per inalazione, capsula rigida"
-    },
-    {
         "aic": "042306011",
         "nome": "SEEBRI BREEZHALER",
         "descrizione": "44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU)- 6X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE",
@@ -15834,13 +15778,6 @@
         "forma": "Crema"
     },
     {
-        "aic": "042483014",
-        "nome": "CELLUVISC",
-        "descrizione": "10 MG/ML COLLIRIO- 30 FLACONI MONODOSE DA 0,4 ML",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Collirio, soluzione"
-    },
-    {
         "aic": "042484042",
         "nome": "BUSCOPAN",
         "descrizione": "10 MG COMPRESSE RIVESTITE- 30 COMPRESSE",
@@ -17616,14 +17553,14 @@
         "nome": "JAYDESS",
         "descrizione": "13,5 mg sistema a rilascio intrauterino> 1 sistema a rilascio intrauterino in blister PTEG/PE",
         "produttore": "BAYER S.P.A.",
-        "forma": "Soluzione vaginale"
+        "forma": "Sistema a rilascio intrauterino"
     },
     {
         "aic": "042522021",
         "nome": "JAYDESS",
         "descrizione": "13,5 mg sistema a rilascio  intrauterino>  5  x  1 sistema a rilascio intrauterino in blister PTEG/PE",
         "produttore": "BAYER S.P.A.",
-        "forma": "Soluzione vaginale"
+        "forma": "Sistema a rilascio intrauterino"
     },
     {
         "aic": "042533012",
@@ -28294,6 +28231,13 @@
         "forma": "Unguento"
     },
     {
+        "aic": "042845154",
+        "nome": "TOBRADEX",
+        "descrizione": "0,3% + 0,1% UNGUENTO OFTALMICO- TUBO IN AL DA 3,5 G",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Unguento"
+    },
+    {
         "aic": "042846016",
         "nome": "TOBRAL",
         "descrizione": "0,3% COLLIRIO, SOLUZIONE-FLACONE 5 ML",
@@ -29428,6 +29372,13 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "042902054",
+        "nome": "AUGMENTIN",
+        "descrizione": "875 mg/125 mg compresse rivestite  con  film>  12 compresse in blister PVC/AL/PA-AL",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "042903043",
         "nome": "EFFERALGAN",
         "descrizione": "500 MG COMPRESSE EFFERVESCENTI- 16 COMPRESSE",
@@ -30245,6 +30196,76 @@
         "descrizione": "120 MG - SOLUZIONE INIETTABILE - USO SOTTOCUTANEO - SIRINGA PRERIEMPITA (VETRO) IN PENNA PRERIEMPITA 1 ML (120 MG / ML) - 6 PENNE PRERIEMPITE + 6 TAMPONI IMBEVUTI DI ALCOOL",
         "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
         "forma": "Soluzione iniettabile in penna pre-riempita"
+    },
+    {
+        "aic": "042942185",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942197",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 2 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942209",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 3 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942211",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942223",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 2.5 ml - 5 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942235",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 1 flaconcino",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942247",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 2 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942250",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 3 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942262",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 4 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
+    },
+    {
+        "aic": "042942274",
+        "nome": "REMSIMA",
+        "descrizione": "40 mg/ml - Concentrato per soluzione per infusione - Uso endovenoso - Flaconcino (vetro) 8.75 ml - 5 flaconcini",
+        "produttore": "CELLTRION HEALTHCARE HUNGARY KFT",
+        "forma": "Concentrato per soluzione per infusione"
     },
     {
         "aic": "042944013",

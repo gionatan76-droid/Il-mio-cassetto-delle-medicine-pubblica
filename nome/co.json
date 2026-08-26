@@ -5749,42 +5749,42 @@
     {
         "aic": "045247018",
         "nome": "CORTIREX",
-        "descrizione": "5 MG COMPRESSA- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "5 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
         "forma": "Compressa"
     },
     {
         "aic": "045247020",
         "nome": "CORTIREX",
-        "descrizione": "5 MG COMPRESSA- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "5 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
         "forma": "Compressa"
     },
     {
         "aic": "045247032",
         "nome": "CORTIREX",
-        "descrizione": "5 MG COMPRESSA- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "5 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
         "forma": "Compressa"
     },
     {
         "aic": "045247044",
         "nome": "CORTIREX",
-        "descrizione": "20 MG COMPRESSA- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "20 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
         "forma": "Compressa"
     },
     {
         "aic": "045247057",
         "nome": "CORTIREX",
-        "descrizione": "25 MG COMPRESSA- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "25 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
         "forma": "Compressa"
     },
     {
         "aic": "045247069",
         "nome": "CORTIREX",
-        "descrizione": "25 MG COMPRESSA- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "descrizione": "25 MG COMPRESSE- 20 COMPRESSE IN BLISTER PVC/PVDC/AL",
         "produttore": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
         "forma": "Compressa"
     },
@@ -22162,13 +22162,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "051991014",
-        "nome": "COVERCARD",
-        "descrizione": "5 MG/10 MG COMPRESSE- 1 CONTENITORE PP DA 30 COMPRESSE",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "051991026",
         "nome": "COVERCARD",
         "descrizione": "10 MG/5 MG COMPRESSE- 1 CONTENITORE PP DA 30 COMPRESSE",
@@ -22246,10 +22239,24 @@
         "forma": "Concentrato per dispersione iniettabile"
     },
     {
+        "aic": "052448077",
+        "nome": "COMIRNATY LP.8.1",
+        "descrizione": "30 mcg - Dispersione per preparazione iniettabile - Via intramuscolare - Siringa preriempita (vetro) 0,418 mL (1 dose) - 1 siringa preriempita (1 dose), solo refrigerata",
+        "produttore": "BIONTECH MANUFACTURING GMBH",
+        "forma": "Dispersione per preparazione iniettabile"
+    },
+    {
         "aic": "052763012",
         "nome": "COVERLAM",
         "descrizione": "5 MG/5 MG COMPRESSE- 1 CONTENITORE PP DA 30 COMPRESSE",
         "produttore": "GMM FARMA S.R.L.",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "053077018",
+        "nome": "COVERLAM",
+        "descrizione": "5 MG/5 MG COMPRESSE- 1 CONTENITORE PP DA 30 COMPRESSE",
+        "produttore": "FARMED S.R.L.",
         "forma": "Compressa"
     }
 ]

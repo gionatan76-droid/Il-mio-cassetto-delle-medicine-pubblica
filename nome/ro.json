@@ -8106,6 +8106,62 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "044810099",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810101",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810113",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810125",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810137",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810149",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810152",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "20 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "044810164",
+        "nome": "ROSUVASTATINA DOC GENERICI",
+        "descrizione": "40 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "045029016",
         "nome": "ROSUVASTATINA TECNIGEN",
         "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 28 COMPRESSE IN BLISTER PCTFE/PE/EVOH/PE/PVC/AL",
@@ -8914,6 +8970,27 @@
         "aic": "045827060",
         "nome": "ROSUVASTATINA E EZETIMIBE DOC",
         "descrizione": "20 MG/10 MG COMPRESSE- 30 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045827072",
+        "nome": "ROSUVASTATINA E EZETIMIBE DOC",
+        "descrizione": "?5 MG/10 MG COMPRESSE? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045827084",
+        "nome": "ROSUVASTATINA E EZETIMIBE DOC",
+        "descrizione": "?10 MG/10 MG COMPRESSE? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
+        "produttore": "DOC GENERICI SRL",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "045827096",
+        "nome": "ROSUVASTATINA E EZETIMIBE DOC",
+        "descrizione": "?20 MG/10 MG COMPRESSE? 60 COMPRESSE IN BLISTER PA/AL/PVC-AL",
         "produttore": "DOC GENERICI SRL",
         "forma": "Compressa"
     },

@@ -1018,14 +1018,14 @@
         "aic": "036743019",
         "nome": "NIFEREX",
         "descrizione": "100 MG CAPSULE RIGIDE GASTRORESISTENTI- 50 CAPSULE IN BLISTER PP/AL/CARTA",
-        "produttore": "UCB PHARMA S.P.A.",
+        "produttore": "TEOFARMA S.R.L.",
         "forma": "Capsula rigida gastroresistente"
     },
     {
         "aic": "036743058",
         "nome": "NIFEREX",
         "descrizione": "100 MG CAPSULE RIGIDE GASTRORESISTENTI- 100 CAPSULE IN BLISTER PP/AL/CARTA",
-        "produttore": "UCB PHARMA S.P.A.",
+        "produttore": "TEOFARMA S.R.L.",
         "forma": "Capsula rigida gastroresistente"
     },
     {
@@ -6522,5 +6522,12 @@
         "descrizione": "?150 MG CAPSULE MOLLI? 120 CAPSULE IN BLISTER AL/AL DIVISIBILE PER DOSE UNITARIA",
         "produttore": "GLENMARK PHARMACEUTICALS S.R.O.",
         "forma": "Capsula molle"
+    },
+    {
+        "aic": "053131013",
+        "nome": "NILEMDO",
+        "descrizione": "180 MG - COMPRESSA RIVESTITA CON FILM - USO ORALE - BLISTER (PVC/ALLUMINIO) - 28 COMPRESSE",
+        "produttore": "ABACUS MEDICINE A/S",
+        "forma": "Compressa rivestita con film"
     }
 ]

@@ -252,6 +252,13 @@
         "forma": "Polvere per soluzione per infusione endovenosa"
     },
     {
+        "aic": "029026022",
+        "nome": "RESURMIDE",
+        "descrizione": "3 MG POLVERE PER SOLUZIONE PER INFUSIONE ENDOVENOSA- 1 FLACONCINO IN VETRO",
+        "produttore": "BENDALIS GMBH",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
         "aic": "029029016",
         "nome": "NITROGLICERINA EG STADA",
         "descrizione": "5 MG/24 ORE CEROTTI TRANSDERMICI -15 CEROTTI",
@@ -2597,20 +2604,6 @@
         "forma": "Soluzione iniettabile"
     },
     {
-        "aic": "029316041",
-        "nome": "MISOFENAC",
-        "descrizione": "75 COMPRESSE A RILASCIO MODIFICATO- 30 COMPRESSE DA 75 MG+ 200 MCG IN BLISTER AL",
-        "produttore": "PFIZER ITALIA S.R.L.",
-        "forma": "Compressa a rilascio modificato"
-    },
-    {
-        "aic": "029316054",
-        "nome": "MISOFENAC",
-        "descrizione": "75 COMPRESSE  A RILASCIO MODIFICATO-10 COMPRESSE  DA 75 MG + 200 MCG IN BLISTER AL",
-        "produttore": "PFIZER ITALIA S.R.L.",
-        "forma": "Compressa a rilascio modificato"
-    },
-    {
         "aic": "029319011",
         "nome": "CLISMA FLEET",
         "descrizione": "PRONTO PER L'USO- FLACONE 133 ML",
@@ -4526,14 +4519,14 @@
         "nome": "PORTOLAC EPS",
         "descrizione": "200 G POLVERE PER SOLUZIONE ORALE- BARATTOLO",
         "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
-        "forma": "Polvere orale"
+        "forma": "Polvere per soluzione orale"
     },
     {
         "aic": "029563020",
         "nome": "PORTOLAC EPS",
         "descrizione": "10 G POLVERE PER SOLUZIONE ORALE- 20 BUSTINE",
         "produttore": "AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO A.C.R.A.F. S.P.A.",
-        "forma": "Polvere orale"
+        "forma": "Polvere per soluzione orale"
     },
     {
         "aic": "029563044",
@@ -5084,21 +5077,21 @@
     {
         "aic": "029791011",
         "nome": "SODIO FOSFATO SELLA",
-        "descrizione": "ADULTI 16%/6% SOLUZIONE RETTALE- 1 FLACONE 120 ML",
+        "descrizione": "<16% / 6% soluzione rettale> 1 flacone in  PE da 120 ml",
         "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
         "forma": "Soluzione rettale"
     },
     {
         "aic": "029791023",
         "nome": "SODIO FOSFATO SELLA",
-        "descrizione": "16%/6% SOLUZIONE RETTALE- 4 FLACONI DA 120 ML",
+        "descrizione": "<16% / 6% soluzione rettale> 4 flaconi in  PE da 120 ml",
         "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
         "forma": "Soluzione rettale"
     },
     {
         "aic": "029791035",
         "nome": "SODIO FOSFATO SELLA",
-        "descrizione": "16%/6% SOLUZIONE RETTALE- 20 FLACONI DA 120 ML",
+        "descrizione": "<16% / 6% soluzione rettale> 20 flaconi in PE da 120 ml",
         "produttore": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
         "forma": "Soluzione rettale"
     },

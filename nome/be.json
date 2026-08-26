@@ -10171,13 +10171,6 @@
         "forma": "Soluzione iniettabile"
     },
     {
-        "aic": "048628010",
-        "nome": "BETABIOPTAL",
-        "descrizione": "0,2% + 0,5% COLLIRIO, SOSPENSIONE- FLACONE 5 ML",
-        "produttore": "BB FARMA S.R.L.",
-        "forma": "Collirio, sospensione"
-    },
-    {
         "aic": "048801017",
         "nome": "BEMRIST BREEZHALER",
         "descrizione": "125 MCG / 62,5 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC - ALU) - 10 X 1 CAPSULE (DOSE UNITARIA) + 1 INALATORE",
@@ -11079,6 +11072,13 @@
         "descrizione": "300 MG COMPRESSE GASTRORESISTENTI- 20 COMPRESSE",
         "produttore": "NEW PHARMASHOP S.R.L.",
         "forma": "Compressa gastroresistente"
+    },
+    {
+        "aic": "052153018",
+        "nome": "BELIREM",
+        "descrizione": "10 MG/ML GOCCE ORALI, SOLUZIONE- 1 FLACONE IN VETRO DA 30 ML CON CONTAGOCCE E CHIUSURA A PROVA DI BAMBINO",
+        "produttore": "PHARMACARE S.R.L.",
+        "forma": "Gocce orali, soluzione"
     },
     {
         "aic": "052170014",

@@ -1113,13 +1113,6 @@
         "forma": "Polvere per sospensione orale"
     },
     {
-        "aic": "036829024",
-        "nome": "AMOXICILLINA E ACIDO CLAVULANICO MYLAN",
-        "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM - 12 COMPRESSE",
-        "produttore": "PHARMACARE S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
         "aic": "036848012",
         "nome": "AMOXICILLINA E ACIDO CLAVULANICO BIOPHARMA",
         "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM - 12 COMPRESSE",
@@ -9228,7 +9221,7 @@
     {
         "aic": "046355018",
         "nome": "AMOXICILLINA E ACIDO CLAVULANICO TECNIGEN ITALIA",
-        "descrizione": "875 MG + 125 MG COMPRESSA RIVESTITA CON FILM- 12 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
+        "descrizione": "875 MG + 125 MG COMPRESSE RIVESTITE CON FILM- 12 COMPRESSE IN BLISTER OPA/AL/PVC/AL",
         "produttore": "TECNIGEN S.R.L.",
         "forma": "Compressa rivestita con film"
     },
@@ -14119,174 +14112,6 @@
         "forma": "Soluzione per infusione"
     },
     {
-        "aic": "049229014",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229026",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229038",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229040",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229053",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229065",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229077",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229089",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229091",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229103",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229115",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229127",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229139",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229141",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229154",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 10X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229166",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10MG COMPRESSE RIVESTITE CON FILM- 30X1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL  DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229178",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229180",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229192",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229204",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER PVC/PE/PVDC/AL DIVISIBILE PER DOSE UNITARIA",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229216",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229228",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "5 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229230",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 COMPRESSE IN BLISTER PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "049229242",
-        "nome": "AMBRISENTAN ZENTIVA",
-        "descrizione": "10 MG COMPRESSE RIVESTITE CON FILM- 60 X 1 COMPRESSE IN BLISTER DIVISIBILE PER DOSE UNITARIA PVC/PVDC/AL",
-        "produttore": "ZENTIVA ITALIA S.R.L.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
         "aic": "049457017",
         "nome": "AMILORIDE E IDROCLOROTIAZIDE AUROBINDO",
         "descrizione": "5 MG/50 MG COMPRESSE- 10 COMPRESSE IN BLISTER PVC-AL",
@@ -14331,7 +14156,7 @@
     {
         "aic": "050045018",
         "nome": "AMLODIPINA PENSA PHARMA",
-        "descrizione": "5 mg COMPRESSA- 28 COMPRESSE IN BLISTER PVC-PVDC/AL",
+        "descrizione": "5 mg COMPRESSE- 28 COMPRESSE IN BLISTER PVC-PVDC/AL",
         "produttore": "TOWA PHARMACEUTICAL S.P.A.",
         "forma": "Compressa"
     },
@@ -14915,6 +14740,76 @@
         "descrizione": "12 MG COMPRESSE RIVESTITE CON FILM- 98 COMPRESSE IN BLISTER PVC/AL",
         "produttore": "DESITIN ARZNEIMITTEL GMBH",
         "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "051775017",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?500 MG/50 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "051775029",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?1000 MG/200 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 1 FLACONCINO IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051775031",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?2000 MG/200 MG POLVERE PER SOLUZIONE PER INFUSIONE? 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "051775043",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?500 MG/50 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "051775056",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?500 MG/50 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 25 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "051775068",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?2000 MG/200 MG POLVERE PER SOLUZIONE PER INFUSIONE? 25 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione per infusione endovenosa"
+    },
+    {
+        "aic": "051775070",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?1000 MG/200 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 10 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051775082",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?1000 MG/200 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 25 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051775094",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?1000 MG/200 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 50 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
+    },
+    {
+        "aic": "051775106",
+        "nome": "AMOXICILLINA/ACIDO CLAVULANICO BH PHARMA",
+        "descrizione": "?1000 MG/200 MG POLVERE PER SOLUZIONE INIETTABILE/PER INFUSIONE? 100 FLACONCINI IN VETRO DA 20 ML",
+        "produttore": "BH PHARMA",
+        "forma": "Polvere per soluzione iniettabile/per infusione"
     },
     {
         "aic": "051796011",

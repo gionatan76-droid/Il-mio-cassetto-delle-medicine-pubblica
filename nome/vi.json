@@ -5488,6 +5488,13 @@
         "forma": "Unguento"
     },
     {
+        "aic": "048817035",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "VAPORE PER INALAZIONE, UNGUENTO> VASETTO IN PP  DA 50 G",
+        "produttore": "GMM FARMA S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
         "aic": "048939019",
         "nome": "VIPRANOP",
         "descrizione": "10 MICROGRAMMI/ML SOLUZIONE INIETTABILE/PER INFUSIONE- 1 FLACONCINO IN VETRO DA 20 ML",
@@ -7602,6 +7609,34 @@
         "forma": "Capsula rigida"
     },
     {
+        "aic": "051400012",
+        "nome": "VILDAGLIPTIN SANDOZ GMBH",
+        "descrizione": "50 MG COMPRESSE- 28 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051400024",
+        "nome": "VILDAGLIPTIN SANDOZ GMBH",
+        "descrizione": "50 MG COMPRESSE- 30 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051400036",
+        "nome": "VILDAGLIPTIN SANDOZ GMBH",
+        "descrizione": "50 MG COMPRESSE- 56 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Compressa"
+    },
+    {
+        "aic": "051400048",
+        "nome": "VILDAGLIPTIN SANDOZ GMBH",
+        "descrizione": "50 MG COMPRESSE- 60 COMPRESSE IN BLISTER OPA/AL/PVC-AL",
+        "produttore": "SANDOZ GMBH",
+        "forma": "Compressa"
+    },
+    {
         "aic": "051501017",
         "nome": "VIVIDRIN OCCHI",
         "descrizione": "0,5 MG/ML COLLIRIO, SOLUZIONE- 1 FLACONE IN LDPE DA 10 ML CON APPLICATORE",
@@ -7861,6 +7896,13 @@
         "forma": "Unguento nasale"
     },
     {
+        "aic": "052321027",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "VAPORE PER INALAZIONE, UNGUENTO? VASETTO IN PP DA 50 G",
+        "produttore": "NEW PHARMASHOP S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
         "aic": "052322017",
         "nome": "VICKS SINEX",
         "descrizione": "ALOE 0,05% SOLUZIONE DA NEBULIZZARE-FLACONE NEBULIZZATORE 15 ML",
@@ -7899,6 +7941,20 @@
         "aic": "052610019",
         "nome": "VICKS VAPORUB",
         "descrizione": "vapore per inalazione, unguento> vasetto in pp  da 50 g",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
+        "aic": "052610021",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "vapore per inalazione, unguento> vasetto in pp  da 100 g",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Unguento nasale"
+    },
+    {
+        "aic": "052610033",
+        "nome": "VICKS VAPORUB",
+        "descrizione": "vapore per inalazione, unguento> vasetto in pp  da 100 g",
         "produttore": "BB FARMA S.R.L.",
         "forma": "Unguento nasale"
     },

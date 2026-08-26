@@ -1260,76 +1260,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "036081014",
-        "nome": "SINCROVER",
-        "descrizione": "50 COMPRESSE DA 8 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081026",
-        "nome": "SINCROVER",
-        "descrizione": "100 COMPRESSE DA 8 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081038",
-        "nome": "SINCROVER",
-        "descrizione": "120 COMPRESSE DA 8 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081040",
-        "nome": "SINCROVER",
-        "descrizione": "20 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081053",
-        "nome": "SINCROVER",
-        "descrizione": "42 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081065",
-        "nome": "SINCROVER",
-        "descrizione": "50 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081077",
-        "nome": "SINCROVER",
-        "descrizione": "60 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081089",
-        "nome": "SINCROVER",
-        "descrizione": "84 COMPRESSE DA 16 MG",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081091",
-        "nome": "SINCROVER",
-        "descrizione": "8 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/PVC/PVDC",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
-        "aic": "036081103",
-        "nome": "SINCROVER",
-        "descrizione": "16 MG COMPRESSE- 14 COMPRESSE IN BLISTER AL/PVC/PVDC",
-        "produttore": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
-        "forma": "Compressa"
-    },
-    {
         "aic": "036327017",
         "nome": "SINTOPRAM",
         "descrizione": "40 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 15 ML",
@@ -18056,6 +17986,13 @@
         "aic": "052636038",
         "nome": "SIBILLETTE",
         "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 1X28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
+        "produttore": "BB FARMA S.R.L.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "052636040",
+        "nome": "SIBILLETTE",
+        "descrizione": "2 MG/0,03 MG COMPRESSE RIVESTITE CON FILM- 3X28 COMPRESSE IN BLISTER PVC/PE/PVDC/AL",
         "produttore": "BB FARMA S.R.L.",
         "forma": "Compressa rivestita con film"
     },

@@ -362,5 +362,61 @@
         "descrizione": "25 MICROGRAMMI KIT PER PREPARAZIONE RADIOFARMACEUTICA- 1 FLACONCINO IN VETRO DA 25 MICROGRAMMI DI POLVERE PER SOLUZIONE INIETTABILE + 1 FLACONCINO IN VETRO DA 6,4 ML DI SOLVENTE + 1 FLACONCINO IN VETRO VUOTO",
         "produttore": "TELIX INNOVATIONS",
         "forma": "Kit per preparazione radiofarmaceutica"
+    },
+    {
+        "aic": "052963016",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 1 flaconcino",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963028",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 2 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963030",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 3 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963042",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 1,2 mL - 4 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963055",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 1 flaconcino",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963067",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 2 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963079",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 3 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
+    },
+    {
+        "aic": "052963081",
+        "nome": "ILUMIRA",
+        "descrizione": "37 GBq/mL - Precursore radiofarmaceutico, soluzione - Via di somministrazione non specificabile - Flaconcino (vetro) 0,05 - 6,6 mL - 4 flaconcini",
+        "produttore": "SHINE EUROPE B.V.",
+        "forma": "Precursore radiofarmaceutico"
     }
 ]

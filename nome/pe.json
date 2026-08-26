@@ -2569,6 +2569,97 @@
         "forma": "Compressa rivestita con film"
     },
     {
+        "aic": "041100254",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100266",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100278",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 90 (3 X30) IN FLACONE HDPE",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100280",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100292",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100304",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100316",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100328",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER PA/AL/LDPE-HDPE/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100330",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 10 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100342",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 14 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100355",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 30 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100367",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 60 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
+        "aic": "041100379",
+        "nome": "PERINDOPRIL E INDAPAMIDE MYLAN",
+        "descrizione": "?10 MG/2,5 MG COMPRESSE RIVESTITE CON FILM? 90 COMPRESSE IN BLISTER PA/AL/PVC/AL",
+        "produttore": "MYLAN S.P.A.",
+        "forma": "Compressa rivestita con film"
+    },
+    {
         "aic": "041155019",
         "nome": "PERINDOPRIL E INDAPAMIDE EG",
         "descrizione": "2 MG/0,625 MG COMPRESSE- 30 COMPRESSE IN BLISTER PVC/PVDC/AL",
@@ -7714,118 +7805,6 @@
         "forma": "Compressa rivestita con film"
     },
     {
-        "aic": "051449015",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449027",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449039",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449041",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449054",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449066",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449078",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449080",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "5 MG/1.25 MG/10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449092",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/5 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449104",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/5 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449116",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/5 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449128",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/5 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449130",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/10 MG COMPRESSE RIVESTITE CON FILM- 10 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449142",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/10 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449155",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/10 MG COMPRESSE RIVESTITE CON FILM- 90 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
-        "aic": "051449167",
-        "nome": "PERINDOPRIL/INDAPAMIDE/AMLODIPINA TEVA",
-        "descrizione": "10 MG/2.5 MG/10 MG COMPRESSE RIVESTITE CON FILM- 100 COMPRESSE IN BLISTER OPA/AL/PE-AL",
-        "produttore": "TEVA B.V.",
-        "forma": "Compressa rivestita con film"
-    },
-    {
         "aic": "051516019",
         "nome": "PERAMPANEL DOC",
         "descrizione": "?2 MG COMPRESSE RIVESTITE CON FILM? 7 COMPRESSE IN BLISTER PVC/PVDC-AL",
@@ -7898,7 +7877,7 @@
     {
         "aic": "051516110",
         "nome": "PERAMPANEL DOC",
-        "descrizione": "?4 MG COMPRESSE RIVESTITE CON FILM? 98 COMPRESSE IN BLISTER PVC/PCTFE-AL",
+        "descrizione": "<4 mg  compresse  rivestite  con  film>  98 compresse in blister PVC/PVDC-AL",
         "produttore": "DOC GENERICI SRL",
         "forma": "Compressa rivestita con film"
     },
@@ -7954,14 +7933,14 @@
     {
         "aic": "051516197",
         "nome": "PERAMPANEL DOC",
-        "descrizione": "?2 MG COMPRESSE RIVESTITE CON FILM? 28 COMPRESSE IN BLISTER PVC/PCTFE-AL",
+        "descrizione": "<8 mg  compresse  rivestite  con  film>  28 compresse in blister PVC/PCTFE-AL",
         "produttore": "DOC GENERICI SRL",
         "forma": "Compressa rivestita con film"
     },
     {
         "aic": "051516209",
         "nome": "PERAMPANEL DOC",
-        "descrizione": "?2 MG COMPRESSE RIVESTITE CON FILM? 98 COMPRESSE IN BLISTER PVC/PCTFE-AL",
+        "descrizione": "<8 mg  compresse  rivestite  con  film>  98 compresse in blister PVC/PCTFE-AL",
         "produttore": "DOC GENERICI SRL",
         "forma": "Compressa rivestita con film"
     },
